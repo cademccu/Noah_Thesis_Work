@@ -9,9 +9,15 @@
 
 ### Notes on cross-platform compatability
 
-* This was written on MacOS (unix). I tried to make it system independent, so it should work on other *nix systems, and hopefully windows as well, though this is not tested.
+* This was written on MacOS (unix). It should run on other linux systems, though this is untested. It should also be able to run on Windows, with the caveots that:
+1. You will need to swap/change the subprocess commands to the windows equivalent
+2. I will not be testing on windows because I do not have a windows computer and also don't want/need to. All hail Linus Torvalds or something.
 
 
 ### TODO
 
 special case for NTA: https://spacy.io/usage/linguistic-features#special-cases
+
+rename 'burnt' to cademccu
+
+run-all script

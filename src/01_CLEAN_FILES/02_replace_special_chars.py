@@ -38,6 +38,9 @@ for _file in files.decode("utf-8").split("\n"):
                 line = orig_file.readline()
                 continue
 
+            # not sure what this special character is but i dont like it
+            line = line.replace("	", " ") # you can see this char with :set list in vim
+
             # Metadata & transcription author section
             if line[0] == "<":
                 # Nothing specific here yet. Might want to delete at some point.
