@@ -1,0 +1,12 @@
+
+
+
+
+
+
+### Running the project
+
+
+### Notes on cross-platform compatability
+
+* This was written on MacOS (unix). I tried to make it system independent, so it should work on other *nix systems, and hopefully windows as well, though this is not tested.

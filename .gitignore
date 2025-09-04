@@ -2,3 +2,11 @@
 bin
 
 lib
+
+# for now -- unsure what of the data is public/private
+data/CCOT
+
+# including the data backup
+BACKUPS
+
+
