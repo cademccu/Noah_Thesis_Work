@@ -1,12 +1,13 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 bin
-
 lib
+**/__pycache__/
 
 # for now -- unsure what of the data is public/private
 data/CCOT
 
 # including the data backup
 BACKUPS
+
 
 
