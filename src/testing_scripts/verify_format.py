@@ -27,7 +27,7 @@ for name in files:
                         # some skip line numbers
                         if line[0] not in ["A:", "B:", "S?:"]:
                             # some combine num and speaker
-                            if not re.search(r"[0-9]{1,3}[AB]{1}\:{1}", line[0]) or  re.search(r"^[0-9]{1,3}\s[S]{1}\??\:{1}", fline):
+                            if not re.search(r"[0-9]{1,3}[AB]{1}\:{1}", line[0]): # or  re.search(r"^[0-9]{1,3}\s[S]{1}\??\:{1}", fline):
                                 if not re.search(r"[0-9]{1,3}\s{1,2}[ABS]{1}\s{1}", fline):
                                     # arnt linguists supposed to care about format?
                                     if not line[0].strip().lower() in ["verified", "verfied"]:
