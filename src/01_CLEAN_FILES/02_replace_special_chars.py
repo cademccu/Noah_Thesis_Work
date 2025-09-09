@@ -8,9 +8,15 @@ sys.path.append("..")
 
 import subprocess
 import os
+import time
+import re
 from CONFIGURATION import PATH_TO_CCOT
 
 
+# keeps trying to open .TMP files, which leads me to believe there is some overlap
+# between copying on the previous script and the ls -1 on this script. Hopefully a 
+# light pause will let the OS catch up...
+time.sleep(2)
 
 # list working files
 files = subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_CCOT, "WORK")])
@@ -55,8 +61,13 @@ for _file in files.decode("utf-8").split("\n"):
             # faith be transcribed. I am remapping to 'NTA' -- 'No Transcription Available' to avoid spacy
             # doing something funky with the punctuation. I will create a special rule for the tokenizer
             # to handle these.
-            line = line.replace("/---/", "NTA")
-            line = line.replace("/--/", "NTA") # .. cant account for transcription typos
+            # NOTE: the trasnscribers appear to just randomly use different versions of the missing word
+            # thus the below regex which handles most everything
+            regex_str = r'\/\s?\-{2,6}\s?\/?'
+            line = re.subn(regex_str, "NTA", line, count=1000)[0] # hacky
+
+            # need to remove all the em dashes '--' and replace them with nothing.
+            line = line.replace("--", "")
 
             # Transcribers notes are written sometimes inside of the file in parenthesis. i want to delete
             # these as they are not a part of the conversation, rather a clarifying point or guess, which

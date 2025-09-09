@@ -6,7 +6,20 @@
 # NOTE: yeah, this script probably isnt compatable with vanilla windows.. 
 # you might have to run each step manually
 
+
+# if this dir already exists... CLEAN IT UP 
+PATH_TO_CCOT=`python3 -c "import CONFIGURATION; print(CONFIGURATION.PATH_TO_CCOT)"`
+echo `pwd`
+PATH_TO_CCOT+="/WORK"
+
+    
+
 cd 01_CLEAN_FILES
+
+# path should be relative to the script folders, or absolute, either way this works
+if [ -e $PATH_TO_CCOT ]; then
+    rm ${PATH_TO_CCOT}/*-*_*-?.txt
+fi
 
 echo "Running: 01_CLEAN_FILES/01_rename_files.py"
 python3 01_rename_files.py
