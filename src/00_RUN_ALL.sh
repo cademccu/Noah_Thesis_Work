@@ -29,4 +29,8 @@ echo "Running: 01_CLEAN_FILES/02_replace_special_chars.py"
 python3 02_replace_special_chars.py
 echo "Done!"
 
+echo "Running: 01_CLEAN_FILES/03_special_cases.py"
+python3 03_special_cases.py
+echo "Done!"
+
 cd ..

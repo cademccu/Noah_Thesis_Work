@@ -76,6 +76,12 @@ def r3(line):
 
 conditional_remove("21-537_460-S.txt", r3)
 
+def r4(line):
+    if line.strip().startswith("Teacher:"):
+        return False
+    return True
+
+conditional_remove("07-532_201-A.txt", r4)
 
 def line_add(filename, sent):
     """
@@ -105,8 +111,20 @@ def line_add(filename, sent):
     _swapper(filename)
 
 
-
 # someone clicked enter huh
 line_add("22-182_340-S.txt", "will")
 
 line_add("22-095_511-S.txt", "type?")
+
+line_add("05-503_391-A.txt", "young uh and uh half of cla –her classes from 8:00a.m. until 7:00p.m. uh she she she didn't uh –she doesn't have time to enter –to attend –attended into university health care.")
+
+line_add("21-373_434-S.txt", "make it at him the good advice or the help him in the future? … What what about you do you have an idea about that?")
+
+line_add("21-477_502-S.txt", "NTA children uh the NTA children.  Uh I know that uh spank has uh consequences in the future but that is the best NTA for uh them.  The other the the you must make punishment it's very hard … you must make the p-uh-punishment it's very hard that's good for your uh son uh y-uh-he-your son he wanna make uh some bad he remind my father or my mother he uh spank me for this uh for this uh he cannot do this uh another time you know?  What about you uh you're uh father or mother he spank you already?")
+
+line_add("22-431_268-S.txt", "Mexico food.  Uh for sure first thing it's there is a lot of Mexico people they live here in Flagstaff and most uh American people they like the Mexico food and uh the opportunity it's most the student most the people they live in Flagstaff they're students so they don't like to cook they just want eat.  Uh uh … outside … and uh yeah we have-I have uh two weakness-weaknesses.  Uh first is there is a lot many Mexico restaurant in Flagstaff.  Actually just one weakness .  So")
+
+
+
+
+

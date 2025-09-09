@@ -86,6 +86,23 @@ for _file in files.decode("utf-8").split("\n"):
                         depth -= 1
                     elif line[i] == "(":
                         depth += 1
+
+            # GREAT NEWS, THEY ALSO ADD INFORMATION IN BRACKETS '[',']' --same process
+            # as before, but with brackets
+            while "[" in line and "]" in line:
+                # do until all parenthesis are gone -- extra whitespace handled by spacy
+                # there are nested parentheis. This doesnt delete the inner and then the outer,
+                # it just deletes the largest outer since everything enclosed must go.
+                p_start = line.index("[") 
+                depth = 0 
+                for i in range(p_start + 1, len(line)):
+                    if line[i] == "]" and depth == 0:
+                        line = line[:p_start] + line[i + 1:] 
+                        break # only for loop, while still checks again
+                    elif line[i] == "]" and depth > 0:
+                        depth -= 1
+                    elif line[i] == "[":
+                        depth += 1
            
             # write to newfile 
             out_file.write(line)
