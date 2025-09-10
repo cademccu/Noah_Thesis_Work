@@ -69,6 +69,46 @@ for _file in files.decode("utf-8").split("\n"):
             # need to remove all the em dashes '--' and replace them with nothing.
             line = line.replace("--", "")
 
+
+            # STUTTERING! How to detect stuttering?
+            # If 2 or greater '-' in string consider stutter, keep last word
+            # if only one '-', if what is before the dash is a subset of the word after the dash, eliminate
+            # the first word and keep the last. This doesnt work for all examples of course, but it almost
+            # never eliminates words that SHOULD be hyphenated.
+            # ALSO, maybe use the heuristic: if the one-hyphen only has one letter, e.g. 's-the', consider
+            # it a stutter.
+            # ANOTHER THING: inconsistent use of dashes '— -' one is unicode or utf-16, one is utf-8... 
+            dashes = ["—", "-"]
+            if dashes[0] in line or dashes[1] in line:
+                temp_line = []
+                # remap the unicode dash to the regular so we dont have to do extra regex
+                line = line.replace(dashes[0], dashes[1])
+                for word in line.split():
+                    if "-" not in word:
+                        temp_line.append(word)
+                    else: 
+                        if re.search(r"[a-zA-Z]+\-{1}[a-zA-Z]+\-{1}[a-zA-Z]+", word):
+                            # multi hyphen stutter -- just take last value
+                            temp_line.append(word[word.rfind("-") + 1:])
+                        elif re.search(r"[a-zA-Z]+\-{1}[a-zA-Z]+", word):
+                            s_word = word.split("-")
+                            if len(s_word[0]) == 1:
+                                # single letter stutter
+                                temp_line.append(s_word[-1])
+                            elif s_word[0] in s_word[1]:
+                                # first stutter subset of second half
+                                temp_line.append(s_word[1])
+                            else:
+                                # can't tell, just keep as-is
+                                temp_line.append(word)
+                        else:
+                            # some secret third thing, doesn't follow stutter format...
+                            # just add to list
+                            temp_line.append(word)
+                # set line back to its original form
+                line = " ".join(temp_line)
+                            
+
             # Transcribers notes are written sometimes inside of the file in parenthesis. i want to delete
             # these as they are not a part of the conversation, rather a clarifying point or guess, which
             # while interesting isnt useful in parsing (for now).
