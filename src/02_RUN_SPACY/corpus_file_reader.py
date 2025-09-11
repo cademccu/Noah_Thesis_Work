@@ -2,6 +2,7 @@
 
 
 import sys
+import re
 
 
 
@@ -97,7 +98,7 @@ class CorpusFileReader:
                 # All methods have been tested in ../testing_scripts/verify_format.py and 
                 # along with the cleaning have managed to fix and reduce all abnormalities to 
                 # 0 (hopefully).
-                full_line = line
+                fline = line
                 line = line.strip().split()
 
                 if line[1] in ["A:", "B:", "S?:", "S:", "A;"]:

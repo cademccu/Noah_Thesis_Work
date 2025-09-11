@@ -6,6 +6,23 @@
 
 ### Running the project
 
+### Cleaning the data
+
+#### Overview
+
+The data is split into files containing conversations between subjects, with metadata \(usually denoted by a \'\<\' opener, but not always \). The data is messy for our uses, including transcriber notes, stuttering, and some inconsistancies with transcription. The following section decribes what is done to \'clean\' the data, though more information can be found in the code itself on the exact process and this description is just a plaintext description.
+
+##### 01_rename_files.py
+
+
+### Useful links
+
+token docs:
+https://spacy.io/api/token
+
+some info on the universal dependencies, specifically finite verbs for our use
+https://universaldependencies.org/u/feat/VerbForm.html
+
 
 ### Notes on cross-platform compatability
 

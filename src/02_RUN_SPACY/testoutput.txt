@@ -1,0 +1,767 @@
+FILE: /Users/burnt/SPITE/CODE/noah_work/Noah_Thesis_Work/data/CCOT/WORK/22-232_231-S.txt
+---> Hi B how are you?
+Hi intj UH INTJ 
+B npadvmod NNP PROPN Number=Sing
+how advmod WRB SCONJ 
+are ROOT VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+you nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+? punct . PUNCT PunctType=Peri
+---> I'm good what about you, my friend?
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+'m ROOT VBP AUX Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+good acomp JJ ADJ Degree=Pos
+what dep WP PRON 
+about prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+, punct , PUNCT PunctType=Comm
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+friend appos NN NOUN Number=Sing
+? punct . PUNCT PunctType=Peri
+---> I'm fine, very well. B I come here for presentation about my restaurant and I want see your restaurant4 B: I'm listening to you no problem.5 A: Because you are interviewing me and then I'm interviewing you.
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+'m ROOT VBP AUX Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+fine acomp JJ ADJ Degree=Pos
+, punct , PUNCT PunctType=Comm
+very advmod RB ADV 
+well advmod RB ADV Degree=Pos
+. punct . PUNCT PunctType=Peri
+B npadvmod NN NOUN Number=Sing
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+come ccomp VBP VERB Tense=Pres|VerbForm=Fin
+here advmod RB ADV PronType=Dem
+for prep IN ADP 
+presentation pobj NN NOUN Number=Sing
+about prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+restaurant pobj NN NOUN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+want conj VBP VERB Tense=Pres|VerbForm=Fin
+see xcomp VB VERB VerbForm=Inf
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+restaurant4 compound JJ ADJ Degree=Pos
+B dobj NN NOUN Number=Sing
+: punct : PUNCT 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+'m aux VBP AUX Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+listening ROOT VBG VERB Aspect=Prog|Tense=Pres|VerbForm=Part
+to prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+no det DT DET 
+problem.5 compound NN NOUN Number=Sing
+A dobj NN NOUN Number=Sing
+: punct : PUNCT 
+Because mark IN SCONJ 
+you nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+are aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+interviewing advcl VBG VERB Aspect=Prog|Tense=Pres|VerbForm=Part
+me dobj PRP PRON Case=Acc|Number=Sing|Person=1|PronType=Prs
+and cc CC CCONJ ConjType=Cmp
+then advmod RB ADV PronType=Dem
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+'m aux VBP AUX Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+interviewing conj VBG VERB Aspect=Prog|Tense=Pres|VerbForm=Part
+you dobj PRP PRON Case=Acc|Person=2|PronType=Prs
+. punct . PUNCT PunctType=Peri
+---> Me too.
+Me ROOT PRP PRON Case=Acc|Number=Sing|Person=1|PronType=Prs
+too advmod RB ADV 
+. punct . PUNCT PunctType=Peri
+---> First I have the restaurant about seafood.8 B: Uh-huh.9 A: And my strength I have many strength. first one is many many employees NTA and everyone help each other and I get a good location because many people will be come.10 B: Uh-huh.11 A: And can I see your strength and what your uh
+First advmod RB ADV 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have ccomp VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+the det DT DET Definite=Def|PronType=Art
+restaurant dobj NN NOUN Number=Sing
+about prep IN ADP 
+seafood.8 compound NNP PROPN Number=Sing
+B pobj NNP PROPN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+- punct HYPH PUNCT PunctType=Dash
+huh.9 compound NN NOUN Number=Sing
+A dobj NN NOUN Number=Sing
+: punct : PUNCT 
+And cc CC CCONJ ConjType=Cmp
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+strength npadvmod NN NOUN Number=Sing
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have ROOT VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+strength dobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+first amod RB ADV 
+one nsubj CD NUM NumType=Card
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+many amod JJ ADJ Degree=Pos
+employees compound NNS NOUN Number=Plur
+NTA nsubj NNP PROPN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+everyone conj NN PRON Number=Sing|PronType=Ind
+help ccomp VBP VERB Tense=Pres|VerbForm=Fin
+each det DT DET 
+other dobj JJ ADJ Degree=Pos
+and cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+get conj VBP VERB Tense=Pres|VerbForm=Fin
+a det DT DET Definite=Ind|PronType=Art
+good amod JJ ADJ Degree=Pos
+location dobj NN NOUN Number=Sing
+because mark IN SCONJ 
+many amod JJ ADJ Degree=Pos
+people nsubj NNS NOUN Number=Plur
+will aux MD AUX VerbForm=Fin
+be advcl VB AUX VerbForm=Inf
+come.10 amod JJ ADJ Degree=Pos
+B attr NN NOUN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+- punct UH INTJ 
+huh.11 compound JJ ADJ Degree=Pos
+A appos NN NOUN Number=Sing
+: punct : PUNCT 
+And cc CC CCONJ ConjType=Cmp
+can aux MD AUX VerbForm=Fin
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+see conj VB VERB VerbForm=Inf
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+strength dobj NN NOUN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+what det WP PRON 
+your conj PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+uh punct UH INTJ 
+---> Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats. First I will talk about strengths. Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh13 A: Yes sure
+Okay intj UH INTJ 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+uh intj UH INTJ 
+many amod JJ ADJ Degree=Pos
+SWOT nsubj NNP PROPN Number=Sing
+analyzes ROOT VBZ VERB Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+like prep IN ADP 
+strengths pobj NNS NOUN Number=Plur
+, punct , PUNCT PunctType=Comm
+weakness conj NN NOUN Number=Sing
+, punct , PUNCT PunctType=Comm
+opportunities conj NNS NOUN Number=Plur
+, punct , PUNCT PunctType=Comm
+threats conj NNS NOUN Number=Plur
+. punct . PUNCT PunctType=Peri
+First advmod RB ADV 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+will aux MD AUX VerbForm=Fin
+talk ROOT VB VERB VerbForm=Inf
+about prep IN ADP 
+strengths pobj NNS NOUN Number=Plur
+. punct . PUNCT PunctType=Peri
+Strengths nsubj NNS NOUN Number=Plur
+uh intj UH INTJ 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+food nsubj NN NOUN Number=Sing
+is ccomp VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+very advmod RB ADV 
+delicious acomp JJ ADJ Degree=Pos
+a det DT DET Definite=Ind|PronType=Art
+lot npadvmod NN NOUN Number=Sing
+people attr NNS NOUN Number=Plur
+uh intj UH INTJ 
+uh intj UH INTJ 
+like prep UH INTJ 
+it pobj PRP PRON Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+it nsubj PRP PRON Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+'s conj VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+the det DT DET Definite=Def|PronType=Art
+sushi compound NN NOUN Number=Sing
+bar attr NN NOUN Number=Sing
+all predet PDT DET 
+the det DT DET Definite=Def|PronType=Art
+people nsubj NNS NOUN Number=Plur
+know relcl VBP VERB Tense=Pres|VerbForm=Fin
+about prep IN ADP 
+sushi compound NNP PROPN Number=Sing
+bar compound NN NOUN Number=Sing
+uh13 compound NNP PROPN Number=Sing
+A pobj NN NOUN Number=Sing
+: punct : PUNCT 
+Yes intj UH INTJ 
+sure ROOT JJ ADJ Degree=Pos
+---> I have many kinds of sushi that's my strength-uh strengths15 A: Uh-huh16 B: And is very very delicious uh and we have the sushi you can put it with the seafood. You can put it with the sweet and sour chicken
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have ccomp VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+kinds dobj NNS NOUN Number=Plur
+of prep IN ADP 
+sushi pobj NN NOUN Number=Sing
+that nsubj WDT PRON PronType=Rel
+'s relcl VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+strength compound NN NOUN Number=Sing
+- punct HYPH PUNCT PunctType=Dash
+uh intj UH INTJ 
+strengths15 compound NN NOUN Number=Sing
+A attr NN NOUN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+- punct HYPH PUNCT PunctType=Dash
+huh16 compound NN NOUN Number=Sing
+B appos NNP PROPN Number=Sing
+: punct : PUNCT 
+And cc CC CCONJ ConjType=Cmp
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+very advmod RB ADV 
+very advmod RB ADV 
+delicious acomp JJ ADJ Degree=Pos
+uh intj UH INTJ 
+and cc CC CCONJ ConjType=Cmp
+we nsubj PRP PRON Case=Nom|Number=Plur|Person=1|PronType=Prs
+have conj VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+the det DT DET Definite=Def|PronType=Art
+sushi dobj NN NOUN Number=Sing
+you nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+can aux MD AUX VerbForm=Fin
+put relcl VB VERB VerbForm=Inf
+it dobj PRP PRON Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+with prep IN ADP 
+the det DT DET Definite=Def|PronType=Art
+seafood pobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+You nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+can aux MD AUX VerbForm=Fin
+put ROOT VB VERB VerbForm=Inf
+it dobj PRP PRON Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+with prep IN ADP 
+the det DT DET Definite=Def|PronType=Art
+sweet amod JJ ADJ Degree=Pos
+and cc CC CCONJ ConjType=Cmp
+sour conj JJ ADJ Degree=Pos
+chicken pobj NN NOUN Number=Sing
+---> Oh
+Oh ROOT UH INTJ 
+---> We have many kinds
+We nsubj PRP PRON Case=Nom|Number=Plur|Person=1|PronType=Prs
+have ROOT VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+kinds dobj NNS NOUN Number=Plur
+---> Great
+Great ROOT JJ ADJ Degree=Pos
+---> Not just sushi. You can put it with seafood also
+Not neg RB PART Polarity=Neg
+just advmod RB ADV 
+sushi ROOT NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+You nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+can aux MD AUX VerbForm=Fin
+put ROOT VB VERB VerbForm=Inf
+it dobj PRP PRON Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+with prep IN ADP 
+seafood pobj NN NOUN Number=Sing
+also advmod RB ADV 
+---> Okay great I agree with you about the many kind of sushi.
+Okay intj UH INTJ 
+great intj JJ ADJ Degree=Pos
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ROOT VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+about prep IN ADP 
+the det DT DET Definite=Def|PronType=Art
+many amod JJ ADJ Degree=Pos
+kind pobj NN NOUN Number=Sing
+of prep IN ADP 
+sushi pobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+---> Uh-huh.23 A: I agree with-okay now about my strength.24 B: Yeah.
+Uh intj UH INTJ 
+- punct HYPH PUNCT PunctType=Dash
+huh.23 compound NNP PROPN Number=Sing
+A dep NN NOUN Number=Sing
+: punct : PUNCT 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ROOT VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+- punct HYPH PUNCT PunctType=Dash
+okay pobj NNP PROPN Number=Sing
+now advmod RB ADV 
+about prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+strength.24 compound NN NOUN Number=Sing
+B pobj NN NOUN Number=Sing
+: punct : PUNCT 
+Yeah intj UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant.26 B: Uh-huh.27 A: And I can't get all of them because when they are coming I have just many uh less of seat
+My poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+strength npadvmod NN NOUN Number=Sing
+uh intj UH INTJ 
+uh intj UH INTJ 
+al compound NNP PROPN Number=Sing
+- amod JJ ADJ Degree=Pos
+uh intj UH INTJ 
+many amod JJ ADJ Degree=Pos
+customer appos NN NOUN Number=Sing
+they nsubjpass PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+are auxpass VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+come ROOT VBN VERB Aspect=Perf|Tense=Past|VerbForm=Part
+on prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+restaurant pobj NN NOUN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have conj VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+small amod JJ ADJ Degree=Pos
+size dobj NN NOUN Number=Sing
+for prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+restaurant.26 amod JJ ADJ Degree=Pos
+B pobj NNP PROPN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+- nmod UH INTJ 
+huh.27 amod UH INTJ 
+A dobj NN NOUN Number=Sing
+: punct : PUNCT 
+And cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+ca aux MD AUX VerbType=Mod
+n't neg RB PART Polarity=Neg
+get ROOT VB VERB VerbForm=Inf
+all dobj DT PRON 
+of prep IN ADP 
+them pobj PRP PRON Case=Acc|Number=Plur|Person=3|PronType=Prs
+because mark IN SCONJ 
+when advmod WRB SCONJ 
+they nsubj PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+are aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+coming advcl VBG VERB Aspect=Prog|Tense=Pres|VerbForm=Part
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have advcl VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+just advmod RB ADV 
+many amod JJ ADJ Degree=Pos
+uh intj UH INTJ 
+less dobj JJR ADJ Degree=Cmp
+of prep IN ADP 
+seat pobj NN NOUN Number=Sing
+---> Uh-huh.29 A: Because and I don't I don't have many I have people but I don't have seat. This my weakness.
+Uh intj UH INTJ 
+- punct UH INTJ 
+huh.29 compound NN NOUN Number=Sing
+A dep NN NOUN Number=Sing
+: punct : PUNCT 
+Because mark IN SCONJ 
+and cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+do advcl VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+n't neg RB PART Polarity=Neg
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+do aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+n't neg RB PART Polarity=Neg
+have ROOT VB VERB VerbForm=Inf
+many dobj JJ ADJ Degree=Pos
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have relcl VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+people dobj NNS NOUN Number=Plur
+but cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+do aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+n't neg RB PART Polarity=Neg
+have ROOT VB VERB VerbForm=Inf
+seat dobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+This det DT DET Number=Sing|PronType=Dem
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+weakness ROOT NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+---> Yeah.
+Yeah ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> And can I see your weakness maybe I will agree with you about your uh
+And cc CC CCONJ ConjType=Cmp
+can aux MD AUX VerbForm=Fin
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+see ROOT VB VERB VerbForm=Inf
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+weakness dobj NN NOUN Number=Sing
+maybe advmod RB ADV 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+will aux MD AUX VerbForm=Fin
+agree ccomp VB VERB VerbForm=Inf
+with prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+about prep IN ADP 
+your pobj PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+---> Okay my weakness I have very bad weakness.
+Okay intj UH INTJ 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+weakness npadvmod NN NOUN Number=Sing
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+have ROOT VBP VERB Mood=Ind|Tense=Pres|VerbForm=Fin
+very advmod RB ADV 
+bad amod JJ ADJ Degree=Pos
+weakness dobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+---> What's your very bad34 B: Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there.
+What attr WP PRON 
+'s ccomp VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+very nsubj NN NOUN Number=Sing
+bad34 prep IN ADP 
+B pobj NN NOUN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+first advmod RB ADV 
+of prep IN ADP 
+all pobj DT PRON 
+uh intj UH INTJ 
+some dep DT PRON 
+of prep IN ADP 
+Japanese amod JJ ADJ Degree=Pos
+people pobj NNS NOUN Number=Plur
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+get ROOT VBP VERB Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+employers dobj NNS NOUN Number=Plur
+over advmod RB ADV 
+there advmod RB ADV PronType=Dem
+like prep IN ADP 
+uh intj UH INTJ 
+partners compound NNS NOUN Number=Plur
+people pobj NNS NOUN Number=Plur
+who nsubj WP PRON 
+work relcl VBP VERB Tense=Pres|VerbForm=Fin
+over advmod RB ADV 
+there advmod RB ADV PronType=Dem
+. punct . PUNCT PunctType=Peri
+---> Okay.
+Okay ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> Japanese people sometimes they are not respectful.
+Japanese amod JJ ADJ Degree=Pos
+people nsubj NNS NOUN Number=Plur
+sometimes advmod RB ADV 
+they nsubj PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+are ROOT VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+not neg RB PART Polarity=Neg
+respectful acomp JJ ADJ Degree=Pos
+. punct . PUNCT PunctType=Peri
+---> Okay.
+Okay ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> NTA this uh also is expensive and its take long time to pick the order uh
+NTA nsubj NNP PROPN Number=Sing
+this nsubj DT PRON Number=Sing|PronType=Dem
+uh intj UH INTJ 
+also advmod RB ADV 
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+expensive acomp JJ ADJ Degree=Pos
+and cc CC CCONJ ConjType=Cmp
+its poss PRP$ PRON Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+take conj VB VERB VerbForm=Inf
+long amod JJ ADJ Degree=Pos
+time dobj NN NOUN Number=Sing
+to aux TO PART 
+pick advcl VB VERB VerbForm=Inf
+the det DT DET Definite=Def|PronType=Art
+order dobj NN NOUN Number=Sing
+uh intj UH INTJ 
+---> Okay.
+Okay ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> Sometimes if you eat
+Sometimes ROOT RB ADV 
+if mark IN SCONJ 
+you nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+eat advcl VBP VERB Tense=Pres|VerbForm=Fin
+---> Okay
+Okay ROOT UH INTJ 
+---> in the week is boring
+in prep IN ADP 
+the det DT DET Definite=Def|PronType=Art
+week pobj NN NOUN Number=Sing
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+boring acomp JJ ADJ Degree=Pos
+---> Okay now about my opportunity-my opportu44 B: Yeah
+Okay advmod UH INTJ 
+now advmod RB ADV 
+about ROOT IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+opportunity nmod NN NOUN Number=Sing
+- punct HYPH PUNCT PunctType=Dash
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+opportu44 appos NN NOUN Number=Sing
+B pobj NNP PROPN Number=Sing
+: punct : PUNCT 
+Yeah ROOT UH INTJ 
+---> Uh many people famous they are come in my restaurant and uh many people healthy. And what's your uh opportunity?46 B: Uh I uh my opportunity is uh old people they come
+Uh intj UH INTJ 
+many amod JJ ADJ Degree=Pos
+people nsubj NNS NOUN Number=Plur
+famous ROOT JJ ADJ Degree=Pos
+they nsubjpass PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+are auxpass VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+come ccomp VBN VERB Aspect=Perf|Tense=Past|VerbForm=Part
+in prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+restaurant pobj NN NOUN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+uh intj UH INTJ 
+many amod JJ ADJ Degree=Pos
+people nsubj NNS NOUN Number=Plur
+healthy conj JJ ADJ Degree=Pos
+. punct . PUNCT PunctType=Peri
+And cc CC CCONJ ConjType=Cmp
+what attr WP PRON 
+'s ccomp VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+opportunity?46 compound NNP PROPN Number=Sing
+B nsubj NNP PROPN Number=Sing
+: punct : PUNCT 
+Uh intj UH INTJ 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+uh intj UH INTJ 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+opportunity nsubj NN NOUN Number=Sing
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+uh intj UH INTJ 
+old amod JJ ADJ Degree=Pos
+people attr NNS NOUN Number=Plur
+they nsubj PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+come relcl VBP VERB Tense=Pres|VerbForm=Fin
+---> Okay great!
+Okay intj UH INTJ 
+great ROOT JJ ADJ Degree=Pos
+! punct . PUNCT PunctType=Peri
+---> Doc-doctors, uh famous people also they love sushi49 A: Okay
+Doc compound NN NOUN Number=Sing
+- punct HYPH PUNCT PunctType=Dash
+doctors nsubj NNS NOUN Number=Plur
+, punct , PUNCT PunctType=Comm
+uh intj UH INTJ 
+famous amod JJ ADJ Degree=Pos
+people appos NNS NOUN Number=Plur
+also advmod RB ADV 
+they nsubj PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+love ROOT VBP VERB Tense=Pres|VerbForm=Fin
+sushi49 dobj NN NOUN Number=Sing
+A dobj NN NOUN Number=Sing
+: punct : PUNCT 
+Okay intj UH INTJ 
+---> They come sometimes we take a picture
+They nsubj PRP PRON Case=Nom|Number=Plur|Person=3|PronType=Prs
+come ccomp VBP VERB Tense=Pres|VerbForm=Fin
+sometimes advmod RB ADV 
+we nsubj PRP PRON Case=Nom|Number=Plur|Person=1|PronType=Prs
+take ROOT VBP VERB Tense=Pres|VerbForm=Fin
+a det DT DET Definite=Ind|PronType=Art
+picture dobj NN NOUN Number=Sing
+---> I agree with your famous people. Okay now about the threats52 B: Yeah.
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ROOT VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+famous amod JJ ADJ Degree=Pos
+people pobj NNS NOUN Number=Plur
+. punct . PUNCT PunctType=Peri
+Okay advmod UH INTJ 
+now advmod RB ADV 
+about ROOT IN ADP 
+the det DT DET Definite=Def|PronType=Art
+threats52 compound NNP PROPN Number=Sing
+B pobj NNP PROPN Number=Sing
+: punct : PUNCT 
+Yeah intj UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> My threats is the weather because them some weather will be come and the people don't don't come in my restaurant.
+My poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+threats nsubj NNS NOUN Number=Plur
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+the det DT DET Definite=Def|PronType=Art
+weather attr NN NOUN Number=Sing
+because mark IN SCONJ 
+them nsubjpass PRP PRON Case=Acc|Number=Plur|Person=3|PronType=Prs
+some det DT DET 
+weather nsubjpass NN NOUN Number=Sing
+will aux MD AUX VerbForm=Fin
+be auxpass VB AUX VerbForm=Inf
+come advcl VBN VERB Aspect=Perf|Tense=Past|VerbForm=Part
+and cc CC CCONJ ConjType=Cmp
+the det DT DET Definite=Def|PronType=Art
+people nsubj NNS NOUN Number=Plur
+do aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+n't neg RB PART Polarity=Neg
+do aux VB AUX VerbForm=Inf
+n't neg RB PART Polarity=Neg
+come conj VB VERB VerbForm=Inf
+in prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+restaurant pobj NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+---> Okay.
+Okay ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> And what's your uh weakness-uh what's your uh threats56 B: My uh threats is the location.
+And cc CC CCONJ ConjType=Cmp
+what attr WP PRON 
+'s ccomp VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+weakness nsubj NN NOUN Number=Sing
+- punct HYPH PUNCT PunctType=Dash
+uh intj UH INTJ 
+what attr WP PRON 
+'s ccomp VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+threats56 compound NN NOUN Number=Sing
+B nsubj NNP PROPN Number=Sing
+: punct : PUNCT 
+My poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+threats nsubj NNS NOUN Number=Plur
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+the det DT DET Definite=Def|PronType=Art
+location attr NN NOUN Number=Sing
+. punct . PUNCT PunctType=Peri
+---> Uh okay.
+Uh intj UH INTJ 
+okay ROOT UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> Location is bad sometimes.
+Location nsubj NN NOUN Number=Sing
+is ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+bad acomp JJ ADJ Degree=Pos
+sometimes advmod RB ADV 
+. punct . PUNCT PunctType=Peri
+---> That's bad. Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
+That nsubj DT PRON Number=Sing|PronType=Dem
+'s ROOT VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+bad acomp JJ ADJ Degree=Pos
+. punct . PUNCT PunctType=Peri
+Okay intj UH INTJ 
+now advmod RB ADV 
+we nsubj PRP PRON Case=Nom|Number=Plur|Person=1|PronType=Prs
+will aux MD AUX VerbForm=Fin
+agree ROOT VB VERB VerbForm=Inf
+uh intj UH INTJ 
+maybe advmod RB ADV 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+will aux MD AUX VerbForm=Fin
+agree ccomp VB VERB VerbForm=Inf
+with prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+but cc CC CCONJ ConjType=Cmp
+uh intj UH INTJ 
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ROOT VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+my poss PRP$ PRON Number=Sing|Person=1|Poss=Yes|PronType=Prs
+uh intj UH INTJ 
+SWOT pobj NNP PROPN Number=Sing
+and cc CC CCONJ ConjType=Cmp
+what dobj WP PRON 
+do aux VBP AUX Mood=Ind|Tense=Pres|VerbForm=Fin
+you nsubj PRP PRON Case=Nom|Person=2|PronType=Prs
+think conj VB VERB VerbForm=Inf
+? punct . PUNCT PunctType=Peri
+---> I think I agree with you because the seafood has many kinds
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+think ROOT VBP VERB Tense=Pres|VerbForm=Fin
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ccomp VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+because mark IN SCONJ 
+the det DT DET Definite=Def|PronType=Art
+seafood nsubj NN NOUN Number=Sing
+has advcl VBZ VERB Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+many amod JJ ADJ Degree=Pos
+kinds dobj NNS NOUN Number=Plur
+---> Okay great.
+Okay intj UH INTJ 
+great ROOT JJ ADJ Degree=Pos
+. punct . PUNCT PunctType=Peri
+---> A lot of kinds like uh fish like uh uh shrimp some63 A: Great, yes
+A det DT DET Definite=Ind|PronType=Art
+lot ROOT NN NOUN Number=Sing
+of prep IN ADP 
+kinds pobj NNS NOUN Number=Plur
+like prep IN ADP 
+uh intj UH INTJ 
+fish pobj NN NOUN Number=Sing
+like prep UH INTJ 
+uh intj UH INTJ 
+uh intj UH INTJ 
+shrimp compound NNP PROPN Number=Sing
+some63 pobj NNP PROPN Number=Sing
+A appos NN NOUN Number=Sing
+: punct : PUNCT 
+Great appos JJ ADJ Degree=Pos
+, punct , PUNCT PunctType=Comm
+yes intj UH INTJ 
+---> And a lot of people love su-seafood more than sushi but I want to tell you something. The sushi has also fish and chicken.65 A: Yes.
+And cc CC CCONJ ConjType=Cmp
+a det DT DET Definite=Ind|PronType=Art
+lot nsubj NN NOUN Number=Sing
+of prep IN ADP 
+people pobj NNS NOUN Number=Plur
+love ROOT VBP VERB Tense=Pres|VerbForm=Fin
+su dobj NNP PROPN Number=Sing
+- dobj HYPH PUNCT PunctType=Dash
+seafood dobj NN NOUN Number=Sing
+more advmod RBR ADV Degree=Cmp
+than prep IN ADP 
+sushi pobj NN NOUN Number=Sing
+but cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+want conj VBP VERB Tense=Pres|VerbForm=Fin
+to aux TO PART 
+tell xcomp VB VERB VerbForm=Inf
+you dative PRP PRON Person=2|PronType=Prs
+something dobj NN PRON Number=Sing|PronType=Ind
+. punct . PUNCT PunctType=Peri
+The det DT DET Definite=Def|PronType=Art
+sushi nsubj NN NOUN Number=Sing
+has aux VBZ AUX Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+also advmod RB ADV 
+fish ROOT VB VERB VerbForm=Inf
+and cc CC CCONJ ConjType=Cmp
+chicken.65 conj VBP VERB Tense=Pres|VerbForm=Fin
+A dobj NN NOUN Number=Sing
+: punct : PUNCT 
+Yes intj UH INTJ 
+. punct . PUNCT PunctType=Peri
+---> Yeah but I agree with you.
+Yeah intj UH INTJ 
+but cc CC CCONJ ConjType=Cmp
+I nsubj PRP PRON Case=Nom|Number=Sing|Person=1|PronType=Prs
+agree ROOT VBP VERB Tense=Pres|VerbForm=Fin
+with prep IN ADP 
+you pobj PRP PRON Case=Acc|Person=2|PronType=Prs
+. punct . PUNCT PunctType=Peri
+---> Okay thank you.
+Okay intj UH INTJ 
+thank ROOT VBP VERB Tense=Pres|VerbForm=Fin
+you dobj PRP PRON Case=Acc|Person=2|PronType=Prs
+. punct . PUNCT PunctType=Peri
+---> Your business very good.
+Your poss PRP$ PRON Person=2|Poss=Yes|PronType=Prs
+business nsubj NN NOUN Number=Sing
+very advmod RB ADV 
+good ROOT JJ ADJ Degree=Pos
+. punct . PUNCT PunctType=Peri
+---> Okay thank you so much.
+Okay intj UH INTJ 
+thank ROOT VBP VERB Tense=Pres|VerbForm=Fin
+you dobj PRP PRON Case=Acc|Person=2|PronType=Prs
+so advmod RB ADV 
+much advmod RB ADV 
+. punct . PUNCT PunctType=Peri
+---> Thank you so much, A.
+Thank ROOT VBP VERB Tense=Pres|VerbForm=Fin
+you dobj PRP PRON Case=Acc|Person=2|PronType=Prs
+so advmod RB ADV 
+much advmod RB ADV 
+, punct , PUNCT PunctType=Comm
+A. npadvmod NN NOUN Number=Sing
