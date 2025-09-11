@@ -23,6 +23,10 @@ https://spacy.io/api/token
 some info on the universal dependencies, specifically finite verbs for our use
 https://universaldependencies.org/u/feat/VerbForm.html
 
+### Notes on authorship
+
+'burnt' is cademccu's new laptop that he forgot to set his global user.email and user.name ... so consider all commits by burnt to be cademccu
+
 
 ### Notes on cross-platform compatability
 
