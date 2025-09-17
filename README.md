@@ -1,9 +1,9 @@
 
 ## PROGRAM OUTPUT
 
-The output files for this porgram will be creating in your \'data\' directory, which should be correct by default in the CONSTANTS.py file.
+The output files for this program will be creating in your \'data\' directory, which should be correct by default in the CONSTANTS.py file.
 
-Output files contain the parsed data, and have one of two states. Both states contain the line, but if none of the fragment testing methods returned a fragment for any sentence in the line, the sentence will only contain a message indicating that nothing at all was found in the line. If _any_ of the fragment methods used in the file found a fragemnt sentence in the line, they will all be listed beneath the line. Each function will either have a message indicating that no fragments were found with that function, or it will list every sentence in the line that the given function returned \'True\' for being a fragment.
+Output files contain the parsed data, and have one of two states. Both states contain the line, but if none of the fragment testing methods returned a fragment for any sentence in the line, the sentence will only contain a message indicating that nothing at all was found in the line. If _any_ of the fragment methods used in the file found a fragment sentence in the line, they will all be listed beneath the line. Each function will either have a message indicating that no fragments were found with that function, or it will list every sentence in the line that the given function returned \'True\' for being a fragment.
 
 Example with no fragments found for any fragment functions:
 ``` 
