@@ -1,88 +1,129 @@
 Uh hi B.
-    Uh hi B
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Uh hi B
 Hi uh, I'm good.
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff.
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Really that's interesting
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture6 B: Sure sure you must to you must to
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah yeah, I think that's one of most things like the hand shing-hand shaking8 B: Yeah
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 In America, that's mean when you are in the road and you are doing the hand shaking10 B: Yeah
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 That's mean you are want someone to take you to some point to some place
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 That's why that's why and when so-uh like the first time I came here, I didn't know what13 A: Yeah
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 What this mean, Because you know, culture, that's mean you have to see your manager. Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand15 A: Yeah yeah You have to shaking them uh very hard
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah
-    Yeah
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah
 And you have to uh maybe you are meet him for the the the first time
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah yeah That's why
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Then I saw that I mentioned that is in America that's
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah
-    Yeah
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah
 We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?22 B: Uh-huh23 A: He said to me, that's mean you are doing great, and also the thumb uh down
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Thumbs down
-    Thumbs down
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Thumbs down
 Down, yeah. NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
-    Down, yeah
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Down, yeah
 Ohh my god
-    Ohh my god
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Ohh my god
 She's doing the thumb down
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Ohh
-    Ohh
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Ohh
 I I asked my classmate NTA
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 That's dissapointing
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah yeah. I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good.
-    Yeah yeah
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah yeah
 Uh that's uh right. Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here33 A: Yeah yeah. Also that
-     Also that
+    *ISFRAG_hasFiniteVerb_HasSubject
+         Also that
 It means like the the mid-that is the middle finger, that's in America and uh uh35 A: When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university.36 B: Okay
-    36 B: Okay
+    *ISFRAG_hasFiniteVerb_HasSubject
+        36 B: Okay
 He said to me NTA
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Oh that's
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 But that's NTA that's
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 That's impolite that's impolite
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 I I asked uh
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Don't don't-uh tell him don't do that43 A: This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite44 B: Yeah you must you must
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 That's mean Yeah because he he he's gonna
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah a lot of drunk people.
-    Yeah a lot of drunk people
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah a lot of drunk people
 Yeah yeah
-    Yeah yeah
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah yeah
 So he must be uh
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 I really agree with you. You have to work
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah you have to, just to call him before
-    NO_FRAGMENTS
+    *ISFRAG_hasFiniteVerb_HasSubject
+        ---NO_FRAGMENTS
 Yeah okay, okay
-    Yeah okay, okay
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Yeah okay, okay
 Okay thank you, A.
-    Okay thank you, A
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Okay thank you, A
 Thank you, bye bye.
-    Thank you, bye bye
+    *ISFRAG_hasFiniteVerb_HasSubject
+        Thank you, bye bye
 
 
-=== FILE:        15-038_270-S.txt
-=== LINE COUNT:  41
-=== CHUNK COUNT: 55
-=== FRAG COUNT:  15
+=== FILE                                        | ../../data/CCOT/WORK/15-038_270-S.txt
+=== LINE COUNT                                  | 41
+=== CHUNK_COUNT                                 | 55
+=== FRAG COUNT[ISFRAG_hasFiniteVerb_HasSubject] | 15

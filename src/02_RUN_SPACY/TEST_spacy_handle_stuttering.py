@@ -27,6 +27,11 @@ def formatted_output(s):
     print("-" * (20 * 8 + 8))
     print()
 
-formatted_output("Also in uh my uh Arabic uh market uh it's uh very expensive because we should bring the--")
+#formatted_output("Also in uh my uh Arabic uh market uh it's uh very expensive because we should bring the--")
 
-formatted_output("Yes if they ha-have some mistake you can uh you can punishment uh the children but it will hurt your relationship with the children and i-if you can't if you can't control your action spanking will hurt children body uh I think they need to use other ways to teach children uh but not only to span-spanik-spanking the children.")
+#formatted_output("Yes if they ha-have some mistake you can uh you can punishment uh the children but it will hurt your relationship with the children and i-if you can't if you can't control your action spanking will hurt children body uh I think they need to use other ways to teach children uh but not only to span-spanik-spanking the children.")
+
+
+formatted_output("the sooner, the better")
+formatted_output("yeah no")
+formatted_output("yeah no sure no")
