@@ -1,153 +1,291 @@
 Hi B how are you?
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 I'm good what about you, my friend?
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 I'm fine, very well. B I come here for presentation about my restaurant and I want see your restaurant4 B: I'm listening to you no problem.5 A: Because you are interviewing me and then I'm interviewing you.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Me too.
     *ISFRAG_hasFiniteVerb_HasSubject
         Me too
+    *ISFRAG_MissingFiniteVerb
+        Me too
+    *ISFRAG_MissingSubject
+        Me too
+
 First I have the restaurant about seafood.8 B: Uh-huh.9 A: And my strength I have many strength. first one is many many employees NTA and everyone help each other and I get a good location because many people will be come.10 B: Uh-huh.11 A: And can I see your strength and what your uh
     *ISFRAG_hasFiniteVerb_HasSubject
         8 B: Uh-huh
         10 B: Uh-huh
+    *ISFRAG_MissingFiniteVerb
+        8 B: Uh-huh
+        10 B: Uh-huh
+    *ISFRAG_MissingSubject
+        8 B: Uh-huh
+        10 B: Uh-huh
+
 Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats. First I will talk about strengths. Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh13 A: Yes sure
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 I have many kinds of sushi that's my strength-uh strengths15 A: Uh-huh16 B: And is very very delicious uh and we have the sushi you can put it with the seafood. You can put it with the sweet and sour chicken
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Oh
     *ISFRAG_hasFiniteVerb_HasSubject
         Oh
+    *ISFRAG_MissingFiniteVerb
+        Oh
+    *ISFRAG_MissingSubject
+        Oh
+
 We have many kinds
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Great
     *ISFRAG_hasFiniteVerb_HasSubject
         Great
+    *ISFRAG_MissingFiniteVerb
+        Great
+    *ISFRAG_MissingSubject
+        Great
+
 Not just sushi. You can put it with seafood also
     *ISFRAG_hasFiniteVerb_HasSubject
         Not just sushi
+    *ISFRAG_MissingFiniteVerb
+        Not just sushi
+    *ISFRAG_MissingSubject
+        Not just sushi
+
 Okay great I agree with you about the many kind of sushi.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Uh-huh.23 A: I agree with-okay now about my strength.24 B: Yeah.
     *ISFRAG_hasFiniteVerb_HasSubject
         Uh-huh
         24 B: Yeah
+    *ISFRAG_MissingFiniteVerb
+        Uh-huh
+        24 B: Yeah
+    *ISFRAG_MissingSubject
+        Uh-huh
+        24 B: Yeah
+
 My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant.26 B: Uh-huh.27 A: And I can't get all of them because when they are coming I have just many uh less of seat
     *ISFRAG_hasFiniteVerb_HasSubject
         26 B: Uh-huh
+    *ISFRAG_MissingFiniteVerb
+        26 B: Uh-huh
+    *ISFRAG_MissingSubject
+        26 B: Uh-huh
+
 Uh-huh.29 A: Because and I don't I don't have many I have people but I don't have seat. This my weakness.
     *ISFRAG_hasFiniteVerb_HasSubject
         Uh-huh
          This my weakness
+    *ISFRAG_MissingFiniteVerb
+        Uh-huh
+         This my weakness
+    *ISFRAG_MissingSubject
+        Uh-huh
+         This my weakness
+
 Yeah.
     *ISFRAG_hasFiniteVerb_HasSubject
         Yeah
+    *ISFRAG_MissingFiniteVerb
+        Yeah
+    *ISFRAG_MissingSubject
+        Yeah
+
 And can I see your weakness maybe I will agree with you about your uh
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay my weakness I have very bad weakness.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 What's your very bad34 B: Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay
+    *ISFRAG_MissingFiniteVerb
+        Okay
+    *ISFRAG_MissingSubject
+        Okay
+
 Japanese people sometimes they are not respectful.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay
+    *ISFRAG_MissingFiniteVerb
+        Okay
+    *ISFRAG_MissingSubject
+        Okay
+
 NTA this uh also is expensive and its take long time to pick the order uh
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay
+    *ISFRAG_MissingFiniteVerb
+        Okay
+    *ISFRAG_MissingSubject
+        Okay
+
 Sometimes if you eat
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay
+    *ISFRAG_MissingFiniteVerb
+        Okay
+    *ISFRAG_MissingSubject
+        Okay
+
 in the week is boring
     *ISFRAG_hasFiniteVerb_HasSubject
         in the week is boring
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        in the week is boring
+
 Okay now about my opportunity-my opportu44 B: Yeah
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay now about my opportunity-my opportu44 B: Yeah
+    *ISFRAG_MissingFiniteVerb
+        Okay now about my opportunity-my opportu44 B: Yeah
+    *ISFRAG_MissingSubject
+        Okay now about my opportunity-my opportu44 B: Yeah
+
 Uh many people famous they are come in my restaurant and uh many people healthy. And what's your uh opportunity?46 B: Uh I uh my opportunity is uh old people they come
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay great!
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay great!
+    *ISFRAG_MissingFiniteVerb
+        Okay great!
+    *ISFRAG_MissingSubject
+        Okay great!
+
 Doc-doctors, uh famous people also they love sushi49 A: Okay
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 They come sometimes we take a picture
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 I agree with your famous people. Okay now about the threats52 B: Yeah.
     *ISFRAG_hasFiniteVerb_HasSubject
          Okay now about the threats52 B: Yeah
+    *ISFRAG_MissingFiniteVerb
+         Okay now about the threats52 B: Yeah
+    *ISFRAG_MissingSubject
+         Okay now about the threats52 B: Yeah
+
 My threats is the weather because them some weather will be come and the people don't don't come in my restaurant.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay
+    *ISFRAG_MissingFiniteVerb
+        Okay
+    *ISFRAG_MissingSubject
+        Okay
+
 And what's your uh weakness-uh what's your uh threats56 B: My uh threats is the location.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Uh okay.
     *ISFRAG_hasFiniteVerb_HasSubject
         Uh okay
+    *ISFRAG_MissingFiniteVerb
+        Uh okay
+    *ISFRAG_MissingSubject
+        Uh okay
+
 Location is bad sometimes.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 That's bad. Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 I think I agree with you because the seafood has many kinds
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay great.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay great
+    *ISFRAG_MissingFiniteVerb
+        Okay great
+    *ISFRAG_MissingSubject
+        Okay great
+
 A lot of kinds like uh fish like uh uh shrimp some63 A: Great, yes
     *ISFRAG_hasFiniteVerb_HasSubject
         A lot of kinds like uh fish like uh uh shrimp some63 A: Great, yes
+    *ISFRAG_MissingFiniteVerb
+        A lot of kinds like uh fish like uh uh shrimp some63 A: Great, yes
+    *ISFRAG_MissingSubject
+        A lot of kinds like uh fish like uh uh shrimp some63 A: Great, yes
+
 And a lot of people love su-seafood more than sushi but I want to tell you something. The sushi has also fish and chicken.65 A: Yes.
     *ISFRAG_hasFiniteVerb_HasSubject
         65 A: Yes
+    *ISFRAG_MissingFiniteVerb
+        65 A: Yes
+    *ISFRAG_MissingSubject
+        65 A: Yes
+
 Yeah but I agree with you.
-    *ISFRAG_hasFiniteVerb_HasSubject
-        ---NO_FRAGMENTS
+    ---NO_FRAGMENTS_ANY
+
 Okay thank you.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay thank you
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Okay thank you
+
 Your business very good.
     *ISFRAG_hasFiniteVerb_HasSubject
         Your business very good
+    *ISFRAG_MissingFiniteVerb
+        Your business very good
+    *ISFRAG_MissingSubject
+        ---NO_FRAGMENTS
+
 Okay thank you so much.
     *ISFRAG_hasFiniteVerb_HasSubject
         Okay thank you so much
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Okay thank you so much
+
 Thank you so much, A.
     *ISFRAG_hasFiniteVerb_HasSubject
         Thank you so much, A
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Thank you so much, A
 
 
-=== FILE                                        | ../../data/CCOT/WORK/22-232_231-S.txt
-=== LINE COUNT                                  | 48
-=== CHUNK_COUNT                                 | 95
-=== FRAG COUNT[ISFRAG_hasFiniteVerb_HasSubject] | 29
+
+=== FILE                                         | ../../data/CCOT/WORK/22-232_231-S.txt
+=== LINE COUNT                                   | 48
+=== CHUNK/SENTENCE COUNT                         | 95
+=== FRAG COUNT [ISFRAG_hasFiniteVerb_HasSubject] | 29
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb]        | 25
+=== FRAG COUNT [ISFRAG_MissingSubject]           | 28

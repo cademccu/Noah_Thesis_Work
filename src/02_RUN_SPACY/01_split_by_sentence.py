@@ -41,7 +41,6 @@ def _parse_file(infile, outfile, chunker, criteria_list):
         criteria (list<func>): a function that determines whether the sentence is a 'fragment' or not
     """
 
-
     # open outfile 
     out = open(outfile, "wt")
 
@@ -80,38 +79,49 @@ def _parse_file(infile, outfile, chunker, criteria_list):
             doc = nlp(chunk)
             for crit_func in criteria_list:
                 if crit_func(doc):
-                    name = _get_func_name(crit)
+                    name = _get_func_name(crit_func)
                     fragment_count[name] += 1
                     fragment_chunks[name].append(chunk)
 
         # write the initial line
         out.write(line + "\n")
-        for key, values in fragment_chunks.items():
-            out.write(" " * 4 + "*" + key + "\n")
-            if len(values) == 0:
-                out.write(" " * 8 + "---NO_FRAGMENTS\n")
-            else:
-                for fragment in values:
-                    out.write(" " * 8 + fragment + "\n")
+        
+        # if none of the values have _any_ values, just write no fragments
+        has_any_fragments = False
+        for v_frag_list in fragment_chunks.values():
+            if len(v_frag_list) > 0:
+                has_any_fragments = True
+        
+        if has_any_fragments:
+            for key, values in fragment_chunks.items():
+                out.write(" " * 4 + "*" + key + "\n")
+                if len(values) == 0:
+                    out.write(" " * 8 + "---NO_FRAGMENTS\n")
+                else:
+                    for fragment in values:
+                        out.write(" " * 8 + fragment + "\n")
+        else:
+            out.write(" " * 4 + "---NO_FRAGMENTS_ANY\n")
             
+        out.write("\n")
         line = cfp.next_line()
 
 
     out.write("\n\n")
 
-    longest_name = 13
+    longest_name = 20
     for _name in func_names:
-        if len(_name) + 10 > longest_name:
-            longest_name = len(_name) + 10
+        if len(_name) + 11 > longest_name:
+            longest_name = len(_name) + 11
     longest_name += 2 # to account for brackets in the dynamic method names
 
     f_string = "=== {:<" + str(longest_name) + "} | "
     out.write(f_string.format("FILE") + infile + "\n")
     out.write(f_string.format("LINE COUNT") + str(line_count) + "\n")
-    out.write(f_string.format("CHUNK_COUNT") + str(chunk_count) + "\n")
+    out.write(f_string.format("CHUNK/SENTENCE COUNT") + str(chunk_count) + "\n")
     
     for key, value in fragment_count.items():
-        out.write(("=== FRAG COUNT{:<" + str(longest_name-10) + "} | ").format("[" + key + "]") + str(value) + "\n")
+        out.write(("=== FRAG COUNT {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
 
 
 def _by_sentence_period(line):
@@ -168,6 +178,56 @@ def ISFRAG_hasFiniteVerb_HasSubject(sent):
     return not (has_subject and has_finite_verb)
 
 
+def ISFRAG_MissingFiniteVerb(sent):
+    """ 
+    checks if the spacy processed document is a fragment based on custom criteria
+    if sentence is missing a finite verb, return True
+
+    Args:
+        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
+
+    Returns:
+        (boolean): True if the doc is a fragment, False if not
+    """
+
+    # found some info on finite verbs, seems they live in the morph seg of the token
+    # found this by brute force and grep --!
+    # https://universaldependencies.org/u/feat/VerbForm.html
+    has_finite_verb = False
+
+    for token in sent:
+        if "VerbForm=Fin" in token.morph:
+            has_finite_verb = True
+
+    return not has_finite_verb
+
+
+def ISFRAG_MissingSubject(sent):
+    """ 
+    checks if the spacy processed document is a fragment based on custom criteria
+    if senetence is missing a subject, return true
+
+    Args:
+        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
+
+    Returns:
+        (boolean): True if the doc is a fragment, False if not
+    """
+    # Okay, for subject, it appears there are several types of subject. In spacy, if it contains 'subj' in the .doc_
+    # str it is a subject of _some_ kind -- therefore what we are looking for in the moment. 
+    # https://stackoverflow.com/questions/66181946/identify-subject-in-sentences-using-spacy-in-advanced-cases
+    # seems to 
+    has_subject = False
+
+    for token in sent:
+        if "subj" in token.dep_:
+            has_subject = True
+
+    # okay, check this:
+    # i think if there is a finite verb, and a subject, then we are _not_ considering this a fragment
+    # therefore:
+    return not has_subject
+
 
 
 def main():
@@ -179,7 +239,9 @@ def main():
     # chunk/sentence to determine if they are a fragment or not. the method name just needs
     # to be in this list, and it will be run on every file.
     is_fragment_list = [
-        ISFRAG_hasFiniteVerb_HasSubject
+        ISFRAG_hasFiniteVerb_HasSubject,
+        ISFRAG_MissingFiniteVerb,
+        ISFRAG_MissingSubject
     ]
 
     # need to make this dir if doesnt exist
