@@ -1,0 +1,246 @@
+Uh hi B.
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Uh hi B
+    *ISFRAG_MissingFiniteVerb
+        Uh hi B
+    *ISFRAG_MissingSubject
+        Uh hi B
+
+Hi uh, I'm good.
+    ---NO_FRAGMENTS_ANY
+
+Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff.
+    ---NO_FRAGMENTS_ANY
+
+Really that's interesting
+    ---NO_FRAGMENTS_ANY
+
+Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture
+    ---NO_FRAGMENTS_ANY
+
+Sure sure you must to you must to
+    ---NO_FRAGMENTS_ANY
+
+Yeah yeah, I think that's one of most things like the hand shing-hand shaking
+    ---NO_FRAGMENTS_ANY
+
+Yeah
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Yeah
+
+In America, that's mean when you are in the road and you are doing the hand shaking
+    ---NO_FRAGMENTS_ANY
+
+Yeah
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Yeah
+
+That's mean you are want someone to take you to some point to some place
+    ---NO_FRAGMENTS_ANY
+
+That's why that's why and when so-uh like the first time I came here, I didn't know what
+    ---NO_FRAGMENTS_ANY
+
+Yeah
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Yeah
+
+What this mean, Because you know, culture, that's mean you have to see your manager. Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
+    ---NO_FRAGMENTS_ANY
+
+Yeah yeah You have to shaking them uh very hard
+    ---NO_FRAGMENTS_ANY
+
+Yeah
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Yeah
+
+And you have to uh maybe you are meet him for the the the first time
+    ---NO_FRAGMENTS_ANY
+
+Yeah yeah That's why
+    ---NO_FRAGMENTS_ANY
+
+Then I saw that I mentioned that is in America that's
+    ---NO_FRAGMENTS_ANY
+
+Yeah
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Yeah
+
+We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
+    ---NO_FRAGMENTS_ANY
+
+Uh-huh
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Uh-huh
+
+He said to me, that's mean you are doing great, and also the thumb uh down
+    ---NO_FRAGMENTS_ANY
+
+Thumbs down
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Thumbs down
+    *ISFRAG_MissingFiniteVerb
+        Thumbs down
+    *ISFRAG_MissingSubject
+        Thumbs down
+
+Down, yeah. NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Down, yeah
+    *ISFRAG_MissingFiniteVerb
+        Down, yeah
+    *ISFRAG_MissingSubject
+        Down, yeah
+
+Ohh my god
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Ohh my god
+    *ISFRAG_MissingFiniteVerb
+        Ohh my god
+    *ISFRAG_MissingSubject
+        Ohh my god
+
+She's doing the thumb down
+    ---NO_FRAGMENTS_ANY
+
+Ohh
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Ohh
+
+I I asked my classmate NTA
+    ---NO_FRAGMENTS_ANY
+
+That's dissapointing
+    ---NO_FRAGMENTS_ANY
+
+Yeah yeah. I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good.
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Yeah yeah
+    *ISFRAG_MissingFiniteVerb
+        Yeah yeah
+    *ISFRAG_MissingSubject
+        Yeah yeah
+
+Uh that's uh right. Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here
+    ---NO_FRAGMENTS_ANY
+
+Yeah yeah. Also that
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Yeah yeah
+         Also that
+    *ISFRAG_MissingFiniteVerb
+        Yeah yeah
+         Also that
+    *ISFRAG_MissingSubject
+        Yeah yeah
+         Also that
+
+It means like the the mid-that is the middle finger, that's in America and uh uh
+    ---NO_FRAGMENTS_ANY
+
+When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university.
+    ---NO_FRAGMENTS_ANY
+
+Okay
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Okay
+
+He said to me NTA
+    ---NO_FRAGMENTS_ANY
+
+Oh that's
+    ---NO_FRAGMENTS_ANY
+
+But that's NTA that's
+    ---NO_FRAGMENTS_ANY
+
+That's impolite that's impolite
+    ---NO_FRAGMENTS_ANY
+
+I I asked uh
+    ---NO_FRAGMENTS_ANY
+
+Don't don't-uh tell him don't do that
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Don't don't-uh tell him don't do that
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Don't don't-uh tell him don't do that
+
+This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite
+    ---NO_FRAGMENTS_ANY
+
+Yeah you must you must
+    ---NO_FRAGMENTS_ANY
+
+That's mean Yeah because he he he's gonna
+    ---NO_FRAGMENTS_ANY
+
+Yeah a lot of drunk people.
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Yeah a lot of drunk people
+    *ISFRAG_MissingFiniteVerb
+        Yeah a lot of drunk people
+    *ISFRAG_MissingSubject
+        Yeah a lot of drunk people
+
+Yeah yeah
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Yeah yeah
+    *ISFRAG_MissingFiniteVerb
+        Yeah yeah
+    *ISFRAG_MissingSubject
+        Yeah yeah
+
+So he must be uh
+    ---NO_FRAGMENTS_ANY
+
+I really agree with you. You have to work
+    ---NO_FRAGMENTS_ANY
+
+Yeah you have to, just to call him before
+    ---NO_FRAGMENTS_ANY
+
+Yeah okay, okay
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Yeah okay, okay
+    *ISFRAG_MissingFiniteVerb
+        Yeah okay, okay
+    *ISFRAG_MissingSubject
+        Yeah okay, okay
+
+Okay thank you, A.
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Okay thank you, A
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Okay thank you, A
+
+Thank you, bye bye.
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Thank you, bye bye
+    *ISFRAG_MissingFiniteVerb
+        ---NO_FRAGMENTS
+    *ISFRAG_MissingSubject
+        Thank you, bye bye
+
+
+
+=== FILE                                                    | ../../data/CCOT/WORK/15-038_270-S.txt
+=== LINE COUNT                                              | 53
+=== CHUNK/SENTENCE COUNT                                    | 67
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 13
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 10
+=== FRAG COUNT [ISFRAG_MissingSubject]                      | 13

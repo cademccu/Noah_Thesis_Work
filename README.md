@@ -24,6 +24,14 @@ Okay thank you.
 
 As stated in other section \"Cleaning the Data\", the data is read line\-wise, and thus there may be multiple sentences from a single speaker on a given line. This is done so that if needed in the future, individual speakers can be isolated and checked for fragmentary speech, as well as keeping each burst of speech together.
 
+Another feature of the output data involves \'formulaic chunks\'. These are chunks of text that by many fragment definition would be considered fragments, but are not interesting for this study because they are reoccuring patterns of speech instead of shortered versions of fully grammatically correct speech, such as \'Thank you\' or \'No\'. A chunk will not be considered for fragment checks if it meets this critera, and will be added at the end of the printout of the speaker:
+
+```
+Uh-huh.
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Uh-huh
+```
 
 In addition, each file contains metadata at the bottom:
 
@@ -42,7 +50,21 @@ The original file, number of _valid_ lines read from the file, the number of chu
 
 ## Running the project
 
-TODO
+You will have to set up a python3 enviroment. One should be able to run it with just a modern version of python3 and an enviorment with spacy, but you can also use my enviroment specs exactly to set it up.
+
+To run the project, simply clone this repository and unzip the copy of CCOT data to a directory of your choosing. I chose to place it in the \'data\' dir of this, and if you do so the gitignore will not allow it to be uploaded. Once this is complete, please update the path to this data in CONFIGURATION.py with either a relative or absolute path to the data. If doing relative path, the path should be relative from INSIDE one of the code directorys such as 01\_CLEAN\_DATA, not relative to the CONFIGURATION.py file. This is because all code is run in a subdirectory from src, not at the top level.
+
+Once these paths are correct, run bash script in src. If you are on windows or can only run python3, you can run each script in 01\_CLEAN\_DATA individually with the python3 executable, and then all numbered scripts in 02\_RUN\_SPACY.
+
+```
+# give execution priviledge to script
+chmod +x 00_RUN_ALL.sh
+# run script
+./00_RUN_ALL.sh
+```
+
+Once the script complete, all data will be located in your data directory. The parsed data will be in data/WORK\_OUTPUT and the \'cleaned\' data files will be in CCOT/WORK, renamed to be linux friendly while retaining all the filename metadata.
+
 
 ## Cleaning the data
 
@@ -52,9 +74,7 @@ TODO
 
 The data is split into files containing conversations between subjects, with metadata \(usually denoted by a \'\<\' opener, but not always \). The data is messy for our uses, including transcriber notes, stuttering, and some inconsistancies with transcription. The following section decribes what is done to \'clean\' the data, though more information can be found in the code itself on the exact process and this description is just a plaintext description.
 
-### 01_rename_files.py
- 
-TODO
+TODO 
 
 
 ## Useful links
@@ -93,6 +113,4 @@ https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
 special case for NTA: https://spacy.io/usage/linguistic-features#special-cases
 
-rename 'burnt' to cademccu
 
-run-all script

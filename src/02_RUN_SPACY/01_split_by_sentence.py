@@ -9,6 +9,8 @@ import re
 
 from corpus_file_reader import CorpusFileReader
 from CONFIGURATION import PATH_TO_CCOT, PATH_TO_DATA
+from A01_chunking_and_frag_checks import CHUNK_by_sentence_period, ISFRAG_MissingFiniteVerb_or_MissingSubject, ISFRAG_MissingFiniteVerb, ISFRAG_MissingSubject, ISFRAG_MissingVerb_FromMorph, ISFRAG_MissingVerb_FromDep, is_formuliac
+
 
 
 # making this global because it deserves it
@@ -26,6 +28,8 @@ def _get_func_name(_func):
         (str): name of the function
     """
     return str(_func).split()[1]
+
+       
 
 def _parse_file(infile, outfile, chunker, criteria_list):
     """
@@ -72,10 +76,18 @@ def _parse_file(infile, outfile, chunker, criteria_list):
         # reset the list
         for func_name in func_names:
             fragment_chunks[func_name] = []
+        
+        formulaic_chunks = [] 
 
         for chunk in chunks:
             if len(chunk.strip()) == 0:
                 continue
+
+            # if the chunk is 'formuliac', we don't even want to check.
+            if is_formuliac(chunk):
+                formulaic_chunks.append(chunk)
+                continue
+
             doc = nlp(chunk)
             for crit_func in criteria_list:
                 if crit_func(doc):
@@ -102,6 +114,11 @@ def _parse_file(infile, outfile, chunker, criteria_list):
                         out.write(" " * 8 + fragment + "\n")
         else:
             out.write(" " * 4 + "---NO_FRAGMENTS_ANY\n")
+
+        if len(formulaic_chunks) > 0:
+            out.write(" " * 4 + ">>>FORMULIAC_CHUNKS:\n")
+            for f_chunk in formulaic_chunks:
+                out.write(" " * 8 + f_chunk + "\n")
             
         out.write("\n")
         line = cfp.next_line()
@@ -124,111 +141,6 @@ def _parse_file(infile, outfile, chunker, criteria_list):
         out.write(("=== FRAG COUNT {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
 
 
-def _by_sentence_period(line):
-    """
-    splits up a line by period. if EOL is reached, that counts as the end of the
-    sentence.
-
-    Args:
-        line (str): a line from a step 1 processed file
-
-    Returns:
-        (list<str>): the sentences from the line
-    """
-    if "." in line:
-        return line.split(".")
-    else:
-        return [line]
-
-def _by_comma(line):
-    pass
-
-
-def ISFRAG_hasFiniteVerb_HasSubject(sent):
-    """ 
-    checks if the spacy processed document is a fragment based on custom criteria
-    must have neither subject or fitinite verb to return true
-
-    Args:
-        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
-
-    Returns:
-        (boolean): True if the doc is a fragment, False if not
-    """
-
-    # found some info on finite verbs, seems they live in the morph seg of the token
-    # found this by brute force and grep --!
-    # https://universaldependencies.org/u/feat/VerbForm.html
-    has_finite_verb = False
-    # Okay, for subject, it appears there are several types of subject. In spacy, if it contains 'subj' in the .doc_
-    # str it is a subject of _some_ kind -- therefore what we are looking for in the moment. 
-    # https://stackoverflow.com/questions/66181946/identify-subject-in-sentences-using-spacy-in-advanced-cases
-    # seems to 
-    has_subject = False
-
-    for token in sent:
-        if "VerbForm=Fin" in token.morph:
-            has_finite_verb = True
-        if "subj" in token.dep_:
-            has_subject = True
-
-    # okay, check this:
-    # i think if there is a finite verb, and a subject, then we are _not_ considering this a fragment
-    # therefore:
-    return not (has_subject and has_finite_verb)
-
-
-def ISFRAG_MissingFiniteVerb(sent):
-    """ 
-    checks if the spacy processed document is a fragment based on custom criteria
-    if sentence is missing a finite verb, return True
-
-    Args:
-        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
-
-    Returns:
-        (boolean): True if the doc is a fragment, False if not
-    """
-
-    # found some info on finite verbs, seems they live in the morph seg of the token
-    # found this by brute force and grep --!
-    # https://universaldependencies.org/u/feat/VerbForm.html
-    has_finite_verb = False
-
-    for token in sent:
-        if "VerbForm=Fin" in token.morph:
-            has_finite_verb = True
-
-    return not has_finite_verb
-
-
-def ISFRAG_MissingSubject(sent):
-    """ 
-    checks if the spacy processed document is a fragment based on custom criteria
-    if senetence is missing a subject, return true
-
-    Args:
-        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
-
-    Returns:
-        (boolean): True if the doc is a fragment, False if not
-    """
-    # Okay, for subject, it appears there are several types of subject. In spacy, if it contains 'subj' in the .doc_
-    # str it is a subject of _some_ kind -- therefore what we are looking for in the moment. 
-    # https://stackoverflow.com/questions/66181946/identify-subject-in-sentences-using-spacy-in-advanced-cases
-    # seems to 
-    has_subject = False
-
-    for token in sent:
-        if "subj" in token.dep_:
-            has_subject = True
-
-    # okay, check this:
-    # i think if there is a finite verb, and a subject, then we are _not_ considering this a fragment
-    # therefore:
-    return not has_subject
-
-
 
 def main():
     # paths
@@ -239,9 +151,11 @@ def main():
     # chunk/sentence to determine if they are a fragment or not. the method name just needs
     # to be in this list, and it will be run on every file.
     is_fragment_list = [
-        ISFRAG_hasFiniteVerb_HasSubject,
+        ISFRAG_MissingFiniteVerb_or_MissingSubject,
         ISFRAG_MissingFiniteVerb,
-        ISFRAG_MissingSubject
+        ISFRAG_MissingSubject,
+        #ISFRAG_MissingVerb_FromMorph,
+        #ISFRAG_MissingVerb_FromDep
     ]
 
     # need to make this dir if doesnt exist
@@ -262,7 +176,7 @@ def main():
         outfile_stem = os.path.join(path_to_work_output, _file[:-4])
 
         # by sentence
-        _parse_file(infile, outfile_stem + "_OUTFILE.txt", _by_sentence_period, is_fragment_list)
+        _parse_file(infile, outfile_stem + "_OUTFILE.txt", CHUNK_by_sentence_period, is_fragment_list)
 
 
 if __name__ == "__main__":

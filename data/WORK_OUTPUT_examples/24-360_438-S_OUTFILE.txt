@@ -1,0 +1,73 @@
+Hello I'm student B I'm B
+    ---NO_FRAGMENTS_ANY
+
+Uh my name is A I'm student A uh from Bridge B uh hi Wen uh you know we have a problem uh of our employees uh productivity and uh safety do you uh do you have some advice?
+    ---NO_FRAGMENTS_ANY
+
+Yes I want to put some uh monitor in uh our workplace
+    ---NO_FRAGMENTS_ANY
+
+Why?
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Why?
+
+Uh in order to keep our company and uh employees uh safe
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Uh in order to keep our company and uh employees uh safe
+    *ISFRAG_MissingFiniteVerb
+        Uh in order to keep our company and uh employees uh safe
+    *ISFRAG_MissingSubject
+        Uh in order to keep our company and uh employees uh safe
+
+Uh anything else?
+    *ISFRAG_MissingFiniteVerb_or_MissingSubject
+        Uh anything else?
+    *ISFRAG_MissingFiniteVerb
+        Uh anything else?
+    *ISFRAG_MissingSubject
+        Uh anything else?
+
+Uh yes uh I do this help some reasons first uh because of safety uh uh now we have not uh safety in our company if we have uh monitor it can keep an eye on every place
+    ---NO_FRAGMENTS_ANY
+
+Uh that's all?
+    ---NO_FRAGMENTS_ANY
+
+Uh and uh second I think uh our product is not uh selling well uh so I think it must be some employee don't to work hard uh do their personal things in the work time so I want to monitor the email and uh phone tap-put some uh phone taps uh to monitor their uh uh work
+    ---NO_FRAGMENTS_ANY
+
+Yeah it's true uh but I can't agree with you
+    ---NO_FRAGMENTS_ANY
+
+Why?
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULIAC_CHUNKS:
+        Why?
+
+Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
+    ---NO_FRAGMENTS_ANY
+
+Uh I don't think so uh because uh some equivalent uh equipment of our company is very expensive and uh our products is not selling well this is a very big problem uh in our company I think uh we have to uh uh uh monitor our uh company
+    ---NO_FRAGMENTS_ANY
+
+Oh yeah uh maybe I think we can we can have uh try with your opinion uh in uh but uh uh we we we don't uh don't need to uh put uh put monitor everywhere it just uh have some uh some evaluation in some place. Do you agree?
+    ---NO_FRAGMENTS_ANY
+
+Uh yes you are right
+    ---NO_FRAGMENTS_ANY
+
+Yeah ok that's a deal
+    ---NO_FRAGMENTS_ANY
+
+Yes yes that's deal
+    ---NO_FRAGMENTS_ANY
+
+
+
+=== FILE                                                    | ../../data/CCOT/WORK/24-360_438-S.txt
+=== LINE COUNT                                              | 17
+=== CHUNK/SENTENCE COUNT                                    | 18
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 2
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 2
+=== FRAG COUNT [ISFRAG_MissingSubject]                      | 2

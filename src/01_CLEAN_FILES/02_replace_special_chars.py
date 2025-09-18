@@ -105,8 +105,8 @@ for _file in files.decode("utf-8").split("\n"):
                             # some secret third thing, doesn't follow stutter format...
                             # just add to list
                             temp_line.append(word)
-                # set line back to its original form
-                line = " ".join(temp_line)
+                # set line back to its original form and keep newline
+                line = " ".join(temp_line) + "\n"
                             
 
             # Transcribers notes are written sometimes inside of the file in parenthesis. i want to delete

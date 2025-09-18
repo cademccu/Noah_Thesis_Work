@@ -34,3 +34,14 @@ python3 03_special_cases.py
 echo "Done!"
 
 cd ..
+
+cd 02_RUN_SPACY
+
+echo "Running: 01_split_by_sentence.py"
+python3 01_split_by_sentence.py	
+echo "Done!"
+
+cd ..
+
+
+echo "Finished running all code."

@@ -6,6 +6,9 @@ lib
 # for now -- unsure what of the data is public/private
 data/CCOT
 
+# Dont want to upload all the parsed data without being zipped/private
+data/WORK_OUTPUT
+
 # including the data backup
 BACKUPS
 
