@@ -86,8 +86,8 @@ First I have the restaurant about seafood.
 
 Uh-huh.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 And my strength I have many strength. first one is many many employees NTA and everyone help each other and I get a good location because many people will be come.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -105,8 +105,8 @@ And my strength I have many strength. first one is many many employees NTA and e
 
 Uh-huh.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 And can I see your strength and what your uh
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -162,8 +162,8 @@ I have many kinds of sushi that's my strength-uh strengths
 
 Uh-huh
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 And is very very delicious uh and we have the sushi you can put it with the seafood. You can put it with the sweet and sour chicken
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -181,8 +181,8 @@ And is very very delicious uh and we have the sushi you can put it with the seaf
 
 Oh
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Oh
+    >>>FORMULAIC_CHUNKS:
+        Oh  [one_word_only]
 
 We have many kinds
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -198,8 +198,8 @@ We have many kinds
 
 Great
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Great
+    >>>FORMULAIC_CHUNKS:
+        Great  [one_word_only]
 
 Not just sushi. You can put it with seafood also
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -229,8 +229,8 @@ Okay great I agree with you about the many kind of sushi.
 
 Uh-huh.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 I agree with-okay now about my strength.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -246,8 +246,8 @@ I agree with-okay now about my strength.
 
 Yeah.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -263,8 +263,8 @@ My strength uh uh al-uh many customer they are come on my restaurant and I have 
 
 Uh-huh.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 And I can't get all of them because when they are coming I have just many uh less of seat
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -280,8 +280,8 @@ And I can't get all of them because when they are coming I have just many uh les
 
 Uh-huh.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 Because and I don't I don't have many I have people but I don't have seat. This my weakness.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -299,8 +299,8 @@ Because and I don't I don't have many I have people but I don't have seat. This 
 
 Yeah.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 And can I see your weakness maybe I will agree with you about your uh
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -352,8 +352,8 @@ Uh first of all uh some of Japanese people I get many employers over there like 
 
 Okay.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 Japanese people sometimes they are not respectful.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -369,8 +369,8 @@ Japanese people sometimes they are not respectful.
 
 Okay.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 NTA this uh also is expensive and its take long time to pick the order uh
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -386,8 +386,8 @@ NTA this uh also is expensive and its take long time to pick the order uh
 
 Okay.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 Sometimes if you eat
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -403,8 +403,8 @@ Sometimes if you eat
 
 Okay
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 in the week is boring
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -432,8 +432,8 @@ Okay now about my opportunity-my opportu
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 Uh many people famous they are come in my restaurant and uh many people healthy. And what's your uh opportunity?
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -487,8 +487,8 @@ Doc-doctors, uh famous people also they love sushi
 
 Okay
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 They come sometimes we take a picture
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -518,8 +518,8 @@ I agree with your famous people. Okay now about the threats
 
 Yeah.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 My threats is the weather because them some weather will be come and the people don't don't come in my restaurant.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -535,8 +535,8 @@ My threats is the weather because them some weather will be come and the people 
 
 Okay.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 And what's your uh weakness-uh what's your uh threats
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -563,16 +563,9 @@ My uh threats is the location.
         My uh threats is the location
 
 Uh okay.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        Uh okay
-    *ISFRAG_MissingFiniteVerb
-        Uh okay
-    *ISFRAG_MissingSubject
-        Uh okay
-    *ISFRAG_MissingVerb_FromMorph
-        Uh okay
-    *ISFRAG_MissingVerb_FromDep
-        Uh okay
+    ---NO_FRAGMENTS_ANY
+    >>>FORMULAIC_CHUNKS:
+        Uh okay  [two_word_patterns]
 
 Location is bad sometimes.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -664,8 +657,8 @@ And a lot of people love su-seafood more than sushi but I want to tell you somet
 
 Yes.
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yes
+    >>>FORMULAIC_CHUNKS:
+        Yes  [one_word_only]
 
 Yeah but I agree with you.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -732,8 +725,8 @@ Thank you so much, A.
 === FILE                                                    | ../../data/CCOT/WORK/22-232_231-S.txt
 === LINE COUNT                                              | 70
 === CHUNK/SENTENCE COUNT                                    | 117
-=== FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 16
-=== FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 12
-=== FRAG COUNT [ISFRAG_MissingSubject]                      | 13
-=== FRAG COUNT [ISFRAG_MissingVerb_FromMorph]               | 62
-=== FRAG COUNT [ISFRAG_MissingVerb_FromDep]                 | 62
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 15
+=== FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 11
+=== FRAG COUNT [ISFRAG_MissingSubject]                      | 12
+=== FRAG COUNT [ISFRAG_MissingVerb_FromMorph]               | 61
+=== FRAG COUNT [ISFRAG_MissingVerb_FromDep]                 | 61

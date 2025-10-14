@@ -3,35 +3,7 @@
 This is a file containing all the chunking and fragmentation checks for 01_split_by_sentence.py
 """
 
-# some basic formulaic patterns to check. Single words are automatically formulaic 
-# (see is_formulaic())
-FORMULAIC_PATTERNS = [
-    "uh huh",
-    "thank you",
-    "hello b",
-    "hello a",
-    "good morning",
-    "good night"
-]
 
-def is_formuliac(chunk):
-    """
-    This function checks if the chunk is considered "formulaic", thus not interesting
-    as a sentence fragment in our case
-
-    Args:
-        chunk (str): the chunk/sentence in question
-
-    Returns:
-        (boolean): True if formulaic, False otherwise
-    """
-    if len(chunk.strip().split()) == 1:
-        return True
-
-    for pattern in FORMULAIC_PATTERNS:
-        if chunk.strip().lower() == pattern:
-            return True
-    return False
 
 def CHUNK_by_sentence_period(line):
     """
@@ -49,32 +21,6 @@ def CHUNK_by_sentence_period(line):
     else:
         return [line]
 
-
-def ISFRAG_HasRELCL_NoNoun(sent):
-    """ 
-    checks if the spacy processed document is a fragment based on custom criteria
-    if has RELCL in token.dep_ and does not have NOUN in token.pos
-
-    Args:
-        sent (spacy nlp doc): the nlp parsed doc object of a sentence or chunk
-
-    Returns:
-        (boolean): True if the doc is a fragment, False if not
-    """
-    
-    """
-    Some questions:
-        any noun? pos or tag or both?
-        other dependancy stuff -- ACL etc
-    """
-    has_RELCL = False
-    has_noun = False
-
-    for token in sent:
-        if "NOUN" == token.pos:
-            has_noun = True
-    
-    return None
 
 def ISFRAG_MissingVerb_FromDep(sent):
     """ 
@@ -151,6 +97,7 @@ def ISFRAG_MissingFiniteVerb_or_MissingSubject(sent):
     # therefore:
     # this has the same truth table as (not has_subject or not has_finite_verb)
     return not (has_subject and has_finite_verb)
+
 
 
 def ISFRAG_MissingFiniteVerb(sent):

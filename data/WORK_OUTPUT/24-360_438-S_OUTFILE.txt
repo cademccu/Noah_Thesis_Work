@@ -36,8 +36,8 @@ Yes I want to put some uh monitor in uh our workplace
 
 Why?
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Why?
+    >>>FORMULAIC_CHUNKS:
+        Why?  [one_word_only]
 
 Uh in order to keep our company and uh employees uh safe
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -113,8 +113,8 @@ Yeah it's true uh but I can't agree with you
 
 Why?
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Why?
+    >>>FORMULAIC_CHUNKS:
+        Why?  [one_word_only]
 
 Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
     *ISFRAG_MissingFiniteVerb_or_MissingSubject

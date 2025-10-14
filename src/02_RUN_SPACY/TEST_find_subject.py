@@ -1,6 +1,6 @@
 
 
-from corpus_file_reader import CorpusFileReader
+from C01_corpus_file_reader import CorpusFileReader
 
 _file = "/Users/burnt/SPITE/CODE/noah_work/Noah_Thesis_Work/data/CCOT/WORK/22-232_231-S.txt"
 cfp = CorpusFileReader(_file)
@@ -19,7 +19,8 @@ while line:
     for sent in doc.sents:
         for word in sent:
             #print("   " + word + " | " + word.dep_)
-            print(word, word.dep_, word.tag_, word.pos_, word.morph)
+            print(word, word.dep_)
+            #print(word, word.dep_, word.tag_, word.pos_, word.morph)
     line = cfp.next_line()
 
 

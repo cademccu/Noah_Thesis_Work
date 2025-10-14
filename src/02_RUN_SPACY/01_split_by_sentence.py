@@ -1,15 +1,18 @@
 
 import sys
-sys.path.append("..")
+sys.path.append("..") # add the correct path
 
 import subprocess
 import os
 import spacy
 import re
 
-from corpus_file_reader import CorpusFileReader
 from CONFIGURATION import PATH_TO_CCOT, PATH_TO_DATA
-from A01_chunking_and_frag_checks import CHUNK_by_sentence_period, ISFRAG_MissingFiniteVerb_or_MissingSubject, ISFRAG_MissingFiniteVerb, ISFRAG_MissingSubject, ISFRAG_MissingVerb_FromMorph, ISFRAG_MissingVerb_FromDep, is_formuliac
+from A01_chunking_and_frag_checks import *
+from B01_formulaic_checks import is_formulaic
+from C01_corpus_file_reader import CorpusFileReader
+
+#CHUNK_by_sentence_period, ISFRAG_MissingFiniteVerb_or_MissingSubject, ISFRAG_MissingFiniteVerb, ISFRAG_MissingSubject, ISFRAG_MissingVerb_FromMorph, ISFRAG_MissingVerb_FromDep, is_formulaic
 
 
 
@@ -83,9 +86,10 @@ def _parse_file(infile, outfile, chunker, criteria_list):
             if len(chunk.strip()) == 0:
                 continue
 
-            # if the chunk is 'formuliac', we don't even want to check.
-            if is_formuliac(chunk):
-                formulaic_chunks.append(chunk)
+            # if the chunk is 'formulaic', we don't even want to check.
+            _is_formulaic, formulaic_descriptor = is_formulaic(chunk)
+            if _is_formulaic:
+                formulaic_chunks.append((chunk, formulaic_descriptor))
                 continue
 
             doc = nlp(chunk)
@@ -116,9 +120,9 @@ def _parse_file(infile, outfile, chunker, criteria_list):
             out.write(" " * 4 + "---NO_FRAGMENTS_ANY\n")
 
         if len(formulaic_chunks) > 0:
-            out.write(" " * 4 + ">>>FORMULIAC_CHUNKS:\n")
+            out.write(" " * 4 + ">>>FORMULAIC_CHUNKS:\n")
             for f_chunk in formulaic_chunks:
-                out.write(" " * 8 + f_chunk + "\n")
+                out.write(" " * 8 + f_chunk[0] + "  [" + f_chunk[1] + "]\n")
             
         out.write("\n")
         line = cfp.next_line()
@@ -154,8 +158,8 @@ def main():
         ISFRAG_MissingFiniteVerb_or_MissingSubject,
         ISFRAG_MissingFiniteVerb,
         ISFRAG_MissingSubject,
-        #ISFRAG_MissingVerb_FromMorph,
-        #ISFRAG_MissingVerb_FromDep
+        ISFRAG_MissingVerb_FromMorph,
+        ISFRAG_MissingVerb_FromDep
     ]
 
     # need to make this dir if doesnt exist
@@ -163,7 +167,7 @@ def main():
         subprocess.run(["mkdir", path_to_work_output])
     else:
         # it exists! clear it -- no globbing and also im lazy so -
-        for to_rm in subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_CCOT, "WORK_OUTPUT")]).decode("utf-8").split("\n"):
+        for to_rm in subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_DATA, "WORK_OUTPUT")]).decode("utf-8").split("\n"):
             if to_rm.endswith("_OUTFILE.txt"):
                 subprocess.run(["rm", os.path.join(path_to_work_output, to_rm)])
         
@@ -181,3 +185,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+

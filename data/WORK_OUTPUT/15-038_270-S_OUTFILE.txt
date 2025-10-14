@@ -84,8 +84,8 @@ Yeah yeah, I think that's one of most things like the hand shing-hand shaking
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 In America, that's mean when you are in the road and you are doing the hand shaking
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -101,8 +101,8 @@ In America, that's mean when you are in the road and you are doing the hand shak
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 That's mean you are want someone to take you to some point to some place
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -130,8 +130,8 @@ That's why that's why and when so-uh like the first time I came here, I didn't k
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 What this mean, Because you know, culture, that's mean you have to see your manager. Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -161,8 +161,8 @@ Yeah yeah You have to shaking them uh very hard
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 And you have to uh maybe you are meet him for the the the first time
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -202,8 +202,8 @@ Then I saw that I mentioned that is in America that's
 
 Yeah
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Yeah
+    >>>FORMULAIC_CHUNKS:
+        Yeah  [one_word_only]
 
 We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -219,8 +219,8 @@ We are doing that uh thumb up like when my exam, uh I asked my teacher about my 
 
 Uh-huh
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Uh-huh
+    >>>FORMULAIC_CHUNKS:
+        Uh-huh  [one_word_only]
 
 He said to me, that's mean you are doing great, and also the thumb uh down
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -286,8 +286,8 @@ She's doing the thumb down
 
 Ohh
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Ohh
+    >>>FORMULAIC_CHUNKS:
+        Ohh  [one_word_only]
 
 I I asked my classmate NTA
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -384,8 +384,8 @@ When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man t
 
 Okay
     ---NO_FRAGMENTS_ANY
-    >>>FORMULIAC_CHUNKS:
-        Okay
+    >>>FORMULAIC_CHUNKS:
+        Okay  [one_word_only]
 
 He said to me NTA
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
