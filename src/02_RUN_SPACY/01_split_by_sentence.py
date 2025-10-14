@@ -137,7 +137,7 @@ def _parse_file(infile, outfile, chunker, criteria_list):
     longest_name += 2 # to account for brackets in the dynamic method names
 
     f_string = "=== {:<" + str(longest_name) + "} | "
-    out.write(f_string.format("FILE") + infile + "\n")
+    out.write(f_string.format("FILENAME") + infile + "\n")
     out.write(f_string.format("LINE COUNT") + str(line_count) + "\n")
     out.write(f_string.format("CHUNK/SENTENCE COUNT") + str(chunk_count) + "\n")
     

@@ -192,7 +192,7 @@ Yes yes that's deal
 
 
 
-=== FILE                                                    | ../../data/CCOT/WORK/24-360_438-S.txt
+=== FILENAME                                                | ../../data/CCOT/WORK/24-360_438-S.txt
 === LINE COUNT                                              | 17
 === CHUNK/SENTENCE COUNT                                    | 18
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 2

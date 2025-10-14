@@ -595,7 +595,7 @@ Thank you, bye bye.
 
 
 
-=== FILE                                                    | ../../data/CCOT/WORK/15-038_270-S.txt
+=== FILENAME                                                | ../../data/CCOT/WORK/15-038_270-S.txt
 === LINE COUNT                                              | 53
 === CHUNK/SENTENCE COUNT                                    | 67
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 13
