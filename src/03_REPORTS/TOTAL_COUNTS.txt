@@ -1,0 +1,17 @@
+
+This is a file that returns the total counts of the processed files
+from the WORK_OUTPUT directory in data/
+
+
+
+LINE COUNT                                               11170
+CHUNK/SENTENCE COUNT                                     21995
+FORMULAIC COUNT                                          3197
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1728
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    1236
+FRAG COUNT [ISFRAG_MissingSubject]                       1529
+FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                13704
+FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  13704
+
+
+

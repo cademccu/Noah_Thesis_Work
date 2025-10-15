@@ -18,6 +18,8 @@ from C01_corpus_file_reader import CorpusFileReader
 
 # making this global because it deserves it
 nlp = spacy.load("en_core_web_lg")
+# making this global too because it also deserves it
+a_to_z_regex = re.compile(r'[^a-zA-Z\s]')
 
 def _get_func_name(_func):
     """
@@ -34,7 +36,7 @@ def _get_func_name(_func):
 
        
 
-def _parse_file(infile, outfile, chunker, criteria_list):
+def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     """
     this function takes a file, and reads it with the 'chunker' method, and then
     writes the relvant data and metadata to 'outfile'
@@ -46,6 +48,7 @@ def _parse_file(infile, outfile, chunker, criteria_list):
                         segments, be it sentence, comma, or something else.
                         (must return a plain text chunk, no nlp() docs)
         criteria (list<func>): a function that determines whether the sentence is a 'fragment' or not
+        formulaic_chunks (dict): the dictionary to store unique formulaic chunks and their counts
     """
 
     # open outfile 
@@ -54,6 +57,7 @@ def _parse_file(infile, outfile, chunker, criteria_list):
     # these variables will be for saving metadata
     line_count = 0
     chunk_count = 0
+    formulaic_count = 0
 
     fragment_count = {}
     fragment_chunks = {}
@@ -87,9 +91,8 @@ def _parse_file(infile, outfile, chunker, criteria_list):
                 continue
 
             # if the chunk is 'formulaic', we don't even want to check.
-            _is_formulaic, formulaic_descriptor = is_formulaic(chunk)
-            if _is_formulaic:
-                formulaic_chunks.append((chunk, formulaic_descriptor))
+            if is_formulaic(chunk):
+                formulaic_chunks.append(chunk)
                 continue
 
             doc = nlp(chunk)
@@ -120,9 +123,16 @@ def _parse_file(infile, outfile, chunker, criteria_list):
             out.write(" " * 4 + "---NO_FRAGMENTS_ANY\n")
 
         if len(formulaic_chunks) > 0:
+            formulaic_count += len(formulaic_chunks)
             out.write(" " * 4 + ">>>FORMULAIC_CHUNKS:\n")
             for f_chunk in formulaic_chunks:
-                out.write(" " * 8 + f_chunk[0] + "  [" + f_chunk[1] + "]\n")
+                out.write(" " * 8 + f_chunk + "\n")
+                # add to dict
+                f_chunk = f_chunk.strip().lower()
+                f_chunk = a_to_z_regex.sub('', f_chunk)
+                if f_chunk not in formulaic_chunks_dict:
+                    formulaic_chunks_dict[f_chunk] = 0
+                formulaic_chunks_dict[f_chunk] += 1
             
         out.write("\n")
         line = cfp.next_line()
@@ -140,6 +150,7 @@ def _parse_file(infile, outfile, chunker, criteria_list):
     out.write(f_string.format("FILENAME") + infile + "\n")
     out.write(f_string.format("LINE COUNT") + str(line_count) + "\n")
     out.write(f_string.format("CHUNK/SENTENCE COUNT") + str(chunk_count) + "\n")
+    out.write(f_string.format("FORMULAIC COUNT") + str(formulaic_count) + "\n")
     
     for key, value in fragment_count.items():
         out.write(("=== FRAG COUNT {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
@@ -150,6 +161,9 @@ def main():
     # paths
     path_to_work =        os.path.join(PATH_TO_CCOT, "WORK")
     path_to_work_output = os.path.join(PATH_TO_DATA, "WORK_OUTPUT")
+
+    # this is to store the unique formuliac chunks and their counts
+    formulaic_chunks = {}
 
     # list of functions to determine fragements -- every single on of these is a test on a 
     # chunk/sentence to determine if they are a fragment or not. the method name just needs
@@ -172,16 +186,26 @@ def main():
                 subprocess.run(["rm", os.path.join(path_to_work_output, to_rm)])
         
     # list working files
-    #files = subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_CCOT, "WORK")]).decode("utf-8").split("\n")
-    files = ["22-232_231-S.txt", "15-038_270-S.txt", "24-360_438-S.txt"] # selected at random
+    files = subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_CCOT, "WORK")]).decode("utf-8").split("\n")
+    #files = ["22-232_231-S.txt", "15-038_270-S.txt", "24-360_438-S.txt"] # selected at random
 
     for _file in files:
+        if len(_file.strip()) == 0:
+            continue
         infile = os.path.join(path_to_work, _file)
         outfile_stem = os.path.join(path_to_work_output, _file[:-4])
 
         # by sentence
-        _parse_file(infile, outfile_stem + "_OUTFILE.txt", CHUNK_by_sentence_period, is_fragment_list)
+        _parse_file(infile, outfile_stem + "_OUTFILE.txt", CHUNK_by_sentence_period, is_fragment_list, formulaic_chunks)
+    # sort the formulaic chunks
+    formulaic_chunks = {k: v for k, v in sorted(formulaic_chunks.items(), key=lambda item: item[1], reverse=True)}
 
+    formulaic_outfile = open("../03_REPORTS/FORMULAIC_LIST_UNIQUE.txt", "wt")
+
+    for key, value in formulaic_chunks.items():
+        formulaic_outfile.write(key + "   [" + str(value) + "]\n")
+
+    formulaic_outfile.close()
 
 if __name__ == "__main__":
     main()

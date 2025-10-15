@@ -7,7 +7,7 @@ import os
 from CONFIGURATION import PATH_TO_CCOT, PATH_TO_DATA
 
 
-output_file_path    = "TOTAL_COUNTS.txt"
+output_file_path    = "../03_REPORTS/TOTAL_COUNTS.txt"
 path_to_work_output = os.path.join(PATH_TO_DATA, "WORK_OUTPUT")
 
 fout = open(output_file_path, "wt") 

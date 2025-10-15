@@ -37,7 +37,7 @@ Yes I want to put some uh monitor in uh our workplace
 Why?
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
-        Why?  [one_word_only]
+        Why?
 
 Uh in order to keep our company and uh employees uh safe
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -114,7 +114,7 @@ Yeah it's true uh but I can't agree with you
 Why?
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
-        Why?  [one_word_only]
+        Why?
 
 Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
@@ -195,6 +195,7 @@ Yes yes that's deal
 === FILENAME                                                | ../../data/CCOT/WORK/24-360_438-S.txt
 === LINE COUNT                                              | 17
 === CHUNK/SENTENCE COUNT                                    | 18
+=== FORMULAIC COUNT                                         | 2
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 2
 === FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 2
 === FRAG COUNT [ISFRAG_MissingSubject]                      | 2

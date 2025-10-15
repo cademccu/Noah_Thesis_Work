@@ -41,6 +41,10 @@ echo "Running: 01_split_by_sentence.py"
 python3 01_split_by_sentence.py	
 echo "Done!"
 
+echo "Running: 02_get_counts.py"
+python3 02_get_counts.py	
+echo "Done!"
+
 cd ..
 
 

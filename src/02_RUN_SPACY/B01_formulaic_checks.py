@@ -79,9 +79,28 @@ def _check_formulaic_list(flist, chunk):
             return True
     return False
 
+
 def is_formulaic(chunk):
     """
     checks if a chunk is formulaic.
+
+    Args:
+        chunk (str): the chunk to test 
+
+    Returns:
+        (boolean): returns whether or not the chunk is consider formulaic
+    """
+            
+    # new criteria is just word length [1, 2]
+    if len(chunk.strip().split()) <= 2:
+        return True
+    return False
+
+
+def is_formulaic_OLD(chunk):
+    """
+    checks if a chunk is formulaic.
+    THIS IS NOT BEING USED CURRENTLY -- NOAH ONLY WANTS A LONG LIST NOW
 
     Args:
         chunk (str): the chunk to test 
