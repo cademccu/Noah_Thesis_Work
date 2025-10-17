@@ -54,6 +54,12 @@ class CorpusFileReader:
             self._METADATA = self._set_metadata(self._FILE)
         return self._METADATA
 
+    def get_speakers(self):
+        """
+        OH YEAH TURNS OUT WE NEED TO FETCH THE SPEAKERS FROM THE METADATA
+        """
+        pass
+
     def next_line(self):
         """
         Gets the next line in the file, or returns None if there are no more lines.

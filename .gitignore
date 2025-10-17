@@ -12,5 +12,6 @@ data/WORK_OUTPUT
 # including the data backup
 BACKUPS
 
-
+# this might be [confidential]
+src/01_CLEAN_FILES/CCOT_files_and_scores.csv
 

@@ -12,7 +12,7 @@ import subprocess
 
 def _swapper(filename):
     """
-    swaps temp file to regualr file, deletes old file
+    swaps temp file to regular file, deletes old file
 
     Args:
         filename(str): the root file path (without '.TMP' at the end)
@@ -124,6 +124,45 @@ line_add("21-477_502-S.txt", "NTA children uh the NTA children.  Uh I know that 
 
 line_add("22-431_268-S.txt", "Mexico food.  Uh for sure first thing it's there is a lot of Mexico people they live here in Flagstaff and most uh American people they like the Mexico food and uh the opportunity it's most the student most the people they live in Flagstaff they're students so they don't like to cook they just want eat.  Uh uh … outside … and uh yeah we have-I have uh two weakness-weaknesses.  Uh first is there is a lot many Mexico restaurant in Flagstaff.  Actually just one weakness .  So")
 
+
+
+
+
+# turns out we need the individual statistic for each person which include their ID and wether they
+# are A or B speaker so we (me) can grap sub corpora for analysis... 
+# these 10 files (in the supplimental text file) all are missing or have poorly formatted 
+# metadata on the speakers. I manually/programmatically compiled the list from the excel spreadsheet
+# and several hacky scripts.
+no_metadata_files = {}
+
+with open("03A_missing_metadata.txt", "rt") as f:
+    line = f.readline()
+    while line:
+        if len(line.strip()) == 0:
+            continue
+        line = line.split("|")
+        no_metadata_files[line[0].strip()] = {
+            "A":line[1].strip().split()[0],
+            "B":line[1].strip().split()[2]
+        }
+        line = f.readline()
+
+            
+for key, value in no_metadata_files.items():
+    tmp_file = open(os.path.join(PATH_TO_CCOT, "WORK", key + ".TMP"), "wt")
+    curr_file = open(os.path.join(PATH_TO_CCOT, "WORK", key), "rt")
+
+    # just add it to the top of the file, faster reads anyways
+    tmp_file.write("<Student A: " + key[0:2] + value["A"] + "; Student B: " + key[0:2] + value["B"] + ">\n")
+
+    line = curr_file.readline()
+    while line:
+        tmp_file.write(line)
+        line = curr_file.readline()
+
+    tmp_file.close()
+    curr_file.close()
+    _swapper(os.path.join(PATH_TO_CCOT, "WORK", key))
 
 
 

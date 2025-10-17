@@ -13,6 +13,9 @@ from CONFIGURATION import PATH_TO_CCOT
 
 
 
+
+
+
 # grab the untagged files from the directory
 untagged_files = subprocess.check_output(["ls", "-1", os.path.join(PATH_TO_CCOT, "CCOT_all_untagged")])
 
