@@ -37,15 +37,21 @@ cd ..
 
 cd 02_RUN_SPACY
 
-echo "Running: 01_split_by_sentence.py"
+echo "Running: 02_RUN_SPACY/01_split_by_sentence.py"
 python3 01_split_by_sentence.py	
 echo "Done!"
 
-echo "Running: 02_get_counts.py"
+echo "Running: 02_RUN_SPACY/02_get_counts.py"
 python3 02_get_counts.py	
 echo "Done!"
 
 cd ..
 
+cd 03_REPORTS
+echo "Running: 03_REPORTS/01_sub_corpus_stats.py"
+python3 01_sub_corpus_stats.py
+echo "Done!"
+
+cd ..
 
 echo "Finished running all code."

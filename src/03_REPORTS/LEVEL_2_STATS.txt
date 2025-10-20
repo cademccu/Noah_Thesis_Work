@@ -6,7 +6,8 @@ FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                7842
 FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  7842
 
 
-MATCHING FILES & MATCHING ID:800
+MATCHING FILES & MATCHING ID:
+num files: 800
 -----------------------------
 07-208_012-A_OUTFILE.txt | 012
 07-443_012-B_OUTFILE.txt | 012

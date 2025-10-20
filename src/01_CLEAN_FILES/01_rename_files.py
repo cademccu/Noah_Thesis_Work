@@ -14,10 +14,14 @@ from CONFIGURATION import PATH_TO_CCOT
 
 # another classic inconsistancy
 # cross verified with spreadsheet it should be 515
-os.rename(
-    os.path.join(PATH_TO_CCOT, "CCOT_all_untagged", "05443&0515._B.txt"),
-    os.path.join(PATH_TO_CCOT, "CCOT_all_untagged", "05443&05515_B.txt")
-)
+try:
+    # shouldnt have renamed this permanantly..
+    os.rename(
+        os.path.join(PATH_TO_CCOT, "CCOT_all_untagged", "05443&0515._B.txt"),
+        os.path.join(PATH_TO_CCOT, "CCOT_all_untagged", "05443&05515_B.txt")
+    )
+except FileNotFoundError:
+    print("[INFO]  05443&0515._B.txt already renamed to 05443&05515_B.txt")
 
 
 
