@@ -1,0 +1,26 @@
+FORMULAIC COUNT                                          18
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  8
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    4
+FRAG COUNT [ISFRAG_MissingSubject]                       7
+FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                95
+FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  95
+
+
+MATCHING FILES & MATCHING ID:14
+-----------------------------
+23-114_148-C_OUTFILE.txt | 114
+23-114_148-C_OUTFILE.txt | 148
+23-122_150-B_OUTFILE.txt | 150
+23-148_512-A_OUTFILE.txt | 148
+23-149_300-C_OUTFILE.txt | 149
+23-149_300-C_OUTFILE.txt | 300
+23-150_093-C_OUTFILE.txt | 093
+23-150_093-C_OUTFILE.txt | 150
+23-374_304-C_OUTFILE.txt | 304
+23-374_304-C_OUTFILE.txt | 374
+23-470_149-A_OUTFILE.txt | 149
+24-565_148-S_OUTFILE.txt | 565
+24-600_399-S_OUTFILE.txt | 399
+24-600_399-S_OUTFILE.txt | 600
+
+
