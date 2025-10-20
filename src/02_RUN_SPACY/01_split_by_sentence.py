@@ -59,13 +59,24 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     chunk_count = 0
     formulaic_count = 0
 
+    formulaic_count_A = 0
+    formulaic_count_B = 0
+
     fragment_count = {}
     fragment_chunks = {}
+
+    fragment_count_A = {}
+    fragment_count_B = {}
+    fragment_chunks_A = {}
+    fragment_chunks_B = {}
+    
     func_names = []
 
     for crit in criteria_list:
         name = _get_func_name(crit)
         fragment_count[name] = 0
+        fragment_count_A[name] = 0
+        fragment_count_B[name] = 0
         fragment_chunks[name] = []
         func_names.append(name)
 
@@ -73,18 +84,22 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     cfp = CorpusFileReader(infile)
     line = cfp.next_line()
 
-    while line:
+    while line[0]:
         line_count += 1
 
         # split into the chunks desired (some discourse present about what constitutes a clause or sentence)
-        chunks = chunker(line.strip())
+        chunks = chunker(line[1].strip())
         chunk_count += len(chunks)
 
         # reset the list
         for func_name in func_names:
             fragment_chunks[func_name] = []
+            fragment_chunks_A[func_name] = []
+            fragment_chunks_B[func_name] = []
         
         formulaic_chunks = [] 
+        formulaic_chunks_A = [] 
+        formulaic_chunks_B = [] 
 
         for chunk in chunks:
             if len(chunk.strip()) == 0:
@@ -93,6 +108,10 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
             # if the chunk is 'formulaic', we don't even want to check.
             if is_formulaic(chunk):
                 formulaic_chunks.append(chunk)
+                if line[0] == "A":
+                    formulaic_chunks_A.append(chunk)
+                else: # B
+                    formulaic_chunks_B.append(chunk)
                 continue
 
             doc = nlp(chunk)
@@ -101,9 +120,16 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
                     name = _get_func_name(crit_func)
                     fragment_count[name] += 1
                     fragment_chunks[name].append(chunk)
+                    if line[0] == "A":
+                        fragment_count_A[name] += 1
+                        fragment_chunks_A[name].append(chunk)
+                    else: # B
+                        fragment_count_B[name] += 1
+                        fragment_chunks_B[name].append(chunk)
+                        
 
         # write the initial line
-        out.write(line + "\n")
+        out.write(line[0] + ":  " + line[1] + "\n")
         
         # if none of the values have _any_ values, just write no fragments
         has_any_fragments = False
@@ -133,10 +159,17 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
                 if f_chunk not in formulaic_chunks_dict:
                     formulaic_chunks_dict[f_chunk] = 0
                 formulaic_chunks_dict[f_chunk] += 1
+
+        # we dont need to print these out specifically
+        formulaic_count_A += len(formulaic_chunks_A)
+        formulaic_count_B += len(formulaic_chunks_B)
+
             
         out.write("\n")
         line = cfp.next_line()
 
+    # get the info
+    speakers = cfp.get_speakers()
 
     out.write("\n\n")
 
@@ -150,12 +183,18 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     out.write(f_string.format("FILENAME") + infile + "\n")
     out.write(f_string.format("LINE COUNT") + str(line_count) + "\n")
     out.write(f_string.format("CHUNK/SENTENCE COUNT") + str(chunk_count) + "\n")
+
     out.write(f_string.format("FORMULAIC COUNT") + str(formulaic_count) + "\n")
+    out.write(f_string.format("FORMULAIC COUNT A" + speakers["A"]) + str(formulaic_count_A) + "\n")
+    out.write(f_string.format("FORMULAIC COUNT B" + speakers["B"]) + str(formulaic_count_B) + "\n")
     
     for key, value in fragment_count.items():
         out.write(("=== FRAG COUNT {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
 
-
+    for key, value in fragment_count_A.items():
+        out.write(("===== FRAG COUNT A" + speakers["A"] + " {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
+    for key, value in fragment_count_B.items():
+        out.write(("===== FRAG COUNT B" + speakers["B"] + " {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
 
 def main():
     # paths

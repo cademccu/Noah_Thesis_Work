@@ -1,0 +1,65 @@
+XXXXX|04-050_505-A.txt|505|050|<A is 04050; B is 04476>
+XXXXX|04-143_286-C.txt|286|143|<Student A is 04286; Student B is 04140>
+XXXXX|04-268_015-B.txt|015|268|<Student A is 04066; Student B is 04268>
+XXXXX|04-455_523-A.txt|523|455|<Student A is 04461; Student B is 04523>
+XXXXX|05-102_474-A.txt|474|102|<A is 05102; B is 05482>
+XXXXX|05-109_057-A.txt|057|109|<A is 05109; B is 05058>
+XXXXX|05-124_412-C.txt|412|124|<A is 05124; B is 05012>
+XXXXX|05-181_186-A.txt|186|181|<A is 05187; B is 05186>
+XXXXX|05-188_361-C.txt|361|188|<A is 05188; B is 05348>
+XXXXX|05-224_153-B.txt|153|224|<A is 05224; B is 05513>
+XXXXX|05-329_336-D.txt|336|329|<Student A is 05319; Student B is 05329>
+XXXXX|05-382_510-A.txt|510|382|<Student A is 05510; Student B is 05033>
+XXXXX|06-427_469-A.txt|469|427|<Student A is 06527; Student B is 06442>
+XXXXX|07-161_396-B.txt|396|161|<Student A is 07131; Student B is 07161>
+XXXXX|07-258_020-B.txt|020|258|<Student A is 07258; Student B is 07048>
+XXXXX|07-429_596-B.txt|596|429|<Student A is 07351; Student B is 07429>
+XXXXX|08-164_133-S.txt|133|164|<Student A: 08166; Student B: 08133>
+XXXXX|08-449_524-S.txt|524|449|<A is 08449; B is 08516>
+XXXXX|09-153_591-S.txt|591|153|<Student A is 09153; Student B is 09163>
+XXXXX|09-452_424-S.txt|424|452|<Student A is 09452; Student B is 09420>
+XXXXX|10-517_303-S.txt|303|517|<Student A: 08303; Student B: 08483>
+XXXXX|11-554_489-S.txt|489|554|<Student A is 11552; Student B is 11489>
+XXXXX|12-162_058-B.txt|058|162|<A is 12057; B is 12162>
+XXXXX|12-223_029-A.txt|029|223|<Student A is 12029; Student B is 12222>
+XXXXX|12-564_177-B.txt|177|564|<A is 12177; B is 12538>
+XXXXX|13-068_309-S.txt|309|068|<A is 13218; B is 13068>
+XXXXX|16-064_113-S.txt|113|064|<Student A is 16059; Student B is 16113>
+XXXXX|16-522_551-S.txt|551|522|<Student A is 16315; Student B is 16551>
+XXXXX|17-148_159-S.txt|159|148|<Student A is 17148; Student B is 17590>
+XXXXX|17-354_573-S.txt|573|354|<Student A is 17571; Student B is 17354>
+XXXXX|17-441_588-S.txt|588|441|<Student A is 17444; Student B is 17588>
+XXXXX|18-049_162-S.txt|162|049|<Student A is 18162; Student B is 18058>
+XXXXX|18-381_296-S.txt|296|381|<Student A is 18271; Student B is 18381>
+XXXXX|18-510_033-S.txt|033|510|<Student A is 18510; Student B is 18382>
+XXXXX|18-573_435-S.txt|435|573|<Student A is 18573; Student B is 18026>
+XXXXX|19-305_349-p.txt|349|305|<A is 19341; B is 19305>
+XXXXX|19-360_588-p.txt|588|360|<A is 19588; B is 19542>
+XXXXX|19-462_407-p.txt|407|462|<A is 19438; B is 19407>
+XXXXX|20-159_444-A.txt|444|159|<A is 20154; B is 20444>
+XXXXX|20-524_590-B.txt|590|524|<Student A is 20154; Student B is 20524>
+XXXXX|21-163_516-S.txt|516|163|<Student A is 21163; Student B is 21524>
+XXXXX|21-360_437-S.txt|437|360|<Student A is 21542; Student B is 21437>
+XXXXX|21-361_152-S.txt|152|361|<Student A is 21348; Student B is 21152>
+XXXXX|21-371_094-S.txt|094|371|<Student A is 21334; Student B is 21094>
+XXXXX|21-477_502-S.txt|502|477|<Student A is 21582; Student B is 21037>
+XXXXX|21-538_507-S.txt|507|538|<Student A is 21357; Student B is 21538>
+XXXXX|22-095_511-S.txt|511|095|<A is 22094; B is 22511>
+XXXXX|22-096_364-S.txt|364|096|<A is A22041; B is 22096>
+XXXXX|22-389_228-S.txt|228|389|<A is 22387; B is 22228>
+XXXXX|22-415_466-S.txt|466|415|<A is 22414; B is 22466>
+XXXXX|22-527_153-S.txt|153|527|<A is 22242; B is 22153>
+XXXXX|23-032_082-B.txt|082|032|<Student A: 23032 and Student B: 23024>
+XXXXX|23-144_008-A.txt|008|144|<A is 23346; B is 23144>
+XXXXX|23-158_166-A.txt|166|158|<Student A: 23164 and Student B: 23158>
+XXXXX|23-201_007-B.txt|007|201|<A is 23034; B is 23201>
+XXXXX|23-322_403-A.txt|403|322|<Student A: 23322 and Student B: 23556>
+XXXXX|23-334_539-A.txt|539|334|<A is 05539; B is 05371>
+XXXXX|23-349_305-A.txt|305|349|<Student A: 23341 and Student B: 23305>
+XXXXX|23-498_282-B.txt|282|498|<Student A: 23350 and Student B: 23282>
+XXXXX|24-234_297-S.txt|297|234|<Student A is 24297; Student B is 24090>
+XXXXX|24-565_148-S.txt|148|565|<Student A is 24565; Student B is 24184>
+XXXXX|25-028_027-S.txt|027|028|<Student A: 25028 and Student B: 25022>
+XXXXX|25-297_234-S.txt|234|297|<Student A: 25297 and Student B: 25090>
+XXXXX|25-413_054-S.txt|054|413|<Student A: 25486 and Student B: 25054>
+XXXXX|25-438_542-S.txt|542|438|<Student A: 25438 and Student B: 25360>

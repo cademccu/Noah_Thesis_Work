@@ -1,7 +1,634 @@
+/Users/burnt/SPITE/CODE/noah_work/Noah_Thesis_Work/src
+Running: 01_CLEAN_FILES/01_rename_files.py
+Done!
+Running: 01_CLEAN_FILES/02_replace_special_chars.py
+Done!
+Running: 01_CLEAN_FILES/03_special_cases.py
+Done!
+Running: 01_split_by_sentence.py
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/04-050_505-A.txt
+LINE:     <A is 04050; B is 04476>
 
-This is a file that returns the total counts of the processed files
-from the WORK_OUTPUT directory in data/
+NUM_1:    505
+NUM_2:    050
 
+fix_metadata_id("04-050_505-A.txt", "<A is 04050; B is 04476>", "<A is 04; B is 04>")
+XXXXX|04-050_505-A.txt|505|050|<A is 04050; B is 04476>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/04-143_286-C.txt
+LINE:     <Student A is 04286; Student B is 04140>
+
+NUM_1:    286
+NUM_2:    143
+
+fix_metadata_id("04-143_286-C.txt", "<Student A is 04286; Student B is 04140>", "<A is 04; B is 04>")
+XXXXX|04-143_286-C.txt|286|143|<Student A is 04286; Student B is 04140>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/04-268_015-B.txt
+LINE:     <Student A is 04066; Student B is 04268>
+
+NUM_1:    015
+NUM_2:    268
+
+fix_metadata_id("04-268_015-B.txt", "<Student A is 04066; Student B is 04268>", "<A is 04; B is 04>")
+XXXXX|04-268_015-B.txt|015|268|<Student A is 04066; Student B is 04268>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/04-455_523-A.txt
+LINE:     <Student A is 04461; Student B is 04523>
+
+NUM_1:    523
+NUM_2:    455
+
+fix_metadata_id("04-455_523-A.txt", "<Student A is 04461; Student B is 04523>", "<A is 04; B is 04>")
+XXXXX|04-455_523-A.txt|523|455|<Student A is 04461; Student B is 04523>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/04-594_228-A.txt
+LINE:     <A is 04594; B is 04087>
+
+NUM_1:    228
+NUM_2:    594
+
+fix_metadata_id("04-594_228-A.txt", "<A is 04594; B is 04087>", "<A is 04; B is 04>")
+XXXXX|04-594_228-A.txt|228|594|<A is 04594; B is 04087>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-102_474-A.txt
+LINE:     <A is 05102; B is 05482> 
+
+NUM_1:    474
+NUM_2:    102
+
+fix_metadata_id("05-102_474-A.txt", "<A is 05102; B is 05482>", "<A is 05; B is 05>")
+XXXXX|05-102_474-A.txt|474|102|<A is 05102; B is 05482>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-109_057-A.txt
+LINE:     <A is 05109; B is 05058> 
+
+NUM_1:    057
+NUM_2:    109
+
+fix_metadata_id("05-109_057-A.txt", "<A is 05109; B is 05058>", "<A is 05; B is 05>")
+XXXXX|05-109_057-A.txt|057|109|<A is 05109; B is 05058>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-124_412-C.txt
+LINE:     <A is 05124; B is 05012>
+
+NUM_1:    412
+NUM_2:    124
+
+fix_metadata_id("05-124_412-C.txt", "<A is 05124; B is 05012>", "<A is 05; B is 05>")
+XXXXX|05-124_412-C.txt|412|124|<A is 05124; B is 05012>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-181_186-A.txt
+LINE:     <A is 05187; B is 05186>
+
+NUM_1:    186
+NUM_2:    181
+
+fix_metadata_id("05-181_186-A.txt", "<A is 05187; B is 05186>", "<A is 05; B is 05>")
+XXXXX|05-181_186-A.txt|186|181|<A is 05187; B is 05186>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-188_361-C.txt
+LINE:     <A is 05188; B is 05348>
+
+NUM_1:    361
+NUM_2:    188
+
+fix_metadata_id("05-188_361-C.txt", "<A is 05188; B is 05348>", "<A is 05; B is 05>")
+XXXXX|05-188_361-C.txt|361|188|<A is 05188; B is 05348>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-224_153-B.txt
+LINE:     <A is 05224; B is 05513> 
+
+NUM_1:    153
+NUM_2:    224
+
+fix_metadata_id("05-224_153-B.txt", "<A is 05224; B is 05513>", "<A is 05; B is 05>")
+XXXXX|05-224_153-B.txt|153|224|<A is 05224; B is 05513>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-329_336-D.txt
+LINE:     <Student A is 05319; Student B is 05329>
+
+NUM_1:    336
+NUM_2:    329
+
+fix_metadata_id("05-329_336-D.txt", "<Student A is 05319; Student B is 05329>", "<A is 05; B is 05>")
+XXXXX|05-329_336-D.txt|336|329|<Student A is 05319; Student B is 05329>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-382_510-A.txt
+LINE:     <Student A is 05510; Student B is 05033>
+
+NUM_1:    510
+NUM_2:    382
+
+fix_metadata_id("05-382_510-A.txt", "<Student A is 05510; Student B is 05033>", "<A is 05; B is 05>")
+XXXXX|05-382_510-A.txt|510|382|<Student A is 05510; Student B is 05033>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/05-499_079-C.txt
+LINE:     <A is 05596; B is 05079>
+
+NUM_1:    079
+NUM_2:    499
+
+fix_metadata_id("05-499_079-C.txt", "<A is 05596; B is 05079>", "<A is 05; B is 05>")
+XXXXX|05-499_079-C.txt|079|499|<A is 05596; B is 05079>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/06-427_469-A.txt
+LINE:     <Student A is 06527; Student B is 06442>
+
+NUM_1:    469
+NUM_2:    427
+
+fix_metadata_id("06-427_469-A.txt", "<Student A is 06527; Student B is 06442>", "<A is 06; B is 06>")
+XXXXX|06-427_469-A.txt|469|427|<Student A is 06527; Student B is 06442>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/07-161_396-B.txt
+LINE:     <Student A is 07131; Student B is 07161>
+
+NUM_1:    396
+NUM_2:    161
+
+fix_metadata_id("07-161_396-B.txt", "<Student A is 07131; Student B is 07161>", "<A is 07; B is 07>")
+XXXXX|07-161_396-B.txt|396|161|<Student A is 07131; Student B is 07161>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/07-258_020-B.txt
+LINE:     <Student A is 07258; Student B is 07048>
+
+NUM_1:    020
+NUM_2:    258
+
+fix_metadata_id("07-258_020-B.txt", "<Student A is 07258; Student B is 07048>", "<A is 07; B is 07>")
+XXXXX|07-258_020-B.txt|020|258|<Student A is 07258; Student B is 07048>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/07-429_596-B.txt
+LINE:     <Student A is 07351; Student B is 07429>
+
+NUM_1:    596
+NUM_2:    429
+
+fix_metadata_id("07-429_596-B.txt", "<Student A is 07351; Student B is 07429>", "<A is 07; B is 07>")
+XXXXX|07-429_596-B.txt|596|429|<Student A is 07351; Student B is 07429>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/08-164_133-S.txt
+LINE:     <Student A: 08166; Student B: 08133>
+
+NUM_1:    133
+NUM_2:    164
+
+fix_metadata_id("08-164_133-S.txt", "<Student A: 08166; Student B: 08133>", "<A is 08; B is 08>")
+XXXXX|08-164_133-S.txt|133|164|<Student A: 08166; Student B: 08133>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/08-449_524-S.txt
+LINE:     <A is 08449; B is 08516>
+
+NUM_1:    524
+NUM_2:    449
+
+fix_metadata_id("08-449_524-S.txt", "<A is 08449; B is 08516>", "<A is 08; B is 08>")
+XXXXX|08-449_524-S.txt|524|449|<A is 08449; B is 08516>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/09-153_591-S.txt
+LINE:     <Student A is 09153; Student B is 09163>
+
+NUM_1:    591
+NUM_2:    153
+
+fix_metadata_id("09-153_591-S.txt", "<Student A is 09153; Student B is 09163>", "<A is 09; B is 09>")
+XXXXX|09-153_591-S.txt|591|153|<Student A is 09153; Student B is 09163>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/09-452_424-S.txt
+LINE:     <Student A is 09452; Student B is 09420>
+
+NUM_1:    424
+NUM_2:    452
+
+fix_metadata_id("09-452_424-S.txt", "<Student A is 09452; Student B is 09420>", "<A is 09; B is 09>")
+XXXXX|09-452_424-S.txt|424|452|<Student A is 09452; Student B is 09420>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/10-517_303-S.txt
+LINE:     <Student A: 08303; Student B: 08483>
+
+NUM_1:    303
+NUM_2:    517
+
+fix_metadata_id("10-517_303-S.txt", "<Student A: 08303; Student B: 08483>", "<A is 10; B is 10>")
+XXXXX|10-517_303-S.txt|303|517|<Student A: 08303; Student B: 08483>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/11-554_489-S.txt
+LINE:     <Student A is 11552; Student B is 11489>
+
+NUM_1:    489
+NUM_2:    554
+
+fix_metadata_id("11-554_489-S.txt", "<Student A is 11552; Student B is 11489>", "<A is 11; B is 11>")
+XXXXX|11-554_489-S.txt|489|554|<Student A is 11552; Student B is 11489>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/12-162_058-B.txt
+LINE:     <A is 12057; B is 12162>
+
+NUM_1:    058
+NUM_2:    162
+
+fix_metadata_id("12-162_058-B.txt", "<A is 12057; B is 12162>", "<A is 12; B is 12>")
+XXXXX|12-162_058-B.txt|058|162|<A is 12057; B is 12162>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/12-223_029-A.txt
+LINE:     <Student A is 12029; Student B is 12222>
+
+NUM_1:    029
+NUM_2:    223
+
+fix_metadata_id("12-223_029-A.txt", "<Student A is 12029; Student B is 12222>", "<A is 12; B is 12>")
+XXXXX|12-223_029-A.txt|029|223|<Student A is 12029; Student B is 12222>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/12-564_177-B.txt
+LINE:     <A is 12177; B is 12538>
+
+NUM_1:    177
+NUM_2:    564
+
+fix_metadata_id("12-564_177-B.txt", "<A is 12177; B is 12538>", "<A is 12; B is 12>")
+XXXXX|12-564_177-B.txt|177|564|<A is 12177; B is 12538>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/13-068_309-S.txt
+LINE:     <A is 13218; B is 13068>
+
+NUM_1:    309
+NUM_2:    068
+
+fix_metadata_id("13-068_309-S.txt", "<A is 13218; B is 13068>", "<A is 13; B is 13>")
+XXXXX|13-068_309-S.txt|309|068|<A is 13218; B is 13068>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/16-064_113-S.txt
+LINE:     <Student A is 16059; Student B is 16113>
+
+NUM_1:    113
+NUM_2:    064
+
+fix_metadata_id("16-064_113-S.txt", "<Student A is 16059; Student B is 16113>", "<A is 16; B is 16>")
+XXXXX|16-064_113-S.txt|113|064|<Student A is 16059; Student B is 16113>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/16-103_137-S.txt
+LINE:     <Student A is 16103; Student B is 16044>
+
+NUM_1:    137
+NUM_2:    103
+
+fix_metadata_id("16-103_137-S.txt", "<Student A is 16103; Student B is 16044>", "<A is 16; B is 16>")
+XXXXX|16-103_137-S.txt|137|103|<Student A is 16103; Student B is 16044>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/16-522_551-S.txt
+LINE:     <Student A is 16315; Student B is 16551>
+
+NUM_1:    551
+NUM_2:    522
+
+fix_metadata_id("16-522_551-S.txt", "<Student A is 16315; Student B is 16551>", "<A is 16; B is 16>")
+XXXXX|16-522_551-S.txt|551|522|<Student A is 16315; Student B is 16551>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/17-148_159-S.txt
+LINE:     <Student A is 17148; Student B is 17590>
+
+NUM_1:    159
+NUM_2:    148
+
+fix_metadata_id("17-148_159-S.txt", "<Student A is 17148; Student B is 17590>", "<A is 17; B is 17>")
+XXXXX|17-148_159-S.txt|159|148|<Student A is 17148; Student B is 17590>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/17-354_573-S.txt
+LINE:     <Student A is 17571; Student B is 17354>
+
+NUM_1:    573
+NUM_2:    354
+
+fix_metadata_id("17-354_573-S.txt", "<Student A is 17571; Student B is 17354>", "<A is 17; B is 17>")
+XXXXX|17-354_573-S.txt|573|354|<Student A is 17571; Student B is 17354>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/17-441_588-S.txt
+LINE:     <Student A is 17444; Student B is 17588>
+
+NUM_1:    588
+NUM_2:    441
+
+fix_metadata_id("17-441_588-S.txt", "<Student A is 17444; Student B is 17588>", "<A is 17; B is 17>")
+XXXXX|17-441_588-S.txt|588|441|<Student A is 17444; Student B is 17588>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/18-049_162-S.txt
+LINE:     <Student A is 18162; Student B is 18058>
+
+NUM_1:    162
+NUM_2:    049
+
+fix_metadata_id("18-049_162-S.txt", "<Student A is 18162; Student B is 18058>", "<A is 18; B is 18>")
+XXXXX|18-049_162-S.txt|162|049|<Student A is 18162; Student B is 18058>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/18-381_296-S.txt
+LINE:     <Student A is 18271; Student B is 18381>
+
+NUM_1:    296
+NUM_2:    381
+
+fix_metadata_id("18-381_296-S.txt", "<Student A is 18271; Student B is 18381>", "<A is 18; B is 18>")
+XXXXX|18-381_296-S.txt|296|381|<Student A is 18271; Student B is 18381>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/18-510_033-S.txt
+LINE:     <Student A is 18510; Student B is 18382>
+
+NUM_1:    033
+NUM_2:    510
+
+fix_metadata_id("18-510_033-S.txt", "<Student A is 18510; Student B is 18382>", "<A is 18; B is 18>")
+XXXXX|18-510_033-S.txt|033|510|<Student A is 18510; Student B is 18382>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/18-573_435-S.txt
+LINE:     <Student A is 18573; Student B is 18026>
+
+NUM_1:    435
+NUM_2:    573
+
+fix_metadata_id("18-573_435-S.txt", "<Student A is 18573; Student B is 18026>", "<A is 18; B is 18>")
+XXXXX|18-573_435-S.txt|435|573|<Student A is 18573; Student B is 18026>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/19-305_349-p.txt
+LINE:     <A is 19341; B is 19305>
+
+NUM_1:    349
+NUM_2:    305
+
+fix_metadata_id("19-305_349-p.txt", "<A is 19341; B is 19305>", "<A is 19; B is 19>")
+XXXXX|19-305_349-p.txt|349|305|<A is 19341; B is 19305>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/19-360_588-p.txt
+LINE:     <A is 19588; B is 19542>
+
+NUM_1:    588
+NUM_2:    360
+
+fix_metadata_id("19-360_588-p.txt", "<A is 19588; B is 19542>", "<A is 19; B is 19>")
+XXXXX|19-360_588-p.txt|588|360|<A is 19588; B is 19542>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/19-462_407-p.txt
+LINE:     <A is 19438; B is 19407>
+
+NUM_1:    407
+NUM_2:    462
+
+fix_metadata_id("19-462_407-p.txt", "<A is 19438; B is 19407>", "<A is 19; B is 19>")
+XXXXX|19-462_407-p.txt|407|462|<A is 19438; B is 19407>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/20-159_444-A.txt
+LINE:     <A is 20154; B is 20444> 
+
+NUM_1:    444
+NUM_2:    159
+
+fix_metadata_id("20-159_444-A.txt", "<A is 20154; B is 20444>", "<A is 20; B is 20>")
+XXXXX|20-159_444-A.txt|444|159|<A is 20154; B is 20444>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/20-524_590-B.txt
+LINE:     <Student A is 20154; Student B is 20524>
+
+NUM_1:    590
+NUM_2:    524
+
+fix_metadata_id("20-524_590-B.txt", "<Student A is 20154; Student B is 20524>", "<A is 20; B is 20>")
+XXXXX|20-524_590-B.txt|590|524|<Student A is 20154; Student B is 20524>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/20-573_399-A.txt
+LINE:     <A is 20571; B is 20399> 
+
+NUM_1:    399
+NUM_2:    573
+
+fix_metadata_id("20-573_399-A.txt", "<A is 20571; B is 20399>", "<A is 20; B is 20>")
+XXXXX|20-573_399-A.txt|399|573|<A is 20571; B is 20399>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-163_516-S.txt
+LINE:     <Student A is 21163; Student B is 21524>
+
+NUM_1:    516
+NUM_2:    163
+
+fix_metadata_id("21-163_516-S.txt", "<Student A is 21163; Student B is 21524>", "<A is 21; B is 21>")
+XXXXX|21-163_516-S.txt|516|163|<Student A is 21163; Student B is 21524>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-360_437-S.txt
+LINE:     <Student A is 21542; Student B is 21437>
+
+NUM_1:    437
+NUM_2:    360
+
+fix_metadata_id("21-360_437-S.txt", "<Student A is 21542; Student B is 21437>", "<A is 21; B is 21>")
+XXXXX|21-360_437-S.txt|437|360|<Student A is 21542; Student B is 21437>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-361_152-S.txt
+LINE:     <Student A is 21348; Student B is 21152>
+
+NUM_1:    152
+NUM_2:    361
+
+fix_metadata_id("21-361_152-S.txt", "<Student A is 21348; Student B is 21152>", "<A is 21; B is 21>")
+XXXXX|21-361_152-S.txt|152|361|<Student A is 21348; Student B is 21152>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-371_094-S.txt
+LINE:     <Student A is 21334; Student B is 21094>
+
+NUM_1:    094
+NUM_2:    371
+
+fix_metadata_id("21-371_094-S.txt", "<Student A is 21334; Student B is 21094>", "<A is 21; B is 21>")
+XXXXX|21-371_094-S.txt|094|371|<Student A is 21334; Student B is 21094>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-477_502-S.txt
+LINE:     <Student A is 21582; Student B is 21037>
+
+NUM_1:    502
+NUM_2:    477
+
+fix_metadata_id("21-477_502-S.txt", "<Student A is 21582; Student B is 21037>", "<A is 21; B is 21>")
+XXXXX|21-477_502-S.txt|502|477|<Student A is 21582; Student B is 21037>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/21-538_507-S.txt
+LINE:     <Student A is 21357; Student B is 21538>
+
+NUM_1:    507
+NUM_2:    538
+
+fix_metadata_id("21-538_507-S.txt", "<Student A is 21357; Student B is 21538>", "<A is 21; B is 21>")
+XXXXX|21-538_507-S.txt|507|538|<Student A is 21357; Student B is 21538>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/22-095_511-S.txt
+LINE:     <A is 22094; B is 22511>
+
+NUM_1:    511
+NUM_2:    095
+
+fix_metadata_id("22-095_511-S.txt", "<A is 22094; B is 22511>", "<A is 22; B is 22>")
+XXXXX|22-095_511-S.txt|511|095|<A is 22094; B is 22511>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/22-096_364-S.txt
+LINE:     <A is A22041; B is 22096>
+
+NUM_1:    364
+NUM_2:    096
+
+fix_metadata_id("22-096_364-S.txt", "<A is A22041; B is 22096>", "<A is 22; B is 22>")
+XXXXX|22-096_364-S.txt|364|096|<A is A22041; B is 22096>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/22-389_228-S.txt
+LINE:     <A is 22387; B is 22228>
+
+NUM_1:    228
+NUM_2:    389
+
+fix_metadata_id("22-389_228-S.txt", "<A is 22387; B is 22228>", "<A is 22; B is 22>")
+XXXXX|22-389_228-S.txt|228|389|<A is 22387; B is 22228>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/22-415_466-S.txt
+LINE:     <A is 22414; B is 22466>
+
+NUM_1:    466
+NUM_2:    415
+
+fix_metadata_id("22-415_466-S.txt", "<A is 22414; B is 22466>", "<A is 22; B is 22>")
+XXXXX|22-415_466-S.txt|466|415|<A is 22414; B is 22466>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/22-527_153-S.txt
+LINE:     <A is 22242; B is 22153>
+
+NUM_1:    153
+NUM_2:    527
+
+fix_metadata_id("22-527_153-S.txt", "<A is 22242; B is 22153>", "<A is 22; B is 22>")
+XXXXX|22-527_153-S.txt|153|527|<A is 22242; B is 22153>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-032_082-B.txt
+LINE:     <Student A: 23032 and Student B: 23024>
+
+NUM_1:    082
+NUM_2:    032
+
+fix_metadata_id("23-032_082-B.txt", "<Student A: 23032 and Student B: 23024>", "<A is 23; B is 23>")
+XXXXX|23-032_082-B.txt|082|032|<Student A: 23032 and Student B: 23024>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-144_008-A.txt
+LINE:     <A is 23346; B is 23144>
+
+NUM_1:    008
+NUM_2:    144
+
+fix_metadata_id("23-144_008-A.txt", "<A is 23346; B is 23144>", "<A is 23; B is 23>")
+XXXXX|23-144_008-A.txt|008|144|<A is 23346; B is 23144>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-158_166-A.txt
+LINE:     <Student A: 23164 and Student B: 23158>
+
+NUM_1:    166
+NUM_2:    158
+
+fix_metadata_id("23-158_166-A.txt", "<Student A: 23164 and Student B: 23158>", "<A is 23; B is 23>")
+XXXXX|23-158_166-A.txt|166|158|<Student A: 23164 and Student B: 23158>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-201_007-B.txt
+LINE:     <A is 23034; B is 23201>
+
+NUM_1:    007
+NUM_2:    201
+
+fix_metadata_id("23-201_007-B.txt", "<A is 23034; B is 23201>", "<A is 23; B is 23>")
+XXXXX|23-201_007-B.txt|007|201|<A is 23034; B is 23201>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-322_403-A.txt
+LINE:     <Student A: 23322 and Student B: 23556>
+
+NUM_1:    403
+NUM_2:    322
+
+fix_metadata_id("23-322_403-A.txt", "<Student A: 23322 and Student B: 23556>", "<A is 23; B is 23>")
+XXXXX|23-322_403-A.txt|403|322|<Student A: 23322 and Student B: 23556>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-334_539-A.txt
+LINE:     <A is 05539; B is 05371>
+
+NUM_1:    539
+NUM_2:    334
+
+fix_metadata_id("23-334_539-A.txt", "<A is 05539; B is 05371>", "<A is 23; B is 23>")
+XXXXX|23-334_539-A.txt|539|334|<A is 05539; B is 05371>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-349_305-A.txt
+LINE:     <Student A: 23341 and Student B: 23305>
+
+NUM_1:    305
+NUM_2:    349
+
+fix_metadata_id("23-349_305-A.txt", "<Student A: 23341 and Student B: 23305>", "<A is 23; B is 23>")
+XXXXX|23-349_305-A.txt|305|349|<Student A: 23341 and Student B: 23305>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/23-498_282-B.txt
+LINE:     <Student A: 23350 and Student B: 23282>
+
+NUM_1:    282
+NUM_2:    498
+
+fix_metadata_id("23-498_282-B.txt", "<Student A: 23350 and Student B: 23282>", "<A is 23; B is 23>")
+XXXXX|23-498_282-B.txt|282|498|<Student A: 23350 and Student B: 23282>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/24-234_297-S.txt
+LINE:     <Student A is 24297; Student B is 24090>
+
+NUM_1:    297
+NUM_2:    234
+
+fix_metadata_id("24-234_297-S.txt", "<Student A is 24297; Student B is 24090>", "<A is 24; B is 24>")
+XXXXX|24-234_297-S.txt|297|234|<Student A is 24297; Student B is 24090>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/24-565_148-S.txt
+LINE:     <Student A is 24565; Student B is 24184>
+
+NUM_1:    148
+NUM_2:    565
+
+fix_metadata_id("24-565_148-S.txt", "<Student A is 24565; Student B is 24184>", "<A is 24; B is 24>")
+XXXXX|24-565_148-S.txt|148|565|<Student A is 24565; Student B is 24184>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/25-028_027-S.txt
+LINE:     <Student A: 25028 and Student B: 25022>
+
+NUM_1:    027
+NUM_2:    028
+
+fix_metadata_id("25-028_027-S.txt", "<Student A: 25028 and Student B: 25022>", "<A is 25; B is 25>")
+XXXXX|25-028_027-S.txt|027|028|<Student A: 25028 and Student B: 25022>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/25-297_234-S.txt
+LINE:     <Student A: 25297 and Student B: 25090>
+
+NUM_1:    234
+NUM_2:    297
+
+fix_metadata_id("25-297_234-S.txt", "<Student A: 25297 and Student B: 25090>", "<A is 25; B is 25>")
+XXXXX|25-297_234-S.txt|234|297|<Student A: 25297 and Student B: 25090>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/25-413_054-S.txt
+LINE:     <Student A: 25486 and Student B: 25054>
+
+NUM_1:    054
+NUM_2:    413
+
+fix_metadata_id("25-413_054-S.txt", "<Student A: 25486 and Student B: 25054>", "<A is 25; B is 25>")
+XXXXX|25-413_054-S.txt|054|413|<Student A: 25486 and Student B: 25054>
+Error in searching for speakers in metadata:
+FILENAME: ../../data/CCOT/WORK/25-438_542-S.txt
+LINE:     <Student A: 25438 and Student B: 25360>
+
+NUM_1:    542
+NUM_2:    438
+
+fix_metadata_id("25-438_542-S.txt", "<Student A: 25438 and Student B: 25360>", "<A is 25; B is 25>")
+XXXXX|25-438_542-S.txt|542|438|<Student A: 25438 and Student B: 25360>
+Done!
+Running: 02_get_counts.py
 
 
 LINE COUNT                                               11218
@@ -52,25 +679,25 @@ FORMULAIC COUNT A277                                     4
 FORMULAIC COUNT B120                                     0
 FORMULAIC COUNT A121                                     1
 FORMULAIC COUNT B216                                     1
-FORMULAIC COUNT A153                                     11
+FORMULAIC COUNT A153                                     4
 FORMULAIC COUNT B128                                     0
 FORMULAIC COUNT A142                                     3
 FORMULAIC COUNT B131                                     6
 FORMULAIC COUNT A582                                     2
 FORMULAIC COUNT B134                                     4
-FORMULAIC COUNT A144                                     12
+FORMULAIC COUNT A144                                     10
 FORMULAIC COUNT B346                                     11
 FORMULAIC COUNT A350                                     0
 FORMULAIC COUNT B145                                     1
 FORMULAIC COUNT B161                                     12
 FORMULAIC COUNT A058                                     2
-FORMULAIC COUNT B162                                     1
+FORMULAIC COUNT B162                                     0
 FORMULAIC COUNT A075                                     3
 FORMULAIC COUNT B173                                     5
 FORMULAIC COUNT A187                                     9
 FORMULAIC COUNT B186                                     6
 FORMULAIC COUNT A436                                     2
-FORMULAIC COUNT B188                                     8
+FORMULAIC COUNT B188                                     4
 FORMULAIC COUNT A205                                     2
 FORMULAIC COUNT B348                                     1
 FORMULAIC COUNT A214                                     4
@@ -90,7 +717,7 @@ FORMULAIC COUNT B259                                     9
 FORMULAIC COUNT A255                                     15
 FORMULAIC COUNT B206                                     10
 FORMULAIC COUNT A042                                     10
-FORMULAIC COUNT B258                                     10
+FORMULAIC COUNT B258                                     5
 FORMULAIC COUNT A540                                     8
 FORMULAIC COUNT B260                                     6
 FORMULAIC COUNT A326                                     1
@@ -103,9 +730,9 @@ FORMULAIC COUNT A092                                     9
 FORMULAIC COUNT B269                                     7
 FORMULAIC COUNT A274                                     4
 FORMULAIC COUNT B070                                     4
-FORMULAIC COUNT A282                                     5
+FORMULAIC COUNT A282                                     3
 FORMULAIC COUNT B275                                     4
-FORMULAIC COUNT A466                                     16
+FORMULAIC COUNT A466                                     15
 FORMULAIC COUNT B291                                     0
 FORMULAIC COUNT A321                                     3
 FORMULAIC COUNT B243                                     2
@@ -119,14 +746,14 @@ FORMULAIC COUNT A294                                     4
 FORMULAIC COUNT B339                                     3
 FORMULAIC COUNT A482                                     1
 FORMULAIC COUNT B351                                     3
-FORMULAIC COUNT A538                                     4
+FORMULAIC COUNT A538                                     3
 FORMULAIC COUNT B357                                     0
 FORMULAIC COUNT A549                                     2
 FORMULAIC COUNT B359                                     0
 FORMULAIC COUNT A365                                     5
 FORMULAIC COUNT B553                                     1
 FORMULAIC COUNT A256                                     1
-FORMULAIC COUNT B371                                     4
+FORMULAIC COUNT B371                                     2
 FORMULAIC COUNT A373                                     4
 FORMULAIC COUNT B372                                     3
 FORMULAIC COUNT A390                                     4
@@ -153,11 +780,11 @@ FORMULAIC COUNT A458                                     2
 FORMULAIC COUNT B523                                     0
 FORMULAIC COUNT A066                                     6
 FORMULAIC COUNT B541                                     9
-FORMULAIC COUNT A152                                     5
+FORMULAIC COUNT A152                                     3
 FORMULAIC COUNT B547                                     1
 FORMULAIC COUNT A570                                     1
 FORMULAIC COUNT A543                                     1
-FORMULAIC COUNT B148                                     12
+FORMULAIC COUNT B148                                     7
 FORMULAIC COUNT A191                                     8
 FORMULAIC COUNT B151                                     8
 FORMULAIC COUNT A022                                     2
@@ -176,7 +803,7 @@ FORMULAIC COUNT A542                                     0
 FORMULAIC COUNT B438                                     3
 FORMULAIC COUNT A054                                     0
 FORMULAIC COUNT B486                                     1
-FORMULAIC COUNT A399                                     3
+FORMULAIC COUNT A399                                     0
 FORMULAIC COUNT B534                                     0
 FORMULAIC COUNT B560                                     1
 FORMULAIC COUNT A577                                     4
@@ -189,8 +816,8 @@ FORMULAIC COUNT A307                                     1
 FORMULAIC COUNT B034                                     6
 FORMULAIC COUNT A073                                     6
 FORMULAIC COUNT B039                                     12
-FORMULAIC COUNT A505                                     1
-FORMULAIC COUNT B050                                     2
+FORMULAIC COUNT A000                                     147
+FORMULAIC COUNT B000                                     130
 FORMULAIC COUNT A327                                     1
 FORMULAIC COUNT B063                                     1
 FORMULAIC COUNT A095                                     0
@@ -204,15 +831,13 @@ FORMULAIC COUNT B295                                     5
 FORMULAIC COUNT A119                                     0
 FORMULAIC COUNT B122                                     1
 FORMULAIC COUNT A129                                     8
-FORMULAIC COUNT A143                                     1
-FORMULAIC COUNT B286                                     1
 FORMULAIC COUNT A145                                     2
 FORMULAIC COUNT A104                                     1
 FORMULAIC COUNT B146                                     0
 FORMULAIC COUNT A080                                     0
 FORMULAIC COUNT B150                                     1
 FORMULAIC COUNT B298                                     4
-FORMULAIC COUNT A113                                     11
+FORMULAIC COUNT A113                                     9
 FORMULAIC COUNT B179                                     10
 FORMULAIC COUNT A157                                     4
 FORMULAIC COUNT B202                                     4
@@ -222,7 +847,7 @@ FORMULAIC COUNT A221                                     2
 FORMULAIC COUNT A216                                     1
 FORMULAIC COUNT B226                                     2
 FORMULAIC COUNT A227                                     0
-FORMULAIC COUNT A201                                     10
+FORMULAIC COUNT A201                                     8
 FORMULAIC COUNT B238                                     1
 FORMULAIC COUNT A011                                     0
 FORMULAIC COUNT B240                                     0
@@ -231,8 +856,6 @@ FORMULAIC COUNT B331                                     0
 FORMULAIC COUNT A308                                     6
 FORMULAIC COUNT B252                                     1
 FORMULAIC COUNT B255                                     5
-FORMULAIC COUNT A268                                     8
-FORMULAIC COUNT B015                                     6
 FORMULAIC COUNT A224                                     3
 FORMULAIC COUNT B272                                     2
 FORMULAIC COUNT A291                                     5
@@ -249,15 +872,11 @@ FORMULAIC COUNT B326                                     9
 FORMULAIC COUNT A285                                     3
 FORMULAIC COUNT A359                                     0
 FORMULAIC COUNT B121                                     1
-FORMULAIC COUNT A523                                     0
-FORMULAIC COUNT B455                                     0
 FORMULAIC COUNT A408                                     0
 FORMULAIC COUNT B491                                     0
 FORMULAIC COUNT B540                                     2
 FORMULAIC COUNT A541                                     0
 FORMULAIC COUNT B466                                     2
-FORMULAIC COUNT A228                                     1
-FORMULAIC COUNT B594                                     4
 FORMULAIC COUNT A004                                     1
 FORMULAIC COUNT B292                                     1
 FORMULAIC COUNT A310                                     3
@@ -276,6 +895,7 @@ FORMULAIC COUNT B072                                     4
 FORMULAIC COUNT A077                                     11
 FORMULAIC COUNT B307                                     3
 FORMULAIC COUNT A079                                     7
+FORMULAIC COUNT A268                                     4
 FORMULAIC COUNT A196                                     6
 FORMULAIC COUNT B085                                     0
 FORMULAIC COUNT A443                                     10
@@ -283,19 +903,13 @@ FORMULAIC COUNT B086                                     1
 FORMULAIC COUNT A211                                     3
 FORMULAIC COUNT B092                                     5
 FORMULAIC COUNT A089                                     5
-FORMULAIC COUNT A474                                     2
-FORMULAIC COUNT B102                                     3
 FORMULAIC COUNT A106                                     4
 FORMULAIC COUNT B157                                     1
-FORMULAIC COUNT A057                                     4
-FORMULAIC COUNT B109                                     1
 FORMULAIC COUNT A530                                     4
 FORMULAIC COUNT B115                                     7
-FORMULAIC COUNT A412                                     6
-FORMULAIC COUNT B124                                     4
-FORMULAIC COUNT A148                                     30
+FORMULAIC COUNT A148                                     26
 FORMULAIC COUNT B126                                     11
-FORMULAIC COUNT A161                                     13
+FORMULAIC COUNT A161                                     9
 FORMULAIC COUNT A132                                     3
 FORMULAIC COUNT B377                                     2
 FORMULAIC COUNT A372                                     6
@@ -307,9 +921,6 @@ FORMULAIC COUNT B135                                     2
 FORMULAIC COUNT B169                                     2
 FORMULAIC COUNT A170                                     3
 FORMULAIC COUNT B093                                     1
-FORMULAIC COUNT A186                                     3
-FORMULAIC COUNT B181                                     6
-FORMULAIC COUNT A361                                     6
 FORMULAIC COUNT B195                                     3
 FORMULAIC COUNT A371                                     3
 FORMULAIC COUNT B196                                     0
@@ -324,7 +935,6 @@ FORMULAIC COUNT A206                                     8
 FORMULAIC COUNT B212                                     2
 FORMULAIC COUNT A222                                     0
 FORMULAIC COUNT B105                                     5
-FORMULAIC COUNT B224                                     2
 FORMULAIC COUNT A225                                     2
 FORMULAIC COUNT A208                                     3
 FORMULAIC COUNT A242                                     0
@@ -340,9 +950,9 @@ FORMULAIC COUNT A097                                     7
 FORMULAIC COUNT B279                                     2
 FORMULAIC COUNT A520                                     6
 FORMULAIC COUNT B294                                     3
-FORMULAIC COUNT A573                                     4
+FORMULAIC COUNT A573                                     2
 FORMULAIC COUNT B304                                     2
-FORMULAIC COUNT A429                                     9
+FORMULAIC COUNT A429                                     7
 FORMULAIC COUNT B308                                     0
 FORMULAIC COUNT A276                                     10
 FORMULAIC COUNT B310                                     2
@@ -355,8 +965,6 @@ FORMULAIC COUNT A323                                     0
 FORMULAIC COUNT B200                                     2
 FORMULAIC COUNT A532                                     3
 FORMULAIC COUNT B328                                     4
-FORMULAIC COUNT A329                                     1
-FORMULAIC COUNT B336                                     2
 FORMULAIC COUNT A468                                     5
 FORMULAIC COUNT B356                                     0
 FORMULAIC COUNT B510                                     0
@@ -368,7 +976,6 @@ FORMULAIC COUNT A380                                     22
 FORMULAIC COUNT B376                                     2
 FORMULAIC COUNT A544                                     1
 FORMULAIC COUNT B177                                     37
-FORMULAIC COUNT A382                                     5
 FORMULAIC COUNT A259                                     9
 FORMULAIC COUNT B385                                     8
 FORMULAIC COUNT A395                                     3
@@ -383,7 +990,7 @@ FORMULAIC COUNT B426                                     15
 FORMULAIC COUNT A430                                     2
 FORMULAIC COUNT B335                                     2
 FORMULAIC COUNT A284                                     7
-FORMULAIC COUNT B441                                     11
+FORMULAIC COUNT B441                                     10
 FORMULAIC COUNT A442                                     3
 FORMULAIC COUNT B457                                     1
 FORMULAIC COUNT B15.                                     3
@@ -396,7 +1003,7 @@ FORMULAIC COUNT A338                                     1
 FORMULAIC COUNT B475                                     2
 FORMULAIC COUNT A529                                     2
 FORMULAIC COUNT B488                                     2
-FORMULAIC COUNT A489                                     5
+FORMULAIC COUNT A489                                     3
 FORMULAIC COUNT B554                                     0
 FORMULAIC COUNT A506                                     2
 FORMULAIC COUNT B492                                     5
@@ -404,7 +1011,6 @@ FORMULAIC COUNT A493                                     3
 FORMULAIC COUNT B250                                     1
 FORMULAIC COUNT A149                                     18
 FORMULAIC COUNT B495                                     3
-FORMULAIC COUNT B499                                     1
 FORMULAIC COUNT A391                                     5
 FORMULAIC COUNT B503                                     5
 FORMULAIC COUNT A241                                     6
@@ -416,7 +1022,7 @@ FORMULAIC COUNT A562                                     1
 FORMULAIC COUNT B531                                     0
 FORMULAIC COUNT A114                                     5
 FORMULAIC COUNT B563                                     1
-FORMULAIC COUNT A564                                     19
+FORMULAIC COUNT A564                                     10
 FORMULAIC COUNT A381                                     5
 FORMULAIC COUNT B567                                     1
 FORMULAIC COUNT A401                                     4
@@ -431,9 +1037,7 @@ FORMULAIC COUNT B054                                     0
 FORMULAIC COUNT A561                                     2
 FORMULAIC COUNT B384                                     1
 FORMULAIC COUNT B418                                     3
-FORMULAIC COUNT A469                                     8
-FORMULAIC COUNT B427                                     10
-FORMULAIC COUNT A424                                     2
+FORMULAIC COUNT A424                                     1
 FORMULAIC COUNT B471                                     13
 FORMULAIC COUNT B484                                     4
 FORMULAIC COUNT A405                                     7
@@ -459,39 +1063,33 @@ FORMULAIC COUNT A083                                     0
 FORMULAIC COUNT B183                                     1
 FORMULAIC COUNT B143                                     4
 FORMULAIC COUNT A056                                     1
-FORMULAIC COUNT B153                                     18
-FORMULAIC COUNT B396                                     5
+FORMULAIC COUNT B153                                     16
+FORMULAIC COUNT B224                                     0
 FORMULAIC COUNT A238                                     5
 FORMULAIC COUNT B239                                     1
 FORMULAIC COUNT B248                                     19
-FORMULAIC COUNT A020                                     6
 FORMULAIC COUNT B278                                     1
 FORMULAIC COUNT A319                                     1
 FORMULAIC COUNT A411                                     9
 FORMULAIC COUNT B276                                     12
-FORMULAIC COUNT B596                                     0
 FORMULAIC COUNT A457                                     0
 FORMULAIC COUNT B442                                     0
 FORMULAIC COUNT B515                                     2
 FORMULAIC COUNT B532                                     8
-FORMULAIC COUNT A158                                     10
+FORMULAIC COUNT A158                                     8
 FORMULAIC COUNT B149                                     10
-FORMULAIC COUNT A133                                     1
-FORMULAIC COUNT B164                                     0
 FORMULAIC COUNT A249                                     0
 FORMULAIC COUNT B341                                     0
 FORMULAIC COUNT A353                                     2
 FORMULAIC COUNT A486                                     2
-FORMULAIC COUNT B360                                     3
+FORMULAIC COUNT B360                                     2
 FORMULAIC COUNT A163                                     7
 FORMULAIC COUNT A410                                     6
 FORMULAIC COUNT B424                                     3
 FORMULAIC COUNT A416                                     1
 FORMULAIC COUNT B555                                     1
 FORMULAIC COUNT B437                                     1
-FORMULAIC COUNT A407                                     3
-FORMULAIC COUNT A524                                     4
-FORMULAIC COUNT B449                                     2
+FORMULAIC COUNT A407                                     1
 FORMULAIC COUNT A565                                     4
 FORMULAIC COUNT A322                                     10
 FORMULAIC COUNT B556                                     14
@@ -499,22 +1097,20 @@ FORMULAIC COUNT A388                                     4
 FORMULAIC COUNT B586                                     6
 FORMULAIC COUNT B587                                     3
 FORMULAIC COUNT A471                                     8
-FORMULAIC COUNT A591                                     1
 FORMULAIC COUNT A151                                     21
 FORMULAIC COUNT B154                                     10
-FORMULAIC COUNT A516                                     1
+FORMULAIC COUNT A516                                     0
 FORMULAIC COUNT A453                                     1
 FORMULAIC COUNT B354                                     2
 FORMULAIC COUNT B368                                     0
 FORMULAIC COUNT B419                                     4
 FORMULAIC COUNT A588                                     2
 FORMULAIC COUNT B444                                     3
-FORMULAIC COUNT B452                                     1
 FORMULAIC COUNT A439                                     4
 FORMULAIC COUNT B528                                     5
 FORMULAIC COUNT B535                                     3
 FORMULAIC COUNT A194                                     9
-FORMULAIC COUNT A444                                     20
+FORMULAIC COUNT A444                                     0
 FORMULAIC COUNT A379                                     2
 FORMULAIC COUNT B566                                     1
 FORMULAIC COUNT A177                                     18
@@ -545,14 +1141,13 @@ FORMULAIC COUNT A347                                     4
 FORMULAIC COUNT B230                                     8
 FORMULAIC COUNT A340                                     16
 FORMULAIC COUNT B481                                     3
-FORMULAIC COUNT A517                                     1
-FORMULAIC COUNT B303                                     18
 FORMULAIC COUNT A275                                     3
 FORMULAIC COUNT B551                                     5
 FORMULAIC COUNT B065                                     0
 FORMULAIC COUNT B584                                     3
 FORMULAIC COUNT B337                                     3
 FORMULAIC COUNT A292                                     7
+FORMULAIC COUNT B336                                     0
 FORMULAIC COUNT B365                                     1
 FORMULAIC COUNT B474                                     6
 FORMULAIC COUNT A495                                     8
@@ -560,10 +1155,6 @@ FORMULAIC COUNT A195                                     1
 FORMULAIC COUNT A377                                     0
 FORMULAIC COUNT B132                                     3
 FORMULAIC COUNT A141                                     2
-FORMULAIC COUNT A162                                     1
-FORMULAIC COUNT B058                                     1
-FORMULAIC COUNT A223                                     0
-FORMULAIC COUNT B029                                     1
 FORMULAIC COUNT B273                                     1
 FORMULAIC COUNT B271                                     0
 FORMULAIC COUNT B283                                     0
@@ -593,7 +1184,7 @@ FORMULAIC COUNT A563                                     1
 FORMULAIC COUNT B530                                     1
 FORMULAIC COUNT A512                                     0
 FORMULAIC COUNT A026                                     1
-FORMULAIC COUNT B573                                     6
+FORMULAIC COUNT B573                                     1
 FORMULAIC COUNT A574                                     0
 FORMULAIC COUNT B401                                     0
 FORMULAIC COUNT A006                                     0
@@ -601,7 +1192,6 @@ FORMULAIC COUNT A044                                     1
 FORMULAIC COUNT B178                                     1
 FORMULAIC COUNT A062                                     0
 FORMULAIC COUNT B483                                     7
-FORMULAIC COUNT B309                                     1
 FORMULAIC COUNT A229                                     12
 FORMULAIC COUNT A263                                     0
 FORMULAIC COUNT B129                                     5
@@ -630,10 +1220,10 @@ FORMULAIC COUNT B038                                     10
 FORMULAIC COUNT A369                                     2
 FORMULAIC COUNT B117                                     7
 FORMULAIC COUNT A189                                     1
-FORMULAIC COUNT B159                                     13
-FORMULAIC COUNT A305                                     5
+FORMULAIC COUNT B159                                     2
+FORMULAIC COUNT A305                                     2
 FORMULAIC COUNT B245                                     3
-FORMULAIC COUNT B349                                     5
+FORMULAIC COUNT B349                                     4
 FORMULAIC COUNT A447                                     2
 FORMULAIC COUNT B358                                     1
 FORMULAIC COUNT A425                                     7
@@ -653,12 +1243,11 @@ FORMULAIC COUNT B578                                     0
 FORMULAIC COUNT A548                                     5
 FORMULAIC COUNT B583                                     8
 FORMULAIC COUNT A589                                     0
-FORMULAIC COUNT B588                                     1
+FORMULAIC COUNT B588                                     0
 FORMULAIC COUNT A599                                     4
 FORMULAIC COUNT B598                                     1
 FORMULAIC COUNT A040                                     9
 FORMULAIC COUNT B352                                     5
-FORMULAIC COUNT B064                                     1
 FORMULAIC COUNT A171                                     8
 FORMULAIC COUNT B068                                     8
 FORMULAIC COUNT A389                                     1
@@ -667,8 +1256,6 @@ FORMULAIC COUNT B018                                     0
 FORMULAIC COUNT A035                                     10
 FORMULAIC COUNT A087                                     3
 FORMULAIC COUNT B095                                     5
-FORMULAIC COUNT A137                                     5
-FORMULAIC COUNT B103                                     3
 FORMULAIC COUNT A130                                     3
 FORMULAIC COUNT B476                                     3
 FORMULAIC COUNT B176                                     0
@@ -679,6 +1266,7 @@ FORMULAIC COUNT A084                                     4
 FORMULAIC COUNT B185                                     14
 FORMULAIC COUNT B213                                     8
 FORMULAIC COUNT A047                                     0
+FORMULAIC COUNT B303                                     18
 FORMULAIC COUNT A311                                     0
 FORMULAIC COUNT B500                                     0
 FORMULAIC COUNT B235                                     6
@@ -686,25 +1274,24 @@ FORMULAIC COUNT A200                                     8
 FORMULAIC COUNT A050                                     1
 FORMULAIC COUNT A397                                     0
 FORMULAIC COUNT B459                                     0
-FORMULAIC COUNT A551                                     2
-FORMULAIC COUNT B522                                     3
 FORMULAIC COUNT B546                                     0
-FORMULAIC COUNT A159                                     0
 FORMULAIC COUNT B257                                     10
 FORMULAIC COUNT A535                                     1
 FORMULAIC COUNT B355                                     4
 FORMULAIC COUNT A566                                     7
 FORMULAIC COUNT B379                                     2
 FORMULAIC COUNT B399                                     3
+FORMULAIC COUNT B452                                     0
+FORMULAIC COUNT A524                                     1
 FORMULAIC COUNT B194                                     3
 FORMULAIC COUNT A585                                     1
 FORMULAIC COUNT A368                                     6
 FORMULAIC COUNT B577                                     5
 FORMULAIC COUNT B025                                     1
-FORMULAIC COUNT A049                                     1
 FORMULAIC COUNT A400                                     2
 FORMULAIC COUNT A134                                     0
 FORMULAIC COUNT A203                                     1
+FORMULAIC COUNT A186                                     1
 FORMULAIC COUNT B187                                     1
 FORMULAIC COUNT B222                                     9
 FORMULAIC COUNT A046                                     5
@@ -712,21 +1299,16 @@ FORMULAIC COUNT B246                                     4
 FORMULAIC COUNT A251                                     1
 FORMULAIC COUNT A304                                     4
 FORMULAIC COUNT A344                                     0
-FORMULAIC COUNT B296                                     0
 FORMULAIC COUNT A572                                     9
-FORMULAIC COUNT A033                                     0
 FORMULAIC COUNT A525                                     2
 FORMULAIC COUNT A488                                     0
 FORMULAIC COUNT B529                                     0
-FORMULAIC COUNT A435                                     5
 FORMULAIC COUNT B005                                     1
 FORMULAIC COUNT B158                                     3
 FORMULAIC COUNT A166                                     0
-FORMULAIC COUNT A360                                     1
 FORMULAIC COUNT B388                                     2
 FORMULAIC COUNT A404                                     2
 FORMULAIC COUNT B445                                     2
-FORMULAIC COUNT B462                                     0
 FORMULAIC COUNT A101                                     1
 FORMULAIC COUNT B266                                     1
 FORMULAIC COUNT A281                                     0
@@ -739,9 +1321,9 @@ FORMULAIC COUNT A555                                     3
 FORMULAIC COUNT A378                                     2
 FORMULAIC COUNT B433                                     5
 FORMULAIC COUNT A452                                     2
-FORMULAIC COUNT B590                                     7
 FORMULAIC COUNT B543                                     19
 FORMULAIC COUNT A156                                     1
+FORMULAIC COUNT B102                                     3
 FORMULAIC COUNT A002                                     1
 FORMULAIC COUNT B138                                     1
 FORMULAIC COUNT B144                                     0
@@ -754,34 +1336,27 @@ FORMULAIC COUNT B214                                     0
 FORMULAIC COUNT A237                                     0
 FORMULAIC COUNT A339                                     0
 FORMULAIC COUNT A519                                     3
-FORMULAIC COUNT A437                                     0
-FORMULAIC COUNT B361                                     4
 FORMULAIC COUNT A188                                     1
 FORMULAIC COUNT B363                                     2
 FORMULAIC COUNT A553                                     2
-FORMULAIC COUNT A094                                     1
 FORMULAIC COUNT B390                                     0
 FORMULAIC COUNT B407                                     0
 FORMULAIC COUNT A445                                     2
 FORMULAIC COUNT A438                                     0
-FORMULAIC COUNT A477                                     2
-FORMULAIC COUNT B502                                     1
 FORMULAIC COUNT A351                                     1
 FORMULAIC COUNT B482                                     4
 FORMULAIC COUNT A417                                     1
 FORMULAIC COUNT A460                                     0
 FORMULAIC COUNT B537                                     0
-FORMULAIC COUNT B507                                     0
 FORMULAIC COUNT B001                                     2
 FORMULAIC COUNT A019                                     12
 FORMULAIC COUNT B180                                     3
 FORMULAIC COUNT B125                                     2
 FORMULAIC COUNT B040                                     3
+FORMULAIC COUNT B050                                     1
 FORMULAIC COUNT A546                                     2
 FORMULAIC COUNT B052                                     4
 FORMULAIC COUNT A090                                     5
-FORMULAIC COUNT A511                                     0
-FORMULAIC COUNT B364                                     1
 FORMULAIC COUNT A110                                     0
 FORMULAIC COUNT B155                                     0
 FORMULAIC COUNT A127                                     5
@@ -793,6 +1368,7 @@ FORMULAIC COUNT B323                                     1
 FORMULAIC COUNT A100                                     4
 FORMULAIC COUNT A232                                     15
 FORMULAIC COUNT B231                                     11
+FORMULAIC COUNT A329                                     1
 FORMULAIC COUNT A279                                     9
 FORMULAIC COUNT B097                                     8
 FORMULAIC COUNT B136                                     5
@@ -803,25 +1379,19 @@ FORMULAIC COUNT A331                                     0
 FORMULAIC COUNT B315                                     1
 FORMULAIC COUNT A317                                     1
 FORMULAIC COUNT B338                                     1
-FORMULAIC COUNT B389                                     2
 FORMULAIC COUNT A459                                     2
 FORMULAIC COUNT B397                                     2
 FORMULAIC COUNT B422                                     1
-FORMULAIC COUNT B527                                     3
 FORMULAIC COUNT A472                                     0
 FORMULAIC COUNT A037                                     2
-FORMULAIC COUNT A082                                     0
 FORMULAIC COUNT A348                                     1
 FORMULAIC COUNT A118                                     0
 FORMULAIC COUNT B081                                     0
 FORMULAIC COUNT B114                                     0
-FORMULAIC COUNT B008                                     1
 FORMULAIC COUNT A300                                     4
 FORMULAIC COUNT A093                                     0
 FORMULAIC COUNT B209                                     0
-FORMULAIC COUNT B166                                     5
 FORMULAIC COUNT A048                                     0
-FORMULAIC COUNT B007                                     2
 FORMULAIC COUNT B490                                     0
 FORMULAIC COUNT A218                                     0
 FORMULAIC COUNT A123                                     3
@@ -834,34 +1404,29 @@ FORMULAIC COUNT B111                                     1
 FORMULAIC COUNT A296                                     3
 FORMULAIC COUNT A243                                     1
 FORMULAIC COUNT B321                                     0
-FORMULAIC COUNT A403                                     1
-FORMULAIC COUNT B322                                     5
 FORMULAIC COUNT B254                                     0
 FORMULAIC COUNT A330                                     0
-FORMULAIC COUNT A334                                     0
 FORMULAIC COUNT A244                                     7
 FORMULAIC COUNT A595                                     2
 FORMULAIC COUNT B434                                     2
 FORMULAIC COUNT A470                                     1
-FORMULAIC COUNT B498                                     2
 FORMULAIC COUNT A357                                     2
 FORMULAIC COUNT B538                                     2
-FORMULAIC COUNT B565                                     1
+FORMULAIC COUNT B565                                     0
 FORMULAIC COUNT B575                                     3
 FORMULAIC COUNT B592                                     1
 FORMULAIC COUNT A091                                     2
 FORMULAIC COUNT A165                                     2
 FORMULAIC COUNT A192                                     1
-FORMULAIC COUNT A234                                     1
-FORMULAIC COUNT B297                                     1
+FORMULAIC COUNT A360                                     1
 FORMULAIC COUNT B485                                     4
 FORMULAIC COUNT A580                                     3
 FORMULAIC COUNT B600                                     0
-FORMULAIC COUNT A027                                     2
-FORMULAIC COUNT B028                                     0
 FORMULAIC COUNT B394                                     0
 FORMULAIC COUNT B165                                     3
-FORMULAIC COUNT B413                                     0
+
+WRITTEN TO OUTFILE: ../03_REPORTS/TOTAL_COUNTS.txt
 
 
-
+Done!
+Finished running all code.
