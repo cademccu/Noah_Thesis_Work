@@ -57,6 +57,13 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     # these variables will be for saving metadata
     line_count = 0
     chunk_count = 0
+
+    line_count_A = 0
+    line_count_B = 0
+
+    chunk_count_A = 0
+    chunk_count_B = 0
+
     formulaic_count = 0
 
     formulaic_count_A = 0
@@ -90,6 +97,13 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
         # split into the chunks desired (some discourse present about what constitutes a clause or sentence)
         chunks = chunker(line[1].strip())
         chunk_count += len(chunks)
+
+        if line[0] == "A":
+            line_count_A += 1
+            chunk_count_A += len(chunks)
+        else:
+            line_count_B += 1
+            chunk_count_B += len(chunks)
 
         # reset the list
         for func_name in func_names:
@@ -173,7 +187,7 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
 
     out.write("\n\n")
 
-    longest_name = 20
+    longest_name = 25
     for _name in func_names:
         if len(_name) + 11 > longest_name:
             longest_name = len(_name) + 11
@@ -182,7 +196,12 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     f_string = "=== {:<" + str(longest_name) + "} | "
     out.write(f_string.format("FILENAME") + infile + "\n")
     out.write(f_string.format("LINE COUNT") + str(line_count) + "\n")
+    out.write(f_string.format("LINE COUNT A" + speakers["A"]) +str(line_count_A) + "\n")
+    out.write(f_string.format("LINE COUNT B" + speakers["B"]) +str(line_count_B) + "\n")
+
     out.write(f_string.format("CHUNK/SENTENCE COUNT") + str(chunk_count) + "\n")
+    out.write(f_string.format("CHUNK/SENTENCE COUNT A" + speakers["A"]) + str(chunk_count_A) + "\n")
+    out.write(f_string.format("CHUNK/SENTENCE COUNT B" + speakers["B"]) + str(chunk_count_B) + "\n")
 
     out.write(f_string.format("FORMULAIC COUNT") + str(formulaic_count) + "\n")
     out.write(f_string.format("FORMULAIC COUNT A" + speakers["A"]) + str(formulaic_count_A) + "\n")

@@ -1,3 +1,5 @@
+LINE COUNT                                               6983
+CHUNK/SENTENCE                                           13420
 FORMULAIC COUNT                                          2054
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1114
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    802

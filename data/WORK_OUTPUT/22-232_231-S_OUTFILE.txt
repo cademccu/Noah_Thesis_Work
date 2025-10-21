@@ -689,7 +689,11 @@ B:  Thank you so much, A.
 
 === FILENAME                                                | ../../data/CCOT/WORK/22-232_231-S.txt
 === LINE COUNT                                              | 70
+=== LINE COUNT A232                                         | 35
+=== LINE COUNT B231                                         | 35
 === CHUNK/SENTENCE COUNT                                    | 117
+=== CHUNK/SENTENCE COUNT A232                               | 57
+=== CHUNK/SENTENCE COUNT B231                               | 60
 === FORMULAIC COUNT                                         | 26
 === FORMULAIC COUNT A232                                    | 15
 === FORMULAIC COUNT B231                                    | 11

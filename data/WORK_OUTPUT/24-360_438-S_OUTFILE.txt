@@ -194,7 +194,11 @@ B:  Yes yes that's deal
 
 === FILENAME                                                | ../../data/CCOT/WORK/24-360_438-S.txt
 === LINE COUNT                                              | 17
+=== LINE COUNT A360                                         | 8
+=== LINE COUNT B438                                         | 9
 === CHUNK/SENTENCE COUNT                                    | 18
+=== CHUNK/SENTENCE COUNT A360                               | 9
+=== CHUNK/SENTENCE COUNT B438                               | 9
 === FORMULAIC COUNT                                         | 2
 === FORMULAIC COUNT A360                                    | 1
 === FORMULAIC COUNT B438                                    | 1

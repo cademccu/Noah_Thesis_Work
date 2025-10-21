@@ -558,7 +558,11 @@ A:  Thank you, bye bye.
 
 === FILENAME                                                | ../../data/CCOT/WORK/15-038_270-S.txt
 === LINE COUNT                                              | 53
+=== LINE COUNT A270                                         | 27
+=== LINE COUNT B038                                         | 26
 === CHUNK/SENTENCE COUNT                                    | 67
+=== CHUNK/SENTENCE COUNT A270                               | 36
+=== CHUNK/SENTENCE COUNT B038                               | 31
 === FORMULAIC COUNT                                         | 16
 === FORMULAIC COUNT A270                                    | 6
 === FORMULAIC COUNT B038                                    | 10

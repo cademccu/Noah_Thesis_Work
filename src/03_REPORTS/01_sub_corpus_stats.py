@@ -85,10 +85,22 @@ def searcher(criteria_list, outfile_name):
                 # now we are in the metadata section, handle 3*= fields
                 while line.startswith("=== "):
                     line = line[4:].split("|")
+
                     if re.match(r"FORMULAIC\sCOUNT\s[AB]{1}" + criteria["id"], line[0].strip()):
                         if not "FORMULAIC COUNT" in stats:
                             stats["FORMULAIC COUNT"] = 0
                         stats["FORMULAIC COUNT"] += int(line[1].strip())
+
+                    elif re.match(r"LINE\sCOUNT\s[AB]{1}" + criteria["id"], line[0].strip()):
+                        if not "LINE COUNT" in stats:
+                            stats["LINE COUNT"] = 0
+                        stats["LINE COUNT"] += int(line[1].strip())
+
+                    elif re.match(r"CHUNK\/SENTENCE\sCOUNT\s[AB]{1}" + criteria["id"], line[0].strip()):
+                        if not r"CHUNK/SENTENCE" in stats:
+                            stats[r"CHUNK/SENTENCE"] = 0
+                        stats[r"CHUNK/SENTENCE"] += int(line[1].strip())
+
                     line = f.readline()
                 # now we are in  5*=
                 while line.startswith("===== "):

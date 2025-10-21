@@ -45,8 +45,10 @@ for fname in files:
         while line.startswith("=== "):
             line = line[4:].split("|")
 
-            if re.match(r"FORMULAIC\sCOUNT\s[AB]{1}[0-9]{3}", line[0]):
-                # we don't want the individual formulaic counts here
+            if (re.match(r"FORMULAIC\sCOUNT\s[AB]{1}[0-9]{3}", line[0]) or
+               re.match(r"LINE\sCOUNT\s[AB]{1}[0-9]{3}", line[0]) or 
+               re.match(r"CHUNK\/SENTENCE\sCOUNT\s[AB]{1}[0-9]{3}", line[0])):
+                # we don't want the individual counts here
                 line = f.readline()
                 continue
             if line[0].strip() not in total_counts.keys():
