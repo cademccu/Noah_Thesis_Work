@@ -1,557 +1,226 @@
-A:  Uh hi B.
+A270:  Uh hi B.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Uh hi B
     *ISFRAG_MissingFiniteVerb
         Uh hi B
     *ISFRAG_MissingSubject
         Uh hi B
-    *ISFRAG_MissingVerb_FromMorph
-        Uh hi B
-    *ISFRAG_MissingVerb_FromDep
-        Uh hi B
 
-B:  Hi uh, I'm good.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Hi uh, I'm good
-    *ISFRAG_MissingVerb_FromDep
-        Hi uh, I'm good
+B038:  Hi uh, I'm good.
+    ---NO_FRAGMENTS_ANY
 
-A:  Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff
-    *ISFRAG_MissingVerb_FromDep
-        Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff
+A270:  Uh do you know about my brother Ali, he's coming next week to America to study in Flagstaff.
+    ---NO_FRAGMENTS_ANY
 
-B:  Really that's interesting
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Really that's interesting
-    *ISFRAG_MissingVerb_FromDep
-        Really that's interesting
+B038:  Really that's interesting
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture
-    *ISFRAG_MissingVerb_FromDep
-        Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture
+A270:  Yeah, I th-yeah it's uh I think we have to learn one hand about uh many things in America that is different from Saudi to our to American culture
+    ---NO_FRAGMENTS_ANY
 
-B:  Sure sure you must to you must to
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Sure sure you must to you must to
-    *ISFRAG_MissingVerb_FromDep
-        Sure sure you must to you must to
+B038:  Sure sure you must to you must to
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah yeah, I think that's one of most things like the hand shing-hand shaking
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah yeah, I think that's one of most things like the hand shing-hand shaking
-    *ISFRAG_MissingVerb_FromDep
-        Yeah yeah, I think that's one of most things like the hand shing-hand shaking
+A270:  Yeah yeah, I think that's one of most things like the hand shing-hand shaking
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah
+B038:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  In America, that's mean when you are in the road and you are doing the hand shaking
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        In America, that's mean when you are in the road and you are doing the hand shaking
-    *ISFRAG_MissingVerb_FromDep
-        In America, that's mean when you are in the road and you are doing the hand shaking
+A270:  In America, that's mean when you are in the road and you are doing the hand shaking
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah
+B038:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  That's mean you are want someone to take you to some point to some place
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        That's mean you are want someone to take you to some point to some place
-    *ISFRAG_MissingVerb_FromDep
-        That's mean you are want someone to take you to some point to some place
+A270:  That's mean you are want someone to take you to some point to some place
+    ---NO_FRAGMENTS_ANY
 
-B:  That's why that's why and when so-uh like the first time I came here, I didn't know what
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        That's why that's why and when so-uh like the first time I came here, I didn't know what
-    *ISFRAG_MissingVerb_FromDep
-        That's why that's why and when so-uh like the first time I came here, I didn't know what
+B038:  That's why that's why and when so-uh like the first time I came here, I didn't know what
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah
+A270:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-B:  What this mean, Because you know, culture, that's mean you have to see your manager. Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        What this mean, Because you know, culture, that's mean you have to see your manager
-         Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
-    *ISFRAG_MissingVerb_FromDep
-        What this mean, Because you know, culture, that's mean you have to see your manager
-         Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
+B038:  What this mean, Because you know, culture, that's mean you have to see your manager. Uh and also when uh I have to uh the officer ac-uh about shaking my hand, it's uh was weird for me because uh shaking hand it's just for friend, but here if you meet new person you have to shaking his hand
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah yeah You have to shaking them uh very hard
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah yeah You have to shaking them uh very hard
-    *ISFRAG_MissingVerb_FromDep
-        Yeah yeah You have to shaking them uh very hard
+A270:  Yeah yeah You have to shaking them uh very hard
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah
+B038:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  And you have to uh maybe you are meet him for the the the first time
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And you have to uh maybe you are meet him for the the the first time
-    *ISFRAG_MissingVerb_FromDep
-        And you have to uh maybe you are meet him for the the the first time
+A270:  And you have to uh maybe you are meet him for the the the first time
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah yeah That's why
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah yeah That's why
-    *ISFRAG_MissingVerb_FromDep
-        Yeah yeah That's why
+B038:  Yeah yeah That's why
+    ---NO_FRAGMENTS_ANY
 
-A:  Then I saw that I mentioned that is in America that's
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Then I saw that I mentioned that is in America that's
-    *ISFRAG_MissingVerb_FromDep
-        Then I saw that I mentioned that is in America that's
+A270:  Then I saw that I mentioned that is in America that's
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah
+B038:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
-    *ISFRAG_MissingVerb_FromDep
-        We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
+A270:  We are doing that uh thumb up like when my exam, uh I asked my teacher about my grade he's it's uh he's uh he put the th-he do the thumb uh up, that's that's I'm wondering I was asking, what does that mean?
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh
+B038:  Uh-huh
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  He said to me, that's mean you are doing great, and also the thumb uh down
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        He said to me, that's mean you are doing great, and also the thumb uh down
-    *ISFRAG_MissingVerb_FromDep
-        He said to me, that's mean you are doing great, and also the thumb uh down
+A270:  He said to me, that's mean you are doing great, and also the thumb uh down
+    ---NO_FRAGMENTS_ANY
 
-B:  Thumbs down
+B038:  Thumbs down
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Thumbs down
 
-A:  Down, yeah. NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-         NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
-    *ISFRAG_MissingVerb_FromDep
-         NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
+A270:  Down, yeah. NTA I wonder and uh uh I asked one girl to give me one uh the her number NTA
+    ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Down, yeah
 
-B:  Ohh my god
+B038:  Ohh my god
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Ohh my god
     *ISFRAG_MissingFiniteVerb
         Ohh my god
     *ISFRAG_MissingSubject
         Ohh my god
-    *ISFRAG_MissingVerb_FromMorph
-        Ohh my god
-    *ISFRAG_MissingVerb_FromDep
-        Ohh my god
 
-A:  She's doing the thumb down
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        She's doing the thumb down
-    *ISFRAG_MissingVerb_FromDep
-        She's doing the thumb down
+A270:  She's doing the thumb down
+    ---NO_FRAGMENTS_ANY
 
-B:  Ohh
+B038:  Ohh
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Ohh
 
-A:  I I asked my classmate NTA
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I I asked my classmate NTA
-    *ISFRAG_MissingVerb_FromDep
-        I I asked my classmate NTA
+A270:  I I asked my classmate NTA
+    ---NO_FRAGMENTS_ANY
 
-B:  That's dissapointing
+B038:  That's dissapointing
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         That's dissapointing
 
-A:  Yeah yeah. I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-         I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good
-    *ISFRAG_MissingVerb_FromDep
-         I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good
+A270:  Yeah yeah. I asked him what what does that mean? That's mean uh that's uh that's bad NTA not good.
+    ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah yeah
 
-B:  Uh that's uh right. Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh that's uh right
-         Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here
-    *ISFRAG_MissingVerb_FromDep
-        Uh that's uh right
-         Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here
+B038:  Uh that's uh right. Uh and uh also if you take out uh take out your uh thumbs here, that doesn't mean anything so you can do it to your brother because in our uh in our uh culture if you do that, that's mean I make it hilarious or something it's funny here
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah yeah. Also that
+A270:  Yeah yeah. Also that
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah yeah
          Also that
 
-B:  It means like the the mid-that is the middle finger, that's in America and uh uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        It means like the the mid-that is the middle finger, that's in America and uh uh
-    *ISFRAG_MissingVerb_FromDep
-        It means like the the mid-that is the middle finger, that's in America and uh uh
+B038:  It means like the the mid-that is the middle finger, that's in America and uh uh
+    ---NO_FRAGMENTS_ANY
 
-A:  When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university
-    *ISFRAG_MissingVerb_FromDep
-        When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university
+A270:  When uh uh when uh yesterday when I was in the road, I asked a drunk drunk man that uh about the uh the location of the university.
+    ---NO_FRAGMENTS_ANY
 
-B:  Okay
+B038:  Okay
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-A:  He said to me NTA
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        He said to me NTA
-    *ISFRAG_MissingVerb_FromDep
-        He said to me NTA
+A270:  He said to me NTA
+    ---NO_FRAGMENTS_ANY
 
-B:  Oh that's
+B038:  Oh that's
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Oh that's
 
-A:  But that's NTA that's
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        But that's NTA that's
-    *ISFRAG_MissingVerb_FromDep
-        But that's NTA that's
+A270:  But that's NTA that's
+    ---NO_FRAGMENTS_ANY
 
-B:  That's impolite that's impolite
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        That's impolite that's impolite
-    *ISFRAG_MissingVerb_FromDep
-        That's impolite that's impolite
+B038:  That's impolite that's impolite
+    ---NO_FRAGMENTS_ANY
 
-A:  I I asked uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I I asked uh
-    *ISFRAG_MissingVerb_FromDep
-        I I asked uh
+A270:  I I asked uh
+    ---NO_FRAGMENTS_ANY
 
-B:  Don't don't-uh tell him don't do that
+B038:  Don't don't-uh tell him don't do that
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Don't don't-uh tell him don't do that
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
         Don't don't-uh tell him don't do that
-    *ISFRAG_MissingVerb_FromMorph
-        Don't don't-uh tell him don't do that
-    *ISFRAG_MissingVerb_FromDep
-        Don't don't-uh tell him don't do that
 
-A:  This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite
-    *ISFRAG_MissingVerb_FromDep
-        This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite
+A270:  This man that means like people uh uh I I understand that's impolite that's uh, you have to warn him that's impolite
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah you must you must
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah you must you must
-    *ISFRAG_MissingVerb_FromDep
-        Yeah you must you must
+B038:  Yeah you must you must
+    ---NO_FRAGMENTS_ANY
 
-A:  That's mean Yeah because he he he's gonna
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        That's mean Yeah because he he he's gonna
-    *ISFRAG_MissingVerb_FromDep
-        That's mean Yeah because he he he's gonna
+A270:  That's mean Yeah because he he he's gonna
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah a lot of drunk people.
+B038:  Yeah a lot of drunk people.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Yeah a lot of drunk people
     *ISFRAG_MissingFiniteVerb
         Yeah a lot of drunk people
     *ISFRAG_MissingSubject
         Yeah a lot of drunk people
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah a lot of drunk people
-    *ISFRAG_MissingVerb_FromDep
-        Yeah a lot of drunk people
 
-A:  Yeah yeah
+A270:  Yeah yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah yeah
 
-B:  So he must be uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        So he must be uh
-    *ISFRAG_MissingVerb_FromDep
-        So he must be uh
+B038:  So he must be uh
+    ---NO_FRAGMENTS_ANY
 
-A:  I really agree with you. You have to work
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I really agree with you
-         You have to work
-    *ISFRAG_MissingVerb_FromDep
-        I really agree with you
-         You have to work
+A270:  I really agree with you. You have to work
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah you have to, just to call him before
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah you have to, just to call him before
-    *ISFRAG_MissingVerb_FromDep
-        Yeah you have to, just to call him before
+B038:  Yeah you have to, just to call him before
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah okay, okay
+A270:  Yeah okay, okay
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Yeah okay, okay
     *ISFRAG_MissingFiniteVerb
         Yeah okay, okay
     *ISFRAG_MissingSubject
         Yeah okay, okay
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah okay, okay
-    *ISFRAG_MissingVerb_FromDep
-        Yeah okay, okay
 
-B:  Okay thank you, A.
+B038:  Okay thank you, A.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Okay thank you, A
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
         Okay thank you, A
-    *ISFRAG_MissingVerb_FromMorph
-        Okay thank you, A
-    *ISFRAG_MissingVerb_FromDep
-        Okay thank you, A
 
-A:  Thank you, bye bye.
+A270:  Thank you, bye bye.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Thank you, bye bye
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
-        Thank you, bye bye
-    *ISFRAG_MissingVerb_FromMorph
-        Thank you, bye bye
-    *ISFRAG_MissingVerb_FromDep
         Thank you, bye bye
 
 
@@ -569,15 +238,9 @@ A:  Thank you, bye bye.
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 7
 === FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 4
 === FRAG COUNT [ISFRAG_MissingSubject]                      | 7
-=== FRAG COUNT [ISFRAG_MissingVerb_FromMorph]               | 43
-=== FRAG COUNT [ISFRAG_MissingVerb_FromDep]                 | 43
 ===== FRAG COUNT A270 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 3
 ===== FRAG COUNT A270 [ISFRAG_MissingFiniteVerb]                   | 2
 ===== FRAG COUNT A270 [ISFRAG_MissingSubject]                      | 3
-===== FRAG COUNT A270 [ISFRAG_MissingVerb_FromMorph]               | 25
-===== FRAG COUNT A270 [ISFRAG_MissingVerb_FromDep]                 | 25
 ===== FRAG COUNT B038 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 4
 ===== FRAG COUNT B038 [ISFRAG_MissingFiniteVerb]                   | 2
 ===== FRAG COUNT B038 [ISFRAG_MissingSubject]                      | 4
-===== FRAG COUNT B038 [ISFRAG_MissingVerb_FromMorph]               | 18
-===== FRAG COUNT B038 [ISFRAG_MissingVerb_FromDep]                 | 18

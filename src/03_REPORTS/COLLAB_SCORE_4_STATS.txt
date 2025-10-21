@@ -4,8 +4,6 @@ FORMULAIC COUNT                                          2054
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1114
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    802
 FRAG COUNT [ISFRAG_MissingSubject]                       987
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                8175
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  8175
 
 
 MATCHING FILES & MATCHING ID:
@@ -884,5 +882,3132 @@ num files: 873
 25-148_394-S_OUTFILE.txt | 394
 25-165_191-S_OUTFILE.txt | 165
 25-165_191-S_OUTFILE.txt | 191
+
+
+ALL FRAGMENTS AND FORMULAICS:
+total count: 3122
+-----------------------------
+Oh, teenager?
+Thank you
+I'm good
+Yeah
+Uh…
+Uh twelve dollars
+Yeah seriously
+Yeah and and make uh make uh woman uh like you very much
+Yeah
+Okay, thanks
+Yeah
+Good uh product
+So good
+yeah
+Sound affect
+and uh got attention
+Because uh see much people
+The advertisement uh uh
+Because uh and go to the store buy the bicycle
+Coke yeah
+yeah
+Sound affect
+and uh got attention
+Because uh see much people
+The advertisement uh uh
+Because uh and go to the store buy the bicycle
+Coke yeah
+555-1234
+Bye bye
+Te-uh uh please buy it uh this this ca-uh Canon camera for just 199
+Just try Canon camera
+Good
+Oh cool
+Yeah cool
+I uh I if you-we uh I always every weekend uh uh run uh at least one hour
+Oh cool
+Oh thank you brother
+The
+Sorry?
+Oh oh
+Good
+What?
+Thank you A
+Oh right?
+Why?
+Yes
+Uh so nice to meet you A
+Yeah
+And uh keep it
+Oh really?
+Oh
+Yeah yeah
+Nice to meet you
+Mm-hmm, why?
+Uh-huh
+Cause
+That's good
+Uh okay
+And uh spend uh the money
+And uh make a bad smell
+Why?
+Yeah
+So
+Yeah
+No
+‘Kay, thank you
+Hi B!
+This the best sport drink in the world
+You know?
+You know?
+Yeah
+Yeah
+And any sport uh any supermarket
+Let's go
+Oh ok
+Yeah
+Yeah
+You know?
+Ok
+Ok
+Hi
+Yes
+No
+Oh one dollar only?
+Yeah
+I know
+Yeah
+Come on
+Come on
+Hello
+Uh… uh how about this camera?
+Of the camera
+Really
+That's cool
+Hello A
+How are going?
+Good good
+Please
+Oh
+You mean
+Very very high quality camera
+suggest to they people to
+quit it and on
+your
+money
+suggest
+quit it
+another hand
+spend
+money
+NTA
+It's okay
+Hi B
+Did you?
+Oh really?
+Yeah
+Yeah and uh uh
+Yeah
+Did you?
+Yeah
+Yeah
+Okay, uh come with me
+Thank you
+Hi B
+Did you?
+Oh really?
+Yeah
+Yeah and uh uh
+Yeah
+Did you?
+Yeah
+Yeah
+Okay, uh come with me
+Thank you
+Uh-huh
+Yeah yeah
+Or activity
+How about you?
+Thank you B
+That's right
+Yeah
+Yes NTA
+Exercise yeah
+Uh-huh
+Thank you A
+Hi
+Yes sure
+Wow
+Sound good
+Okay, thank you
+Uh hi sir
+Uh actually there are two ways to buy this product
+Sure
+Sure
+Absolutely
+Thank you, have a good day
+Bye
+Yeah
+Yeah uh
+Bad for health
+You're welcome
+Hello dad
+Thirty years?
+Please
+and
+Thank you dad
+Bad for health, yeah
+Hi A
+And a small memory card for uh two mega
+You s
+Yeah uh, hi B
+Yeah
+Okay, thank you
+Just come with me
+Yes
+Oh really?
+Thank you for this A
+The second ads, huh?
+Need to
+Stop people smoking
+Yeah sure
+Yeah
+Okay go ahead
+Uh-huh
+Wow tell me about it
+Oh nice
+Okay
+Yeah
+Yeah
+Yeah online
+Yeah
+Yeah
+Uh the New camera at uh com
+Yeah
+Discount
+One hundred and fifty dollars
+Nice
+Really?
+How?
+Really?
+Okay
+Uh online
+It's WW
+Really?
+Discount
+Yeah
+Yes of course
+Yes
+In all the pharmacies in the United States
+Thank you
+Take care
+Thank you so much uh for uh help me
+Uh okay
+Call now and buy it
+Thank you very much
+Call now, 999999
+Thank you for coming
+Hello B
+No
+Really?
+What the technical of the camera Canon?
+And what the flash uh effective?
+Okay thank you B
+Yeah yeah
+Excuse me?
+Uh yes I sure about my information
+You're welcome
+Oh my god
+Wait wait A, wait
+What
+How?
+Oh, how much that?
+How many pixels?
+Oh uh ca-uh and what about your memory cards?
+Oh, thank you Sony
+You're welcome
+Ugh
+No
+This tablet for
+Champix
+Quit smoking
+Take some picture about nature and
+Thank you
+Uh uh first the reason
+Good morning, doctor
+Uh how about result of my health?
+So okay
+Hi, good morning
+Look at uh this picture
+Yeah, very right
+Hi B
+Yeah
+Thank you very much Miss Laura
+Hi A
+Uh this picture about uh more vitamin about for the body, uh
+Yeah uh sure
+How about you?
+What about you?
+Okay
+Thank you miss
+Hi B
+Hi A
+Oh, what kind of the disease?
+try this gum
+Yeah
+Uh-huh?
+Thank you
+Really?
+Uh-huh
+Uh-huh Great yeah great
+Yeah the same to you
+Okay thank you
+Yeah
+Really?
+Try them
+Very cheap
+Yeah very cheap
+Sorry?
+Yeah
+Yeah
+Yeah
+Okay
+Okay thank you
+Okay
+Let's go to buy right now
+Bye
+Okay thank you
+Okay
+Let's go to buy right now
+Bye
+James? Oh okay he uh shy maybe
+Yeah
+And uh let's go to buy it
+Okay, bye bye
+Yeah
+Yeah to keep his life
+Yeah
+Thank you
+Ok
+Thank you
+Yeah
+Let's tell him the truth
+Yeah
+So let's tell him the truth
+You know?
+Yeah
+Thank you very much
+Thank you
+Thank you
+3
+Listening and speaking level 3 section A task three point-or 2
+Ok thank you
+And uh and uh the second uh go the uh in in her group
+Good
+Thank you
+Ok
+Yeah but the time everything every
+Yeah
+Yeah, absolutely
+Yeah
+Just uh in self-conscious uh with his uh accent
+improve his accent
+Yeah
+Yeah agree with do do not worried about that
+Thanks B
+You're welcome
+Oh, yeah really?
+This is…
+Thank you so much
+Hi A
+About you?
+Good
+Uh,,, m- m- m
+Yeah
+Yeah
+Uh
+Yeah
+Welcome
+Thank you so much
+Hi A
+About you?
+Good
+Uh,,, m- m- m
+Yeah
+Yeah
+Uh
+Yeah
+Welcome
+Thank you so much
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah thanks thanks a lot
+NTA B level-uh listening and speaking level 3A task 2
+3
+Yeah exactly
+Uh talk with the native speakers
+And uh… uh read a lot and
+Practice
+Yeah exactly
+You're welcome
+Uh yeah
+S
+See you
+Good luck Chen
+Yeah
+Really?
+Good luck in the university
+Ok
+Uh
+Uh
+Thank you so much
+Yeah
+Uh
+Ok thank you
+How about you?
+Yeah Okay
+But uh don't worry about your accent
+Thank you for listening
+Yeah
+Thank you A
+Yes
+Thank you
+Bye
+Uh
+Yes
+Uh
+Uh and uh how about you?
+Uh yes
+Bye
+Uh today we talking about uh Chen problem
+Because his accent
+Yeah
+Yeah
+Uh, what is Chen problem?
+Why?
+Uh uh what about his accent?
+Maybe is about accent in the street or but in the tone
+Yeah
+Thanks
+Ah
+Ok
+Uh today we talking about uh Chen problem
+Because his accent
+Yeah
+Yeah
+Hello
+Okay thank you, A
+Okay thank you
+Hi B
+Thank you B
+Hi A
+S
+Yes
+Thank you A
+Thanks
+Yeah thank you so much
+Ok
+Ok cool
+Ok let's go uh Chen and tell him my uh…opinion
+Ok, thank you
+Oh, cool
+Ok
+Level uh –section 3B task uh 3
+Uh B
+He can't go in the university
+Yeah
+Yeah, the student board
+Thank you uh Mr
+B
+Yeah
+Yes
+Yeah
+Good
+Ok
+Yeah, student board
+Oh, yeah
+Hi hello
+Thank you
+Yeah
+You're welcome
+Uh, hello B
+Right
+Yeah
+Thank you
+I agree
+NTA
+Yeah
+Bye
+B
+Test
+With people yeah
+Uh listening uh and speaking level 3 A uh…
+Test uh 2
+with the people
+Ok thank you B
+Yeah thank you
+Why not?
+Yeah
+Uh huh
+Yeah yeah good idea good idea
+Thank you B
+Yeah
+Yeah
+Thank you bye
+Yeah
+You're welcome
+Thank you for listening
+End end
+Uh and this the-and thank you
+Ok thank you
+Thank you very much Miss Chen and good luck for future and good luck for accent
+Uh okay
+Yeah
+Good
+Yeah for sure
+Yeah
+Yeah and try to fit in with uh some groups
+Yeah
+Thank you
+Ok A
+Yeah
+Yeah
+Thank you
+My opinion he… NTA with American guys and stayed
+Accent
+Yeah hello
+I'm good
+How about you?
+Why?
+Why?
+Think about what?
+Oh
+Uh and
+Thank you
+Bye
+Hello B
+Good
+Yeah
+About the solution
+Okay thank you B
+Hi A
+Why?
+Yeah
+Okay thank you
+See you later
+Hi A
+Why?
+Yeah
+Okay thank you
+See you later
+You're right
+Yeah
+Yeah
+Yeah uh
+Thank you
+Yeah
+You're right
+Yeah
+Yeah
+Yeah
+Ok
+Hi A
+What about you?
+I'm fine
+Uh what?
+Yeah
+Yes
+Yeah
+I
+Hi A
+What about you?
+I'm fine
+Uh what?
+Yeah
+Yes
+Yeah
+I
+Thank you
+Yes
+Yes of course
+Level 3 uh test 2
+3
+See you
+Good idea
+Uh yes
+Thank you very much
+Ok
+Mm, hmm
+Our patient
+You're welcome
+Bye-bye
+So because that
+Thank you man
+Thanks doctor
+Uh uh
+He's graduate student
+What about your patient?
+Thank you
+What about your uh patient?
+What about your uh patient
+Okay my patient NTA fat
+m
+and uh seven a
+until seven a
+m
+Okay thank you
+OK, hi A
+Uh
+Ok
+And What about Cindy?
+Thank you
+Hi
+What about Jack?
+Uh-huh
+Uh-huh
+Cindy gain-uh gains uh twenty …20 pounds
+Uh-huh
+Hmmm
+Mm, hmm
+I
+Thank you
+Yeah, hi doctor A
+What's up?
+Oh
+Oh, oh yeah
+Ah, ok
+A
+Ok
+Thank you Dr
+Yeah
+That bad for him
+Umm
+That's horrible
+Yeah
+Yeah
+B
+Thank you Dr
+She
+Thank you
+m
+until five p
+Uh-huh okay cool
+Okay thank you
+m
+until five p
+Uh-huh okay cool
+Okay thank you
+Thank you so much
+m
+and uh to five p
+until five a
+Uh huh
+m
+Thank you
+Ok
+Ok no problem
+Thank you
+And also easy to meet, to make uh fast food and … cheap so like McDonalds and … KFC … cheaper fast food in America
+Ok
+Talk about yours
+Yes
+Cardiovascular
+Let's talk first about the Geoff
+Uh, ok
+And uh … sleep only 4 hours
+m
+until five p
+How about you?
+Uh yeah okay thank you
+I disagree
+Really?
+m
+and until seven p
+I know
+Okay thank you for your opinion
+What about your patient?
+Yeah
+So let's take Joe
+Hi
+Yeah, yeah
+What about you?
+m
+Ok
+Yeah
+Yeah
+Because and me and -
+We -
+Yeah because …
+I'm good
+Jack
+Right
+Ok uh
+Uh why?
+What about you?
+But that
+Ok, uh
+Ok
+Ok
+Uh-huh
+Uh-huh
+Jack
+Yeah
+Because he can't sleep more than 4 hours a night because of his weight
+Oh
+Uh-huh
+Wow
+Yeah
+Yeah, right but…otherwise at hi-in his family uh NTA help him
+Also sits at desk all day
+Ok
+Thank you
+m
+until five p
+m
+until five p
+Uh thank you so much, B
+Very good
+What about you?
+Yeah
+Thank you, A
+Let's go with the Jack
+I agree
+What about you?
+Obs – obesity run in her family
+Uh… she uh … she can't stop eat uh from vending machine
+Thank you
+Thank you
+Uh-huh
+Yes
+Uh huh
+Uh huh
+A lot of uh what, exercise or studies?
+Okay
+Uh-huh
+Thank you A, thank you
+One of my patient
+m
+to until seven p
+Thank you very much
+m
+until seven p
+Thank you
+Thank you so much
+m
+until seven p
+Ok
+He just four hours sleep
+With Jack
+Okay
+Ok
+Yeah
+Oh
+Really
+With Jack yeah
+Ok
+He just four hours sleep
+With Jack
+Okay
+How about you?
+m
+until five p
+Uh she obesity runs in her family
+Why?
+Uh
+I think
+That's it
+He
+Go to the healthy centre?
+‘til five p
+m
+Thank you
+Uh student B uh let let me introduce Lou
+Yeah I
+Thank you
+Yeah
+Thank you A for help me
+Who…
+Thank you
+Not sleep enough
+Lou Lou he's uh professor the university
+Yeah
+Yeah he's professor in university
+until seven a
+m
+until 7:00p
+m
+Yeah
+Yeah
+Okay
+Yeah
+Obvious –uh obviously obesity runs in his family
+And and…eat more fruits and vegetables and more uh… between…a-and office and not sit at the desk all the time
+Yeah
+What about you?
+Oh
+Yeah
+Yeah
+Thank you
+A
+Thank you
+Yeah, his really fat
+Yeah
+Eats McDonald's a lot
+Yes
+Ok, thank you
+Thank you A
+Student A
+Fine
+Her name's Jacqueline
+There are uh many member on his, in his family has obesity
+- center
+Student uh … B
+Uh… Hi A
+What about you?
+This uh … three time in the week
+What about the J – Jacqueline?
+Uh -
+Yeah
+Student A
+Fine
+Her name's Jacqueline
+There are uh many member on his, in his family has obesity
+- center
+Yeah uh my patient her name uh Cindy
+Uh yeah? How about your patient?
+m
+Uh how about your patient?
+Okay thank you
+Uh … one name her, her uh Jacque – line
+Ok
+That's fine
+Yeah, ok
+Thank you
+Good
+Thank you
+What about you, A?
+What about Cindy?
+Thank you B
+Uh hi
+Cindy
+Is not good
+NTA
+Maybe
+Yeah
+Probably
+Thank you
+Yeah
+Hi
+No
+Maybe
+Yeah
+Thank you
+I'm B
+m
+That's all
+Thank you
+m
+until five p
+That's it
+Yeah, yeah yeah
+Yes
+What uh excuse me what his problem?
+Oh, my God
+Thank
+Oh
+You know?
+Mmhmm
+What about Joe?
+Yeah
+Overweight
+Uh huh
+Like healthy problems?
+Wow
+well
+Make a diet
+For themselves
+Yeah
+Uh
+Mmhmm
+And uh
+Yeah Joe
+Overweight yeah and uses diet
+Yeah
+Uh let's say uh how about he just uh take a walk at least uh during uh his eight hours always uh
+During
+Yeah
+And not just that
+And three times a day
+And
+Yeah
+Uh, everyday more than… maybe more than one hour or two hours
+Yes
+Maybe can instead of uh food and
+Meat
+Uh, to to to to to–to lose weight
+Uh…
+Yeah
+until five a
+m
+So
+m
+Okay
+His name Lou
+Thank you so much
+Bye
+Melia?
+8:00a
+, 8:00a
+m
+to?
+m
+7:00p
+until 7:00p
+m
+m
+7:00p
+Mm, hmm
+Yeah
+Yeah!
+Uh hi uh
+What about yours?
+Oh!
+Yeah
+until 7:00p
+m
+everyday
+Yeah
+Hello
+Oh yeah
+Yeah? What about uh history of your uh patient?
+Ok, and this ob –obesity obesity runs in his family in their history
+Ah
+Oh
+Mm
+Uh huh
+Okay
+until five p
+m
+She obesity-hm she obesity runs in her family
+Uh to make her lose weight
+I agree
+m
+Yeah
+So let's go to
+Thank you
+Okay
+Stop
+Stop stop stop
+Stop
+until 7:00 p
+m
+That good things
+Thank you very much
+What about Melia?
+Thank you
+until until five p
+m
+Yeah
+Yeah
+Hmm he also Joe also uh like the problem the same problem
+Yeah
+Nice to meet you
+Okay
+Bye
+Okay thank you
+What about you?
+Fifteen pound like one five
+m
+Oh the diabetes
+The same problem
+B
+So yeah nice to meet you Dr
+Thank you so much
+Hello, Melia
+Mm, hmm, fine
+Fifteen? Fifteen pounds?
+Yeah
+Yeah
+Mm, hmm
+Do you
+Mm hmm?
+Mm, hmm
+Mm, hmm
+Yes
+Mm, hmm
+Yes
+So…
+So…
+Ok, thank you
+Yeah, fifteen
+Excuses me uh
+That's why…
+Thank you
+until 7:00p
+m
+Thank you B
+until 7:00p
+m
+Thank you
+Thank you
+Hello B
+What about you?
+m
+Thank you
+Hello
+Mmhmm
+Yeah
+Hello
+Mmhmm
+Yeah
+A
+Uh, student A
+Task 1
+What about you?
+Uh, ok
+What about … you?
+Yeah
+Yeah
+Uh
+And eat some vegetables
+Not always eat the meat
+Yeah
+At at his desk for every day
+Yeah
+Uh
+Really?
+m
+to seven p
+To stop this problem or
+Alright
+Vegetables
+Mmhmm
+But my person
+Mmhmm
+Every day
+Wow a pretty long time
+m
+NTA better
+m
+She studying hard from 8:00a
+until seven p
+m
+Uh, okay
+So
+m
+uh until five p
+So
+Uh because uh there have two solutions
+Yeah
+Hi B
+Ah yes
+People always uh crime by graffiti
+Let's talk about the types uh uh of crimes in 2004 and give us the percentage of the crimes
+So what about you?
+Graffiti, yeah
+Alright, thank you B
+Yeah
+Thank you
+Yeah
+Absolutely
+Yeah
+Uh on the other hand, there is like more than one two possible solutions to solve this problems or crimes are doing uh decrease the rate of crimes in this city and the country
+Uh, the Task 1
+Yeah
+Ah, same as your country huh?
+Uh-huh, okay
+Hmm, okay
+Let's go vote for to him
+Okay, thank you
+Really?
+I'll ask uh abou-what about uh Majed?
+Twenty-five hou-really, twenty-five hours in uh in in a week?
+Oh really? Yeah, uh…
+Yeah
+Okay, thank you
+Hi B
+Uh today uh about the cana-candidates uh me and my uh partner B
+What about you B?
+Okay thank you B
+Uh-huh
+Mm-hmm, okay
+How about Majed?
+Yeah
+Uh-huh
+Oh really? That interesting thing
+Also free courses books
+Okay, thank you
+What about uh…?
+Sounds good
+That's awesome
+How about you, about Maria?
+And what about the plan and in the Maria?
+Okay, thank you
+What about the, uh his uh promises?
+What about the his plan?
+Yeah Maria uh uh say about a new chairs in PIE, and student… break room
+Yeah, but uh Maria, uh her plan in the future, open an international restaurant at NAU
+Problem
+Okay, thank you
+Uh-huh, but uh there is no fun
+Both
+Okay, thank you
+Okay, thank you so much
+What about you?
+Uh she intelligent, organized
+Hi uh, hi B uh, long time no see, I uh
+Hi good good
+Uh yeah, uh
+Uh at at the PIE
+And
+Uh Majed and uh…
+Felah
+Uh yeah
+In a week
+Oh okay
+Where?
+Okay
+Between who and who?
+Felah
+a week, okay
+Oh talkative, cool, interesting
+Cool, cool
+You're welcome
+No, because uh Bill not have uh a free time
+Thank you
+Today we talking about uh debate between Bill and Mary
+And uh… uh Bill talk about uh international so-uh soccer, soccer
+Really many student uh speak Arabic in PIE
+Not all uh student in PIE uh play soccer
+Do you?
+Uh, uh hi B
+Why?
+Hi, A
+Felah?
+Yeah yeah
+What about your candidate?
+Yeah
+Student A, A
+Long time no see
+Uh-huh
+Uh, why?
+Yeah
+Okay
+Bye
+See you
+Student B, B
+Oh maybe
+Uh, really? Uh knows uh how to manage his time, for Felah
+Oh really?
+That's exciting
+Okay
+Thank you
+And uh give uh, and uh
+Thank you
+Sorry?
+Uh also promises… new chairs, student break room
+and want to give uh free course
+Tell me more about Majed
+Thank you
+Uh… also Felah promise to get uh the PIE involved in different university organization
+Oh good
+Okay
+Okay
+Okay
+1 Speaking, my name A
+4
+Hi B
+Yes
+Majed?
+Or Felah?
+Thank you
+Thank you
+Ok thank you very much
+No no no look there's specific there's a road for that
+It just full of exciting
+Oh, really
+Ah, really?
+Mm, not really
+Mm
+Uh
+Ok, thank you
+On my way
+Yeah, of course
+No, I just uh play it on my on my way home and uh go to school
+What about you?
+Uh fine, I I skating boarding everyday
+Yes
+Some…
+Yeah
+Okay, thank you
+See you, bye
+Okay, tell me
+Uh huh
+Good good good
+Uh huh
+Uh huh
+Thank you, have a nice time
+See you
+Hi B
+Yes
+What about uh Greg?
+Yeah
+Well
+Okay
+Okay, thank you B
+Okay
+Yes
+Yes so we NTA uh Sam
+Also the very-also not
+Okay, okay
+Yeah
+Uh…
+Uh, sen-uh
+Maybe sometimes, sometimes
+Uh
+Uh what kind of Greg you?
+Yeah
+Hi B
+Ah, okay okay
+Hi
+… Uh so uh there's uh another advantage about uh Greg
+Uh…
+Uh B, hi
+Oh, uh
+Hmm
+Ohh
+Oh, oh okay
+Okay
+Sam? Uh… uh…
+Ok see you in the sky
+Hi B
+No just me and you
+Good uh so
+Ok
+You too
+Hi good
+Ok
+Ok nice
+So thank you A very much
+Nice to meet you
+Thank you A
+Ah ha
+Thank you
+I'm fine
+Oh
+Ok thank you
+Hi A
+Why uh to do uh want uh sport?
+Let's go A
+Hi B
+Ok, see you let's go
+Hi B
+I'm good
+Oh extreme
+What kind of ext –extreme sport you
+What uh
+Yeah a little bit
+Oh nice
+Yeah
+Are there any dangerous of this extreme sport?
+Ah yeah
+Yeah
+Yeah
+very very interesting
+Yeah, the same boat for uh of uh… the group or small groups
+Yeah
+Yeah
+That's
+Yeah
+Ok Thank you
+Ok ok no problem
+Hi A
+Fine
+How about you?
+Extreme sport
+Extreme sport yeah
+A lot of kind of fishes and
+River rafting oh!
+Yeah
+Yeah
+To spend the time
+That's ok
+Thank you
+Hi B
+What?
+Yeah
+Ok NTA
+Thank you
+Hi
+Yeah
+And you?
+Ok, thank you
+Mm…
+You're welcome
+Why?
+That's good
+Thank you
+Let's go to the next uh summer
+Yes, very good
+Ok
+Thank you A
+Hi B
+Oh B
+Bye
+Hi A
+Good
+Bye
+Come on let's go
+Yes
+How about you?
+Oh
+Let we choose another one endurance
+another sports
+Thank you very much B
+Oh
+Yeah
+Thank you
+Thank you
+Hi Mr B
+Hi
+I'm good
+Like what?
+No problem
+Hi B
+I'm good
+I
+Thank you B
+Every people like this
+Yeah like bungee jumping like a jumping from high… building or high places
+Ok
+Thank you
+Uh hi B
+You're welcome
+Hi Salem
+I'm fine
+Oh
+Yes
+Why
+Yeah
+No this first time
+But uh you
+Why?
+Come on
+Man
+Cool ok
+Bye
+Really?
+Yeah
+Uh and you exciting?
+Yeah
+Come on let's go to Phoenix
+Hi B
+Thank you B
+Ok?
+Bye
+Hi A
+Thank you A
+Ok
+Student A
+What about you?
+Thank you
+Student A
+Hi, B, Student B
+What about the weakness for your business?
+Okay, what about the opportunity?
+But my business opportunity, large international population
+What about the threat? What the threat? Well…
+Oh, nice
+Okay, thank you sir
+What about your restaurant?
+What about the your weaknesses?
+Okay
+What about your uh threat?
+Thank you
+build it, build the store
+Thank you
+Uh-huh, good
+Yeah
+Thank you
+Uh-huh
+Yeah, actually yeah
+Okay, thank you
+And uh
+Thank you
+Uh, even so uh, I uh
+And uh… two millions we you can't uh open maybe one uh, hmm, computer store NTA
+Okay, thank you
+Uh… hi B
+But what's the… reason?
+Thanks
+Student
+Student A
+Uh
+Student 4a
+Student A
+Uh, the Unique and Amazing Computer Store
+Uh because the
+Yeah, sure
+Thank you
+Ta-task 2
+Listening and Speaking 4A
+Why?
+How about you?
+Why?
+How about you?
+Why?
+Good, what about you?
+Uh, unique help uh, for each cust-uh each customer
+I agree?
+Good, what about you?
+Uh, unique help uh, for each cust-uh each customer
+I agree?
+Uh, yeah, hmm
+I'm fine
+Oh, huh
+how about-how about the opportunity?
+Hmm
+What uh about you?
+There are a lot a lot of them in this area
+Thank you
+2
+But… what about the computers business?
+So because there is no… competing business nearby, so uh there is no computer store by us
+But… there uh, there are many opportunities, for people
+Uh, what about your threat?
+So uh okay, my business
+What your opinion?
+Thank you so much, uh A
+And uh student B
+Hi
+What about uh your uh business?
+Okay
+Okay, let's start our business and bye
+Student B
+Hello, B
+Thank you
+is better than me
+Yeah
+So… so it-so…
+Thank you
+You're welcome
+2
+Student A
+However, difficult to find a location with uh enough space
+I'm A
+So, what about you?
+That's all
+Hi B
+A
+Hi Mr
+Yeah, sure
+Don't forget about the black hole
+Thank you, A
+Yeah, hmm
+Mmm-hmm
+What about yours?
+Yes
+Umm
+So, okay
+Okay, okay
+Thank you
+Oh
+Thank you
+Uh to explore space
+V
+Okay this fine bro and uh have a good time with this and uh
+On another hand uh can say that uh can spend half of five billion dollars to build to telescope or build the astronomy to explore the Mars
+What do you
+think?
+Thank you
+Thank you
+Thank you
+Thank you
+effects and sides in this mission
+And there are many positive uh
+Student A
+Uh
+And many things like achievement to our nation
+Thanks a lot my friend
+Student, student
+Uh, what about you?
+What about you?
+Thank you
+Thank you
+Thank you
+Great idea
+Uh hi B
+What about the negative?
+Yeah
+Okay okay okay thank you, B
+Uh about the negatives
+Yeah
+Welcome
+Why?
+Okay tha
+Yeah yes
+Yeah
+So how about creating a a genetic space telescope
+And what the negative of this?
+Yes
+Uh okay
+Okay
+And uh uh… uh uh also have uh a positive
+Okay, bye
+Uh how about you? How about your…
+your space telescope problem?
+Yeah
+Hi A… uh now, the government give us some budget, about uh… five billion dollars
+Okay
+Thank you A
+Okay thank you
+Uh Level 2B
+Uh of course uh there are some negative about uh the travel to mars
+Hi B
+And uh t –uh then to go uh the –in the university
+I didn't…
+Okay thank you very much, A
+Oh god
+Thank you for listening
+And uh have a good luck for uh Matt
+Thank you A
+I'm fine
+Abo –about his accent
+Thank you B very much
+Sorry?
+Thank you B
+I'm fine
+Abo –about his accent
+Thank you B very much
+Sorry?
+Thank you B
+Thank you
+Uh the Matt uh is uh finish the PIE…
+Uh-huh, okay thank you
+Good
+Yeah
+Thank you Mr B
+Hi A
+Fine uh how are –how about you?
+oh nice
+Yeah sure
+Hi B
+Thank you, Mr B
+Oh very good idea, good idea
+Have a good day
+Hi A
+Yes
+Why?
+So listen to last one
+You too
+Thank you for interview me
+Uh Matt he uh
+After this become and better and better for understand the uh the people with you
+Yes
+Right
+Thank you A
+Yeah, thanks
+Uh Mr
+Stay
+Thank you
+Thank you
+Ah, cool
+Yeah
+Ah ha, yeah
+Oh
+Yeah
+Or the best solution
+Yeah
+Yes
+Thank you
+Yeah
+Enough to go to the university
+Uh… hmm to listen a lot of music, American music and get the slangs uh something like that from there
+Best
+With the American family?
+Why?
+Thank you B
+Nice to meet you
+We'll to give him uh this uh solution
+Thank you B
+We'll to give him uh this uh solution
+Thank you B
+What's happened?
+Welcome, A
+Uh now uh how feeling Matt in the university?
+Okay
+Thanks B
+Uh, yes
+You're welcome
+Good mor
+Good morning A
+No no
+Yeah, welcome
+And
+don't understand uh him
+Okay, thank you
+Hi
+Yeah
+Yeah
+Nice to meet you
+Hi
+I'll give you three solutions
+Doesn't work, huh
+Okay I'll give you… the last solution
+Oh really
+You agree?
+Thank you, nice to meet you
+Uh we'll try to give them uh mathematics, chess and uh global knowledge
+Thank you
+Hi B
+So I
+Ok
+Uh the three groups
+Yeah
+Thank you
+Ok
+Uh yeah
+Yeah
+Ok let's see the results
+And yeah
+Yeah
+So let predict uh the the final result of the study
+So let's see the result together and do the experiment
+Yeah
+Thank you very much
+Yeah
+Yeah
+Thank you very much
+Uh… stand opin-uh
+Uh listen classical music enhance students' vocabulary listening profenci-uh listening efficiency
+Uh… stand opin-uh
+Oh yeah
+Yeah and uh
+Yeah
+Yeah okay
+how about you your participants?
+I I uh You your participants
+You're nineteen!
+Me too
+Yeah
+How about you?
+How about you?
+Ah in China
+So hi B
+Ok
+Ok, thank you
+Yeah
+Hi A
+Uh huh
+Uh huh
+Hello
+Uh what about you?
+And I
+And
+Yeah
+Ok
+Yeah
+Yeah
+What about you?
+What uh what about your research?
+Yeah and also uh the
+Uh there is two group
+Hi, B
+Uh let talk about uh uh experiment in our phi–philosophy class uh
+No change
+And uh do our experiments in the special group
+Yeah
+And what what your prediction regarding the results of the study?
+So how about you? You NTA
+Uh maybe uh uh the the time long as 3 or 4 months
+Uh
+Yeah
+Yah
+Thank you
+Ok
+Thank you
+Ok
+Yeah
+Yeah
+Yeah
+Yeah
+Uh-huh
+Thumbs down
+Ohh my god
+Ohh
+That's dissapointing
+Okay
+Oh that's
+Don't don't-uh tell him don't do that
+Yeah a lot of drunk people
+Okay thank you, A
+Uh hi B
+Yeah
+Down, yeah
+Yeah yeah
+Yeah yeah
+Also that
+Yeah yeah
+Yeah okay, okay
+Thank you, bye bye
+Good
+See ya
+Uh pretty good
+Uh so thumbs down
+Okay, thank you B
+See ya
+Yeah
+A lot Yeah
+Uh
+Shoes
+His feet his feet
+Uh so uh
+See you there
+Just si-uh sit in car
+Yeah
+Yeah
+His shoes uh at the desk
+Okay see you
+Oh okay, uh yeah
+Yeah
+Thank you
+That's right
+Yes
+Thank you very much
+Yes
+Yeah uh perhaps formal
+Perhaps informal and just for uh good friends
+So yeah, uh NTA
+Oh really?
+Ahh
+Ah yeah
+Okay
+Yeah
+You too
+Okay yes similar to ours NTA
+Ah, terrible
+Anything else to say?
+Wow
+Yeah, yes
+That's fine
+Thank you
+Uh yes circle
+Yeah next to uh uh yeah head
+Uh-huh
+So y…
+Ah, okay
+Yeah yeah
+Yeah
+Yeah
+Yeah of course
+Okay
+Oh
+Yeah
+So
+Of course
+Bye
+Not
+Okay uh B actually uh I just uh bring admission uh from Nancy in the international office uh for my cousin in Saudi Arabia
+Say but but yeah, teacher
+Here no, by his name
+And uh doctor to respect
+Yeah, to respect to the teacher
+Alright, the second thing uh not coming late in the class
+Yeah unrespectful
+Uh-huh
+Oh wow
+NTA
+Uh-huh uh okay
+Oh wow!
+Oh wow
+Uh-huh so
+Okay, thank you so much
+Thank you, bye
+Uh hi
+Yeah
+Uh yeah the f
+Uh-huh
+But in
+Uh
+Oh really?
+Spinning finger
+Oh really?
+Oh
+Hello
+other foreigners
+In America
+Yeah
+Yeah yeah
+So see you
+Oh great
+Yeah
+Mm-hmm
+Yeah
+Yeah
+So
+Yes
+See you
+Yeah
+Oh my god, no way
+Oh really?
+Okay
+Really?
+And… di
+Oh my god
+Hi B
+Yeah
+Thank you
+I'm fine
+Yeah
+Um hm
+Yeah ok, let me give you the third benefit of the apple
+Yeah
+Yeah ok
+Thank you B
+Yeah
+Uh from section 4B
+Hi A
+You're right
+Yeah
+Uh ha
+Yeah
+Thank you A
+Uh my favourite healthy food turkey sandwich uh in Subway
+Thanks
+Salad with chicken
+How about you B?
+Why?
+Yeah
+Thank you B
+Hi
+Hello
+Ok
+I
+Yeah
+This very good idea
+Yeah
+Yeah
+You're welcome
+Hi
+Hello
+Ok
+I
+Yeah
+This very good idea
+Yeah
+Yeah
+You're welcome
+A
+Hello, Mr
+Uh huh
+Ok
+Like berry have vitamin A and B
+Ok
+Yeah
+B
+Thank you Mr
+Yeah
+Ok? But uh what about your uh healthy food?
+Ok let's go
+Hi A
+Oh ok and then let's go to the library to to do the presentation
+Ok? But uh what about your uh healthy food?
+Ok let's go
+What about you A? What you what your favourite food?
+No cook in house
+So let's go B
+Task three
+Ok
+Great
+Ok
+Great
+Ok
+Ok
+Ok
+Great
+Listening - speaking 4A
+Has uh the same
+Uh, because uh … me too
+Thank you so much
+Listening - speaking 4A
+Has uh the same
+Uh, because uh … me too
+Thank you so much
+What your favourite healthy food?
+Because the healthy for our body uh and make my uh our body good
+Why?
+Has a lot of protein yeah?
+Like NTA like
+Like you
+Thank you
+B
+Why?
+Uh my favourite healthy food uh chicken
+Yeah
+So
+Ok thanks
+Level 4A
+B?
+Uh like what? What kind of uh vegetables?
+B
+No why?
+Hey, B
+B
+Oh, which uh like like what?
+Ah ha
+So … very… very little
+Receive preserve your heart?
+Ah ha
+Ok
+Yeah
+Oh, hi
+Oh, oh
+Which presentation?
+because of some reasons
+uh, and how about you A?
+Avoid from … about the heart attack and other diseases
+Ok, take a look for the last reason for me
+Yeah
+Yeah
+Ok
+Uh, and the … Ok A… uh, uh …
+Yeah
+Okay thank you A
+Hi A
+How about the fruit?
+How about the fruit?
+So how about you?
+Hi Mr
+I'm good
+Yeah vegetable and good sources and nutrition sources
+uh A
+Thank you Mr
+B
+Why?
+Oh uh thank you NTA
+Listening, speaking 4B, task 3
+What about apples B?
+Oh, nice
+Oh, nice
+Oh, nice
+Ok
+Thank you, B
+Listening, speaking 4B, task 3
+What about apples B?
+Oh, nice
+Oh, nice
+Oh, nice
+Ok
+Thank you, B
+Hi uh hi my, my name's B
+Yeah
+How about you?
+Well
+Good
+Right?
+Yeah
+Uh, yeah
+Yeah
+Yeah sure
+Like uh like uh carrot uh c uh cabbage uh what else is uh have a lot of vitamins
+I know
+Yeah
+Sure
+Of course and include of the fruit juice
+Yeah
+Yeah
+Thank you
+Uh ok, let's talk about the the food groups
+Hi
+What your what your favourite food groups?
+Second?
+Yeah
+Great
+help, help you go to the gym
+Ok
+Let's talk let's talk about the vitamin
+Like vitamin A or B12?
+Ok
+And in conclusion, let's talk about… let's uh let's get the one one uh one group for food
+Great
+Yeah
+It's good
+Yeah
+Yes
+Thank you
+Ok B
+My name A
+Ok why?
+Uh huh yeah
+I'm good
+Yeah a lot
+My NTA
+Thanks
+Hi
+Uh, hi B
+Uh huh
+Nice
+Yeah
+Ok
+Uh huh
+Ok
+Ok
+Ok
+Thank you
+Hi, A
+What's your uh … favourite healthy?
+For many reason
+Watermelon? Oh
+Oh, cool
+A lot of calcium
+Yeah
+Thank you
+Yes
+Uh this uh uh 4 uh 4B uh listening speaking uh hi B
+Hello A
+Good and you?
+You're welcome
+That's all
+Ok
+Ok
+Sounds good
+Ah ha
+It's, it's
+fat, no calories, no uh
+So
+Ah ha
+Thank you
+Yah
+You know?
+Yeah
+Of course
+Yeah
+Doesn't have fat
+nothing
+That's right
+Thank you A
+level4B
+My name's B
+Why?
+Yeah
+Sometimes
+Yeah
+Thank you
+level 4B
+Hi
+Yeah
+Ok
+Thank you
+Uh … what about you?
+And… Thank you
+Thank you
+Listen and speaking Section A
+Ok thank you so much for agree with me and speak that
+Thank you
+And uh can … uh… can … can make us uh… use the time uh… wisely
+B
+Yeah
+Why?
+Thank you so much
+Uh alright
+Ok
+Hi
+Yeah the first uh suggest uh educationally policy for immigration in the US-in the USA
+Yeah
+Yeah please
+Hi B
+Oh wow
+Oh yeah
+And uh and uh people
+Hi
+Yeah
+A
+S
+A
+S
+Yeah yeah yeah
+Hi B
+Yeah
+And the vi-the visa sometime uh take long time like four months or
+Ok let to start it now
+Tell me them
+That's good
+Ok uh common reasons for immigration by different countries
+Uh education policy for uh immigrants in the US…uh and the last one child immigrants' difference-difficults sorry
+Concerns related to teenager
+Uh ways to help immigrants improve their English
+Ok
+Yeah
+In the US
+Yeah of course
+Yeah
+Yeah yeah
+Of course of course man
+A
+S
+A
+S
+That's all
+I agree
+Good
+How about if we uh, establish this business?
+Seven
+Okay thank you, B
+Uh the – the first one
+Thank you very much my friend
+Ok, goodbye
+Thank you
+Hi B, uh
+Yeah
+Hi
+Where, in the park? Inside
+Uh-huh
+Uh-huh
+Hmm
+Yeah
+Uh-huh
+Yeah
+Yeah
+Yeah
+Thank you
+Uh-huh
+Uh-huh
+Hmm
+Yeah
+Uh-huh
+Yeah
+Yeah
+Yeah
+Thank you
+And uh the – today we'll uh… discuss uh the uh about the uh… the NTA uh analyses for uh… barbershop
+And uh also you'll have uh discounts for everyone
+Uh…
+Hmm, people p-… uh, can't find it uh very easily
+Yes
+Thank you
+Conversation
+Oh, unfortunately
+Conversation
+Because uh uh, the state here Arizona, raise the taxes of uh, of of any business
+Thank you A
+Also, uh uh high uh NTA but good uh NTA uh uh, reputations
+What
+So
+Yeah, in fact uh the state ri-uh rise-the uh, also in fact the the state rise the ta-rise taxes uh on business
+Okay, let's go
+Yeah
+Uh
+And uh there's no Arabic restaurant in Flagstaff
+Thank you very much for your advices
+Thank you
+Really?
+Hi B
+Ah, that's
+Mm-hmm
+For the salon
+Thanks
+It's work
+Uh… uh… uh…
+NTA
+Oh really?
+So let's just let's work on it
+Let's work on it
+on
+And uh on the T
+V
+And magazine and the newspaper
+Mm-hm, yes
+Uh yeah, nice to meet you
+Othman?
+Ok, thank you so much
+Thank you
+Yeah
+and uh…
+And also the salon charges more money than other places
+Uh but also the the the difficult to find a barber-uh a barber shop and a hair design
+Um this this state uh raise the tax on business in this place
+And there is no other businesses
+Also in this market there is no other competitors
+There are there are very uh little places, the barber shops
+But you you you can't see the location of the barber shop
+Yyou can't control it
+Uh hi A
+So
+Uh-
+You're welcome
+Uh hi B, uh
+Also the uh-
+there's no competition within ten miles area
+Okay
+Okay me too, okay thanks B
+Uh hi A
+So
+Uh-
+You're welcome
+Let's start
+Hi A
+Yeah good
+New barber shop? Ah, sounds good uh NTA
+Yeah budget, good
+Mm-hmm, uh
+Mm-hm
+Yes, yes
+Yeah
+Thanks, A
+Okay
+Hi
+Okay
+For them
+Yeah
+Me too, me too
+Okay
+Thanks, B
+Let's start
+Hi A
+Yeah good
+New barber shop? Ah, sounds good uh NTA
+Yeah budget, good
+Mm-hmm, uh
+Mm-hm
+Yes, yes
+Yeah
+Thanks, A
+Okay, thank you
+Alright
+Uh for example location
+Hmm, alright, okay
+Okay, uh student B,
+Uh, yeah
+Stop
+Uh… hi A
+No competition ten miles, and um … we'll make offers every month for the customers
+Yeah … don't think so
+Okay, uh student B,
+Uh, yeah
+Stop
+Pretty good
+Thanks
+Okay, let's do it
+Hi B
+Why?
+Yeah
+Yeah
+Ok, thank you
+Hi
+Uh huh, so?
+Thank you so much
+Good
+I'm
+Okay, okay, let's go
+Hi uh B
+Ok
+Office
+Oh-
+To change what?
+A new product?
+business plan
+Thank you
+Oh no, for me uh there has uh many weakness for this uh business
+But uh
+For here also there is many competition, but the location so bad
+But what about the office park?
+Often under construction and difficult to find the location for the barber shop salon
+But what about the raised uh of tax… on business?
+maybe it high
+Yeah
+Okay
+Okay
+So Dr
+What about the patients?
+NTA Anyway thank you
+See you later
+See ya
+Student A
+until 2 am
+to study and suffer from
+insomnia
+Yes and his family time also
+Mm hmm
+But
+Mm-hmm
+I think
+John Smith
+have a lot of time
+Either than Linda Evans
+Yeah
+Yes, yes
+And me student B
+Yeah
+Yeah
+Yeah
+Yeah
+to the sleep clinic
+Must uh arrange his time to sleep early
+Yeah
+Yeah
+Yeah
+With her husband
+Ok, give him another appointment next month
+Ok
+Welcome
+Yeah
+Uh … her name uh… her name uh … Jane Brown
+m
+Uh ok
+Ok
+That's it
+Thank you A and thank uh teacher uh NTA
+Thank you B
+Ok
+m
+What your idea?
+Uh, Jane Browns uh cannot focus on her job uh during the daytime
+What about you?
+What about you?
+Okay
+That's it
+m
+m
+Hi B
+Uh
+Uh what about your porter?
+Okay thank you, bye
+Hi A
+So how about your pa –patient's…
+events?
+And uh was uh her uh sick?
+m
+Okay okay uh maybe uh let the John to go first
+m
+From her husband
+in this point
+Yeah
+at–7a
+m
+Yeah
+From her husband so
+Yeah
+Yeah
+Yeah
+Ea –each other
+Yeah
+At seven?
+Okay
+Okay
+m
+to study
+Two a
+m
+is so late for high school student
+Every day
+Every night
+He need
+Yes
+Yes
+But uh the Evans
+The woman?
+Because always start at uh uh seven a
+m
+Okay
+Okay let's discuss about these patients
+m
+Uh okay uh let's let's discuss about this this uh people
+At seven yeah
+Uh how about yours?
+m
+Okay
+How about your person?
+Yeah
+Uh-huh okay
+Yeah
+Okay
+Yeah
+Yeah okay
+Yeah
+Uh let's discuss
+Oh okay
+Because
+Yeah
+Yeah
+Yeah
+Why?
+Yeah
+Uh okay
+Yeah
+I'm good
+Ahhh spanking
+Oh
+Thank you A thank you so much
+I'm good
+don't allow to go with his friend
+V
+There are many ways to uh different NTA spanking
+Thank you B
+Hi
+Yeah
+Yeah
+Yeah yeah
+Just just tell tell he how to do
+Yeah
+Find a good idea to to sNTA his conscience
+Yeah
+Yes
+Yes
+Hi B
+Uh
+Yeah
+Hello B
+It's dangerous
+Alright
+In Fla-in in the mall?
+Yeah a nice idea
+Next our store?
+Successful
+Yeah
+In the mall yeah
+At night
+Yeah yeah
+Yeah
+You're welcome
+Yeah uh
+Uh huh
+Yeah?
+Yeah
+Yeah
+Yeah great
+Yeah
+Right
+Mmm hmm
+Yeah
+Right
+Thank you, B
+Thank you
+Uh huh
+Uh huh okay
+Uh
+Then
+And more education
+Not just a student or teacher
+People outside when uh somehow uh want to search and to read some uh something
+What about you uh start what about
+Uh okay um um
+Yeah okay go ahead
+Is gonna be very good because is gonna be cheaper more than the bookstore and you?
+There is some weaknesses but is not gonna be more than the strength
+Let's do it
+Okay
+Okay
+Thank you
+Yeah?
+Let me let me tell you the uh the strength
+Yeah?
+Uh but how about your weaknesses?
+You're welcome
+Well uh okay
+Okay
+Uh-huh?
+Thank you
+What about you?
+NTA more than the man NTA good opportunity for me for woman
+You
+Yeah thanks so much
+Okay
+Okay
+Uh
+Uh
+Yes
+Enough money
+Thank you
+Uh
+Yes
+Enough money
+Thank you
+Hi A
+Yes?
+Has
+A lot of sugar?
+And uh
+NTA
+It's popular
+Right?
+Opportunities
+So what about the threats?
+Uh hi B
+B
+Yeah
+Or craigslist
+NTA
+Like a drive through like a drive through
+NTA Yeah
+Yeah
+Yeah
+Yeah, that's
+Yeah drive through and one of my threats
+Oh
+Okay thank you
+Hello B
+Uh well okay but there are uh many uh fashion store in uh the mall
+Well okay
+Store
+Thank you very much B
+Uh hello uh A
+Go ahead and discuss with me
+Okay
+Hello B
+Uh well okay but there are uh many uh fashion store in uh the mall
+Well okay
+Store
+Thank you very much B
+About it
+Uh huh
+This place
+You know
+Thank you
+Yeah
+Yeah I
+That's better
+There is many people like uh like to eat burger also about the location uh what about your uh what about you, B?
+Threat my threats maybe there are many stores like me uh uh pay burger uh in the mall
+What about your threats, B?
+And what about the weakness, A?
+What about uh your opportunity, A?
+What about the threat , A?
+Good luck
+You too, A
+And B
+Thank you
+Okay… thank you
+Okay thank you so much
+Hi B
+Fine and you?
+What?
+And uh wander, walking
+Yeah have free time and the people because the mall very close in the centre
+Very close in the centre
+Not very far
+Very close
+Okay but what your weakness?
+Mmm hmm
+With weather coming and bad weather
+Threat yeah
+For example raining
+But uh the people the people can't come
+In the restaurant
+Uh the people-the people in the city needing the restaurant because want to eat curry and uh
+Hi
+Good
+Yeah that
+Okay
+Uh-huh
+Okay but this uh this uh in the mall not in the street or
+in the mall but not in the street
+Yeah
+Uh-huh
+Uh-huh
+Okay
+Yeah
+Yeah
+Uh-huh
+Mmm hmm
+Yeah
+Hi B
+What your opinion?
+Mmm
+Thank you
+Thank you very much
+Thank you
+I agree
+Welcome
+Clothes a lot of clothes?
+Okay thank you
+A
+Hello Mr
+Yeah
+Uh thanks
+Hello Sir B
+Clothes?
+Good
+But uh why your choice clothes?
+Uh huh
+But uh
+Like uh Polo or
+Thank you
+Uh hello
+Yeah
+Uh
+Uh okay uh stre-uh because uh the strength uh a new uh style uh every years
+What about you?
+Polo and uh Armani Jeans and uh
+Yeah
+Thank you
+Nice to see you too my friend
+Mmm hmm
+Yeah
+Mmm hmm
+Mmm
+Uh in Flagstaff mall for example uh there's a lot of family there and familieswill
+Thank you
+Come on
+Nice to see you, B
+Thank you very much
+Yes
+And the weaknesses and the opportunity …
+Wow
+Yes
+To compare that for our-to explain that for American
+It's hard
+What about your fry chicken weaknesses?
+What about your abilities, B?
+Love the fried chicken
+Thank you very much thank you, B
+Thank you
+Serve hamburger
+The mall uh outside the city
+But
+Yes yeah
+Yes
+Yes
+NTA
+Yes
+A about the threats
+And there's no customers around
+Okay
+Yes
+Okay
+Okay thank you
+A to listen for us
+And thank you Mr
+Hello uh Mr
+Yeah, serve hamburger yeah
+B?
+Okay
+Yeah that's
+Yeah
+Whether women and uh men
+Yeah
+Yeah yeah yeah
+And the
+Burger
+Thank you, B for your
+For your attention and uh
+Thank you
+Uh-huh
+Okay
+Manager
+Yeah uh uh so in the end which one?
+Thanks for listening
+Uh-huh
+Okay
+Manager
+Yeah uh uh so in the end which one?
+Thanks for listening
+Okay
+Manager in the mall uh to to find me a big uh store
+Thank you
+Hi B
+Mmhmm
+Oh
+K
+Okay
+Okay
+Uh-huh
+Uh because the coffee shop you can't lose a lot of money like Arabic restaurant and
+Thank you, B
+I'm good
+Okay
+Okay
+Uh-huh
+Not for reading books or something like that
+If
+Yeah good
+Yeah, good
+Yeah
+Thank you
+What about you?
+Sounds good
+Uh hi A
+Good
+Yeah
+Oh it's
+Yeah
+Yeah
+Yeah
+Uh huh
+For example
+Yeah
+Uh
+Yeah
+Thank you, A
+Yeah
+Hello B
+we
+For this uh store is that there are six-more than six uh hundred Arabic people
+Yeah, in Flagstaff
+Actually uh just Arabic food
+For example Halal food
+Yes
+A lot of food uh and stuff from uh our country
+Yeah
+Yes
+Thank you
+Me too
+Uh-huh
+Uh-huh
+Not just sushi
+Uh-huh
+Yeah
+Uh-huh
+Uh-huh
+Yeah
+in the week is boring
+Yeah
+Yeah
+Okay
+A lot of kinds like uh fish like uh uh shrimp some
+Your business very good
+Thank you so much, A
+Yes sure
+Uh-huh
+Oh
+Great
+This my weakness
+Okay
+Okay
+Okay
+Okay
+Okay now about my opportunity-my opportu
+Okay great!
+Okay
+Okay now about the threats
+Uh okay
+That's bad
+Okay great
+Great, yes
+Yes
+Okay thank you
+Okay thank you so much
+Uh and there is there is uh like uh one weaknesses uh however, there is one weakness in uh my uh store
+Yes
+Thank you
+Yeah but uh there
+Hi Adnan
+I think
+Hi
+Clothes
+Yeah
+Uh
+Uh
+Great
+Uh-huh
+Okay
+They a lot of people uh they a lot of shop gonna challenge for my for my shop
+What about what about you?
+The first shop in the mall
+Hi A
+Uh
+For clothes
+For open this store?
+Yeah
+Uh in the mall there is no tattoo store
+High cost
+Okay
+Yeah
+So
+Yeah
+B
+Hi uh B
+Uh-huh
+I'll tell you about I'll tell you about
+My idea
+m
+and the coffee gonna stay open til twenty fours hours
+Yeah
+Yeah
+Drive through? Yeah
+Drive through?
+Yeah
+And
+Okay thank you
+Thank you, B
+Hi
+Okay
+Okay right
+Yeah but maybe maybe
+Okay
+Okay
+Yeah but I
+Yeah but maybe allowed in uh in the mall uh to be twenty four hours
+Oh oh
+Okay
+Drive through so uh sorry
+Uh-huh
+Yeah
+Thank you
+Thanks
+B
+Alright thank you so much for your NTA
+There is just two sport shop in Flagstaff
+Wow
+Thank you
+Okay then A uh I'll call the I'll call to the mall service uh tonight to choose uh the perfect location and
+Okay then A uh I'll call the I'll call to the mall service uh tonight to choose uh the perfect location and
+What about you
+A?
+Uh hi B
+Uh uh why?
+Uh okay uh let's do that
+Hi
+Huh?
+My name B
+oh oh
+Uh uh
+Hello this A
+Uh
+in the mall
+Thank you
+Oh yeah okay uh yeah hi B uh what uh your ide-your store idea to start uh open it in uh in Flagstaff
+Okay
+You agree?
+Okay
+My my NTA sports store
+Uh
+Okay
+Let's do it
+Hi B
+In Flagstaff
+Thank you
+Uh okay
+Hi
+NTA
+Thank you
+Yes international food
+Yeah
+And then some food maybe
+Doesn't have
+Because a lot of country NTA
+Maybe
+So NTA25 A: Since since very expensive
+Yes
+Twenty bucks?
+Okay
+Oh
+Uh only for children?
+Oh
+Oh
+Yeah
+Yes
+So uh
+Thank you
+Yes
+Oh
+Sounds good huh
+International food
+Absolutely right
+Yeah
+Probably
+NTA
+Oh my God
+Yeah
+Not for adults, not for
+Yeah
+Not any people
+Yes
+Also like uh not uh will not serve uh many many thing in the weekdays
+All the day
+Let's
+Let's do it
+You're welcome
+Ok thank you
+What about you?
+Uh and and stay, stays for the family together uh anytime and uh self uh suffi –sufficient for the wash clothes and NTA and wash NTA
+What about you?
+Uh today about the simple life uh with my partner B
+I'm student
+How?
+From the book?
+I know
+Yeah
+NTA
+Good morning
+How about light?
+Yes
+I agree
+Yes
+Good morning
+NTA light?
+Simple life?
+For me doesn't important
+Thank you
+Yeah, what about you?
+Oh good
+Uh what about the simple life?
+Yeah and you
+NTA
+Depends on how person like his life or…
+Okay
+Yeah
+Yeah Mr
+Yeah
+You're welcome
+Thank you
+Uh modern life
+You're welcome
+Oh
+Mm-hmm
+Yeah some like this one
+Yeah same me too, okay thank you B
+Good yes
+Not make people
+It's good
+Alright
+You're welcome
+Thank you A
+It's comfortable
+Yeah uh
+But
+Better than
+Yeah
+Yeah
+But the modern-but the modern life
+Better than uh simple life because is more technology and easy NTA
+Uh
+Yeah
+No okay
+Very good
+Yeah
+Yeah yeah sure sure sure
+Yeah
+Thank you
+Uh hello B
+I'm good
+Yes
+Why?
+Good
+I'm good
+Oh really?
+Life
+Oh
+Oh really?
+I'm good
+Because we can't uh do anything without internet and uh go without cars and without uh electricity
+What?
+Thank you
+Thank you very much
+Yeah
+Oh
+Thank you A
+Thank you
+And don't have electricity and uh and have NTA
+Uh-huh
+Yeah
+Thank you B
+Yeah why?
+Their house?
+Why?
+Yeah
+You know
+I agree
+Yeah
+Good
+What about modern life, B?
+Yeah yeah yeah, thank you
+Ok told you so
+Ok with yourself for uh city live
+Ok thank you
+Yeah
+Yeah
+Yeah
+Because there're many advantage
+Thank you B
+Yeah
+Yeah
+Yeah
+Thank you so much
+Better uh life
+Uh-huh
+And the garbage also
+Nice
+Hi B
+Life no
+Why?
+Yeah uh il-live in a simple life something in your uh NTA
+Yeah that's
+Life like me?
+You not you not feel like this?
+Ok thank you
+Uh
+No no
+Thank you
+Thank you
+Uh because the simple life uh ha-uh harsh for live
+Very harsh
+Thank you
+Good
+Yeah
+Thank you man
+I'm good
+Good life?
+Good life, yeah
+Thank you
+Thank you
+Thank you
+Uh listening and speaking task –uh task two, uh student A
+Thank you
+Okay thanks A, nice to meet you
+Hi B
+Fine how about you?
+Thank you B Thank you
+Hi
+Fine
+Yeah
+Second hand?
+Uh yes
+Hi hi B
+Why?
+Yes like used clothes
+Uh thank you
+Hi A
+Okay
+Thank you A
+Okay hi B
+I'm good
+Okay thank you B
+Hi A
+Okay
+Thank you A
+Yeah ok thank you
+Yeah, thank you A
+Ah ha yes
+Yeah ok thank you
+Okay uh hello B
+Yeah
+Mm hmm
+Yes
+Hello
+Hi A
+Yeah
+But in uh in middle life is using the more technology and more computer about for using very easy about using anything
+Thank you
+What about you?
+Like this
+Uh-huh
+Thank you A
+Good
+Yeah
+Uh-huh
+Yup
+in the middle of the city how how about your thinking?
+Yeah
+Modern life
+Yeah
+Yeah Okay uh thanks
+Yeah thanks for listening
+Yes
+Yes
+Yes
+and because uh the life there is uh very simple very quiet opposite the life in the modern life
+Yes
+Yes
+Yes uh
+Uh thanks A
+Thanks bye
+Life style NTA
+Thank you
+Hi B
+Why?
+Yes but when you uh
+Hi
+That's wrong
+Not just cooking
+Hi B
+Okay
+Modern life
+Hi A
+Ok
+Yes
+Yeah
+Mm hmmm
+Mm hmm yeah
+Uh machine
+Mm
+Student A
+Yeah
+Yeah yeah exactly yeah
+Student B
+Yeah exactly
+The phone calls and email as well
+Ok so let's do it let's let's let's NTA provide the new policy
+Oh yeah thank
+Student B
+Yeah exactly
+The phone calls and email as well
+Ok so let's do it let's let's let's NTA provide the new policy
+Oh yeah thank
+Yeah ok
+Thank you
+Thank you
+Thank you
+How about you?
+Why?
+Uh anything else?
+Uh in order to keep our company and uh employees uh safe
+Why?
+To know everything
+But
+Ok thank you very much
+Yeah
+Oh yeah
+Oh yeah
+Thank you
+Yes
+Thank you
+Yes
+Yes
+Yeah
+Phone taps or email monitor?
+Uh B
+Don't want uh
+Yeah
+That's all
+Thank you
+No, seen
+Yeah
+That all?
+Uh yes no not not uh not NTA just uh uh something about uh my company
+Ok
+Ok don't forgot your promise
+Uh
+Maybe maybe
+Thank you
+Ok
+Yeah yeah yeah true
+Uh
+Maybe maybe
+Thank you
+Ok
+Yeah yeah yeah true
+Thanks
+Yeah
+Yes
+At the crime rate
+Yes
+The less money
+Mm hmm
+Yes
+A report for presentation
+Mm hmm
+Understand the topics
+Lot of numbers
+Yeah
+For each country
+Yeah yeah yeah and the-also the students
+Yeah presentation about uh crime uh and economy
+How about yours?
+Mm hmm
+Mm hmm
+15 countries wow
+Ah
+Uh huh
+Mm hmm
+Ah ok thank you very much
 
 

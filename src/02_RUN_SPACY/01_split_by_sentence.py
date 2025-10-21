@@ -89,6 +89,7 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
 
     # init the filereader 
     cfp = CorpusFileReader(infile)
+    speakers = cfp.get_speakers()
     line = cfp.next_line()
 
     while line[0]:
@@ -143,7 +144,7 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
                         
 
         # write the initial line
-        out.write(line[0] + ":  " + line[1] + "\n")
+        out.write(line[0] + speakers[line[0]] + ":  " + line[1] + "\n")
         
         # if none of the values have _any_ values, just write no fragments
         has_any_fragments = False
@@ -182,8 +183,6 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
         out.write("\n")
         line = cfp.next_line()
 
-    # get the info
-    speakers = cfp.get_speakers()
 
     out.write("\n\n")
 
@@ -229,9 +228,9 @@ def main():
     is_fragment_list = [
         ISFRAG_MissingFiniteVerb_or_MissingSubject,
         ISFRAG_MissingFiniteVerb,
-        ISFRAG_MissingSubject,
-        ISFRAG_MissingVerb_FromMorph,
-        ISFRAG_MissingVerb_FromDep
+        ISFRAG_MissingSubject
+        #ISFRAG_MissingVerb_FromMorph,
+        #ISFRAG_MissingVerb_FromDep
     ]
 
     # need to make this dir if doesnt exist

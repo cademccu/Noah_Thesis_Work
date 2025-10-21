@@ -72,6 +72,7 @@ def searcher(criteria_list, outfile_name):
 
     stats = {}
     matching_files = []
+    frags_and_formuliacs = []
         
 
     for file_ in files:
@@ -81,6 +82,18 @@ def searcher(criteria_list, outfile_name):
                 f = open(os.path.join(PATH_TO_DATA, "WORK_OUTPUT", file_), "rt")
                 line = f.readline()
                 while not line.startswith("=== "):
+                    if re.match(r"[AB]{1}" + criteria["id"], line):
+                        line = f.readline() # burn the full un-chunked line
+                        temp_list = []
+                        while len(line.strip()) != 0:
+                            line = line.strip()
+                            if not (line.startswith("*ISFRAG") or
+                                line.startswith("---NO_FRAGMENTS") or 
+                                line == ">>>FORMULAIC_CHUNKS:"):
+                                temp_list.append(line)
+                            line = f.readline()
+                        frags_and_formuliacs = frags_and_formuliacs + list(set(temp_list))
+                            
                     line = f.readline()
                 # now we are in the metadata section, handle 3*= fields
                 while line.startswith("=== "):
@@ -127,6 +140,14 @@ def searcher(criteria_list, outfile_name):
     outfile.write("-----------------------------\n")
     for match in matching_files:
         outfile.write(match[0] + " | " + match[1] + "\n")
+
+    outfile.write("\n\n")
+
+    outfile.write("ALL FRAGMENTS AND FORMULAICS:\n")
+    outfile.write("total count: " + str(len(frags_and_formuliacs)) + "\n")
+    outfile.write("-----------------------------\n")
+    for frag in frags_and_formuliacs:
+        outfile.write(frag + "\n")
     outfile.write("\n\n")
     outfile.close()
 

@@ -4,8 +4,6 @@ FORMULAIC COUNT                                          18
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  8
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    4
 FRAG COUNT [ISFRAG_MissingSubject]                       7
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                95
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  95
 
 
 MATCHING FILES & MATCHING ID:
@@ -25,5 +23,36 @@ num files: 14
 24-565_148-S_OUTFILE.txt | 565
 24-600_399-S_OUTFILE.txt | 399
 24-600_399-S_OUTFILE.txt | 600
+
+
+ALL FRAGMENTS AND FORMULAICS:
+total count: 26
+-----------------------------
+Okay thank you
+Yeah Mr
+Yeah
+You're welcome
+It's comfortable
+Yeah uh
+But
+Better than
+Uh
+Yeah
+No okay
+Very good
+Yeah
+Yeah yeah sure sure sure
+Yeah
+Oh
+Sorry for interrupt you
+My friend
+Yeah
+Yeah
+Oh have a good night my friend
+Life style NTA
+Yes
+Ok so let's think, B
+Alright, so thank you
+Yeah, ok, thank you
 
 

@@ -4,8 +4,6 @@ FORMULAIC COUNT                                          259
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  136
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    83
 FRAG COUNT [ISFRAG_MissingSubject]                       130
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                1290
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  1290
 
 
 MATCHING FILES & MATCHING ID:
@@ -210,5 +208,405 @@ num files: 199
 24-580_577-S_OUTFILE.txt | 580
 24-600_399-S_OUTFILE.txt | 399
 24-600_399-S_OUTFILE.txt | 600
+
+
+ALL FRAGMENTS AND FORMULAICS:
+total count: 395
+-----------------------------
+Ok thank you
+Electricity
+Yes
+Yeah
+Welcome
+Electricity
+And cost money as well for
+Thank you
+What about you?
+Uh and and stay, stays for the family together uh anytime and uh self uh suffi –sufficient for the wash clothes and NTA and wash NTA
+Yeah
+Modern
+Good thing
+Yeah
+Uh-huh
+Thank you for agreeing
+What about you?
+Uh today about the simple life uh with my partner B
+I'm student
+How?
+From the book?
+I know
+Yeah
+NTA
+Good morning
+How about light?
+Yes
+I agree
+Yes
+Good morning
+NTA light?
+Simple life?
+For me doesn't important
+Thank you
+Yeah, what about you?
+Oh good
+Uh what about the simple life?
+Yeah and you
+NTA
+Depends on how person like his life or…
+Okay
+Yeah
+Yeah Mr
+Yeah
+You're welcome
+Okay thank you
+Yeah Mr
+Yeah
+You're welcome
+Hi B
+What about you?
+Why?
+Wow
+Uh-huh
+Wow
+Yeah it's
+Okay, nice to see you bro, thank you
+Hi A
+Good, what about you?
+Yeah because the
+Yeah
+Nice to meet you
+Thank you
+You're welcome
+Oh
+Mm-hmm
+Yeah some like this one
+Yeah same me too, okay thank you B
+Uh modern life
+You're welcome
+Oh
+Mm-hmm
+Yeah some like this one
+Yeah same me too, okay thank you B
+Good yes
+Not make people
+It's good
+Alright
+You're welcome
+Thank you A
+It's comfortable
+Yeah uh
+But
+Better than
+Yeah
+Yeah
+But the modern-but the modern life
+Better than uh simple life because is more technology and easy NTA
+It's comfortable
+Yeah uh
+But
+Better than
+Uh
+Yeah
+No okay
+Very good
+Yeah
+Yeah yeah sure sure sure
+Yeah
+Uh
+Yeah
+No okay
+Very good
+Yeah
+Yeah yeah sure sure sure
+Yeah
+Oh
+Sorry for interrupt you
+My friend
+Yeah
+Yeah
+Oh have a good night my friend
+Thank you
+Thank you
+Uh hello B
+I'm good
+Yes
+Why?
+Good
+I'm good
+Oh really?
+Life
+Oh
+Oh really?
+I'm good
+Because we can't uh do anything without internet and uh go without cars and without uh electricity
+What?
+Thank you
+Why?
+Busy
+Yeah
+Oh
+Thank you A
+Thank you
+And don't have electricity and uh and have NTA
+Uh-huh
+Yeah
+Thank you B
+Okay thank you very much bye bye
+Yeah why?
+Their house?
+Why?
+Yeah
+You know
+I agree
+Yeah
+Good
+Yeah
+Good
+What about modern life, B?
+Yeah yeah yeah, thank you
+Ok told you so
+Ok with yourself for uh city live
+Ok thank you
+What about you?
+Yeah
+Okay
+Yeah
+Yeah
+Yeah
+Because there're many advantage
+Thank you B
+Yeah
+Yeah
+Yeah
+Thank you so much
+Yeah
+Thank you A
+Good for health and for NTA
+No no have crime and NTA life
+Thank you B
+Better uh life
+Uh-huh
+And the garbage also
+Nice
+Hi B
+Life no
+Why?
+Yeah uh il-live in a simple life something in your uh NTA
+Yeah that's
+Life like me?
+Better uh life
+Uh-huh
+And the garbage also
+Nice
+Hi B
+Life no
+Why?
+Yeah uh il-live in a simple life something in your uh NTA
+Yeah that's
+Life like me?
+You not you not feel like this?
+Ok thank you
+Uh
+No no
+NTA
+Yeah
+Thank you… stop
+Thank you
+Thank you
+Thank you
+Okay and thank you
+Thank you
+Uh because the simple life uh ha-uh harsh for live
+Very harsh
+Thank you
+Good
+Yeah
+Thank you man
+I'm good
+Good life?
+Good life, yeah
+Thank you
+Thank you
+Thank you
+Uh listening and speaking task –uh task two, uh student A
+Thank you
+Okay thanks A, nice to meet you
+Hi B
+Fine how about you?
+Thank you B Thank you
+Hi
+Fine
+Yeah
+Second hand?
+Uh yes
+Hi hi B
+Why?
+Yes like used clothes
+Uh thank you
+Why?
+Ah okay
+Hi A
+Okay
+Thank you A
+Okay hi B
+I'm good
+Okay thank you B
+Hi A
+Okay
+Thank you A
+Yeah ok thank you
+Yeah, thank you A
+Ah ha yes
+Yeah ok thank you
+Okay uh hello B
+Yeah
+Mm hmm
+Yes
+Hello
+Hi A
+Yeah
+But in uh in middle life is using the more technology and more computer about for using very easy about using anything
+Thank you
+What about you?
+Like this
+Uh-huh
+Thank you A
+Uh hi B
+Oh
+Hi A
+Yeah
+But in uh in middle life is using the more technology and more computer about for using very easy about using anything
+Thank you
+What about you?
+Like this
+Uh-huh
+Thank you A
+Yeah
+Yeah
+Yeah
+Yeah
+Good
+Yeah
+Uh-huh
+Yup
+in the middle of the city how how about your thinking?
+Yeah
+Modern life
+Yeah
+Yeah Okay uh thanks
+Yeah thanks for listening
+Yes
+Yes
+Yes
+and because uh the life there is uh very simple very quiet opposite the life in the modern life
+Yes
+Yes
+Yes uh
+Uh thanks A
+Thanks bye
+For uh laundry uh and uh wash uh your clothes and uh…
+Laundry
+Air
+Okay you with me in simple life or modern life?
+What about you uh Miss uh B?
+Okay, nice to meet you
+Student B, uh B
+Thank you
+Easy uh… easy and in in uh near in future, uh more uh learning uh every people
+Is very very easy service
+Yeah I more more like uh uh life modern
+Okay no problem
+Thank you
+Life style NTA
+Thank you
+Life style NTA
+Hi B
+Why?
+Yes but when you uh
+Hi
+That's wrong
+Not just cooking
+Hi B
+Okay
+Modern life
+Hi A
+Enjoy the nature environment
+Ok
+Yes
+Yeah
+Mm hmmm
+Mm hmm yeah
+Uh machine
+Mm
+Environment
+A lot of?
+For man? Uh
+Stop
+Student A
+Yeah
+Yeah yeah exactly yeah
+Student B
+Yeah exactly
+The phone calls and email as well
+Ok so let's do it let's let's let's NTA provide the new policy
+Oh yeah thank
+Student B
+Yeah exactly
+The phone calls and email as well
+Ok so let's do it let's let's let's NTA provide the new policy
+Oh yeah thank
+Yeah ok
+Thank you
+Thank you
+I think
+Because in this case the sit
+Thank you B
+Why?
+Thank you A
+Thank you
+How about you?
+Why?
+Uh anything else?
+Uh in order to keep our company and uh employees uh safe
+Why?
+To know everything
+But
+Ok thank you very much
+Yeah
+Oh yeah
+Oh yeah
+Thank you
+Yes
+Thank you
+Yes
+Yes
+Yeah
+Phone taps or email monitor?
+Uh B
+Don't want uh
+Yeah
+That's all
+Thank you
+No, seen
+Yeah
+That all?
+Uh yes no not not uh not NTA just uh uh something about uh my company
+Ok
+Ok don't forgot your promise
+Uh
+Maybe maybe
+Thank you
+Ok
+Yeah yeah yeah true
+Uh
+Maybe maybe
+Thank you
+Ok
+Yeah yeah yeah true
+Yes
+Thanks
+Ok so let's think, B
+Alright, so thank you
+Yeah, ok, thank you
 
 

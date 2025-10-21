@@ -10,8 +10,6 @@ FORMULAIC COUNT                                          3204
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1737
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    1243
 FRAG COUNT [ISFRAG_MissingSubject]                       1537
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                13748
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  13748
 
 
 

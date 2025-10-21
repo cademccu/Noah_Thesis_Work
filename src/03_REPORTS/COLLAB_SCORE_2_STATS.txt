@@ -4,8 +4,6 @@ FORMULAIC COUNT                                          316
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  219
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    144
 FRAG COUNT [ISFRAG_MissingSubject]                       195
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                1771
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  1771
 
 
 MATCHING FILES & MATCHING ID:
@@ -232,5 +230,527 @@ num files: 221
 23-434_372-A_OUTFILE.txt | 434
 25-413_054-S_OUTFILE.txt | 054
 25-413_054-S_OUTFILE.txt | 413
+
+
+ALL FRAGMENTS AND FORMULAICS:
+total count: 517
+-----------------------------
+thousand uh
+Like two pound actually yeah
+Yeah
+Yeah
+eight hundred uh picture and uh uh
+What uh the
+Its weight
+Okay how about the zoom?
+Okay
+Yeah uh
+Uh five years?
+Yes
+Have a nice day
+Uh
+Huh?
+Let's start story about NTA
+Yeah
+Uh… so… the smoking just bring a lot of disease
+Now your choice to leave the smoking
+just uh let's leave the smoking
+say let's leave the smoking
+Yeah
+What about B NTA?
+Okay, thank you
+Uh and uh
+Yeah you ca-you ca- uh with cover?
+Yeah yeah Sony uh made in in Japan
+Okay
+Okay
+Okay
+Okay
+Thank you
+Twenty seconds, twenty seconds
+That's all
+Okay
+Suggest
+Yeah
+Yeah
+Suggest
+Uh
+Ok thank you
+Okay hello B
+You're welcome
+Hello
+Okay thank you, A
+Okay thank you
+Uh, hello B
+Right
+Yeah
+Thank you
+I agree
+NTA
+Yeah
+Bye
+Yeah
+Yeah
+Thank you so much B
+Uh Chen problem Chen
+Uh huh
+Okay
+Yeah
+Yeah
+Thank you
+Hello B
+Good
+Yeah
+About the solution
+Okay thank you B
+Yeah hello
+I'm good
+How about you?
+Why?
+Why?
+Think about what?
+Oh
+Uh and
+Thank you
+Bye
+Don't be use slang with me
+See you
+Thank you
+m
+until seven p
+Okay thank you
+Yeah
+Maybe
+Actually his own diet but just doesn't lose his weight
+My FA uh student A
+m
+Uh … one name her, her uh Jacque – line
+Ok
+That's fine
+Yeah, ok
+Thank you
+until six p
+m
+Oh
+You know?
+Mmhmm
+What about Joe?
+Yeah
+Overweight
+Uh huh
+Like healthy problems?
+Wow
+well
+Make a diet
+For themselves
+Yeah
+Uh what about you?
+Thir-thirdly uh do more do more exercise as much as uh he can
+The second to not sit at his desk for long hours every day
+-uh seven p
+until seven a
+m
+Uh what about you?
+Thir-thirdly uh do more do more exercise as much as uh he can
+The second to not sit at his desk for long hours every day
+-uh seven p
+until seven a
+m
+And
+Yeah
+Uh, everyday more than… maybe more than one hour or two hours
+Yes
+Maybe can instead of uh food and
+Meat
+Uh, to to to to to–to lose weight
+Uh…
+Yeah
+m
+Mm hmm
+Mm hmm
+Little food?
+Wow
+Uh huh
+Don't want eat
+Uh huh
+Mm hmm
+Drink water?
+Uh uh
+Mm hmm
+Alright
+m
+to 7:00p
+m
+m
+Mm hmm
+Mm hmm
+Little food?
+Wow
+Uh huh
+Don't want eat
+Uh huh
+Mm hmm
+Drink water?
+Uh uh
+Mm hmm
+Alright
+m
+to 7:00p
+m
+until 7:00p
+m
+Thank you
+until five a
+m
+So
+m
+Okay
+Uh… hi B, how about uh how about make a des –uh decision to to choose one this is choose one patients to to our uh to our university healthy center
+m
+So how about yours?
+Yes
+Yeah
+Yeah
+Uh
+And eat some vegetables
+Not always eat the meat
+Yeah
+At at his desk for every day
+Yeah
+Uh
+Uh
+Yes
+Oh, the government president
+Yeah
+Felah
+Yeah yeah
+On the on Level 4 on the Level 4, 5
+And has a lot friends from other NAU departments
+Okay, let's-
+Uh, the Task 1
+Yeah
+Ah, same as your country huh?
+Uh-huh, okay
+Hmm, okay
+Let's go vote for to him
+Okay, thank you
+Really?
+I'll ask uh abou-what about uh Majed?
+Twenty-five hou-really, twenty-five hours in uh in in a week?
+Oh really? Yeah, uh…
+Yeah
+Okay, thank you
+Uh, sorry?
+Yeah uh, Felah uh what his level?
+Uh what about your uh… Felah?
+Really?
+Twenty-five hours
+Yeah, okay
+Okay, thank you
+Uh, sorry?
+Yeah uh, Felah uh what his level?
+Uh what about your uh… Felah?
+Really?
+Twenty-five hours
+Yeah, okay
+Okay, thank you
+Yeah
+Uh-huh
+Mm-hmm, okay
+How about Majed?
+Yeah
+Uh-huh
+Oh really? That interesting thing
+Also free courses books
+Okay, thank you
+Thank you so much
+Okay then so we'll go with Felah then
+uh uh about the relationship with another student from another university so…
+good…
+Okay thank you
+Okay, thank you
+Felah
+Uh…
+So what about uh?
+So yeah, about Majed
+Yeah
+Hi 4
+Thank you
+Thank you
+Uh what about Majed?
+Yeah, also Majed have a lot of friends
+Uh, uh interest with Felah, what about you?
+Okay, thank you
+Uh what about Majed?
+Okay, B
+Okay
+Intelligent, uh and uh organized
+What about Bill?
+Yeah
+Woo hoo! Thank you
+1 Speaking, my name A
+4
+Hi B
+And uh, hi A
+Okay and uh Felah uh promise to get the PIE involved in uh different university organizer
+Thank you
+Thank you
+What's more
+Yeah
+Yeah
+Yeah,
+Yeah
+uh uh… and make a decision about who to hire
+How about you?
+job
+But
+So
+So exciting
+How about you?
+How about you?
+Agree with you
+Yeah thank you
+Thank you, A
+Hi
+Thank you, A
+What about you?
+But uh on the other hand space travel is very dangerous
+Thank you
+So uh uh moreover about my talking
+Thank you
+Yeah and uh uh with uh cameras uh to explore uh the place
+Uh huh
+Uh huh
+Pros and cons? Yeah the
+send
+Uh the government give us… uh uh ten, uh ten, five billion dollars to use for space
+Also we
+Can be remotely operated from earth twenty-four hours a day
+The to create a scope
+Is a better choice
+Uh huh
+Uh huh
+Uh huh
+Uh huh
+Sounds good
+Wow
+Uh huh
+Uh huh
+That's it
+So…
+But uh thank you for uh teach me
+Yes thank you
+NTA
+Uh also get uh more experience uh for this business
+Uh…
+B
+Yeah, hello Mr
+Alright thank you
+Because uh uh, the state here Arizona, raise the taxes of uh, of of any business
+Thank you A
+B
+Yeah, hello Mr
+Alright thank you
+Also, uh uh high uh NTA but good uh NTA uh uh, reputations
+And uh… the uh, the office… uh, this this all
+Hey, A
+Yeah
+Othman?
+Ok, thank you so much
+Thank you
+Have a good day
+Thank you so much my friend
+Have a good day
+Thank you so much my friend
+Okay, thank you A, have a nice uh opportunity with me
+difficult to do it uh in Flagstaff
+Thank you
+Hmm
+large uh customer in the Flagstaff
+Okay, thank you
+Uh, and uh uh there-uh there is no competition and uh within a ten mile… area
+Second, uh uh, ha-uh, in the Flagstaff haven't a good, good hair designer
+So let's build our uh, our business
+Yeah
+Thank you
+Bye
+You too
+What about you opinion?
+No competing barber shop or hair designs within a ten miles area
+Thank you very much
+Uh what about you?
+Uh… at least within ten miles area
+Hmm… and yeah… yeah so, there will be more customers
+And uh there-uh beside, there is no competition
+Uh… uh, hey B there is a new idea
+That's it
+Uh
+Let's do it, okay?
+Okay
+Hi B
+Oh yes
+Okay… hm…
+Uh there is-but there is no competition
+within a ten miles area
+… Uh, okay
+Uh, okay
+Okay okay
+Yeah and he from United States
+So how about you?
+Preserved area?
+Oh yeah
+Yeah that's
+Hmm?
+Oh cool
+Oh very interesting
+Yeah
+Thank you A and uh
+Uh thank you A
+Thank you B
+Thank you a lot B
+Wow so cool
+A little uh yeah
+In China of course there are many uh famous place like uh the Great uh the Great Wall the the of of course another place like uh uh Jiangsu and uh uh Hongshu, there are many beautiful river and beautiful river then uh uh uh beautiful and uh lakes of course in the capital, there are man-uh Beijing there are many famous uh uh beauty like uh Tiananmen Square
+What? Beijing?
+Beijing?
+Oh
+Oh okay, okay
+You think?
+Yeah
+Uh okay thanks
+Uh
+Yeah
+Yeah Let's go
+Oh Great Wall, yes
+Ah, Great Wall
+My name's B
+m to study
+Uh the student A
+Yeah Linda Evans
+John Smith
+to study so early
+m
+Yeah so busy
+How about you?
+Yeah?
+Oh working in bank yeah
+But he NTA
+to study?
+m
+Yeah
+Yeah
+Yeah
+But I uh
+Yeah
+How about hmm?
+Yeah
+To work hard and to look after his ch-his parents and his
+Of his children and
+Uh
+Oh work in the bank oh
+m
+?
+Wow
+m
+-uh two a
+Or is terrible
+Yeah is too early and uh
+Yeah
+NTA
+Yeah
+Yeah
+Yeah is really early
+And uh
+Yeah
+To do that
+Yeah
+and uh he can't focus on her job during the daytime so maybe some
+m
+Something about money some finance
+Would be wrong
+Yeah
+Yes
+Yes
+NTA
+Yeah
+So I
+m
+NTA
+Okay
+Yeah
+Yes
+Okay? NTA NTA
+Ask her to come in?
+Okay
+Hi Doctor B
+Good
+Sick
+A student
+Yeah
+Like…insomnia
+He still…stay up uh until 2:00am
+He can't sleep so
+Really
+Yeah
+Uh-huh
+So
+NTA
+Yeah
+Are agree with me?
+Ok
+Yeah
+Ok
+m
+to study
+How about you uh, B
+How about agree disagree?
+Yeah
+Student B
+Thank you, A
+What about you?
+V
+Yeah
+Yes
+What about you, Mr
+B?
+V
+Hi B
+Thank you B
+I against for you
+V
+Uh hi B
+Okay bye B
+Hi
+Fine
+Okay thank you, A
+Yes
+Uh
+V
+Thank you
+Thank you
+Thank you, B
+Thank you, A
+V
+Yeah
+Thank you
+Why?
+Busy
+Okay thank you very much bye bye
+Yeah
+Thank you A
+Good for health and for NTA
+No no have crime and NTA life
+Thank you B
+What about you uh Miss uh B?
+Okay, nice to meet you
+Student B, uh B
+Thank you
+Easy uh… easy and in in uh near in future, uh more uh learning uh every people
+Is very very easy service
+Yeah I more more like uh uh life modern
+Okay no problem
+Thank you
+Student A A
+Yes uh thank you for listen
 
 

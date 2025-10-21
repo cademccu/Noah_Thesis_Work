@@ -1,688 +1,313 @@
-A:  Hi B how are you?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Hi B how are you?
-    *ISFRAG_MissingVerb_FromDep
-        Hi B how are you?
+A232:  Hi B how are you?
+    ---NO_FRAGMENTS_ANY
 
-B:  I'm good what about you, my friend?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I'm good what about you, my friend?
-    *ISFRAG_MissingVerb_FromDep
-        I'm good what about you, my friend?
+B231:  I'm good what about you, my friend?
+    ---NO_FRAGMENTS_ANY
 
-A:  I'm fine, very well. B I come here for presentation about my restaurant and I want see your restaurant
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I'm fine, very well
-         B I come here for presentation about my restaurant and I want see your restaurant
-    *ISFRAG_MissingVerb_FromDep
-        I'm fine, very well
-         B I come here for presentation about my restaurant and I want see your restaurant
+A232:  I'm fine, very well. B I come here for presentation about my restaurant and I want see your restaurant
+    ---NO_FRAGMENTS_ANY
 
-B:  I'm listening to you no problem.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I'm listening to you no problem
-    *ISFRAG_MissingVerb_FromDep
-        I'm listening to you no problem
+B231:  I'm listening to you no problem.
+    ---NO_FRAGMENTS_ANY
 
-A:  Because you are interviewing me and then I'm interviewing you.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Because you are interviewing me and then I'm interviewing you
-    *ISFRAG_MissingVerb_FromDep
-        Because you are interviewing me and then I'm interviewing you
+A232:  Because you are interviewing me and then I'm interviewing you.
+    ---NO_FRAGMENTS_ANY
 
-B:  Me too.
+B231:  Me too.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Me too
 
-A:  First I have the restaurant about seafood.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        First I have the restaurant about seafood
-    *ISFRAG_MissingVerb_FromDep
-        First I have the restaurant about seafood
+A232:  First I have the restaurant about seafood.
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh.
+B231:  Uh-huh.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  And my strength I have many strength. first one is many many employees NTA and everyone help each other and I get a good location because many people will be come.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And my strength I have many strength
-         first one is many many employees NTA and everyone help each other and I get a good location because many people will be come
-    *ISFRAG_MissingVerb_FromDep
-        And my strength I have many strength
-         first one is many many employees NTA and everyone help each other and I get a good location because many people will be come
+A232:  And my strength I have many strength. first one is many many employees NTA and everyone help each other and I get a good location because many people will be come.
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh.
+B231:  Uh-huh.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  And can I see your strength and what your uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And can I see your strength and what your uh
-    *ISFRAG_MissingVerb_FromDep
-        And can I see your strength and what your uh
+A232:  And can I see your strength and what your uh
+    ---NO_FRAGMENTS_ANY
 
-B:  Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats. First I will talk about strengths. Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats
-         First I will talk about strengths
-         Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh
-    *ISFRAG_MissingVerb_FromDep
-        Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats
-         First I will talk about strengths
-         Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh
+B231:  Okay I have uh many SWOT analyzes like strengths, weakness, opportunities, threats. First I will talk about strengths. Strengths uh my food is very delicious a lot people uh uh like it it's the sushi bar all the people know about sushi bar uh
+    ---NO_FRAGMENTS_ANY
 
-A:  Yes sure
+A232:  Yes sure
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yes sure
 
-B:  I have many kinds of sushi that's my strength-uh strengths
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I have many kinds of sushi that's my strength-uh strengths
-    *ISFRAG_MissingVerb_FromDep
-        I have many kinds of sushi that's my strength-uh strengths
+B231:  I have many kinds of sushi that's my strength-uh strengths
+    ---NO_FRAGMENTS_ANY
 
-A:  Uh-huh
+A232:  Uh-huh
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-B:  And is very very delicious uh and we have the sushi you can put it with the seafood. You can put it with the sweet and sour chicken
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And is very very delicious uh and we have the sushi you can put it with the seafood
-         You can put it with the sweet and sour chicken
-    *ISFRAG_MissingVerb_FromDep
-        And is very very delicious uh and we have the sushi you can put it with the seafood
-         You can put it with the sweet and sour chicken
+B231:  And is very very delicious uh and we have the sushi you can put it with the seafood. You can put it with the sweet and sour chicken
+    ---NO_FRAGMENTS_ANY
 
-A:  Oh
+A232:  Oh
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Oh
 
-B:  We have many kinds
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        We have many kinds
-    *ISFRAG_MissingVerb_FromDep
-        We have many kinds
+B231:  We have many kinds
+    ---NO_FRAGMENTS_ANY
 
-A:  Great
+A232:  Great
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Great
 
-B:  Not just sushi. You can put it with seafood also
+B231:  Not just sushi. You can put it with seafood also
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Not just sushi
     *ISFRAG_MissingFiniteVerb
         Not just sushi
     *ISFRAG_MissingSubject
         Not just sushi
-    *ISFRAG_MissingVerb_FromMorph
-        Not just sushi
-         You can put it with seafood also
-    *ISFRAG_MissingVerb_FromDep
-        Not just sushi
-         You can put it with seafood also
 
-A:  Okay great I agree with you about the many kind of sushi.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Okay great I agree with you about the many kind of sushi
-    *ISFRAG_MissingVerb_FromDep
-        Okay great I agree with you about the many kind of sushi
+A232:  Okay great I agree with you about the many kind of sushi.
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh.
+B231:  Uh-huh.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  I agree with-okay now about my strength.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I agree with-okay now about my strength
-    *ISFRAG_MissingVerb_FromDep
-        I agree with-okay now about my strength
+A232:  I agree with-okay now about my strength.
+    ---NO_FRAGMENTS_ANY
 
-B:  Yeah.
+B231:  Yeah.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant
-    *ISFRAG_MissingVerb_FromDep
-        My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant
+A232:  My strength uh uh al-uh many customer they are come on my restaurant and I have small size for my restaurant.
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh.
+B231:  Uh-huh.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  And I can't get all of them because when they are coming I have just many uh less of seat
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And I can't get all of them because when they are coming I have just many uh less of seat
-    *ISFRAG_MissingVerb_FromDep
-        And I can't get all of them because when they are coming I have just many uh less of seat
+A232:  And I can't get all of them because when they are coming I have just many uh less of seat
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh-huh.
+B231:  Uh-huh.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh-huh
 
-A:  Because and I don't I don't have many I have people but I don't have seat. This my weakness.
+A232:  Because and I don't I don't have many I have people but I don't have seat. This my weakness.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
          This my weakness
     *ISFRAG_MissingFiniteVerb
          This my weakness
     *ISFRAG_MissingSubject
          This my weakness
-    *ISFRAG_MissingVerb_FromMorph
-        Because and I don't I don't have many I have people but I don't have seat
-         This my weakness
-    *ISFRAG_MissingVerb_FromDep
-        Because and I don't I don't have many I have people but I don't have seat
-         This my weakness
 
-B:  Yeah.
+B231:  Yeah.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  And can I see your weakness maybe I will agree with you about your uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And can I see your weakness maybe I will agree with you about your uh
-    *ISFRAG_MissingVerb_FromDep
-        And can I see your weakness maybe I will agree with you about your uh
+A232:  And can I see your weakness maybe I will agree with you about your uh
+    ---NO_FRAGMENTS_ANY
 
-B:  Okay my weakness I have very bad weakness.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Okay my weakness I have very bad weakness
-    *ISFRAG_MissingVerb_FromDep
-        Okay my weakness I have very bad weakness
+B231:  Okay my weakness I have very bad weakness.
+    ---NO_FRAGMENTS_ANY
 
-A:  What's your very bad
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        What's your very bad
-    *ISFRAG_MissingVerb_FromDep
-        What's your very bad
+A232:  What's your very bad
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there
-    *ISFRAG_MissingVerb_FromDep
-        Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there
+B231:  Uh first of all uh some of Japanese people I get many employers over there like uh partners people who work over there.
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay.
+A232:  Okay.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-B:  Japanese people sometimes they are not respectful.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Japanese people sometimes they are not respectful
-    *ISFRAG_MissingVerb_FromDep
-        Japanese people sometimes they are not respectful
+B231:  Japanese people sometimes they are not respectful.
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay.
+A232:  Okay.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-B:  NTA this uh also is expensive and its take long time to pick the order uh
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        NTA this uh also is expensive and its take long time to pick the order uh
-    *ISFRAG_MissingVerb_FromDep
-        NTA this uh also is expensive and its take long time to pick the order uh
+B231:  NTA this uh also is expensive and its take long time to pick the order uh
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay.
+A232:  Okay.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-B:  Sometimes if you eat
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Sometimes if you eat
-    *ISFRAG_MissingVerb_FromDep
-        Sometimes if you eat
+B231:  Sometimes if you eat
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay
+A232:  Okay
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-B:  in the week is boring
+B231:  in the week is boring
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         in the week is boring
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
         in the week is boring
-    *ISFRAG_MissingVerb_FromMorph
-        in the week is boring
-    *ISFRAG_MissingVerb_FromDep
-        in the week is boring
 
-A:  Okay now about my opportunity-my opportu
+A232:  Okay now about my opportunity-my opportu
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Okay now about my opportunity-my opportu
     *ISFRAG_MissingFiniteVerb
         Okay now about my opportunity-my opportu
     *ISFRAG_MissingSubject
         ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Okay now about my opportunity-my opportu
-    *ISFRAG_MissingVerb_FromDep
-        Okay now about my opportunity-my opportu
 
-B:  Yeah
+B231:  Yeah
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  Uh many people famous they are come in my restaurant and uh many people healthy. And what's your uh opportunity?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh many people famous they are come in my restaurant and uh many people healthy
-         And what's your uh opportunity?
-    *ISFRAG_MissingVerb_FromDep
-        Uh many people famous they are come in my restaurant and uh many people healthy
-         And what's your uh opportunity?
+A232:  Uh many people famous they are come in my restaurant and uh many people healthy. And what's your uh opportunity?
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh I uh my opportunity is uh old people they come
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh I uh my opportunity is uh old people they come
-    *ISFRAG_MissingVerb_FromDep
-        Uh I uh my opportunity is uh old people they come
+B231:  Uh I uh my opportunity is uh old people they come
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay great!
+A232:  Okay great!
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay great!
 
-B:  Doc-doctors, uh famous people also they love sushi
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Doc-doctors, uh famous people also they love sushi
-    *ISFRAG_MissingVerb_FromDep
-        Doc-doctors, uh famous people also they love sushi
+B231:  Doc-doctors, uh famous people also they love sushi
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay
+A232:  Okay
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-B:  They come sometimes we take a picture
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        They come sometimes we take a picture
-    *ISFRAG_MissingVerb_FromDep
-        They come sometimes we take a picture
+B231:  They come sometimes we take a picture
+    ---NO_FRAGMENTS_ANY
 
-A:  I agree with your famous people. Okay now about the threats
+A232:  I agree with your famous people. Okay now about the threats
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
          Okay now about the threats
     *ISFRAG_MissingFiniteVerb
          Okay now about the threats
     *ISFRAG_MissingSubject
          Okay now about the threats
-    *ISFRAG_MissingVerb_FromMorph
-        I agree with your famous people
-         Okay now about the threats
-    *ISFRAG_MissingVerb_FromDep
-        I agree with your famous people
-         Okay now about the threats
 
-B:  Yeah.
+B231:  Yeah.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yeah
 
-A:  My threats is the weather because them some weather will be come and the people don't don't come in my restaurant.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        My threats is the weather because them some weather will be come and the people don't don't come in my restaurant
-    *ISFRAG_MissingVerb_FromDep
-        My threats is the weather because them some weather will be come and the people don't don't come in my restaurant
+A232:  My threats is the weather because them some weather will be come and the people don't don't come in my restaurant.
+    ---NO_FRAGMENTS_ANY
 
-B:  Okay.
+B231:  Okay.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay
 
-A:  And what's your uh weakness-uh what's your uh threats
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And what's your uh weakness-uh what's your uh threats
-    *ISFRAG_MissingVerb_FromDep
-        And what's your uh weakness-uh what's your uh threats
+A232:  And what's your uh weakness-uh what's your uh threats
+    ---NO_FRAGMENTS_ANY
 
-B:  My uh threats is the location.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        My uh threats is the location
-    *ISFRAG_MissingVerb_FromDep
-        My uh threats is the location
+B231:  My uh threats is the location.
+    ---NO_FRAGMENTS_ANY
 
-A:  Uh okay.
+A232:  Uh okay.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Uh okay
 
-B:  Location is bad sometimes.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Location is bad sometimes
-    *ISFRAG_MissingVerb_FromDep
-        Location is bad sometimes
+B231:  Location is bad sometimes.
+    ---NO_FRAGMENTS_ANY
 
-A:  That's bad. Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-         Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
-    *ISFRAG_MissingVerb_FromDep
-         Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
+A232:  That's bad. Okay now we will agree uh maybe I will agree with you but uh I agree with my uh SWOT and what do you think?
+    ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         That's bad
 
-B:  I think I agree with you because the seafood has many kinds
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        I think I agree with you because the seafood has many kinds
-    *ISFRAG_MissingVerb_FromDep
-        I think I agree with you because the seafood has many kinds
+B231:  I think I agree with you because the seafood has many kinds
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay great.
+A232:  Okay great.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Okay great
 
-B:  A lot of kinds like uh fish like uh uh shrimp some
+B231:  A lot of kinds like uh fish like uh uh shrimp some
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         A lot of kinds like uh fish like uh uh shrimp some
     *ISFRAG_MissingFiniteVerb
         A lot of kinds like uh fish like uh uh shrimp some
     *ISFRAG_MissingSubject
         ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        A lot of kinds like uh fish like uh uh shrimp some
-    *ISFRAG_MissingVerb_FromDep
-        A lot of kinds like uh fish like uh uh shrimp some
 
-A:  Great, yes
+A232:  Great, yes
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Great, yes
 
-B:  And a lot of people love su-seafood more than sushi but I want to tell you something. The sushi has also fish and chicken.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        And a lot of people love su-seafood more than sushi but I want to tell you something
-         The sushi has also fish and chicken
-    *ISFRAG_MissingVerb_FromDep
-        And a lot of people love su-seafood more than sushi but I want to tell you something
-         The sushi has also fish and chicken
+B231:  And a lot of people love su-seafood more than sushi but I want to tell you something. The sushi has also fish and chicken.
+    ---NO_FRAGMENTS_ANY
 
-A:  Yes.
+A232:  Yes.
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Yes
 
-B:  Yeah but I agree with you.
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah but I agree with you
-    *ISFRAG_MissingVerb_FromDep
-        Yeah but I agree with you
+B231:  Yeah but I agree with you.
+    ---NO_FRAGMENTS_ANY
 
-A:  Okay thank you.
+A232:  Okay thank you.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Okay thank you
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
         Okay thank you
-    *ISFRAG_MissingVerb_FromMorph
-        Okay thank you
-    *ISFRAG_MissingVerb_FromDep
-        Okay thank you
 
-B:  Your business very good.
+B231:  Your business very good.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Your business very good
     *ISFRAG_MissingFiniteVerb
         Your business very good
     *ISFRAG_MissingSubject
         ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Your business very good
-    *ISFRAG_MissingVerb_FromDep
-        Your business very good
 
-A:  Okay thank you so much.
+A232:  Okay thank you so much.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Okay thank you so much
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
         Okay thank you so much
-    *ISFRAG_MissingVerb_FromMorph
-        Okay thank you so much
-    *ISFRAG_MissingVerb_FromDep
-        Okay thank you so much
 
-B:  Thank you so much, A.
+B231:  Thank you so much, A.
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Thank you so much, A
     *ISFRAG_MissingFiniteVerb
         ---NO_FRAGMENTS
     *ISFRAG_MissingSubject
-        Thank you so much, A
-    *ISFRAG_MissingVerb_FromMorph
-        Thank you so much, A
-    *ISFRAG_MissingVerb_FromDep
         Thank you so much, A
 
 
@@ -700,15 +325,9 @@ B:  Thank you so much, A.
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 10
 === FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 6
 === FRAG COUNT [ISFRAG_MissingSubject]                      | 7
-=== FRAG COUNT [ISFRAG_MissingVerb_FromMorph]               | 55
-=== FRAG COUNT [ISFRAG_MissingVerb_FromDep]                 | 55
 ===== FRAG COUNT A232 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 5
 ===== FRAG COUNT A232 [ISFRAG_MissingFiniteVerb]                   | 3
 ===== FRAG COUNT A232 [ISFRAG_MissingSubject]                      | 4
-===== FRAG COUNT A232 [ISFRAG_MissingVerb_FromMorph]               | 26
-===== FRAG COUNT A232 [ISFRAG_MissingVerb_FromDep]                 | 26
 ===== FRAG COUNT B231 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 5
 ===== FRAG COUNT B231 [ISFRAG_MissingFiniteVerb]                   | 3
 ===== FRAG COUNT B231 [ISFRAG_MissingSubject]                      | 3
-===== FRAG COUNT B231 [ISFRAG_MissingVerb_FromMorph]               | 29
-===== FRAG COUNT B231 [ISFRAG_MissingVerb_FromDep]                 | 29

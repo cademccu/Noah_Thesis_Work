@@ -4,8 +4,6 @@ FORMULAIC COUNT                                          60
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  27
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    20
 FRAG COUNT [ISFRAG_MissingSubject]                       21
-FRAG COUNT [ISFRAG_MissingVerb_FromMorph]                284
-FRAG COUNT [ISFRAG_MissingVerb_FromDep]                  284
 
 
 MATCHING FILES & MATCHING ID:
@@ -51,5 +49,94 @@ num files: 40
 23-258_175-A_OUTFILE.txt | 258
 23-436_310-A_OUTFILE.txt | 310
 23-436_310-A_OUTFILE.txt | 436
+
+
+ALL FRAGMENTS AND FORMULAICS:
+total count: 84
+-----------------------------
+Hi A
+About you?
+Good
+Uh,,, m- m- m
+Yeah
+Yeah
+Uh
+Yeah
+Welcome
+Thank you so much
+Uh today we talking about uh Chen problem
+Because his accent
+Yeah
+Yeah
+Hi B
+maybe
+uh huh
+Yeah yeah is right
+Hi A
+What about you?
+I'm fine
+Uh what?
+Yeah
+Yes
+Yeah
+I
+Yes
+Talk about yours
+Yes
+Cardiovascular
+Let's talk first about the Geoff
+Uh, ok
+And uh … sleep only 4 hours
+Uh obesity uh obesity runs uh in his family
+and he he can't play he can't play with his friend uh his friend always
+Thanks
+m
+Mmhmm
+Okay thank you
+m
+m
+m
+Yeah
+So let's go to
+Thank you
+until uh 7:00p
+m
+uh
+m
+Mm?
+Yeah
+Ah ha
+And uh… uh Bill talk about uh international so-uh soccer, soccer
+Really many student uh speak Arabic in PIE
+Not all uh student in PIE uh play soccer
+Yes
+Majed?
+Or Felah?
+Thank you
+Yeah
+Uh
+Location? Uh-huh?
+Uh-huh
+on
+And uh on the T
+V
+And magazine and the newspaper
+Mm-hm, yes
+Uh yeah, nice to meet you
+difficult to do it uh in Flagstaff
+Thank you
+Hmm
+large uh customer in the Flagstaff
+Okay, thank you
+Uh, and uh uh there-uh there is no competition and uh within a ten mile… area
+Second, uh uh, ha-uh, in the Flagstaff haven't a good, good hair designer
+I finish
+Yeah
+Yeah
+Want to visit popular tourist attraction
+Yeah, traditional souvenir
+Uh
+Okay
+Thank you
 
 

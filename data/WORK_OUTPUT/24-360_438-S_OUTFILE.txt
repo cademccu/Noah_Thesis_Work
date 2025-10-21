@@ -1,194 +1,67 @@
-B:  Hello I'm student B I'm B
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Hello I'm student B I'm B
-    *ISFRAG_MissingVerb_FromDep
-        Hello I'm student B I'm B
+B438:  Hello I'm student B I'm B
+    ---NO_FRAGMENTS_ANY
 
-A:  Uh my name is A I'm student A uh from Bridge B uh hi Wen uh you know we have a problem uh of our employees uh productivity and uh safety do you uh do you have some advice?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh my name is A I'm student A uh from Bridge B uh hi Wen uh you know we have a problem uh of our employees uh productivity and uh safety do you uh do you have some advice?
-    *ISFRAG_MissingVerb_FromDep
-        Uh my name is A I'm student A uh from Bridge B uh hi Wen uh you know we have a problem uh of our employees uh productivity and uh safety do you uh do you have some advice?
+A360:  Uh my name is A I'm student A uh from Bridge B uh hi Wen uh you know we have a problem uh of our employees uh productivity and uh safety do you uh do you have some advice?
+    ---NO_FRAGMENTS_ANY
 
-B:  Yes I want to put some uh monitor in uh our workplace
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yes I want to put some uh monitor in uh our workplace
-    *ISFRAG_MissingVerb_FromDep
-        Yes I want to put some uh monitor in uh our workplace
+B438:  Yes I want to put some uh monitor in uh our workplace
+    ---NO_FRAGMENTS_ANY
 
-A:  Why?
+A360:  Why?
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Why?
 
-B:  Uh in order to keep our company and uh employees uh safe
+B438:  Uh in order to keep our company and uh employees uh safe
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Uh in order to keep our company and uh employees uh safe
     *ISFRAG_MissingFiniteVerb
         Uh in order to keep our company and uh employees uh safe
     *ISFRAG_MissingSubject
         Uh in order to keep our company and uh employees uh safe
-    *ISFRAG_MissingVerb_FromMorph
-        Uh in order to keep our company and uh employees uh safe
-    *ISFRAG_MissingVerb_FromDep
-        Uh in order to keep our company and uh employees uh safe
 
-A:  Uh anything else?
+A360:  Uh anything else?
     *ISFRAG_MissingFiniteVerb_or_MissingSubject
         Uh anything else?
     *ISFRAG_MissingFiniteVerb
         Uh anything else?
     *ISFRAG_MissingSubject
         Uh anything else?
-    *ISFRAG_MissingVerb_FromMorph
-        Uh anything else?
-    *ISFRAG_MissingVerb_FromDep
-        Uh anything else?
 
-B:  Uh yes uh I do this help some reasons first uh because of safety uh uh now we have not uh safety in our company if we have uh monitor it can keep an eye on every place
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh yes uh I do this help some reasons first uh because of safety uh uh now we have not uh safety in our company if we have uh monitor it can keep an eye on every place
-    *ISFRAG_MissingVerb_FromDep
-        Uh yes uh I do this help some reasons first uh because of safety uh uh now we have not uh safety in our company if we have uh monitor it can keep an eye on every place
+B438:  Uh yes uh I do this help some reasons first uh because of safety uh uh now we have not uh safety in our company if we have uh monitor it can keep an eye on every place
+    ---NO_FRAGMENTS_ANY
 
-A:  Uh that's all?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh that's all?
-    *ISFRAG_MissingVerb_FromDep
-        Uh that's all?
+A360:  Uh that's all?
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh and uh second I think uh our product is not uh selling well uh so I think it must be some employee don't to work hard uh do their personal things in the work time so I want to monitor the email and uh phone tap-put some uh phone taps uh to monitor their uh uh work
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh and uh second I think uh our product is not uh selling well uh so I think it must be some employee don't to work hard uh do their personal things in the work time so I want to monitor the email and uh phone tap-put some uh phone taps uh to monitor their uh uh work
-    *ISFRAG_MissingVerb_FromDep
-        Uh and uh second I think uh our product is not uh selling well uh so I think it must be some employee don't to work hard uh do their personal things in the work time so I want to monitor the email and uh phone tap-put some uh phone taps uh to monitor their uh uh work
+B438:  Uh and uh second I think uh our product is not uh selling well uh so I think it must be some employee don't to work hard uh do their personal things in the work time so I want to monitor the email and uh phone tap-put some uh phone taps uh to monitor their uh uh work
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah it's true uh but I can't agree with you
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah it's true uh but I can't agree with you
-    *ISFRAG_MissingVerb_FromDep
-        Yeah it's true uh but I can't agree with you
+A360:  Yeah it's true uh but I can't agree with you
+    ---NO_FRAGMENTS_ANY
 
-B:  Why?
+B438:  Why?
     ---NO_FRAGMENTS_ANY
     >>>FORMULAIC_CHUNKS:
         Why?
 
-A:  Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
-    *ISFRAG_MissingVerb_FromDep
-        Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
+A360:  Uh there are several reasons for me to say this first I can uh it it it can make employee uh lose uh trust for our company that can uh maybe it is illegal uh third uh I will uh-we will spend uh spend more money on this so I think uh it is not a good uh good opinion to solve this problem
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh I don't think so uh because uh some equivalent uh equipment of our company is very expensive and uh our products is not selling well this is a very big problem uh in our company I think uh we have to uh uh uh monitor our uh company
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh I don't think so uh because uh some equivalent uh equipment of our company is very expensive and uh our products is not selling well this is a very big problem uh in our company I think uh we have to uh uh uh monitor our uh company
-    *ISFRAG_MissingVerb_FromDep
-        Uh I don't think so uh because uh some equivalent uh equipment of our company is very expensive and uh our products is not selling well this is a very big problem uh in our company I think uh we have to uh uh uh monitor our uh company
+B438:  Uh I don't think so uh because uh some equivalent uh equipment of our company is very expensive and uh our products is not selling well this is a very big problem uh in our company I think uh we have to uh uh uh monitor our uh company
+    ---NO_FRAGMENTS_ANY
 
-A:  Oh yeah uh maybe I think we can we can have uh try with your opinion uh in uh but uh uh we we we don't uh don't need to uh put uh put monitor everywhere it just uh have some uh some evaluation in some place. Do you agree?
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Oh yeah uh maybe I think we can we can have uh try with your opinion uh in uh but uh uh we we we don't uh don't need to uh put uh put monitor everywhere it just uh have some uh some evaluation in some place
-         Do you agree?
-    *ISFRAG_MissingVerb_FromDep
-        Oh yeah uh maybe I think we can we can have uh try with your opinion uh in uh but uh uh we we we don't uh don't need to uh put uh put monitor everywhere it just uh have some uh some evaluation in some place
-         Do you agree?
+A360:  Oh yeah uh maybe I think we can we can have uh try with your opinion uh in uh but uh uh we we we don't uh don't need to uh put uh put monitor everywhere it just uh have some uh some evaluation in some place. Do you agree?
+    ---NO_FRAGMENTS_ANY
 
-B:  Uh yes you are right
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Uh yes you are right
-    *ISFRAG_MissingVerb_FromDep
-        Uh yes you are right
+B438:  Uh yes you are right
+    ---NO_FRAGMENTS_ANY
 
-A:  Yeah ok that's a deal
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yeah ok that's a deal
-    *ISFRAG_MissingVerb_FromDep
-        Yeah ok that's a deal
+A360:  Yeah ok that's a deal
+    ---NO_FRAGMENTS_ANY
 
-B:  Yes yes that's deal
-    *ISFRAG_MissingFiniteVerb_or_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingFiniteVerb
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingSubject
-        ---NO_FRAGMENTS
-    *ISFRAG_MissingVerb_FromMorph
-        Yes yes that's deal
-    *ISFRAG_MissingVerb_FromDep
-        Yes yes that's deal
+B438:  Yes yes that's deal
+    ---NO_FRAGMENTS_ANY
 
 
 
@@ -205,15 +78,9 @@ B:  Yes yes that's deal
 === FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 2
 === FRAG COUNT [ISFRAG_MissingFiniteVerb]                   | 2
 === FRAG COUNT [ISFRAG_MissingSubject]                      | 2
-=== FRAG COUNT [ISFRAG_MissingVerb_FromMorph]               | 16
-=== FRAG COUNT [ISFRAG_MissingVerb_FromDep]                 | 16
 ===== FRAG COUNT A360 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 1
 ===== FRAG COUNT A360 [ISFRAG_MissingFiniteVerb]                   | 1
 ===== FRAG COUNT A360 [ISFRAG_MissingSubject]                      | 1
-===== FRAG COUNT A360 [ISFRAG_MissingVerb_FromMorph]               | 8
-===== FRAG COUNT A360 [ISFRAG_MissingVerb_FromDep]                 | 8
 ===== FRAG COUNT B438 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 1
 ===== FRAG COUNT B438 [ISFRAG_MissingFiniteVerb]                   | 1
 ===== FRAG COUNT B438 [ISFRAG_MissingSubject]                      | 1
-===== FRAG COUNT B438 [ISFRAG_MissingVerb_FromMorph]               | 8
-===== FRAG COUNT B438 [ISFRAG_MissingVerb_FromDep]                 | 8
