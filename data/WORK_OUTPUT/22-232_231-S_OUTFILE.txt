@@ -331,6 +331,6 @@ B231:  Thank you so much, A.
 ===== FRAG COUNT B231 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 5
 ===== FRAG COUNT B231 [ISFRAG_MissingFiniteVerb]                   | 3
 ===== FRAG COUNT B231 [ISFRAG_MissingSubject]                      | 3
-##### FRAGMENTS_ALL | Not just sushi$Okay thank you so much$Okay thank you$Okay now about my opportunity-my opportu$This my weakness$A lot of kinds like uh fish like uh uh shrimp some$Your business very good$Thank you so much, A$in the week is boring$Okay now about the threats
-##### FRAGMENTS_ALL A232 | Okay thank you so much$Okay thank you$Okay now about my opportunity-my opportu$This my weakness$Okay now about the threats
-##### FRAGMENTS_ALL B231 | Not just sushi$A lot of kinds like uh fish like uh uh shrimp some$Your business very good$Thank you so much, A$in the week is boring
+##### FRAGMENTS_ALL | Okay thank you so much$in the week is boring$This my weakness$Your business very good$Okay now about my opportunity-my opportu$Not just sushi$Thank you so much, A$Okay now about the threats$A lot of kinds like uh fish like uh uh shrimp some$Okay thank you
+##### FRAGMENTS_ALL A232 | Okay thank you so much$This my weakness$Okay now about my opportunity-my opportu$Okay now about the threats$Okay thank you
+##### FRAGMENTS_ALL B231 | Your business very good$in the week is boring$Not just sushi$Thank you so much, A$A lot of kinds like uh fish like uh uh shrimp some

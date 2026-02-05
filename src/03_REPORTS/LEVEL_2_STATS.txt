@@ -1,13 +1,13 @@
-LINE COUNT                                               6214
-CHUNK/SENTENCE                                           12863
-FORMULAIC COUNT                                          1825
-FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1024
-FRAG COUNT [ISFRAG_MissingFiniteVerb]                    737
-FRAG COUNT [ISFRAG_MissingSubject]                       888
+LINE COUNT                                               6208
+CHUNK/SENTENCE                                           12817
+FORMULAIC COUNT                                          1823
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1019
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    735
+FRAG COUNT [ISFRAG_MissingSubject]                       883
 
 
 MATCHING FILES & MATCHING ID:
-num files: 800
+num files: 796
 -----------------------------
 07-208_012-A_OUTFILE.txt | 012
 07-443_012-B_OUTFILE.txt | 012
@@ -496,10 +496,6 @@ num files: 800
 18-373_283-S_OUTFILE.txt | 373
 18-376_380-S_OUTFILE.txt | 376
 18-376_380-S_OUTFILE.txt | 380
-18-376_380-S_OUTFILE.txt | 376
-18-376_380-S_OUTFILE.txt | 380
-18-380_376-S_OUTFILE.txt | 376
-18-380_376-S_OUTFILE.txt | 380
 18-380_376-S_OUTFILE.txt | 376
 18-380_376-S_OUTFILE.txt | 380
 18-381_296-S_OUTFILE.txt | 296
@@ -812,11 +808,11 @@ num files: 800
 
 
 ALL FRAGMENTS AND FORMULAICS:
-total count: 2836
+total count: 2829
 -----------------------------
-And uh… uh Bill talk about uh international so-uh soccer, soccer
-Really many student uh speak Arabic in PIE
 Not all uh student in PIE uh play soccer
+Really many student uh speak Arabic in PIE
+And uh… uh Bill talk about uh international so-uh soccer, soccer
 Yes
 Majed?
 Or Felah?
@@ -848,8 +844,8 @@ Ok, thank you
 On my way
 Yeah, of course
 No, I just uh play it on my on my way home and uh go to school
-Uh fine, I I skating boarding everyday
 What about you?
+Uh fine, I I skating boarding everyday
 Yes
 Mm, yeah
 Yes, let's go
@@ -919,9 +915,9 @@ Thank you, have a nice time
 See you
 Student A
 So
-1, uh speaking
 Speaking uh Task uh 3
 Uh…
+1, uh speaking
 Okay, so yeah
 Hi B
 Yes
@@ -932,16 +928,16 @@ Okay
 Okay, thank you B
 Hi
 Okay
-What else?
 Oh, okay
+What else?
 Uh
 How about you?
 Uh huh okay
 Okay
 Okay?
 I'm good
-Huh, okay
 Maybe Ma-Greg
+Huh, okay
 Uh yeah, B
 What's more
 Yeah
@@ -1004,8 +1000,8 @@ Hi good
 Ok
 Ok nice
 So thank you A very much
-Thank you A
 Nice to meet you
+Thank you A
 Ah ha
 Thank you
 I'm fine
@@ -1037,8 +1033,8 @@ Yeah
 Ok Thank you
 Ok ok no problem
 Hi A
-Fine
 How about you?
+Fine
 Extreme sport
 Extreme sport yeah
 A lot of kind of fishes and
@@ -1069,16 +1065,16 @@ Thank you A
 Hi A
 Good
 Come on let's go
-Yes
 Bye
+Yes
 Hi B
 Oh B
 Bye
 Hi A
 Good
 Come on let's go
-Yes
 Bye
+Yes
 How about you?
 Oh
 Let we choose another one endurance
@@ -1116,8 +1112,8 @@ Yeah
 No this first time
 But uh you
 Why?
-Come on
 Man
+Come on
 Bye
 Cool ok
 Really?
@@ -1184,8 +1180,8 @@ Uh because the
 Uh, the Unique and Amazing Computer Store
 Yeah, sure
 Thank you
-Ta-task 2
 Listening and Speaking 4A
+Ta-task 2
 Why?
 How about you?
 Why?
@@ -1212,8 +1208,8 @@ Yeah and
 Opportunity?
 Uh uh, large international populations
 Thank you
-Ah okay, B
 Okay B
+Ah okay, B
 Ask me why
 This perfect
 Yeah
@@ -1235,8 +1231,8 @@ Goodbye
 Uh also uh, the threat uh, high taxed, uh taxes uh for uh this kind of uh business
 How about yours?
 Uh, thank you so much,
-Uh
 Right, right
+Uh
 Thank you
 What uh about you?
 There are a lot a lot of them in this area
@@ -1273,8 +1269,8 @@ Thank you
 Mmm
 Bingo
 Thank you
-So exciting
 How about you?
+So exciting
 How about you?
 Agree with you
 Yeah thank you
@@ -1289,16 +1285,16 @@ Mmm-hmm
 What about yours?
 Yes
 Umm
-So, okay
 Okay, okay
+So, okay
 Thank you
 Oh
 Thank you
 Uh to explore space
 V
 Okay this fine bro and uh have a good time with this and uh
-On another hand uh can say that uh can spend half of five billion dollars to build to telescope or build the astronomy to explore the Mars
 What do you
+On another hand uh can say that uh can spend half of five billion dollars to build to telescope or build the astronomy to explore the Mars
 think?
 Thank you
 Thank you
@@ -1313,11 +1309,11 @@ Really?
 Thanks
 Thank you
 Thank you
-And there are many positive uh
 effects and sides in this mission
+And there are many positive uh
 Thank you, A
-Uh
 Student A
+Uh
 And many things like achievement to our nation
 Thanks a lot my friend
 Student, student
@@ -1397,18 +1393,18 @@ Uh huh
 Uh huh
 Uh huh
 Uh huh
-Wow
 Sounds good
+Wow
 Uh huh
 Uh huh
 That's it
 So…
-your space telescope problem?
 Uh how about you? How about your…
+your space telescope problem?
 Yeah
 Hi A… uh now, the government give us some budget, about uh… five billion dollars
-Thank you A
 Okay
+Thank you A
 Okay thank you
 Uh Level 2B
 Uh of course uh there are some negative about uh the travel to mars
@@ -1417,8 +1413,8 @@ And uh t –uh then to go uh the –in the university
 I didn't…
 Okay thank you very much, A
 Oh god
-And uh have a good luck for uh Matt
 Thank you for listening
+And uh have a good luck for uh Matt
 Thank you A
 I'm fine
 Abo –about his accent
@@ -1438,13 +1434,13 @@ Okay thank you
 Good
 Yeah
 Thank you Mr B
-Hi A
 Fine uh how are –how about you?
+Hi A
 oh nice
 Yeah sure
 Hi B
-Oh very good idea, good idea
 Thank you, Mr B
+Oh very good idea, good idea
 Have a good day
 Hi A
 Yes
@@ -1455,8 +1451,8 @@ Thank you for interview me
 Uh Matt he uh
 After this become and better and better for understand the uh the people with you
 Yes
-Thank you A
 Right
+Thank you A
 Yeah, thanks
 Uh Mr
 Stay
@@ -1490,8 +1486,8 @@ Uh now uh how feeling Matt in the university?
 Thanks B
 Uh, yes
 You're welcome
-Good morning A
 Good mor
+Good morning A
 No no
 Yeah, welcome
 And
@@ -1516,8 +1512,8 @@ Nice to meet you
 Hi
 I'll give you three solutions
 Doesn't work, huh
-Okay I'll give you… the last solution
 Oh really
+Okay I'll give you… the last solution
 You agree?
 Thank you, nice to meet you
 Uh we'll try to give them uh mathematics, chess and uh global knowledge
@@ -1527,16 +1523,16 @@ Ok
 So I
 Uh the three groups
 Yeah
-Ok
 Thank you
+Ok
 Uh yeah
 Yeah
 Ok let's see the results
 And yeah
 Yeah
 So let predict uh the the final result of the study
-So let's see the result together and do the experiment
 Yeah
+So let's see the result together and do the experiment
 Thank you very much
 Yeah
 Yeah
@@ -1558,8 +1554,8 @@ How about you?
 Ah in China
 So hi B
 Ok
-Ok, thank you
 Yeah
+Ok, thank you
 Hi A
 Uh huh
 Uh huh
@@ -1584,23 +1580,23 @@ Uh-huh
 Okay
 Ok
 That's it
-Ok
 Thank you
+Ok
 Uh let talk about uh uh experiment in our phi–philosophy class uh
 Hi, B
-And uh do our experiments in the special group
 No change
+And uh do our experiments in the special group
 Yeah
 And what what your prediction regarding the results of the study?
 So how about you? You NTA
 Uh maybe uh uh the the time long as 3 or 4 months
-Uh
 Yeah
+Uh
 Yah
-Ok
 Thank you
 Ok
 Thank you
+Ok
 Yeah
 Yeah
 Yeah
@@ -1699,8 +1695,8 @@ That's right
 Yes
 Thank you very much
 Yes
-Perhaps informal and just for uh good friends
 Yeah uh perhaps formal
+Perhaps informal and just for uh good friends
 So yeah, uh NTA
 Oh really?
 Ahh
@@ -1735,13 +1731,13 @@ Yeah
 So
 Of course
 Bye
-Okay uh B actually uh I just uh bring admission uh from Nancy in the international office uh for my cousin in Saudi Arabia
 Not
+Okay uh B actually uh I just uh bring admission uh from Nancy in the international office uh for my cousin in Saudi Arabia
 Say but but yeah, teacher
 And uh doctor to respect
 Here no, by his name
-Yeah, to respect to the teacher
 Alright, the second thing uh not coming late in the class
+Yeah, to respect to the teacher
 Yeah unrespectful
 Uh-huh
 Oh wow
@@ -1791,12 +1787,12 @@ Oh my god, no way
 Oh really?
 Okay
 Really?
-And… di
 Oh my god
+And… di
 Hi B
 Yeah
-I'm fine
 Thank you
+I'm fine
 Yeah
 Um hm
 Yeah ok, let me give you the third benefit of the apple
@@ -1820,31 +1816,31 @@ Yeah
 Thank you B
 Hi
 Hello
-Ok
 I
+Ok
+Yeah
 Yeah
 This very good idea
-Yeah
 Yeah
 You're welcome
 Hi
 Hello
-Ok
 I
+Ok
+Yeah
 Yeah
 This very good idea
 Yeah
-Yeah
 You're welcome
-Hello, Mr
 A
+Hello, Mr
 Uh huh
 Ok
 Like berry have vitamin A and B
 Ok
 Yeah
-Thank you Mr
 B
+Thank you Mr
 Yeah
 Ok? But uh what about your uh healthy food?
 Ok let's go
@@ -1912,12 +1908,12 @@ Ah ha
 Ok
 Yeah
 Oh, hi
-Which presentation?
 Oh, oh
+Which presentation?
 because of some reasons
 uh, and how about you A?
-Avoid from … about the heart attack and other diseases
 Ok, take a look for the last reason for me
+Avoid from … about the heart attack and other diseases
 Yeah
 Yeah
 Ok
@@ -1931,8 +1927,8 @@ So how about you?
 Hi Mr
 I'm good
 Yeah vegetable and good sources and nutrition sources
-Thank you Mr
 uh A
+Thank you Mr
 B
 Why?
 Oh uh thank you NTA
@@ -1943,15 +1939,15 @@ Yeah
 And the stomach
 Ok thank you Mr
 Listening, speaking 4B, task 3
-Oh, nice
 What about apples B?
+Oh, nice
 Oh, nice
 Oh, nice
 Thank you, B
 Ok
 Listening, speaking 4B, task 3
-Oh, nice
 What about apples B?
+Oh, nice
 Oh, nice
 Oh, nice
 Thank you, B
@@ -1961,43 +1957,43 @@ Fine
 Thank you
 Why?
 Thank you, A
-Hi uh hi my, my name's B
 Yeah
+Hi uh hi my, my name's B
 How about you?
 Well
 Good
 Right?
 Yeah
 Uh, yeah
-Like uh like uh carrot uh c uh cabbage uh what else is uh have a lot of vitamins
 Yeah sure
 Yeah
+Like uh like uh carrot uh c uh cabbage uh what else is uh have a lot of vitamins
 I know
 Yeah
-Of course and include of the fruit juice
-Sure
 Yeah
+Sure
+Of course and include of the fruit juice
 Yeah
 Thank you
-What your what your favourite food groups?
-Uh ok, let's talk about the the food groups
 Hi
+Uh ok, let's talk about the the food groups
+What your what your favourite food groups?
 Second?
 Yeah
 Great
 help, help you go to the gym
-Ok
 Let's talk let's talk about the vitamin
+Ok
 Like vitamin A or B12?
 Ok
 And in conclusion, let's talk about… let's uh let's get the one one uh one group for food
 Great
 Yeah
-It's good
 Yeah
+It's good
 Yes
-Thank you
 Ok B
+Thank you
 My name A
 Ok why?
 Uh huh yeah
@@ -2007,24 +2003,24 @@ My NTA
 Thanks
 Hi
 Uh, hi B
-Nice
 Uh huh
+Nice
 Yeah
 Ok
-Ok
 Uh huh
+Ok
 Ok
 Ok
 Thank you
 Hi, A
-For many reason
 What's your uh … favourite healthy?
+For many reason
 Watermelon? Oh
 Oh, cool
-A lot of calcium
 Yeah
-Yes
+A lot of calcium
 Thank you
+Yes
 Uh this uh uh 4 uh 4B uh listening speaking uh hi B
 Hello A
 Good and you?
@@ -2033,14 +2029,14 @@ Hi, my name A
 Hi, B
 Ok
 What uh – what information about?
-Ok
 Thank you B
+Ok
 Hi, my name A
 Hi, B
 Ok
 What uh – what information about?
-Ok
 Thank you B
+Ok
 I'm good
 Me too
 Yeah
@@ -2057,23 +2053,23 @@ So
 Ah ha
 Thank you
 Yah
-You know?
 Yeah
+You know?
 Of course
 Yeah
 Doesn't have fat
 nothing
 That's right
 Thank you A
-My name's B
 level4B
+My name's B
 Why?
+Yeah
 Sometimes
 Yeah
-Yeah
 Thank you
-Hi
 level 4B
+Hi
 Yeah
 Ok
 Thank you
@@ -2158,8 +2154,8 @@ Yes thank you
 NTA
 That's all
 I agree
-How about if we uh, establish this business?
 Good
+How about if we uh, establish this business?
 Seven
 Okay thank you, B
 Uh the – the first one
@@ -2195,21 +2191,21 @@ And uh also you'll have uh discounts for everyone
 Uh…
 Hmm, people p-… uh, can't find it uh very easily
 Yes
-Thank you
 Conversation
+Thank you
 Oh, unfortunately
 Conversation
 Uh also get uh more experience uh for this business
 Uh…
-Yeah, hello Mr
 B
+Yeah, hello Mr
 Alright thank you
 Because uh uh, the state here Arizona, raise the taxes of uh, of of any business
 Thank you A
 Because uh uh, the state here Arizona, raise the taxes of uh, of of any business
 Thank you A
-Yeah, hello Mr
 B
+Yeah, hello Mr
 Alright thank you
 Also, uh uh high uh NTA but good uh NTA uh uh, reputations
 What
@@ -2227,8 +2223,8 @@ And uh there's no Arabic restaurant in Flagstaff
 Thank you very much for your advices
 Thank you
 Really?
-And uh… the uh, the office… uh, this this all
 Hey, A
+And uh… the uh, the office… uh, this this all
 Hi B
 Ah, that's
 Mm-hmm
@@ -2244,13 +2240,13 @@ What what…
 Thank you A
 Nice to meet you
 Good luck, A
+B
 Uh, and nice to meet you
 Thank you Mr
-B
 Good luck, thanks
-And uh on the T
-on
 V
+on
+And uh on the T
 And magazine and the newspaper
 Mm-hm, yes
 Uh yeah, nice to meet you
@@ -2266,29 +2262,29 @@ Uh-huh
 Sounds good
 Mm-hm, okay yeah NTA
 Ok
-And uh on the T
-on
 V
+on
+And uh on the T
 And magazine and the newspaper
 Mm-hm, yes
 Uh yeah, nice to meet you
-Uh… there's a new business plan just arrived to our office
 Hi B
+Uh… there's a new business plan just arrived to our office
 Fine
 Uh
 Yeah, sure
 Yeah, sure
 Ok thank you
-Ok?
 Yeah
+Ok?
 Ok
 Bye
 Yes
 Oh, but uh there are highly trained stylists and uh barbers with uh good reputations
 Oh
-because, because there are many many many many bad things of this
-Maybe there is no
 damage some of of someone hairs
+Maybe there is no
+because, because there are many many many many bad things of this
 Many disadvantage o – of opening salon
 salon
 of the barber uh, shop
@@ -2322,23 +2318,16 @@ Have a good day
 Thank you so much my friend
 Have a good day
 Okay, thank you A, have a nice uh opportunity with me
-Thank you
 difficult to do it uh in Flagstaff
 Hmm
-large uh customer in the Flagstaff
 Thank you
-difficult to do it uh in Flagstaff
-Hmm
 large uh customer in the Flagstaff
 Okay, thank you
-Uh, and uh uh there-uh there is no competition and uh within a ten mile… area
 Second, uh uh, ha-uh, in the Flagstaff haven't a good, good hair designer
-Okay, thank you
 Uh, and uh uh there-uh there is no competition and uh within a ten mile… area
-Second, uh uh, ha-uh, in the Flagstaff haven't a good, good hair designer
 And also the salon charges more money than other places
-Um this this state uh raise the tax on business in this place
 Uh but also the the the difficult to find a barber-uh a barber shop and a hair design
+Um this this state uh raise the tax on business in this place
 And there is no other businesses
 Also in this market there is no other competitors
 There are there are very uh little places, the barber shops
@@ -2374,8 +2363,8 @@ Hi
 For them
 Yeah
 Okay
-Thanks, B
 Me too, me too
+Thanks, B
 Let's start
 Hi A
 Yeah good
@@ -2393,8 +2382,8 @@ Hmm, alright, okay
 Okay, uh student B,
 Uh, yeah
 Stop
-No competition ten miles, and um … we'll make offers every month for the customers
 Uh… hi A
+No competition ten miles, and um … we'll make offers every month for the customers
 Yeah … don't think so
 Okay, uh student B,
 Uh, yeah
@@ -2416,8 +2405,8 @@ Hi, A
 Yes, sure
 Thank you
 be great
-Okay, we'll think about it
 Thank you
+Okay, we'll think about it
 Hi B
 Why?
 Yeah
@@ -2426,8 +2415,8 @@ Ok, thank you
 Hi
 Uh huh, so?
 Thank you so much
-No competing barber shop or hair designs within a ten miles area
 What about you opinion?
+No competing barber shop or hair designs within a ten miles area
 Thank you very much
 Uh what about you?
 NTA
@@ -2437,10 +2426,10 @@ Yeah
 Good
 I'm
 Okay, okay, let's go
+And uh there-uh beside, there is no competition
+Hmm… and yeah… yeah so, there will be more customers
 Uh… uh, hey B there is a new idea
 Uh… at least within ten miles area
-Hmm… and yeah… yeah so, there will be more customers
-And uh there-uh beside, there is no competition
 That's it
 Hi B
 Oh yes
@@ -2461,8 +2450,8 @@ within a ten miles area
 … Uh, okay
 Uh, okay
 Okay okay
-Ok
 Hi uh B
+Ok
 Office
 Oh-
 To change what?
@@ -2546,16 +2535,16 @@ Yeah
 I think
 So Dr
 What about the patients?
-See you later
 NTA Anyway thank you
+See you later
 See ya
 Hi, Doctor A
 So?
 So this not good for healthy
 Uh, so
 Hi, Doctor B
-Uh illness
 Uh and wants to go to law school and received a scholarship
+Uh illness
 I see
 Oh, yeah
 So
@@ -2564,8 +2553,8 @@ NTA NTA
 Horrible
 Oh NTA
 Schscholarship
-m
 Is very NTA
+m
 Yeah
 Uh-huh
 Why?
@@ -2579,10 +2568,10 @@ m
 to study
 m
 Yeah
-He just uh
 Yeah
-Sleep all the time and stay… stay up until two a
+He just uh
 to study
+Sleep all the time and stay… stay up until two a
 m
 Yeah
 Uh okay
@@ -2604,10 +2593,10 @@ m
 to study
 m
 Yeah
-He just uh
 Yeah
-Sleep all the time and stay… stay up until two a
+He just uh
 to study
+Sleep all the time and stay… stay up until two a
 m
 Yeah
 Uh okay
@@ -2628,10 +2617,10 @@ My name's B
 Uh the student A
 Yeah Linda Evans
 John Smith
-m
 to study so early
-Yeah so busy
+m
 How about you?
+Yeah so busy
 Yeah?
 Oh working in bank yeah
 But he NTA
@@ -2648,11 +2637,11 @@ To work hard and to look after his ch-his parents and his
 Of his children and
 Uh
 Oh work in the bank oh
-m
 ?
-Wow
 m
+Wow
 -uh two a
+m
 Or is terrible
 Yeah is too early and uh
 Yeah
@@ -2660,8 +2649,8 @@ NTA
 Yeah
 Yeah
 Yeah is really early
-And uh
 Yeah
+And uh
 To do that
 Yeah
 m
@@ -2684,10 +2673,10 @@ Ask her to come in?
 Okay
 Yeah Linda Evans
 John Smith
-m
 to study so early
-Yeah so busy
+m
 How about you?
+Yeah so busy
 Yeah?
 Oh working in bank yeah
 But he NTA
@@ -2704,11 +2693,11 @@ To work hard and to look after his ch-his parents and his
 Of his children and
 Uh
 Oh work in the bank oh
-m
 ?
-Wow
 m
+Wow
 -uh two a
+m
 Or is terrible
 Yeah is too early and uh
 Yeah
@@ -2784,8 +2773,8 @@ How many problem?
 Yeah
 m
 Every day
-Because
 Yeah
+Because
 To see if the scholarship yeah so what about you NTA
 Uh-huh
 So you you
@@ -2801,13 +2790,13 @@ Uh-huh
 High school also uh like uh
 So he
 So start sleeping
-Uh-huh
 Mmhmm
+Uh-huh
 He he
 Until two o'clock yeah
 Yeah
-Yes
 Uh huh
+Yes
 His name
 Uh-huh
 Yeah
@@ -2850,15 +2839,15 @@ m
 Ok
 That's it
 Thank you A and thank uh teacher uh NTA
-Ok
 Thank you B
-m
+Ok
 What your idea?
+m
 Uh, Jane Browns uh cannot focus on her job uh during the daytime
+What about you?
 What about you?
 Okay
 That's it
-What about you?
 uh to study so I I I I can't uh sleep uh very well
 m
 Linda
@@ -2914,44 +2903,44 @@ Okay
 Okay
 to study
 m
-Two a
 m
+Two a
 is so late for high school student
-Every night
 Every day
+Every night
 He need
 Yes
 Yes
 But uh the Evans
 The woman?
-Because always start at uh uh seven a
 m
+Because always start at uh uh seven a
 Okay
 Okay let's discuss about these patients
-Uh okay uh let's let's discuss about this this uh people
 m
+Uh okay uh let's let's discuss about this this uh people
 At seven yeah
 Uh how about yours?
 m
 Okay
-How about your person?
 Yeah
+How about your person?
 Uh-huh okay
 Yeah
 Okay
 Yeah
 Yeah okay
 Yeah
-Oh okay
 Uh let's discuss
+Oh okay
 Because
 Yeah
 Yeah
 Yeah
 Why?
 Yeah
-Uh okay
 Yeah
+Uh okay
 to study
 m
 m
@@ -2972,8 +2961,8 @@ Mm, okay
 Yes
 Uh no problem
 Uh A
-m
 What what about you?
+m
 Okay thank you very much
 Like this
 V
@@ -2986,9 +2975,9 @@ Ahhh spanking
 Oh
 Thank you A thank you so much
 I'm good
-V
 don't allow to go with his friend
 There are many ways to uh different NTA spanking
+V
 Thank you B
 How about you uh, B
 How about agree disagree?
@@ -2999,14 +2988,14 @@ What about you?
 V
 Yeah
 Yes
-B?
 What about you, Mr
+B?
 And uh another way
 Okay thank you
 Okay thank you
 Thank you
-Bye
 Thank you for your attention and for your discuss with me for this problem
+Bye
 V
 Hi
 Thank you
@@ -3037,8 +3026,8 @@ Hold on hold on hold on
 Uh uh
 You know?
 Uh huh
-Okay
 Yeah hmm
+Okay
 Yeah that what NTA
 Hi B
 Yeah?
@@ -3084,8 +3073,8 @@ today
 V
 Hi …A … Student A
 Say yours
-Good morning
 Hello B
+Good morning
 V
 Thank you
 Thank you
@@ -3098,8 +3087,8 @@ What about you, B?
 This if for uh corporal punishment about touch the any children for under or before under age like that
 In future
 Uh Mr
-Uh
 Uh in my opinion parents uh uh should never spank their children
+Uh
 Yeah yeah
 Just just tell tell he how to do
 Yeah
@@ -3290,14 +3279,14 @@ Hi B
 What your opinion?
 Mmm
 Thank you
-Thank you very much
 Thank you
+Thank you very much
 I agree
 Welcome
 Clothes a lot of clothes?
 Okay thank you
-A
 Hello Mr
+A
 Yeah
 Uh thanks
 Hello Sir B
@@ -3331,8 +3320,8 @@ And the weaknesses and the opportunity …
 Wow
 Yes
 To compare that for our-to explain that for American
-It's hard
 What about your fry chicken weaknesses?
+It's hard
 What about your abilities, B?
 Love the fried chicken
 Thank you very much thank you, B
@@ -3351,11 +3340,11 @@ Okay
 Yes
 Okay
 Okay thank you
-A to listen for us
 And thank you Mr
+A to listen for us
 Hello uh Mr
-Yeah, serve hamburger yeah
 B?
+Yeah, serve hamburger yeah
 Okay
 Yeah that's
 Yeah
@@ -3496,8 +3485,8 @@ Yeah but uh there
 Hi Adnan
 I think
 Thank you, A
-Thank you for for uh give me good luck
 Thank you
+Thank you for for uh give me good luck
 Hi
 Clothes
 Yeah
@@ -3518,8 +3507,8 @@ Uh in the mall there is no tattoo store
 Okay
 High cost
 Yeah
-So
 Yeah
+So
 Hi
 Okay
 Okay
@@ -3527,10 +3516,10 @@ I see
 Uh-huh
 Hi B
 Let's start with my choice
-Oh
 What about you?
 Oh
 Sounds good
+Oh
 What about your threat ?
 Oh okay
 B
@@ -3565,8 +3554,8 @@ Thank you
 Thanks
 B
 Alright thank you so much for your NTA
-Wow
 There is just two sport shop in Flagstaff
+Wow
 Thank you
 Okay then A uh I'll call the I'll call to the mall service uh tonight to choose uh the perfect location and
 Okay then A uh I'll call the I'll call to the mall service uh tonight to choose uh the perfect location and
@@ -3607,8 +3596,8 @@ How about you?
 How about you?
 Hi B
 In Flagstaff
-Uh okay
 Thank you
+Uh okay
 Hi
 NTA
 Thank you
@@ -3629,8 +3618,8 @@ Oh
 Yeah
 Yes
 So uh
-Yes
 Thank you
+Yes
 Sounds good huh
 Oh
 International food
@@ -3642,9 +3631,9 @@ Oh my God
 Yeah
 Not for adults, not for
 Yeah
+Not any people
 Also like uh not uh will not serve uh many many thing in the weekdays
 Yes
-Not any people
 All the day
 Let's
 Let's do it

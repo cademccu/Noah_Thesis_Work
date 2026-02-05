@@ -1,13 +1,13 @@
-LINE COUNT                                               168
-CHUNK/SENTENCE                                           434
-FORMULAIC COUNT                                          60
-FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  27
-FRAG COUNT [ISFRAG_MissingFiniteVerb]                    20
-FRAG COUNT [ISFRAG_MissingSubject]                       21
+LINE COUNT                                               162
+CHUNK/SENTENCE                                           388
+FORMULAIC COUNT                                          58
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  22
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    18
+FRAG COUNT [ISFRAG_MissingSubject]                       16
 
 
 MATCHING FILES & MATCHING ID:
-num files: 40
+num files: 36
 -----------------------------
 04-051_330-B_OUTFILE.txt | 330
 04-129_330-B_OUTFILE.txt | 330
@@ -32,10 +32,6 @@ num files: 40
 18-177_538-S_OUTFILE.txt | 177
 18-177_538-S_OUTFILE.txt | 538
 18-222_177-S_OUTFILE.txt | 177
-18-376_380-S_OUTFILE.txt | 376
-18-376_380-S_OUTFILE.txt | 380
-18-380_376-S_OUTFILE.txt | 376
-18-380_376-S_OUTFILE.txt | 380
 19-360_588-p_OUTFILE.txt | 588
 19-424_410-p_OUTFILE.txt | 410
 19-424_410-p_OUTFILE.txt | 424
@@ -52,16 +48,16 @@ num files: 40
 
 
 ALL FRAGMENTS AND FORMULAICS:
-total count: 84
+total count: 77
 -----------------------------
 Hi A
-About you?
 Good
+About you?
 Uh,,, m- m- m
 Yeah
 Yeah
-Uh
 Yeah
+Uh
 Welcome
 Thank you so much
 Uh today we talking about uh Chen problem
@@ -73,19 +69,19 @@ maybe
 uh huh
 Yeah yeah is right
 Hi A
-I'm fine
 What about you?
+I'm fine
 Uh what?
 Yeah
 Yes
 Yeah
 I
 Yes
-Yes
 Talk about yours
+Yes
 Cardiovascular
-Let's talk first about the Geoff
 Uh, ok
+Let's talk first about the Geoff
 And uh … sleep only 4 hours
 Uh obesity uh obesity runs uh in his family
 and he he can't play he can't play with his friend uh his friend always
@@ -106,9 +102,9 @@ m
 Mm?
 Yeah
 Ah ha
-And uh… uh Bill talk about uh international so-uh soccer, soccer
-Really many student uh speak Arabic in PIE
 Not all uh student in PIE uh play soccer
+Really many student uh speak Arabic in PIE
+And uh… uh Bill talk about uh international so-uh soccer, soccer
 Yes
 Majed?
 Or Felah?
@@ -117,19 +113,12 @@ Yeah
 Uh
 Location? Uh-huh?
 Uh-huh
-And uh on the T
-on
 V
+on
+And uh on the T
 And magazine and the newspaper
 Mm-hm, yes
 Uh yeah, nice to meet you
-Thank you
-difficult to do it uh in Flagstaff
-Hmm
-large uh customer in the Flagstaff
-Okay, thank you
-Uh, and uh uh there-uh there is no competition and uh within a ten mile… area
-Second, uh uh, ha-uh, in the Flagstaff haven't a good, good hair designer
 I finish
 Yeah
 Yeah

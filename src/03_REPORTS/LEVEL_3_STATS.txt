@@ -1,13 +1,13 @@
-LINE COUNT                                               1334
-CHUNK/SENTENCE                                           1846
-FORMULAIC COUNT                                          252
+LINE COUNT                                               1342
+CHUNK/SENTENCE                                           1862
+FORMULAIC COUNT                                          255
 FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  135
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    83
 FRAG COUNT [ISFRAG_MissingSubject]                       129
 
 
 MATCHING FILES & MATCHING ID:
-num files: 197
+num files: 198
 -----------------------------
 23-013_472-B_OUTFILE.txt | 013
 23-013_472-B_OUTFILE.txt | 472
@@ -123,6 +123,7 @@ num files: 197
 23-294_339-A_OUTFILE.txt | 339
 23-295_111-B_OUTFILE.txt | 111
 23-295_111-B_OUTFILE.txt | 295
+23-296_540-B_OUTFILE.txt | 296
 23-296_540-B_OUTFILE.txt | 540
 23-319_152-B_OUTFILE.txt | 152
 23-319_152-B_OUTFILE.txt | 152
@@ -209,7 +210,7 @@ num files: 197
 
 
 ALL FRAGMENTS AND FORMULAICS:
-total count: 387
+total count: 390
 -----------------------------
 Ok thank you
 Electricity
@@ -428,6 +429,9 @@ Thank you
 Thank you
 Uh listening and speaking task –uh task two, uh student A
 Thank you
+Yes
+Yeah
+Uh hmm
 Okay thanks A, nice to meet you
 Hi B
 Fine how about you?
@@ -463,8 +467,8 @@ Yes
 Hello
 Hi A
 Yeah
-But in uh in middle life is using the more technology and more computer about for using very easy about using anything
 Thank you
+But in uh in middle life is using the more technology and more computer about for using very easy about using anything
 What about you?
 Like this
 Uh-huh
@@ -473,8 +477,8 @@ Uh hi B
 Oh
 Hi A
 Yeah
-But in uh in middle life is using the more technology and more computer about for using very easy about using anything
 Thank you
+But in uh in middle life is using the more technology and more computer about for using very easy about using anything
 What about you?
 Like this
 Uh-huh
@@ -511,8 +515,8 @@ Okay, nice to meet you
 Easy uh… easy and in in uh near in future, uh more uh learning uh every people
 Thank you
 Student B, uh B
-Is very very easy service
 Yeah I more more like uh uh life modern
+Is very very easy service
 Okay no problem
 Thank you
 Life style NTA
