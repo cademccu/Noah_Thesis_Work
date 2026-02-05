@@ -1,13 +1,13 @@
-LINE COUNT                                               1354
-CHUNK/SENTENCE                                           1891
-FORMULAIC COUNT                                          259
-FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  136
+LINE COUNT                                               1334
+CHUNK/SENTENCE                                           1846
+FORMULAIC COUNT                                          252
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  135
 FRAG COUNT [ISFRAG_MissingFiniteVerb]                    83
-FRAG COUNT [ISFRAG_MissingSubject]                       130
+FRAG COUNT [ISFRAG_MissingSubject]                       129
 
 
 MATCHING FILES & MATCHING ID:
-num files: 199
+num files: 197
 -----------------------------
 23-013_472-B_OUTFILE.txt | 013
 23-013_472-B_OUTFILE.txt | 472
@@ -197,8 +197,6 @@ num files: 199
 24-417_543-S_OUTFILE.txt | 543
 24-450_416-S_OUTFILE.txt | 416
 24-450_416-S_OUTFILE.txt | 450
-24-485_555-S_OUTFILE.txt | 485
-24-485_555-S_OUTFILE.txt | 555
 24-560_355-S_OUTFILE.txt | 355
 24-560_355-S_OUTFILE.txt | 560
 24-565_148-S_OUTFILE.txt | 148
@@ -211,7 +209,7 @@ num files: 199
 
 
 ALL FRAGMENTS AND FORMULAICS:
-total count: 395
+total count: 387
 -----------------------------
 Ok thank you
 Electricity
@@ -248,8 +246,8 @@ Simple life?
 For me doesn't important
 Thank you
 Yeah, what about you?
-Oh good
 Uh what about the simple life?
+Oh good
 Yeah and you
 NTA
 Depends on how person like his life or…
@@ -416,8 +414,8 @@ Thank you
 Thank you
 Okay and thank you
 Thank you
-Uh because the simple life uh ha-uh harsh for live
 Very harsh
+Uh because the simple life uh ha-uh harsh for live
 Thank you
 Good
 Yeah
@@ -510,9 +508,9 @@ Air
 Okay you with me in simple life or modern life?
 What about you uh Miss uh B?
 Okay, nice to meet you
-Student B, uh B
-Thank you
 Easy uh… easy and in in uh near in future, uh more uh learning uh every people
+Thank you
+Student B, uh B
 Is very very easy service
 Yeah I more more like uh uh life modern
 Okay no problem
@@ -582,26 +580,18 @@ Yes
 Yes
 Yeah
 Phone taps or email monitor?
-Uh B
-Don't want uh
-Yeah
-That's all
-Thank you
-No, seen
-Yeah
-That all?
 Uh yes no not not uh not NTA just uh uh something about uh my company
 Ok
 Ok don't forgot your promise
 Uh
 Maybe maybe
-Thank you
 Ok
+Thank you
 Yeah yeah yeah true
 Uh
 Maybe maybe
-Thank you
 Ok
+Thank you
 Yeah yeah yeah true
 Yes
 Thanks

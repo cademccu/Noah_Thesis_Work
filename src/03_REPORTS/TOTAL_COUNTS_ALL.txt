@@ -4,12 +4,12 @@ from the WORK_OUTPUT directory in data/
 
 
 
-LINE COUNT                                               11218
-CHUNK/SENTENCE COUNT                                     22063
-FORMULAIC COUNT                                          3204
-FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1737
-FRAG COUNT [ISFRAG_MissingFiniteVerb]                    1243
-FRAG COUNT [ISFRAG_MissingSubject]                       1537
+LINE COUNT                                               11178
+CHUNK/SENTENCE COUNT                                     21961
+FORMULAIC COUNT                                          3192
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  1733
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    1240
+FRAG COUNT [ISFRAG_MissingSubject]                       1533
 
 
 

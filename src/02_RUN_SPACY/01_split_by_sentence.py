@@ -76,6 +76,12 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
     fragment_count_B = {}
     fragment_chunks_A = {}
     fragment_chunks_B = {}
+
+    # this is to hold every fragment that appears
+    fragment_list_all = []
+    fragment_list_all_A = []
+    fragment_list_all_B = []
+
     
     func_names = []
 
@@ -135,12 +141,15 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
                     name = _get_func_name(crit_func)
                     fragment_count[name] += 1
                     fragment_chunks[name].append(chunk)
+                    fragment_list_all.append(chunk) # keep list of all fragments for metadata
                     if line[0] == "A":
                         fragment_count_A[name] += 1
                         fragment_chunks_A[name].append(chunk)
+                        fragment_list_all_A.append(chunk) # keep list of all fragments for metadata
                     else: # B
                         fragment_count_B[name] += 1
                         fragment_chunks_B[name].append(chunk)
+                        fragment_list_all_B.append(chunk) # keep list of all fragments for metadata
                         
 
         # write the initial line
@@ -213,6 +222,14 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
         out.write(("===== FRAG COUNT A" + speakers["A"] + " {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
     for key, value in fragment_count_B.items():
         out.write(("===== FRAG COUNT B" + speakers["B"] + " {:<" + str(longest_name-11) + "} | ").format("[" + key + "]") + str(value) + "\n")
+
+    # write all fragments as list than can be split by "$" -- yes this was patched in after
+    fragment_list_all = [x.strip() for x in set(fragment_list_all)]
+    fragment_list_all_A = [x.strip() for x in set(fragment_list_all_A)]
+    fragment_list_all_B = [x.strip() for x in set(fragment_list_all_B)]
+    out.write("##### FRAGMENTS_ALL | " + "$".join(fragment_list_all) + "\n")
+    out.write("##### FRAGMENTS_ALL A" + speakers["A"] + " | " + "$".join(fragment_list_all_A) + "\n")
+    out.write("##### FRAGMENTS_ALL B" + speakers["B"] + " | " + "$".join(fragment_list_all_B) + "\n")
 
 def main():
     # paths

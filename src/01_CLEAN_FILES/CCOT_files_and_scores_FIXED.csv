@@ -1,0 +1,1549 @@
+﻿Native Language,Speaker ID,Speaker gender,Role,File number_version,Task name,Task version,Time,Level,Pair,Length of file,PT_col_R1,PT_col_R2,PT_col_AVE,PT_TC_R1,PT_TC_R2,PT_TC_AVE,PT_sty_R1,PT_sty_R2,PT_sty_AVE,Total /12
+Arabic,58,M,B,02162&02058_A.txt,Advertisement,A,F10wk5,1,1,3:38,2,2,2,2,2,2,2,2,2,6
+Arabic,162,M,A,02162&02058_A.txt,Advertisement,A,F10wk5,1,1,3:38,2,2,2,2,2,2,2,2,2,6
+Arabic,256,M,B,02371&02256_A.txt,Advertisement,A,F10wk5,1,2,1:42,4,3,3.5,3,3,2.5,3,3,3,9
+Arabic,371,M,A,02371&02256_A.txt,Advertisement,A,F10wk5,1,2,1:42,4,3,3.5,3,3,2.5,3,3,3,9
+Arabic,254,M,B,02325&02254_A.txt,Advertisement,A,F10wk5,1,3,1:52,4,4,4,3,4,2.5,4,4,4,10.5
+Arabic,325,M,A,02325&02254_A.txt,Advertisement,A,F10wk5,1,3,1:52,4,4,4,3,4,2.5,4,4,4,10.5
+Arabic,94,M,A,02094&02398_A.txt,Advertisement,A,F10wk5,1,4,3:01,2,1,1.5,2,2,2,2,2,2,5.5
+Chinese,398,M,B,02094&02398_A.txt,Advertisement,A,F10wk5,1,4,3:01,2,1,1.5,2,2,2,2,2,2,5.5
+Chinese,460,F,A,02460&02537_A.txt,Advertisement,A,F10wk5,1,6,1:40,4,3,3.5,3,2,2.5,3,3,3,9
+Chinese,537,F,B,02460&02537_A.txt,Advertisement,A,F10wk5,1,6,1:40,4,3,3.5,3,2,2.5,3,3,3,9
+Arabic,134,F,A,02134&02582_A.txt,Advertisement,A,F10wk5,1,7,1:23,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,582,M,B,02134&02582_A.txt,Advertisement,A,F10wk5,1,7,1:23,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,372,F,A,02372&02373_A.txt,Advertisement,A,F10wk5,1,8,3:15,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,373,M,B,02372&02373_A.txt,Advertisement,A,F10wk5,1,8,3:15,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,186,M,A,02187&02186_A.txt,Advertisement,A,F10wk5,1,9,2:25,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,187,M,B,02187&02186_A.txt,Advertisement,A,F10wk5,1,9,2:25,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,102,M,B,02116&02102_A.txt,Advertisement,A,F10wk5,1,10,1:39,4,4,4,4,3,3,3,3,3,10
+Arabic,116,M,A,02116&02102_A.txt,Advertisement,A,F10wk5,1,10,1:39,4,4,4,4,3,3,3,3,3,10
+Arabic,16,M,A,02081&02016_A.txt,Advertisement,A,F10wk5,1,11,3:02,3,3,3,3,2,2.5,3,3,3,8.5
+Arabic,81,M,B,02081&02016_A.txt,Advertisement,A,F10wk5,1,11,3:02,3,3,3,3,2,2.5,3,3,3,8.5
+Arabic,290,M,A,02521&02290_A.txt,Advertisement,A,F10wk5,1,12,1:21,3,2,2.5,2,2,2,2,2,2,6.5
+Arabic,521,M,B,02521&02290_A.txt,Advertisement,A,F10wk5,1,12,1:21,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,357,M,A,02357&02538_A.txt,Advertisement,A,F10wk5,1,13,1:53,3,3,3,2,3,2,3,3,3,8
+Arabic,214,M,B,02214&02539_A.txt,Advertisement,A,F10wk5,1,15,1:48,4,3,3.5,3,3,2.5,3,3,3,9
+Chinese,539,F,A,02214&02539_A.txt,Advertisement,A,F10wk5,1,15,1:48,4,3,3.5,3,3,2.5,3,3,3,9
+Chinese,538,M,B,02357&02538_A.txt,Advertisement,A,F10wk7,1,13,1:53,3,3,3,2,3,2,3,3,3,8
+Chinese,365,F,B,02365&02553_A.txt,Advertisement,A,F10wk8,1,14,1:19,3,3,3,2,2,2,2,2,2,7
+Chinese,553,F,A,02365&02553_A.txt,Advertisement,A,F10wk9,1,14,1:19,3,3,3,2,2,2,2,2,2,7
+Arabic,36,M,B,02036&02204_B.txt,Advertisement,B,F11wk5,1,16,1:39,3.5,3.5,3.5,3,3,2.5,3,3,3,9
+Arabic,204,M,A,02036&02204_B.txt,Advertisement,B,F11wk5,1,16,1:39,3.5,3.5,3.5,3,3,2.5,3,3,3,9
+Arabic,51,M,B,02051&02199_B.txt,Advertisement,B,F11wk5,1,17,2:00,3,2.5,2.75,3,3,2.5,2.5,3,2.75,8
+Arabic,199,M,A,02051&02199_B.txt,Advertisement,B,F11wk5,1,17,2:00,3.5,3,3.25,3,3,2.5,3.5,3,3.25,9
+Arabic,24,M,B,02118&02024_B.txt,Advertisement,B,F11wk5,1,18,2:04,3.5,3.5,3.5,3,3,2.5,3.5,3,3.25,9.25
+Arabic,118,M,A,02118&02024_B.txt,Advertisement,B,F11wk5,1,18,2:04,3.5,3.5,3.5,3.5,3,2.75,3,3,3,9.25
+Arabic,275,M,A,02282&02275_B.txt,Advertisement,B,F11wk5,1,19,1:26,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,282,F,B,02282&02275_B.txt,Advertisement,B,F11wk5,1,19,1:26,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,312,M,B,02330&02312_B.txt,Advertisement,B,F11wk5,1,20,2:00,2.5,2,2.25,2,2,2,3.5,3.5,3.5,7.75
+Arabic,330,M,A,02330&02312_B.txt,Advertisement,B,F11wk5,1,20,2:00,3,3,3,3,3,2.5,3.5,3.5,3.5,9
+Arabic,80,M,A,02080&02150_B.txt,Advertisement,B,F11wk5,1,21,1:25,2,2,2,2,2,2,2,2,2,6
+Arabic,150,M,B,02080&02150_B.txt,Advertisement,B,F11wk5,1,21,1:25,2,2,2,2,2,2,2,2,2,6
+Arabic,260,M,A,02260&02540_B.txt,Advertisement,B,F11wk5,1,22,2:06,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,540,F,B,02260&02540_B.txt,Advertisement,B,F11wk5,1,22,2:06,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,261,M,A,02261&02326_B.txt,Advertisement,B,F11wk5,1,23,2:00,2,2,2,2.5,2.5,2.25,2,2,2,6.25
+Arabic,326,M,B,02261&02326_B.txt,Advertisement,B,F11wk5,1,23,2:00,2,2,2,2.5,2.5,2.25,2,2,2,6.25
+Arabic,66,M,B,02541&02066_B.txt,Advertisement,B,F11wk5,1,24,1:41,4,4,4,4,3.5,3,3.5,4,3.75,10.75
+Chinese,541,F,A,02541&02066_B.txt,Advertisement,B,F11wk5,1,24,1:41,4,4,4,4,3.5,3,3.5,4,3.75,10.75
+Arabic,408,F,A,02491&02408_B.txt,Advertisement,B,F11wk5,1,25,1:41,3,3,3,3.5,3,2.75,3,3,3,8.75
+Korean,491,F,B,02491&02408_B.txt,Advertisement,B,F11wk5,1,25,1:41,3,3,3,3,3,2.5,3.5,3,3.25,8.75
+Arabic,268,M,A,02268&02295_B.txt,Advertisement,B,F11wk5,1,26,1:25,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,295,M,B,02268&02295_B.txt,Advertisement,B,F11wk5,1,26,1:25,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,100,M,A,02100&02575_B.txt,Advertisement,B,F11wk5,1,27,0:48,3.5,3,3.25,2.5,3,2.25,3,3,3,8.5
+Chinese,575,M,B,02100&02575_B.txt,Advertisement,B,F11wk5,1,27,0:48,3,3,3,2.5,3,2.25,3,3,3,8.25
+Arabic,145,F,A,02145&02350_B.txt,Advertisement,B,F11wk5,1,28,0:47,3,3,3,3,3.5,2.5,3.5,3.5,3.5,9
+Arabic,350,F,B,02145&02350_B.txt,Advertisement,B,F11wk5,1,28,0:47,3,3,3,3.5,3.5,2.75,3,3.5,3.25,9
+Arabic,190,M,B,02236&02190_B.txt,Advertisement,B,F11wk5,1,29,1:51,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,236,M,A,02236&02190_B.txt,Advertisement,B,F11wk5,1,29,1:51,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,61,M,A,02061&02096_B.txt,Advertisement,B,F11wk5,1,30,1:12,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Arabic,96,M,B,02061&02096_B.txt,Advertisement,B,F11wk5,1,30,1:12,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Arabic,199,M,A,02570&02199_B.txt,Advertisement,B,F11wk5,1,31,1:59,2,2,4,3,3,2.5,3,3,3,9.5
+Arabic,570,M,B,02570&02199_B.txt,Advertisement,B,F11wk5,1,31,1:59,3.5,3,3.25,3,3,2.5,3.5,3,3.25,9
+Arabic,111,M,B,02215&02111_B.txt,Advertisement,B,F11wk5,1,32,1:46,3,3,3,2.5,2.5,2.25,3,2.5,2.75,8
+Arabic,215,M,A,02215&02111_B.txt,Advertisement,B,F11wk5,1,32,1:46,3,3,3,2.5,2.5,2.25,3,2.5,2.75,8
+Arabic,39,M,B,02073&02039_B.txt,Advertisement,B,F11wk5,1,33,2:05,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,73,M,A,02073&02039_B.txt,Advertisement,B,F11wk5,1,33,2:05,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,32,M,A,02220&02032_B.txt,Advertisement,B,F11wk5,1,34,1:50,2,2,2,3,3,2.5,2,2,2,6.5
+Arabic,220,M,B,02220&02032_B.txt,Advertisement,B,F11wk5,1,34,1:50,2,2,2,2,2,2,2,2,2,6
+Arabic,92,M,B,02269&02092_B.txt,Advertisement,B,F11wk5,1,35,2:03,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,269,M,A,02269&02092_B.txt,Advertisement,B,F11wk5,1,35,2:03,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,291,M,A,02291&02466_B.txt,Advertisement,B,F11wk5,1,36,2:07,3,3,3,2,2,2,2.5,2.5,2.5,7.5
+Chinese,466,M,B,02291&02466_B.txt,Advertisement,B,F11wk5,1,36,2:07,3,3,3,2,2,2,2.5,2.5,2.5,7.5
+Arabic,119,M,A,02119&02135_B.txt,Advertisement,B,F11wk5,1,37,1:34,3.5,3.5,3.5,2.5,2.5,2.25,3,3,3,8.75
+Arabic,135,M,B,02119&02135_B.txt,Advertisement,B,F11wk5,1,37,1:34,3.5,3.5,3.5,2.5,2.5,2.25,3,3,3,8.75
+Arabic,13,M,A,02013&02431_B.txt,Advertisement,B,F11wk5,1,38,1:51,4,3.5,3.75,3.5,3.5,2.75,3.5,3.5,3.5,10
+Arabic,431,M,B,02013&02431_B.txt,Advertisement,B,F11wk5,1,38,1:51,4,3.5,3.75,3.5,3.5,2.75,3.5,3.5,3.5,10
+Arabic,225,M,A,02225&02286_B.txt,Advertisement,B,F11wk5,1,39,1:34,3.5,3.5,3.5,3,3,2.5,3.5,3.5,3.5,9.5
+Arabic,286,M,B,02225&02286_B.txt,Advertisement,B,F11wk5,1,39,1:34,3.5,3.5,3.5,3.5,3,2.75,3.5,3.5,3.5,9.75
+Arabic,128,M,A,02128&02153_B.txt,Advertisement,B,F11wk5,1,40,1:39,2,2,2,2,2,2,2,2,2,6
+Arabic,153,M,B,02128&02153_B.txt,Advertisement,B,F11wk5,1,40,1:39,2,2,2,2,2,2,2,2,2,6
+Arabic,120,M,A,02120&02277_C.txt,Advertisement,C,F12wk7,1,41,2:07,3,4,3.5,4,4,3,4,4,4,10.5
+Arabic,277,M,B,02120&02277_C.txt,Advertisement,C,F12wk7,1,41,2:07,2,2,2,4,3.5,3,2,2,2,7
+Arabic,226,M,B,02478&02226_C.txt,Advertisement,C,F12wk7,1,42,2:03,4,3,3.5,3,3,2.5,3,2,2.5,8.5
+Arabic,478,M,A,02478&02226_C.txt,Advertisement,C,F12wk7,1,42,2:03,4,4,4,3,3,2.5,3,2,2.5,9
+Arabic,10,M,A,02010&02172_C.txt,Advertisement,C,F12wk7,1,43,1:43,4,4,4,4,4,3,4,3,3.5,10.5
+Arabic,172,M,B,02010&02172_C.txt,Advertisement,C,F12wk7,1,43,1:43,4,4,4,4,4,3,3.5,2,2.75,9.75
+Arabic,121,M,B,02121&02216_C.txt,Advertisement,C,F12wk7,1,44,1:59,2,3,2.5,4,3,3,2,2,2,7.5
+Arabic,216,M,A,02121&02216_C.txt,Advertisement,C,F12wk7,1,44,1:59,3,3.5,3.25,4,4,3,4,3,3.5,9.75
+Arabic,107,M,A,02107&02146_C.txt,Advertisement,C,F12wk7,1,45,1:05,3,4,3.5,4,4,3,3,3,3,9.5
+Arabic,146,M,B,02107&02146_C.txt,Advertisement,C,F12wk7,1,45,1:05,3,4,3.5,4,3,3,4,3,3.5,10
+Arabic,76,M,B,02108&02076_C.txt,Advertisement,C,F12wk7,1,46,1:49,4,4,4,4,4,3,3,3,3,10
+Arabic,108,M,A,02108&02076_C.txt,Advertisement,C,F12wk7,1,46,1:49,4,4,4,4,4,3,4,4,4,11
+Arabic,221,M,A,02240&02221_C.txt,Advertisement,C,F12wk7,1,47,2:02,3,4,3.5,4,4,3,2,2,2,8.5
+Arabic,240,M,B,02240&02221_C.txt,Advertisement,C,F12wk7,1,47,2:02,4,4,4,4,4,3,2,3,2.5,9.5
+Chinese,458,F,B,02523&02458_C.txt,Advertisement,C,F12wk7,1,48,1:14,3,4,3.5,4,4,3,3,2,2.5,9
+Chinese,523,M,A,02523&02458_C.txt,Advertisement,C,F12wk7,1,48,1:14,3,3,3,4,4,3,3,2,2.5,8.5
+Arabic,99,M,B,02099&02217_C.txt,Advertisement,C,F12wk7,1,49,1:57,4,4,4,4,4,3,3,3,3,10
+Arabic,217,M,A,02099&02217_C.txt,Advertisement,C,F12wk7,1,49,1:57,4,3,3.5,4,4,3,3,2,2.5,9
+Arabic,75,M,B,02173&02075_C.txt,Advertisement,C,F12wk7,1,50,2:06,4,4,4,4,4,3,4,4,4,11
+Arabic,173,M,A,02173&02075_C.txt,Advertisement,C,F12wk7,1,50,2:06,4,4,4,4,4,3,4,3,3.5,10.5
+Chinese,359,M,A,02359&02549_C.txt,Advertisement,C,F12wk7,1,51,2:06,3,4,3.5,4,4,3,2,2,2,8.5
+Chinese,549,F,B,02359&02549_C.txt,Advertisement,C,F12wk7,1,51,2:06,3,3,3,4,4,3,2,2,2,8
+Chinese,402,M,B,02402&02496_C.txt,Advertisement,C,F12wk7,1,52,1:35,3,4,3.5,4,3,3,2,2,2,8.5
+Chinese,496,M,A,02402&02496_C.txt,Advertisement,C,F12wk7,1,52,1:35,4,4,4,3,4,2.5,2,2,2,8.5
+Arabic,490,F,B,02520&02490_A.txt,Advertisement,A,Sp11wk5,1,53,1:10,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,520,F,A,02520&02490_A.txt,Advertisement,A,Sp11wk5,1,53,1:10,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,144,M,B,02144&02346_A.txt,Advertisement,A,Sp11wk5,1,54,3:21,2,3,2.5,3,3,2.5,3,2,2.5,7.5
+Arabic,346,M,A,02144&02346_A.txt,Advertisement,A,Sp11wk5,1,54,3:21,2,3,2.5,3,3,2.5,3,2,2.5,7.5
+Arabic,48,M,A,02048&02212_A.txt,Advertisement,A,Sp11wk5,1,55,1:26,3,3,3,2,2,2,3,3,3,8
+Arabic,212,M,B,02048&02212_A.txt,Advertisement,A,Sp11wk5,1,55,1:26,3,3,3,2,2,2,3,3,3,8
+Arabic,131,M,A,02131&02142_A.txt,Advertisement,A,Sp11wk5,1,56,1:41,2,1,1.5,1,1,1.5,1,1,1,4
+Arabic,142,M,B,02131&02142_A.txt,Advertisement,A,Sp11wk5,1,56,1:41,2,1,1.5,1,1,1.5,1,1,1,4
+Arabic,42,M,B,02258&02042_A.txt,Advertisement,A,Sp11wk5,1,57,2:19,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,258,M,A,02258&02042_A.txt,Advertisement,A,Sp11wk5,1,57,2:19,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,205,M,B,02205&02348_A.txt,Advertisement,A,Sp11wk5,1,58,4:24,3,3,3,3,4,2.5,3,3,3,8.5
+Arabic,348,M,A,02205&02348_A.txt,Advertisement,A,Sp11wk5,1,58,4:24,3,3,3,3,4,2.5,3,3,3,8.5
+Arabic,55,M,A,02055&02385_A.txt,Advertisement,A,Sp11wk5,1,59,4:02,3,2,2.5,3,3,2.5,3,3,3,8
+Arabic,385,M,B,02055&02385_A.txt,Advertisement,A,Sp11wk5,1,59,4:02,3,2,2.5,3,3,2.5,3,3,3,8
+Arabic,161,M,A,02161&02592_A.txt,Advertisement,A,Sp11wk5,1,60,3:14,3,3,3,3,4,2.5,4,3,3.5,9
+Arabic,592,M,B,02161&02592_A.txt,Advertisement,A,Sp11wk5,1,60,3:14,4,4,4,3,2,2.5,3,2,2.5,9
+Arabic,193,M,A,02392&02193_A.txt,Advertisement,A,Sp11wk5,1,61,4:09,2,2,2,3,3,2.5,3,2,2.5,7
+Arabic,392,M,B,02392&02193_A.txt,Advertisement,A,Sp11wk5,1,61,4:09,2,2,2,3,3,2.5,3,2,2.5,7
+Arabic,294,F,B,02339&02294_A.txt,Advertisement,A,Sp11wk5,1,62,1:00,4,4,4,3,3,2.5,4,3,3.5,10
+Arabic,339,F,A,02339&02294_A.txt,Advertisement,A,Sp11wk5,1,62,1:00,4,4,4,3,3,2.5,4,3,3.5,10
+Arabic,243,M,A,02321&02243_A.txt,Advertisement,A,Sp11wk5,1,63,3:47,4,3,3.5,4,4,3,4,4,4,10.5
+Arabic,321,M,B,02321&02243_A.txt,Advertisement,A,Sp11wk5,1,63,3:47,4,3,3.5,4,3,3,4,4,4,10.5
+Arabic,70,M,A,02274&02070_A.txt,Advertisement,A,Sp11wk5,1,64,4:07,3,3,3,3,2,2.5,3,4,3.5,9
+Arabic,274,M,B,02274&02070_A.txt,Advertisement,A,Sp11wk5,1,64,4:07,3,3,3,3,2,2.5,3,4,3.5,9
+Arabic,248,M,B,02248&02259_A.txt,Advertisement,A,Sp11wk5,1,65,1:23,3,3,3,2,2,2,3,3,3,8
+Arabic,259,M,A,02248&02259_A.txt,Advertisement,A,Sp11wk5,1,65,1:23,3,3,3,2,2,2,3,3,3,8
+Arabic,77,M,A,02077&02592_A.txt,Advertisement,A,Sp11wk5,1,66,4:06,4,3,3.5,2,3,2,2,3,2.5,8
+Arabic,592,M,B,02077&02592_A.txt,Advertisement,A,Sp11wk5,1,66,4:06,4,3,3.5,2,3,2,2,3,2.5,8
+Arabic,188,M,A,02188&02436_A.txt,Advertisement,A,Sp11wk5,1,67,2:41,2,2,2,2,2,2,2,2,2,6
+Korean,436,F,B,02188&02436_A.txt,Advertisement,A,Sp11wk5,1,67,2:41,2,2,2,2,2,2,2,2,2,6
+Arabic,324,M,A,02328&02324_A.txt,Advertisement,A,Sp11wk5,1,68,1:18,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,328,M,B,02328&02324_A.txt,Advertisement,A,Sp11wk5,1,68,1:18,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,117,M,B,02429&02117_A.txt,Advertisement,A,Sp11wk5,1,69,3:37,3,2,2.5,3,3,2.5,2,3,2.5,7.5
+Arabic,429,M,A,02429&02117_A.txt,Advertisement,A,Sp11wk5,1,69,3:37,3,2,2.5,3,3,2.5,2,3,2.5,7.5
+Arabic,209,M,B,02265&02209_A.txt,Advertisement,A,Sp11wk5,1,70,2:10,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,265,M,A,02265&02209_A.txt,Advertisement,A,Sp11wk5,1,70,2:10,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,206,M,A,02255&02206_A.txt,Advertisement,A,Sp11wk5,1,71,4:07,4,4,4,2,3,2,3,2,2.5,8.5
+Arabic,255,M,B,02255&02206_A.txt,Advertisement,A,Sp11wk5,1,71,4:07,4,4,4,2,3,2,3,2,2.5,8.5
+Arabic,351,M,A,02351&02482_A.txt,Advertisement,A,Sp11wk5,1,72,1:38,3,2,2.5,2,2,2,2,2,2,6.5
+Arabic,482,M,B,02351&02482_A.txt,Advertisement,A,Sp11wk5,1,72,1:38,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,390,F,B,02390&02557_A.txt,Advertisement,A,Sp11wk5,1,73,3:42,3,3,3,3,3,2.5,3,2,2.5,8
+Arabic,557,F,A,02390&02557_A.txt,Advertisement,A,Sp11wk5,1,73,3:42,3,3,3,3,3,2.5,3,2,2.5,8
+Arabic,152,M,B,02547&02152_A.txt,Advertisement,A,Sp11wk5,1,74,1:26,3,3,3,2,1,2,2,2,2,7
+Chinese,547,M,A,02547&02152_A.txt,Advertisement,A,Sp11wk5,1,74,1:26,3,3,3,2,1,2,2,2,2,7
+Arabic,16,M,A,23016&23037_A.txt,Cancer Advice,S,Sp10_wk5,3,4,2:45,3,3,3,3,4,3.5,4,3,3.5,10
+Arabic,37,M,B,23016&23037_A.txt,Cancer Advice,S,Sp10_wk5,3,4,2:45,3,3,3,1,1,1,1,1,1,5
+Arabic,290,M,A,23290&23521_A.txt,Cancer Advice,S,Sp10_wk5,3,5,1:58,3,2,2.5,4,4,4,3,3,3,9.5
+Arabic,521,M,B,23290&23521_A.txt,Cancer Advice,S,Sp10_wk5,3,5,1:58,3,2,2.5,4,4,4,3,3,3,9.5
+Arabic,129,M,A,23373&23129_A.txt,Cancer Advice,S,Sp10_wk5,3,6,4:44,3,3,3,1,1,1,2,2,2,6
+Arabic,373,M,B,23373&23129_A.txt,Cancer Advice,S,Sp10_wk5,3,6,4:44,3,3,3,2,2,2,3,3,3,8
+Arabic,372,F,B,23434&23372_A.txt,Cancer Advice,S,Sp10_wk5,3,7,3:24,2,2,2,3,3,3,3,3,3,8
+Arabic,434,M,A,23434&23372_A.txt,Cancer Advice,S,Sp10_wk5,3,7,3:24,2,2,2,2,3,2.5,3,3,3,7.5
+Arabic,102,M,B,23116&23102_A.txt,Cancer Advice,S,Sp10_wk5,3,8,2:51,3,3,3,4,3,3.5,3,3,3,9.5
+Arabic,116,M,A,23116&23102_A.txt,Cancer Advice,S,Sp10_wk5,3,8,2:51,3,3,3,3,3,3,3,3,3,9
+Arabic,81,M,A,23081&23134_A.txt,Cancer Advice,S,Sp10_wk5,3,9,0:45,1,1,1,1,0,0.5,1,1,1,2.5
+Arabic,134,F,B,23081&23134_A.txt,Cancer Advice,S,Sp10_wk5,3,9,0:45,1,1,1,1,0,0.5,1,1,1,2.5
+Arabic,94,M,A,23214&23094_A.txt,Cancer Advice,S,Sp10_wk5,3,10,2:22,2,2,2,1,1,1,2,2,2,5
+Arabic,214,M,B,23214&23094_A.txt,Cancer Advice,S,Sp10_wk5,3,10,2:22,2,2,2,1,1,1,2,2,2,5
+Chinese,357,F,B,23538&23357_A.txt,Cancer Advice,S,Sp10_wk5,3,11,2:51,4,4,4,3,3,3,4,4,4,11
+Chinese,538,M,A,23538&23357_A.txt,Cancer Advice,S,Sp10_wk5,3,11,2:51,4,4,4,3,3,3,4,4,4,11
+Chinese,365,F,B,23553&23365_A.txt,Cancer Advice,S,Sp10_wk5,3,12,1:35,3,3,3,3,4,3.5,3,3,3,9.5
+Chinese,553,F,A,23553&23365_A.txt,Cancer Advice,S,Sp10_wk5,3,12,1:35,3,3,3,4,4,4,4,4,4,11
+Arabic,51,M,B,23051&23570_B.txt,Cancer Advice,S,Sp10_wk5,3,13,2:05,4,4,4,4,3.5,3.75,4,4,4,11.75
+Arabic,570,M,A,23051&23570_B.txt,Cancer Advice,S,Sp10_wk5,3,13,2:05,4,4,4,3.5,4,3.75,4,4,4,11.75
+Arabic,275,M,A,23275&23286_B.txt,Cancer Advice,S,Sp10_wk5,3,14,2:07,3,3,3,2.5,3,2.75,2.5,3,2.75,8.5
+Arabic,286,M,B,23275&23286_B.txt,Cancer Advice,S,Sp10_wk5,3,14,2:07,2.5,3,2.75,2.5,3,2.75,3,3,3,8.5
+Arabic,330,M,B,23330&23491_B.txt,Cancer Advice,S,Sp10_wk5,3,15,2:02,4,4,4,4,3.5,3.75,4,3.5,3.75,11.5
+Korean,491,F,A,23330&23491_B.txt,Cancer Advice,S,Sp10_wk5,3,15,2:02,4,4,4,4,3.5,3.75,4,3.5,3.75,11.5
+Arabic,80,M,A,23080&23118_B.txt,Cancer Advice,S,Sp10_wk5,3,16,1:11,2.5,2.5,2.5,3,3.5,3.25,3,3.5,3.25,9
+Arabic,118,M,B,23080&23118_B.txt,Cancer Advice,S,Sp10_wk5,3,16,1:11,2.5,3,2.75,3,3.5,3.25,3,3,3,9
+Arabic,122,M,A,23122&23150_B.txt,Cancer Advice,S,Sp10_wk5,3,17,2:02,3,3,3,3.5,3.5,3.5,3.5,3,3.25,9.75
+Arabic,150,M,B,23122&23150_B.txt,Cancer Advice,S,Sp10_wk5,3,17,2:02,3,3,3,3.5,3.5,3.5,3.5,3,3.25,9.75
+Arabic,234,M,A,03297&03234_S.txt,Chen problem,B,F11wk10,1,1,2:41,4,4,4,4,4,4,2,3,2.5,10.5
+Arabic,297,M,B,03297&03234_S.txt,Chen problem,B,F11wk10,1,1,2:41,4,4,4,4,4,4,2,3,2.5,10.5
+Arabic,36,M,B,04036&04269_B.txt,Chen problem,B,F11wk10,1,1,2:17,4,4,4,3.5,3.5,3.5,4,3.5,3.75,11.25
+Arabic,269,M,A,04036&04269_B.txt,Chen problem,B,F11wk10,1,1,2:17,4,4,4,3.5,3.5,3.5,4,3.5,3.75,11.25
+Arabic,148,M,A,03148&03543_S.txt,Chen problem,B,F11wk10,1,2,2:17,4,4,4,4,3,3.5,3,3,3,10.5
+Chinese,543,M,B,03148&03543_S.txt,Chen problem,B,F11wk10,1,2,2:17,4,4,4,4,3,3.5,3,3,3,10.5
+Arabic,51,M,B,04051&04330_B.txt,Chen problem,B,F11wk10,1,2,2:11,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,330,M,A,04051&04330_B.txt,Chen problem,B,F11wk10,1,2,2:11,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,22,M,B,03192&03022_S.txt,Chen problem,B,F11wk10,1,3,3:00,4,4,4,4,4,4,3,3,3,11
+Arabic,192,M,A,03192&03022_S.txt,Chen problem,B,F11wk10,1,3,3:00,4,4,4,4,4,4,3,3,3,11
+Arabic,96,M,B,04096&04518_B.txt,Chen problem,B,F11wk10,1,3,2:00,3.5,4,3.75,3.5,3.5,3.5,3,3.5,3.25,10.5
+Chinese,518,M,A,04096&04518_B.txt,Chen problem,B,F11wk10,1,3,2:00,3.5,4,3.75,3.5,3.5,3.5,3,3.5,3.25,10.5
+Arabic,151,M,A,03191&03151_S.txt,Chen problem,B,F11wk10,1,4,2:43,3,3,3,3,3,3,2,3,2.5,8.5
+Arabic,191,M,B,03191&03151_S.txt,Chen problem,B,F11wk10,1,4,2:43,3,3,3,3,3,3,2,3,2.5,8.5
+Arabic,312,M,B,04312&04570_B.txt,Chen problem,B,F11wk10,1,4,2:03,3,3.5,3.25,3.5,3.5,3.5,3.5,3.5,3.5,10.25
+Arabic,570,M,A,04312&04570_B.txt,Chen problem,B,F11wk10,1,4,2:03,3,3.5,3.25,3.5,3.5,3.5,3.5,3.5,3.5,10.25
+Chinese,355,M,B,03417&03355_S.txt,Chen problem,B,F11wk10,1,5,3:02,3,3,3,3,3,3,3,3,3,9
+Chinese,417,F,A,03417&03355_S.txt,Chen problem,B,F11wk10,1,5,3:02,3,3,3,3,3,3,3,3,3,9
+Arabic,215,M,A,04431&04215_B.txt,Chen problem,B,F11wk10,1,5,2:03,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,431,M,B,04431&04215_B.txt,Chen problem,B,F11wk10,1,5,2:03,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,343,M,A,03343&03394_S.txt,Chen problem,B,F11wk10,1,6,3:06,3,3,3,3,3,3,2,2,2,8
+Korean,394,M,B,03343&03394_S.txt,Chen problem,B,F11wk10,1,6,3:06,3,3,3,3,3,3,2,2,2,8
+Arabic,39,M,A,04039&04073_B.txt,Chen problem,B,F11wk10,1,6,2:10,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,73,M,B,04039&04073_B.txt,Chen problem,B,F11wk10,1,6,2:10,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,54,M,B,03486&03054_S.txt,Chen problem,B,F11wk10,1,7,3:07,4,3,3.5,2,2,2,2,2,2,7.5
+Korean,486,M,A,03486&03054_S.txt,Chen problem,B,F11wk10,1,7,3:07,4,3,3.5,2,2,2,2,2,2,7.5
+Chinese,543,M,B,03543&03560_S.txt,Chen problem,B,F11wk10,1,8,2:48,3,3,3,3,3,3,2,2,2,8
+Chinese,560,M,A,03543&03560_S.txt,Chen problem,B,F11wk10,1,8,2:48,3,3,3,3,3,3,2,2,2,8
+Arabic,135,M,B,04326&04135_B.txt,Chen problem,B,F11wk10,1,8,2:05,3,3,3,3,3,3,3,3,3,9
+Arabic,326,M,A,04326&04135_B.txt,Chen problem,B,F11wk10,1,8,2:05,3,3,3,3,3,3,3,3,3,9
+Chinese,438,M,A,03438&03542_S.txt,Chen problem,B,F11wk10,1,9,2:05,3,3,3,3,3,3,2,3,2.5,8.5
+Chinese,542,M,B,03438&03542_S.txt,Chen problem,B,F11wk10,1,9,2:05,3,3,3,3,3,3,2,3,2.5,8.5
+Arabic,61,M,B,04082&04061_B.txt,Chen problem,B,F11wk10,1,9,2:00,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,82,M,A,04082&04061_B.txt,Chen problem,B,F11wk10,1,9,2:00,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Japanese,410,F,A,03410&03433_S.txt,Chen problem,B,F11wk10,1,10,3:15,3,3,3,3,3,3,3,2,2.5,8.5
+Japanese,433,F,B,03410&03433_S.txt,Chen problem,B,F11wk10,1,10,3:15,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,122,M,A,04122&04153_B.txt,Chen problem,B,F11wk10,1,10,2:10,3.5,3,3.25,3.5,3,3.25,2.5,2.5,2.5,9
+Arabic,153,M,B,04122&04153_B.txt,Chen problem,B,F11wk10,1,10,2:10,3.5,3,3.25,3.5,3,3.25,2.5,2.5,2.5,9
+Chinese,416,M,A,03416&03450_S.txt,Chen problem,B,F11wk10,1,11,3:18,3,3,3,2,2,2,2,2,2,7
+Chinese,450,M,B,03416&03450_S.txt,Chen problem,B,F11wk10,1,11,3:18,3,3,3,2,2,2,2,2,2,7
+Chinese,399,M,B,03534&03399_S.txt,Chen problem,B,F11wk10,1,12,3:06,3,2,2.5,2,3,2.5,2,2,2,7
+Chinese,534,M,A,03534&03399_S.txt,Chen problem,B,F11wk10,1,12,3:06,3,2,2.5,2,3,2.5,2,2,2,7
+Chinese,577,F,B,03577&03580_S.txt,Chen problem,B,F11wk10,1,13,3:21,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,580,M,A,03577&03580_S.txt,Chen problem,B,F11wk10,1,13,3:21,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,404,F,A,03586&03404_S.txt,Chen problem,B,F11wk10,1,14,2:56,3,3,3,3,3,3,2,2,2,8
+Arabic,586,M,B,03586&03404_S.txt,Chen problem,B,F11wk10,1,14,2:56,3,3,3,3,3,3,2,2,2,8
+Chinese,466,M,A,04541&04466_B.txt,Chen Problem,A,F12wk14,1,11,2:03,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Chinese,541,F,B,04541&04466_B.txt,Chen Problem,A,F12wk14,1,11,2:03,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,408,F,B,04491&04408_B.txt,Chen Problem,A,F12wk14,1,12,2:01,3.5,3.5,3.5,4,4,4,3.5,3.5,3.5,11
+Korean,491,F,A,04491&04408_B.txt,Chen Problem,A,F12wk14,1,12,2:01,3.5,3.5,3.5,4,4,4,3.5,3.5,3.5,11
+Arabic,204,M,A,04204&04293_B.txt,Chen Problem,A,F12wk14,1,13,1:42,3.5,3,3.25,3.5,3,3.25,3,3,3,9.5
+Arabic,293,M,B,04204&04293_B.txt,Chen Problem,A,F12wk14,1,13,1:42,3.5,3,3.25,3.5,3,3.25,3,3,3,9.5
+Arabic,129,M,B,04129&04330_B.txt,Chen Problem,A,F12wk14,1,14,2:06,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,330,M,A,04129&04330_B.txt,Chen Problem,A,F12wk14,1,14,2:06,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,15,M,A,04268&04015_B.txt,Chen Problem,A,F12wk14,1,15,1:44,3,3,3,3.5,3.5,3.5,4,3.5,3.75,10.25
+Arabic,268,M,B,04268&04015_B.txt,Chen Problem,A,F12wk14,1,15,1:44,3,3.5,3.25,3.5,3.5,3.5,4,4,4,10.75
+Arabic,225,M,A,04286&04225_B.txt,Chen Problem,A,F12wk14,1,16,1:57,3.5,3.5,3.5,4,3.5,3.75,3.5,3.5,3.5,10.75
+Arabic,286,M,B,04286&04225_B.txt,Chen Problem,A,F12wk14,1,16,1:57,3.5,3.5,3.5,4,3.5,3.75,3.5,3.5,3.5,10.75
+Arabic,100,M,A,04227&04100_B.txt,Chen Problem,A,F12wk14,1,17,1:19,3.5,3.5,3.5,3.5,3,3.25,3.5,3,3.25,10
+Arabic,227,M,B,04227&04100_B.txt,Chen Problem,A,F12wk14,1,17,1:19,3.5,3.5,3.5,3.5,3,3.25,3.5,3,3.25,10
+Arabic,80,M,B,04150&04080_B.txt,Chen Problem,A,F12wk14,1,18,1:16,2.5,2.5,2.5,3,3,3,2.5,2.5,2.5,8
+Arabic,150,M,A,04150&04080_B.txt,Chen Problem,A,F12wk14,1,18,1:16,2.5,2.5,2.5,3,3,3,2.5,2.5,2.5,8
+Arabic,118,M,A,04118&04119_B.txt,Chen Problem,A,F12wk14,1,19,0:53,3,3,3,3,3,3,3,3,3,9
+Arabic,119,M,B,04118&04119_B.txt,Chen Problem,A,F12wk14,1,19,0:53,3,3,3,3,3,3,3,3,3,9
+Chinese,540,F,A,04540&04575_B.txt,Chen Problem,A,F12wk14,1,20,0:54,3,3,3,3,3,3,3,3,3,9
+Chinese,575,M,B,04540&04575_B.txt,Chen Problem,A,F12wk14,1,20,0:54,3,3,3,3,3,3,3,3,3,9
+Arabic,13,M,A,04013&04423_B.txt,Chen Problem,A,F12wk14,1,21,1:41,3.5,3.5,3.5,3,3,3,3.5,3.5,3.5,10
+Arabic,423,M,B,04013&04423_B.txt,Chen Problem,A,F12wk14,1,21,1:41,3.5,3.5,3.5,3,3,3,3.5,3.5,3.5,10
+Arabic,145,F,B,04145&04351_B.txt,Chen problem,C,SU11wk5,1,22,1:59,3.5,4,3.75,4,4,4,3.5,4,3.75,11.5
+Arabic,351,M,A,04145&04351_B.txt,Chen problem,C,SU11wk5,1,22,1:59,3.5,4,3.75,4,4,4,3.5,4,3.75,11.5
+Arabic,92,M,B,04092&04260_B.txt,Chen problem,C,SU11wk5,1,23,1:50,3.5,3.5,3.5,3.5,3,3.25,3,3,3,9.75
+Arabic,260,M,A,04092&04260_B.txt,Chen problem,C,SU11wk5,1,23,1:50,3.5,3.5,3.5,3.5,3,3.25,3,3,3,9.75
+Arabic,111,M,B,04111&04295_B.txt,Chen problem,C,SU11wk5,1,24,2:05,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,295,M,A,04111&04295_B.txt,Chen problem,C,SU11wk5,1,24,2:05,4,3,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,104,M,B,04146&04104_A.txt,Chen problem,C,SU11wk5,1,25,1:50,4,4,4,4,4,4,4,3,3.5,11.5
+Arabic,146,M,A,04146&04104_A.txt,Chen problem,C,SU11wk5,1,25,1:50,4,4,4,4,4,4,4,3,3.5,11.5
+Arabic,216,M,B,04226&04216_A.txt,Chen problem,C,SU11wk5,1,26,1:47,3,4,3.5,4,4,4,4,3,3.5,11
+Arabic,226,M,A,04226&04216_A.txt,Chen problem,C,SU11wk5,1,26,1:47,3,4,3.5,4,4,4,3,3,3,10.5
+Arabic,108,M,A,04108&04099_A.txt,Chen problem,C,SU11wk5,1,26,1:58,3,4,3.5,4,3,3.5,4,3,3.5,10.5
+Arabic,14,M,A,04014&04172_A.txt,Chen problem,C,SU11wk5,1,27,1:54,4,4,4,4,4,4,4,3,3.5,11.5
+Arabic,172,M,B,04014&04172_A.txt,Chen problem,C,SU11wk5,1,27,1:54,4,4,4,4,4,4,4,4,4,12
+Arabic,21,M,B,04075&04021_A.txt,Chen problem,C,SU11wk5,1,28,1:55,4,4,4,4,4,4,3.5,3,3.25,11.25
+Arabic,75,M,A,04075&04021_A.txt,Chen problem,C,SU11wk5,1,28,1:55,4,4,4,4,4,4,4,4,4,12
+Arabic,99,M,B,04108&04099_A.txt,Chen problem,C,SU11wk5,1,29,1:58,4,4,4,3,3,3,4,3,3.5,10.5
+Arabic,11,M,B,04240&04011_A.txt,Chen problem,C,SU11wk5,1,30,2:05,3,4,3.5,4,4,4,3,3,3,10.5
+Arabic,240,M,A,04240&04011_A.txt,Chen problem,C,SU11wk5,1,30,2:05,3,4,3.5,4,3,3.5,4,3,3.5,10.5
+Arabic,120,M,A,04221&04120_A.txt,Chen problem,C,SU11wk5,1,31,1:50,3,4,3.5,4,4,4,4,3,3.5,11
+Arabic,221,M,B,04221&04120_A.txt,Chen problem,C,SU11wk5,1,31,1:50,3,4,3.5,4,4,4,4,3,3.5,11
+Chinese,455,M,A,04455&04523_A.txt,Chen problem,C,SU11wk5,1,32,1:14,4,3,3.5,4,3,3.5,3,4,3.5,10.5
+Chinese,523,M,B,04455&04523_A.txt,Chen problem,C,SU11wk5,1,32,1:14,3,3,3,4,4,4,4,3,3.5,10.5
+Chinese,496,M,A,04496&04549_A.txt,Chen problem,C,SU11wk5,1,33,1:37,4,4,4,4,4,4,4,3,3.5,11.5
+Chinese,549,F,B,04496&04549_A.txt,Chen problem,C,SU11wk5,1,33,1:37,3,4,3.5,4,4,4,4,3,3.5,11
+Arabic,121,M,A,04359&04121_A.txt,Chen problem,C,SU11wk5,1,34,1:33,4,4,4,4,4,4,3,3,3,11
+Chinese,359,M,B,04359&04121_A.txt,Chen problem,C,SU11wk5,1,34,1:33,3,3,3,4,4,4,2,3,2.5,9.5
+Arabic,217,M,A,04217&04402_A.txt,Chen Problem,A,Su12wk5,1,35,2:14,4,4,4,4,4,4,4,4,4,12
+Chinese,402,M,B,04217&04402_A.txt,Chen Problem,A,Su12wk5,1,35,2:14,4,3,3.5,4,4,4,4,4,4,11.5
+Arabic,72,M,B,04312&04072_C.txt,Chen Problem,A,Su12wk5,1,36,2:22,2,2,2,1,1,1,1,1,1,4
+Arabic,312,M,A,04312&04072_C.txt,Chen Problem,A,Su12wk5,1,36,2:22,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,224,M,B,04272&04224_C.txt,Chen Problem,A,Su12wk5,1,37,2:38,2,2,2,2,2,2,3,3,3,7
+Arabic,272,M,A,04272&04224_C.txt,Chen Problem,A,Su12wk5,1,37,2:38,2,2,2,2,2,2,3,3,3,7
+Arabic,285,M,B,04330&04285_C.txt,Chen Problem,A,Su12wk5,1,38,2:33,1,1,1,1,1,1,1,1,1,3
+Arabic,330,M,A,04330&04285_C.txt,Chen Problem,A,Su12wk5,1,38,2:33,1,1,1,1,1,1,1,1,1,3
+Arabic,63,M,A,04063&04327_C.txt,Chen Problem,A,Su12wk5,1,39,2:25,3,3,3,4,3,3.5,3,3,3,9.5
+Arabic,327,M,B,04063&04327_C.txt,Chen Problem,A,Su12wk5,1,39,2:25,3,3,3,3,4,3.5,3,3,3,9.5
+Arabic,260,M,B,04293&04260_C.txt,Chen Problem,A,Su12wk5,1,40,2:25,2,1,1.5,2,1,1.5,1,1,1,4
+Arabic,293,M,A,04293&04260_C.txt,Chen Problem,A,Su12wk5,1,40,2:25,2,1,1.5,2,1,1.5,1,1,1,4
+Arabic,152,M,A,04321&04152_C.txt,Chen Problem,A,Su12wk5,1,41,2:27,3,2,2.5,2,2,2,3,2,2.5,7
+Arabic,321,M,B,04321&04152_C.txt,Chen Problem,A,Su12wk5,1,41,2:27,3,2,2.5,2,2,2,3,2,2.5,7
+Arabic,143,M,B,04143&04286_C.txt,Chen Problem,A,Su12wk5,1,42,3:22,2,2,2,2,1,1.5,2,2,2,5.5
+Arabic,286,M,A,04143&04286_C.txt,Chen Problem,A,Su12wk5,1,42,3:22,2,2,2,2,1,1.5,2,2,2,5.5
+Chinese,360,M,A,08360&08486_S.txt,Choosing a patient,A,F10wk5,2,1,2:47,4,3,3.5,2,2,2,3,3,3,8.5
+Korean,486,M,B,08360&08486_S.txt,Choosing a patient,A,F10wk5,2,1,2:47,4,3,3.5,2,2,2,3,3,3,8.5
+Arabic,275,M,B,10551&10275_S.txt,Choosing a patient,A,F10wk5,2,1,2:03,3.5,4,3.75,3.5,3.5,3.5,3,3,3,10.25
+Arabic,551,M,A,10551&10275_S.txt,Choosing a patient,A,F10wk5,2,1,2:03,4,4,4,4,4,4,4,4,4,12
+Chinese,437,M,A,08437&08450_S.txt,Choosing a patient,A,F10wk5,2,2,2:06,4,4,4,3,4,3.5,3,3,3,10.5
+Chinese,450,M,B,08437&08450_S.txt,Choosing a patient,A,F10wk5,2,2,2:06,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,185,M,B,10210&10185_S.txt,Choosing a patient,A,F10wk5,2,2,1:58,4,4,4,4,4,4,3.5,4,3.75,11.75
+Arabic,210,M,A,10210&10185_S.txt,Choosing a patient,A,F10wk5,2,2,1:58,4,4,4,4,4,4,4,4,4,12
+Korean,407,M,B,08438&08407_S.txt,Choosing a patient,A,F10wk5,2,3,2:40,3,3,3,4,4,4,3,3,3,10
+Chinese,438,M,A,08438&08407_S.txt,Choosing a patient,A,F10wk5,2,3,2:40,3,3,3,4,4,4,3,3,3,10
+Arabic,312,M,A,10312&10320_S.txt,Choosing a patient,A,F10wk5,2,3,2:19,3.5,3.5,3.5,2.5,2.5,2.5,3,3.5,3.25,9.25
+Arabic,320,M,B,10312&10320_S.txt,Choosing a patient,A,F10wk5,2,3,2:19,3,3.5,3.25,4,3.5,3.75,2,2.5,2.25,9.25
+Chinese,388,F,B,08586&08388_S.txt,Choosing a patient,A,F10wk5,2,4,5:37,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,586,M,A,08586&08388_S.txt,Choosing a patient,A,F10wk5,2,4,5:37,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,340,M,B,10481&10340_S.txt,Choosing a patient,A,F10wk5,2,4,2:11,4,4,4,4,4,4,3,3,3,11
+Arabic,481,M,A,10481&10340_S.txt,Choosing a patient,A,F10wk5,2,4,2:11,4,4,4,4,4,4,3.5,3,3.25,11.25
+Chinese,449,F,A,08449&08524_S.txt,Choosing a patient,A,F10wk5,2,5,2:49,3,2,2.5,2,2,2,3,2,2.5,7
+Japanese,524,M,B,08449&08524_S.txt,Choosing a patient,A,F10wk5,2,5,2:49,3,2,2.5,2,2,2,3,2,2.5,7
+Arabic,174,M,B,10174&10409_S.txt,Choosing a patient,A,F10wk5,2,5,2:03,4,4,4,4,4,4,4,4,4,12
+Arabic,409,F,A,10174&10409_S.txt,Choosing a patient,A,F10wk5,2,5,2:03,4,4,4,4,4,4,4,4,4,12
+Japanese,410,F,B,08410&08424_S.txt,Choosing a patient,A,F10wk5,2,6,1:43,3,4,3.5,4,4,4,3,4,3.5,11
+Korean,424,F,A,08410&08424_S.txt,Choosing a patient,A,F10wk5,2,6,1:43,3,4,3.5,4,4,4,3,4,3.5,11
+Arabic,303,M,A,10517&10303_S.txt,Choosing a patient,A,F10wk5,2,6,2:13,2.5,2.5,2.5,4,4,4,2.5,2.5,2.5,9
+Arabic,517,M,B,10517&10303_S.txt,Choosing a patient,A,F10wk5,2,6,2:13,2.5,2.5,2.5,4,4,4,4,4,4,10.5
+Chinese,416,M,B,08416&08555_S.txt,Choosing a patient,A,F10wk5,2,7,3:07,4,4,4,2,2,2,3,3,3,9
+Chinese,555,M,A,08416&08555_S.txt,Choosing a patient,A,F10wk5,2,7,3:07,4,4,4,2,2,2,3,3,3,9
+Arabic,74,M,B,10074&10161_S.txt,Choosing a patient,A,F10wk5,2,7,2:13,4,4,4,4,4,4,4,4,4,12
+Arabic,161,M,A,10074&10161_S.txt,Choosing a patient,A,F10wk5,2,7,2:13,3.5,4,3.75,4,4,4,3,2.5,2.75,10.5
+Arabic,163,M,B,08404&08163_S.txt,Choosing a patient,A,F10wk5,2,8,1:29,3,3,3,2,3,2.5,2,2,2,7.5
+Chinese,404,F,A,08404&08163_S.txt,Choosing a patient,A,F10wk5,2,8,1:29,3,3,3,2,3,2.5,2,2,2,7.5
+Arabic,172,M,B,10172&10229_S.txt,Choosing a patient,A,F10wk5,2,8,2:13,4,4,4,4,4,4,4,4,4,12
+Arabic,229,M,A,10172&10229_S.txt,Choosing a patient,A,F10wk5,2,8,2:13,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Chinese,353,M,B,08353&08417_S.txt,Choosing a patient,A,F10wk5,2,9,3:18,4,3,3.5,3,3,3,3,3,3,9.5
+Chinese,417,F,A,08353&08417_S.txt,Choosing a patient,A,F10wk5,2,9,3:18,4,3,3.5,3,3,3,3,3,3,9.5
+Arabic,230,F,B,10230&10345_S.txt,Choosing a patient,A,F10wk5,2,9,1:31,2,2.5,2.25,3.5,3.5,3.5,3,3.5,3.25,9
+Arabic,345,F,A,10230&10345_S.txt,Choosing a patient,A,F10wk5,2,9,1:31,4,4,4,4,4,4,4,4,4,12
+Arabic,133,M,B,08164&08133_S.txt,Choosing a patient,A,F10wk5,2,10,3:18,1,2,1.5,1,1,1,2,2,2,4.5
+Arabic,164,M,A,08164&08133_S.txt,Choosing a patient,A,F10wk5,2,10,3:18,1,2,1.5,1,1,1,2,2,2,4.5
+Arabic,230,F,A,10347&10230_S.txt,Choosing a patient,A,F10wk5,2,10,1:17,4,4,4,4,3.5,3.75,4,3,3.5,11.25
+Pashto,347,F,B,10347&10230_S.txt,Choosing a patient,A,F10wk5,2,10,1:17,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Arabic,470,M,A,08470&08565_S.txt,Choosing a patient,A,F10wk5,2,11,3:13,3,3,3,2,3,2.5,2,2,2,7.5
+Chinese,565,M,B,08470&08565_S.txt,Choosing a patient,A,F10wk5,2,11,3:13,3,3,3,2,4,3,2,3,2.5,8.5
+Arabic,127,M,A,10127&10235_S.txt,Choosing a patient,A,F10wk5,2,11,2:12,3.5,4,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Arabic,235,M,B,10127&10235_S.txt,Choosing a patient,A,F10wk5,2,11,2:12,3.5,4,3.75,4,3.5,3.75,2.5,3,2.75,10.25
+Arabic,241,M,B,08587&08241_S.txt,Choosing a patient,A,F10wk5,2,12,2:54,3,3,3,4,4,4,4,4,4,11
+Chinese,587,F,A,08587&08241_S.txt,Choosing a patient,A,F10wk5,2,12,2:54,3,3,3,3,3,3,3,3,3,9
+Arabic,78,M,A,10078&10362_S.txt,Choosing a patient,A,F10wk5,2,12,1:57,4,4,4,4,4,4,4,3.5,3.75,11.75
+Arabic,362,M,B,10078&10362_S.txt,Choosing a patient,A,F10wk5,2,12,1:57,4,4,4,3.5,4,3.75,4,3.5,3.75,11.5
+Arabic,322,M,B,08556&08322_S.txt,Choosing a patient,A,F10wk5,2,13,2:59,3,3,3,2,3,2.5,2,3,2.5,8
+Chinese,556,M,A,08556&08322_S.txt,Choosing a patient,A,F10wk5,2,13,2:59,3,3,3,2,2,2,2,3,2.5,7.5
+Arabic,149,M,A,08158&08149_S.txt,Choosing a patient,A,F10wk5,2,14,3:12,3,3,3,2,2,2,2,2,2,7
+Arabic,158,M,B,08158&08149_S.txt,Choosing a patient,A,F10wk5,2,14,3:12,3,3,3,2,2,2,2,2,2,7
+Arabic,249,M,B,08249&08341_S.txt,Choosing a patient,A,F10wk5,2,15,2:49,3,4,3.5,3,4,3.5,3,4,3.5,10.5
+Chinese,341,M,A,08249&08341_S.txt,Choosing a patient,A,F10wk5,2,15,2:49,3,4,3.5,3,4,3.5,3,4,3.5,10.5
+Arabic,148,M,B,08512&08148_S.txt,Choosing a patient,A,F10wk5,2,16,2:00,3,2,2.5,1,2,1.5,1,2,1.5,5.5
+Chinese,512,F,A,08512&08148_S.txt,Choosing a patient,A,F10wk5,2,16,2:00,3,2,2.5,1,2,1.5,1,2,1.5,5.5
+Arabic,12,M,A,07443&07012_B.txt,Choosing a patient,A,F10wk5,2,37,3:20,0,1,0.5,1,1,1,1,0,0.5,2
+Chinese,443,M,B,07443&07012_B.txt,Choosing a patient,A,F10wk5,2,37,3:20,0,1,0.5,1,1,1,1,0,0.5,2
+Arabic,151,M,B,09154&09151_S.txt,Choosing a patient,B,F11wk10,2,1,2:03,4,4,4,4,4,4,4,4,4,12
+Arabic,159,M,A,09154&09151_S.txt,Choosing a patient,B,F11wk10,2,1,2:03,4,4,4,4,4,4,4,4,4,12
+Chinese,177,M,A,09177&09355_S.txt,Choosing a patient,B,F11wk10,2,2,2:44,3,3,3,4,4,4,3,3,3,10
+Chinese,355,M,B,09177&09355_S.txt,Choosing a patient,B,F11wk10,2,2,2:44,3,3,3,4,4,4,3,3,3,10
+Chinese,419,M,A,09419&09543_S.txt,Choosing a patient,B,F11wk10,2,3,3:18,4,4,4,3,3,3,4,4,4,11
+Chinese,543,M,B,09419&09543_S.txt,Choosing a patient,B,F11wk10,2,3,3:18,4,4,4,3,3,3,4,4,4,11
+Chinese,368,M,A,09368&09577_S.txt,Choosing a patient,B,F11wk10,2,4,2:12,3,3,3,3,3,3,3,3,3,9
+Chinese,577,F,B,09368&09577_S.txt,Choosing a patient,B,F11wk10,2,4,2:12,3,2,2.5,3,3,3,3,4,3.5,9
+Chinese,444,M,B,09560&09444_S.txt,Choosing a patient,B,F11wk10,2,5,3:29,1,3,2,3,3,3,2,2,2,7
+Chinese,560,M,A,09560&09444_S.txt,Choosing a patient,B,F11wk10,2,5,3:29,1,3,2,3,3,3,2,2,2,7
+Chinese,354,M,A,09354&09453_S.txt,Choosing a patient,B,F11wk10,2,6,2:06,4,3,3.5,4,4,4,4,4,4,11.5
+Chinese,453,F,B,09354&09453_S.txt,Choosing a patient,B,F11wk10,2,6,2:06,4,3,3.5,4,4,4,4,4,4,11.5
+Japanese,433,F,B,09535&09433_S.txt,Choosing a patient,B,F11wk10,2,7,2:57,4,4,4,3,3,3,4,4,4,11
+Chinese,535,F,A,09535&09433_S.txt,Choosing a patient,B,F11wk10,2,7,2:57,4,4,4,3,3,3,4,4,4,11
+Chinese,379,M,B,09566&09379_S.txt,Choosing a patient,B,F11wk10,2,8,2:16,3,3,3,4,4,4,4,3,3.5,10.5
+Chinese,566,F,A,09566&09379_S.txt,Choosing a patient,B,F11wk10,2,8,2:16,3,3,3,4,4,4,3,3,3,10
+Chinese,439,F,B,09528&09439_S.txt,Choosing a patient,B,F11wk10,2,9,3:23,4,4,4,3,3,3,4,4,4,11
+Chinese,528,F,A,09528&09439_S.txt,Choosing a patient,B,F11wk10,2,9,3:23,4,4,4,3,3,3,4,4,4,11
+Arabic,154,M,A,09154&09516_S.txt,Choosing a patient,B,F11wk10,2,10,2:01,3,2,2.5,3,1,2,2,2,2,6.5
+Japanese,516,M,B,09154&09516_S.txt,Choosing a patient,B,F11wk10,2,10,2:01,3,2,2.5,3,1,2,2,1,1.5,6
+Arabic,153,M,A,09153&09591_S.txt,Choosing a patient,B,F11wk10,2,11,2:11,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,591,M,B,09153&09591_S.txt,Choosing a patient,B,F11wk10,2,11,2:11,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,30,M,A,09030&09471_S.txt,Choosing a patient,B,F11wk10,2,12,1:59,4,4,4,4,3,3.5,3,3,3,10.5
+Arabic,471,M,B,09030&09471_S.txt,Choosing a patient,B,F11wk10,2,12,1:59,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,62,M,A,10068&10062_S.txt,Choosing a patient,B,F11wk10,2,13,1:11,3.5,3.5,3.5,4,4,4,2,2,2,9.5
+Arabic,68,M,B,10068&10062_S.txt,Choosing a patient,B,F11wk10,2,13,1:11,4,3.5,3.75,4,4,4,3.5,4,3.75,11.5
+Korean,424,F,B,09452&09424_S.txt,Choosing a patient,B,F11wk10,2,13,1:43,3,3,3,3,3,3,2,2,2,8
+Chinese,452,F,A,09452&09424_S.txt,Choosing a patient,B,F11wk10,2,13,1:43,3,3,3,3,3,3,2,2,2,8
+Arabic,84,M,A,10314&10084_S.txt,Choosing a patient,B,F11wk10,2,14,2:05,4,4,4,4,4,4,4,4,4,12
+Arabic,314,M,B,10314&10084_S.txt,Choosing a patient,B,F11wk10,2,14,2:05,4,4,4,3.5,4,3.75,3.5,3,3.25,11
+Arabic,194,M,B,09555&09194_S.txt,Choosing a patient,B,F11wk10,2,14,1:59,3,4,3.5,3,3,3,3,2,2.5,9
+Chinese,555,M,A,09555&09194_S.txt,Choosing a patient,B,F11wk10,2,14,1:59,4,3,3.5,3,3,3,2,3,2.5,9
+Arabic,129,M,B,10262&10129_S.txt,Choosing a patient,B,F11wk10,2,15,1:53,4,4,4,4,4,4,3.5,3,3.25,11.25
+Arabic,262,M,A,10262&10129_S.txt,Choosing a patient,B,F11wk10,2,15,1:53,4,4,4,4,4,4,3.5,3,3.25,11.25
+Chinese,177,M,B,09585&09177_S.txt,Choosing a patient,B,F11wk10,2,15,2:01,2,2,2,3,3,3,3,2,2.5,7.5
+Chinese,585,M,A,09585&09177_S.txt,Choosing a patient,B,F11wk10,2,15,2:01,2,2,2,3,3,3,2,3,2.5,7.5
+Arabic,182,M,A,10182&10498_S.txt,Choosing a patient,B,F11wk10,2,16,2:05,3.5,4,3.75,4,4,4,3.5,4,3.75,11.5
+Arabic,498,F,B,10182&10498_S.txt,Choosing a patient,B,F11wk10,2,16,2:05,4,3.5,3.75,4,4,4,3.5,3.5,3.5,11.25
+Arabic,168,F,A,10168&10267_S.txt,Choosing a patient,B,F11wk10,2,17,2:13,3.5,4,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,267,F,B,10168&10267_S.txt,Choosing a patient,B,F11wk10,2,17,2:13,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,72,M,B,11348&11072_S.txt,Choosing a patient,A,Sp11wk5,2,1,2:58,3,3.5,3.25,4,3.5,3.75,3,3.5,3.25,10.25
+Arabic,348,M,A,11348&11072_S.txt,Choosing a patient,A,Sp11wk5,2,1,2:58,3,3.5,3.25,4,3.4,3.7,3,3.5,3.25,10.2
+Arabic,157,M,A,11292&11157_S.txt,Choosing a patient,A,Sp11wk5,2,2,2:30,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,292,M,B,11292&11157_S.txt,Choosing a patient,A,Sp11wk5,2,2,2:30,3,3,3,3.5,3,3.25,3,3,3,9.25
+Arabic,307,M,A,11307&11328_S.txt,Choosing a patient,A,Sp11wk5,2,3,2:27,3,3,3,3,3,3,3,3,3,9
+Arabic,328,M,B,11307&11328_S.txt,Choosing a patient,A,Sp11wk5,2,3,2:27,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,56,M,B,11153&11056_S.txt,Choosing a patient,A,Sp11wk5,2,4,2:39,3.5,3.5,3.5,3.5,4,3.75,3.5,3.5,3.5,10.75
+Arabic,153,M,A,11153&11056_S.txt,Choosing a patient,A,Sp11wk5,2,4,2:39,3.5,3.5,3.5,3.5,4,3.75,3.5,3.5,3.5,10.75
+Arabic,63,M,B,11063&11143_S.txt,Choosing a patient,A,Sp11wk5,2,5,2:46,3.5,4,3.75,3.5,3.5,3.5,3.5,3,3.25,10.5
+Arabic,143,M,A,11063&11143_S.txt,Choosing a patient,A,Sp11wk5,2,5,2:46,3.5,4,3.75,4,3.5,3.75,3.5,3,3.25,10.75
+Arabic,152,M,B,11336&11152_S.txt,Choosing a patient,A,Sp11wk5,2,6,2:42,3.5,3.5,3.5,3.5,3.5,3.5,3,3,3,10
+Arabic,336,M,A,11336&11152_S.txt,Choosing a patient,A,Sp11wk5,2,6,2:42,3.5,3.5,3.5,3.5,3.5,3.5,3,3,3,10
+Arabic,77,M,B,11077&11532_S.txt,Choosing a patient,A,Sp11wk5,2,7,2:32,3,3.5,3.25,3,3,3,3.5,3.5,3.5,9.75
+Chinese,532,M,A,11077&11532_S.txt,Choosing a patient,A,Sp11wk5,2,7,2:32,3.5,3,3.25,3,3,3,3.5,3.5,3.5,9.75
+Arabic,201,M,B,11201&11584_S.txt,Choosing a patient,A,Sp11wk5,2,8,2:41,3,3,3,3,3,3,3,3,3,9
+Chinese,584,M,A,11201&11584_S.txt,Choosing a patient,A,Sp11wk5,2,8,2:41,3,3,3,3,3,3,3,3,3,9
+Arabic,12,M,A,11238&11012_S.txt,Choosing a patient,A,Sp11wk5,2,9,2:36,3.5,4,3.75,4,3.5,3.75,3,3.5,3.25,10.75
+Arabic,238,M,B,11238&11012_S.txt,Choosing a patient,A,Sp11wk5,2,9,2:36,3.5,4,3.75,4,3.5,3.75,3,3.5,3.25,10.75
+Arabic,202,F,B,11255&11202_S.txt,Choosing a patient,A,Sp11wk5,2,10,2:16,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Arabic,255,M,A,11255&11202_S.txt,Choosing a patient,A,Sp11wk5,2,10,2:16,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,169,F,A,11169&11308_S.txt,Choosing a patient,A,Sp11wk5,2,11,2:40,3.5,3.5,3.25,4,4,4,3.5,3.5,3.5,10.75
+Arabic,308,M,B,11169&11308_S.txt,Choosing a patient,A,Sp11wk5,2,11,2:40,3.5,3.5,3.25,4,4,4,3.5,3.5,3.5,10.75
+Arabic,34,M,A,11278&11034_S.txt,Choosing a patient,A,Sp11wk5,2,12,2:51,3,3.5,3,3,3.5,3.25,3,3.5,3.25,9.5
+Arabic,278,M,B,11278&11034_S.txt,Choosing a patient,A,Sp11wk5,2,12,2:51,3,3.5,3,3,3.5,3.25,3,3.5,3.25,9.5
+Arabic,65,M,A,11065&11277_S.txt,Choosing a patient,A,Sp11wk5,2,13,2:55,3,3,3,3,3,3,3.5,3,3.25,9.25
+Arabic,277,M,B,11065&11277_S.txt,Choosing a patient,A,Sp11wk5,2,13,2:55,3,3,3.5,3,3,3,3.5,3,3.25,9.75
+Arabic,79,M,A,11429&11079_S.txt,Choosing a patient,A,Sp11wk5,2,14,2:50,3.5,3,3.5,3,3,3,3.5,3,3.25,9.75
+Arabic,429,M,B,11429&11079_S.txt,Choosing a patient,A,Sp11wk5,2,14,2:50,3.5,3,3.5,3,3,3,3.5,3,3.25,9.75
+Arabic,255,M,B,11255&11337_S.txt,Choosing a patient,A,Sp11wk5,2,15,3:00,3,2.5,3.75,3,2.5,2.75,3.5,3,3.25,9.75
+Arabic,337,M,A,11255&11337_S.txt,Choosing a patient,A,Sp11wk5,2,15,3:00,3,2.5,3.75,3,2.5,2.75,2.5,2,2.25,8.75
+Chinese,444,M,A,09444&09588_S.txt,Choosing a patient,A,Sp11wk5,2,16,2:04,3,2,2.5,3,3,3,2,2,2,7.5
+Chinese,588,M,B,09444&09588_S.txt,Choosing a patient,A,Sp11wk5,2,16,2:04,3,3,3,3,2,2.5,2,1,1.5,7
+Arabic,208,M,A,11208&11310_S.txt,Choosing a patient,A,Sp11wk5,2,16,2:43,3.5,3.5,3.5,4,4,4,3.5,3,3.25,10.75
+Arabic,310,M,B,11208&11310_S.txt,Choosing a patient,A,Sp11wk5,2,16,2:43,3.5,3.5,3.5,4,4,4,3.5,3,3.25,10.75
+Chinese,442,M,B,11442&11457_S.txt,Choosing a patient,A,Sp11wk5,2,17,2:33,4,3.5,3.25,3,3.5,3.25,4,4,4,10.5
+Chinese,457,M,A,11442&11457_S.txt,Choosing a patient,A,Sp11wk5,2,17,2:33,4,3.5,3.25,3,3.5,3.25,4,4,4,10.5
+Arabic,276,M,A,11276&11411_S.txt,Choosing a patient,A,Sp11wk5,2,18,2:37,4,3.5,3,4,4,4,3.5,3.5,3.5,10.5
+Japanese,411,F,B,11276&11411_S.txt,Choosing a patient,A,Sp11wk5,2,18,2:37,4,3.5,3,4,4,4,3.5,3.5,3.5,10.5
+Arabic,149,M,B,12421&12149_A.txt,Choosing a patient,D,Sp12wk7,2,1,2:57,4,4,4,4,4,4,3,3,3,11
+Arabic,421,M,A,12421&12149_A.txt,Choosing a patient,D,Sp12wk7,2,1,2:57,4,4,4,4,4,4,3,3,3,11
+Chinese,440,F,B,12441&12440_A.txt,Choosing a patient,D,Sp12wk7,2,2,2:44,3,4,3.5,3,3,3,3,2,2.5,9
+Chinese,441,F,A,12441&12440_A.txt,Choosing a patient,D,Sp12wk7,2,2,2:44,3,4,3.5,3,3,3,2,3,2.5,9
+Chinese,356,M,B,12468&12356_A.txt,Choosing a patient,D,Sp12wk7,2,3,3:01,2,2,2,3,3,3,4,4,4,9
+Chinese,468,M,A,12468&12356_A.txt,Choosing a patient,D,Sp12wk7,2,3,3:01,2,2,2,3,3,3,4,4,4,9
+Arabic,241,M,B,12241&12273_A.txt,Choosing a patient,D,Sp12wk7,2,4,2:59,4,4,4,3,3,3,3,3,3,10
+Arabic,273,M,A,12241&12273_A.txt,Choosing a patient,D,Sp12wk7,2,4,2:59,4,4,4,3,3,3,3,3,3,10
+Chinese,530,M,A,12530&12563_A.txt,Choosing a patient,D,Sp12wk7,2,5,4:20,3,3,3,3,3,3,2,2,2,8
+Chinese,563,F,B,12530&12563_A.txt,Choosing a patient,D,Sp12wk7,2,5,4:20,3,3,3,2,3,2.5,3,2,2.5,8
+Arabic,29,M,A,12223&12029_A.txt,Choosing a patient,D,Sp12wk7,2,6,2:14,4,4,4,1,1,1,4,4,4,9
+Arabic,223,M,B,12223&12029_A.txt,Choosing a patient,D,Sp12wk7,2,6,2:14,4,4,4,1,1,1,4,4,4,9
+Japanese,488,F,A,12488&12529_A.txt,Choosing a patient,D,Sp12wk7,2,7,3:07,2,3,2.5,2,2,2,2,2,2,6.5
+Chinese,529,F,B,12488&12529_A.txt,Choosing a patient,D,Sp12wk7,2,7,3:07,2,2,2,2,3,2.5,2,2,2,6.5
+Arabic,115,F,A,12115&12495_A.txt,Choosing a patient,D,Sp12wk7,2,8,4:20,4,4,4,4,4,4,3,3,3,11
+Chinese,495,F,B,12115&12495_A.txt,Choosing a patient,D,Sp12wk7,2,8,4:20,4,4,4,4,4,4,3,3,3,11
+Arabic,26,F,B,12573&12026_A.txt,Choosing a patient,D,Sp12wk7,2,9,3:11,4,4,4,4,4,4,4,3,3.5,11.5
+Chinese,573,F,A,12573&12026_A.txt,Choosing a patient,D,Sp12wk7,2,9,3:11,4,4,4,4,4,4,4,3,3.5,11.5
+Arabic,23,M,B,12284&12023_A.txt,Choosing a patient,D,Sp12wk7,2,10,3:05,4,4,4,4,4,4,3,3,3,11
+Arabic,284,M,A,12284&12023_A.txt,Choosing a patient,D,Sp12wk7,2,10,3:05,4,4,4,4,4,4,3,3,3,11
+Arabic,344,M,A,12344&12374_A.txt,Choosing a patient,D,Sp12wk7,2,11,2:46,3,3,3,2,2,2,3,2,2.5,7.5
+Arabic,374,M,B,12344&12374_A.txt,Choosing a patient,D,Sp12wk7,2,11,2:46,3,3,3,2,2,2,3,2,2.5,7.5
+Chinese,525,M,A,12525&12567_A.txt,Choosing a patient,D,Sp12wk7,2,12,3:13,2,2,2,2,2,2,3,3,3,7
+Chinese,567,F,B,12525&12567_A.txt,Choosing a patient,D,Sp12wk7,2,12,3:13,2,2,2,2,2,2,3,3,3,7
+Chinese,451,F,B,12464&12451_A.txt,Choosing a patient,D,Sp12wk7,2,13,3:09,2,3,2.5,2,2,2,3,3,3,7.5
+Chinese,464,M,A,12464&12451_A.txt,Choosing a patient,D,Sp12wk7,2,13,3:09,2,3,2.5,2,2,2,3,3,3,7.5
+Arabic,370,F,B,12370&12391_A.txt,Choosing a patient,D,Sp12wk7,2,14,2:56,3,3,3,4,4,4,2,2,2,9
+Arabic,391,F,A,12370&12391_A.txt,Choosing a patient,D,Sp12wk7,2,14,2:56,3,3,3,4,4,4,2,2,2,9
+Arabic,132,M,A,12132&12377_A.txt,Choosing a patient,D,Sp12wk7,2,15,3:03,3,3,3,3,3,3,3,3,3,9
+Chinese,377,M,B,12132&12377_A.txt,Choosing a patient,D,Sp12wk7,2,15,3:03,3,3,3,3,3,3,3,3,3,9
+Arabic,406,M,A,12501&12406_A.txt,Choosing a patient,D,Sp12wk7,2,16,2:44,4,4,4,3,3,3,4,4,4,11
+Arabic,501,M,B,12501&12406_A.txt,Choosing a patient,D,Sp12wk7,2,16,2:44,4,4,4,3,3,3,4,4,4,11
+Chinese,512,F,B,12572&12512_A.txt,Choosing a patient,D,Sp12wk7,2,17,4:20,2,2,2,4,4,4,2,2,2,8
+Chinese,572,F,A,12572&12512_A.txt,Choosing a patient,D,Sp12wk7,2,17,4:20,2,2,2,4,4,4,2,2,2,8
+Chinese,401,F,A,12574&12401_A.txt,Choosing a patient,D,Sp12wk7,2,18,3:08,4,4,4,3,3,3,4,4,4,11
+Chinese,574,F,B,12574&12401_A.txt,Choosing a patient,D,Sp12wk7,2,18,3:08,4,4,4,3,3,3,4,4,4,11
+Arabic,224,M,B,11547&11224_S.txt,Choosing a patient,D,Sp12wk7,2,19,2:31,3,3,3.75,3,3,3,3,3,3,9.75
+Chinese,547,M,A,11547&11224_S.txt,Choosing a patient,D,Sp12wk7,2,19,2:31,3,3,3.75,3,3,3,3,3,3,9.75
+Arabic,271,F,A,12271&12381_A.txt,Choosing a patient,D,Sp12wk7,2,19,3:11,4,4,4,4,4,4,4,4,4,12
+Chinese,443,M,B,11443&11515_S.txt,Choosing a patient,D,Sp12wk7,2,20,2:50,3.5,3.5,3.5,3.5,4,3.75,3.5,3.5,3.5,10.75
+Arabic,515,M,A,11443&11515_S.txt,Choosing a patient,D,Sp12wk7,2,20,2:50,3.5,3.5,3.5,4,3.5,3.75,3.5,3.5,3.5,10.75
+Chinese,489,M,B,11554&11489_S.txt,Choosing a patient,D,Sp12wk7,2,21,1:51,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Chinese,554,M,A,11554&11489_S.txt,Choosing a patient,D,Sp12wk7,2,21,1:51,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Portuguese,381,F,B,12271&12381_A.txt,Choosing a patient,D,Sp12wk8,2,19,3:11,4,4,4,4,4,4,4,4,4,12
+Chinese,510,M,B,12510&12544_A.txt,Choosing a patient,C,Sum11wk8,2,20,3:00,4,4,4,4,4,4,4,4,4,12
+Chinese,544,M,A,12510&12544_A.txt,Choosing a patient,C,Sum11wk8,2,20,3:00,4,4,4,4,4,4,4,4,4,12
+Arabic,141,M,B,12141&12313_B.txt,Choosing a patient,C,Sum11wk8,2,21,2:31,4,3,3.5,3,3,3,3,3,3,9.5
+Arabic,313,M,A,12141&12313_B.txt,Choosing a patient,C,Sum11wk8,2,21,2:31,4,3,3.5,3,3,3,3,3,3,9.5
+Arabic,102,M,B,12102&12474_B.txt,Choosing a patient,C,Sum11wk8,2,22,3:00,4,4,4,4,4,4,4,4,4,12
+Arabic,474,M,A,12102&12474_B.txt,Choosing a patient,C,Sum11wk8,2,22,3:00,4,4,4,4,4,4,4,4,4,12
+Arabic,58,M,A,12162&12058_B.txt,Choosing a patient,C,Sum11wk8,2,23,3:07,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,162,M,B,12162&12058_B.txt,Choosing a patient,C,Sum11wk8,2,23,3:07,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,37,M,A,12037&12246_B.txt,Choosing a patient,C,Sum11wk8,2,24,2:58,3,3,3,3,3,3,3,3,3,9
+Arabic,246,M,B,12037&12246_B.txt,Choosing a patient,C,Sum11wk8,2,24,2:58,3,3,3,3,3,3,3,3,3,9
+Chinese,376,F,A,12376&12380_B.txt,Choosing a patient,C,Sum11wk8,2,25,2:43,3,3,3,2,2,2,3,3,3,8
+Chinese,380,M,B,12376&12380_B.txt,Choosing a patient,C,Sum11wk8,2,25,2:43,3,3,3,2,2,2,3,3,3,8
+Arabic,126,M,B,12375&12126_B.txt,Choosing a patient,C,Sum11wk8,2,26,3:03,2,2,2,1,2,1.5,3,3,3,6.5
+Arabic,375,M,A,12375&12126_B.txt,Choosing a patient,C,Sum11wk8,2,26,3:03,2,2,2,2,1,1.5,3,3,3,6.5
+Arabic,373,M,A,12373&12521_B.txt,Choosing a patient,C,Sum11wk8,2,27,3:08,2,2,2,2,2,2,2,2,2,6
+Arabic,521,M,B,12373&12521_B.txt,Choosing a patient,C,Sum11wk8,2,27,3:08,2,2,2,2,2,2,2,2,2,6
+Arabic,264,F,B,12465&12264_B.txt,Choosing a patient,C,Sum11wk8,2,28,3:08,4,4,4,3,3,3,4,4,4,11
+Chinese,465,F,A,12465&12264_B.txt,Choosing a patient,C,Sum11wk8,2,28,3:08,4,4,4,3,3,3,4,4,4,11
+Arabic,335,F,B,12430&12335_B.txt,Choosing a patient,C,Sum11wk8,2,29,3:03,3,2,2.5,2,2,2,2,1,1.5,6
+Arabic,430,M,A,12430&12335_B.txt,Choosing a patient,C,Sum11wk8,2,29,3:03,3,2,2.5,2,2,2,2,1,1.5,6
+Arabic,134,F,A,12372&12134_B.txt,Choosing a patient,C,Sum11wk8,2,30,3:12,4,4,4,2,2,2,2,2,2,8
+Arabic,372,F,B,12372&12134_B.txt,Choosing a patient,C,Sum11wk8,2,30,3:12,4,4,4,2,2,2,2,2,2,8
+Arabic,186,M,A,12187&12186_B.txt,Choosing a patient,C,Sum11wk8,2,31,3:03,3,3,3,3,3,3,3,3,3,9
+Arabic,187,M,B,12187&12186_B.txt,Choosing a patient,C,Sum11wk8,2,31,3:03,3,3,3,3,3,3,3,3,3,9
+Arabic,492,M,B,12492&12506_B.txt,Choosing a patient,C,Sum11wk8,2,32,3:01,3,3,3,3,3,3,3,3,3,9
+Arabic,506,M,A,12492&12506_B.txt,Choosing a patient,C,Sum11wk8,2,32,3:01,3,3,3,3,3,3,3,3,3,9
+Arabic,116,M,A,12116&12195_B.txt,Choosing a patient,C,Sum11wk8,2,33,3:01,4,4,4,3,3,3,3,3,3,10
+Arabic,195,M,B,12116&12195_B.txt,Choosing a patient,C,Sum11wk8,2,33,3:01,4,4,4,3,3,3,3,3,3,10
+Arabic,273,M,B,05203&05273_A.txt,Choosing extreme sport,S,Sp10wk5,1,2,3:00,1,1,1,3,3,2.5,4,4,4,7.5
+Arabic,421,M,A,05421&05440_A.txt,Choosing extreme sport,S,Sp12wk14,1,3,3:10,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,440,F,B,05421&05440_A.txt,Choosing extreme sport,S,Sp12wk14,1,3,3:10,3,3,3,3,3,2.5,2,2,2,7.5
+Arabic,302,M,B,05470&05302_A.txt,Choosing extreme sport,S,Sp12wk14,1,4,2:40,4,4,4,4,4,3,4,4,4,11
+Arabic,470,M,A,05470&05302_A.txt,Choosing extreme sport,S,Sp12wk14,1,4,2:40,4,4,4,4,4,3,4,4,4,11
+Arabic,406,M,B,05406&05572_A.txt,Choosing extreme sport,S,Sp12wk14,1,5,3:18,3,3,3,4,4,3,4,4,4,10
+Chinese,572,F,A,05406&05572_A.txt,Choosing extreme sport,S,Sp12wk14,1,5,3:18,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,391,F,B,05503&05391_A.txt,Choosing extreme sport,S,Sp12wk14,1,6,3:38,4,4,4,4,4,3,4,4,4,11
+Arabic,503,F,A,05503&05391_A.txt,Choosing extreme sport,S,Sp12wk14,1,6,3:38,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,105,M,A,05222&05105_A.txt,Choosing extreme sport,S,Sp12wk14,1,7,3:03,3,3,3,4,4,3,3,3,3,9
+Arabic,222,M,B,05222&05105_A.txt,Choosing extreme sport,S,Sp12wk14,1,7,3:03,3,3,3,4,4,3,3,3,3,9
+Arabic,126,M,A,05126&05148_A.txt,Choosing extreme sport,S,Sp12wk14,1,8,2:36,2,2,2,1,2,1.5,2,2,2,5.5
+Arabic,148,M,B,05126&05148_A.txt,Choosing extreme sport,S,Sp12wk14,1,8,2:36,2,2,2,1,1,1.5,2,1,1.5,5
+Arabic,114,M,B,05563&05114_A.txt,Choosing extreme sport,S,Sp12wk14,1,9,3:04,1,1,1,2,2,2,2,2,2,5
+Chinese,563,F,A,05563&05114_A.txt,Choosing extreme sport,S,Sp12wk14,1,9,3:04,1,1,1,1,1,1.5,1,1,1,3.5
+Arabic,304,M,A,05304&05573_A.txt,Choosing extreme sport,S,Sp12wk14,1,10,3:04,3,3,3,2,2,2,3,3,3,8
+Chinese,573,F,B,05304&05573_A.txt,Choosing extreme sport,S,Sp12wk14,1,10,3:04,3,3,3,2,2,2,3,3,3,8
+Chinese,376,F,A,05376&05544_A.txt,Choosing extreme sport,S,Sp12wk14,1,11,3:01,2,2,2,3,2,2.5,3,1,2,6.5
+Chinese,544,M,B,05376&05544_A.txt,Choosing extreme sport,S,Sp12wk14,1,11,3:01,2,3,2.5,2,3,2,1,3,2,6.5
+Japanese,488,F,A,05488&05529_A.txt,Choosing extreme sport,S,Sp12wk14,1,12,2:56,3,3,3,4,4,3,3,3,3,9
+Chinese,529,F,B,05488&05529_A.txt,Choosing extreme sport,S,Sp12wk14,1,12,2:56,3,3,3,4,4,3,4,4,4,10
+Korean,426,F,A,05426&05456_A.txt,Choosing extreme sport,S,Sp12wk14,1,13,1:41,4,4,4,3,3,2.5,3,4,3.5,10
+Chinese,456,M,B,05426&05456_A.txt,Choosing extreme sport,S,Sp12wk14,1,13,1:41,4,4,4,1,1,1.5,1,1,1,6.5
+Arabic,149,M,B,05495&05149_A.txt,Choosing extreme sport,S,Sp12wk14,1,14,3:13,4,4,4,2,2,2,4,4,4,10
+Chinese,495,F,A,05495&05149_A.txt,Choosing extreme sport,S,Sp12wk14,1,14,3:13,4,4,4,2,2,2,4,4,4,10
+Arabic,93,M,A,05170&05093_A.txt,Choosing extreme sport,S,Sp12wk14,1,15,3:01,4,4,4,4,4,3,4,4,4,11
+Arabic,170,M,B,05170&05093_A.txt,Choosing extreme sport,S,Sp12wk14,1,15,3:01,4,4,4,4,4,3,4,4,4,11
+Arabic,115,F,A,05115&05530_A.txt,Choosing extreme sport,S,Sp12wk14,1,16,3:06,4,4,4,3,3,2.5,4,4,4,10.5
+Chinese,530,M,B,05115&05530_A.txt,Choosing extreme sport,S,Sp12wk14,1,16,3:06,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,395,M,B,05395&05400_A.txt,Choosing extreme sport,S,Sp12wk14,1,17,2:30,0,0,0,0,0,1,0,0,0,1
+Chinese,400,M,A,05395&05400_A.txt,Choosing extreme sport,S,Sp12wk14,1,17,2:30,1,1,1,3,3,2.5,2,3,2.5,6
+Chinese,464,M,B,05464&05525_A.txt,Choosing extreme sport,S,Sp12wk14,1,18,3:00,2,2,2,3,3,2.5,3,3,3,7.5
+Chinese,525,M,A,05464&05525_A.txt,Choosing extreme sport,S,Sp12wk14,1,18,3:00,2,2,2,3,3,2.5,2,3,2.5,7
+Arabic,150,M,B,05374&05150_A.txt,Choosing extreme sport,S,Sp12wk14,1,19,3:02,4,4,4,3,3,2.5,4,3,3.5,10
+Arabic,374,M,A,05374&05150_A.txt,Choosing extreme sport,S,Sp12wk14,1,19,3:02,4,4,4,3,3,2.5,3,4,3.5,10
+Arabic,66,M,B,23541&23066_B.txt,Crime & economy,S,Sp10wk9,3,18,2:06,3.5,4,3.75,3.5,3.5,3.5,3.5,4,3.75,11
+Chinese,541,F,A,23541&23066_B.txt,Crime & economy,S,Sp10wk9,3,18,2:06,3.5,4,3.75,3.5,3.5,3.5,3.5,4,3.75,11
+Arabic,268,M,A,23268&23431_B.txt,Crime & economy,S,Sp10wk9,3,19,2:05,3.5,4,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,431,M,B,23268&23431_B.txt,Crime & economy,S,Sp10wk9,3,19,2:05,3.5,4,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,36,M,A,23100&23036_B.txt,Crime & economy,S,Sp10wk9,3,20,2:10,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,100,M,B,23100&23036_B.txt,Crime & economy,S,Sp10wk9,3,20,2:10,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,111,M,A,23295&23111_B.txt,Crime & economy,S,Sp10wk9,3,21,2:10,3.5,3.5,3.5,3,3.5,3.25,3,3.5,3.25,10
+Arabic,295,M,B,23295&23111_B.txt,Crime & economy,S,Sp10wk9,3,21,2:10,3,3.5,3.25,3.5,3.5,3.5,3,3.5,3.25,10
+Arabic,282,F,B,23498&23282_B.txt,Crime & economy,S,Sp10wk9,3,22,2:15,4,4,4,4,4,4,4,4,4,12
+Arabic,498,F,A,23498&23282_B.txt,Crime & economy,S,Sp10wk9,3,22,2:15,4,4,4,4,4,4,4,4,4,12
+Arabic,145,F,B,23145&23408_B.txt,Crime & economy,S,Sp10wk9,3,23,2:10,3.5,3.5,3.5,4,4,4,3.5,3.5,3.5,11
+Arabic,408,F,A,23145&23408_B.txt,Crime & economy,S,Sp10wk9,3,23,2:10,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,32,M,A,23032&23082_B.txt,Crime & economy,S,Sp10wk9,3,24,2:00,3.5,3,3.25,3,3,3,3,3,3,9.25
+Arabic,82,M,B,23032&23082_B.txt,Crime & economy,S,Sp10wk9,3,24,2:00,3.5,3,3.25,3,3,3,3,3,3,9.25
+Arabic,61,M,A,23061&23200_B.txt,Crime & economy,S,Sp10wk9,3,25,1:59,4,4,4,4,4,4,4,4,4,12
+Arabic,200,M,B,23061&23200_B.txt,Crime & economy,S,Sp10wk9,3,25,1:59,4,4,4,4,4,4,4,4,4,12
+Arabic,39,M,A,23073&23039_B.txt,Crime & economy,S,Sp10wk9,3,26,2:15,4,4,4,4,4,4,4,4,4,12
+Arabic,73,M,B,23073&23039_B.txt,Crime & economy,S,Sp10wk9,3,26,2:15,4,4,4,4,4,4,4,4,4,12
+Arabic,296,M,B,23296&23540_B.txt,Crime & economy,S,Sp10wk9,3,27,2:15,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Chinese,540,F,A,23296&23540_B.txt,Crime & economy,S,Sp10wk9,3,27,2:15,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Arabic,119,M,A,23119&23326_B.txt,Crime & economy,S,Sp10wk9,3,28,1:57,3.5,3.5,3.5,4,3.5,3.75,3.5,3.5,3.5,10.75
+Arabic,326,M,B,23119&23326_B.txt,Crime & economy,S,Sp10wk9,3,28,1:57,3.5,3.5,3.5,4,3.5,3.75,3.5,3.5,3.5,10.75
+Arabic,13,M,A,23013&23472_B.txt,Crime & economy,S,Sp10wk9,3,29,2:08,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,472,M,B,23013&23472_B.txt,Crime & economy,S,Sp10wk9,3,29,2:08,3.5,3.5,3.5,3,3,3,3,3,3,9.5
+Arabic,123,M,B,23225&23123_B.txt,Crime & economy,S,Sp10wk9,3,30,2:00,3.5,4,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,225,M,A,23225&23123_B.txt,Crime & economy,S,Sp10wk9,3,30,2:00,3.5,3.5,3.5,3.5,4,3.75,3.5,3.5,3.5,10.75
+Arabic,129,M,A,23199&23129_B.txt,Crime Statistics,A,F09wk10,3,31,2:06,3.5,4,3.75,3,4,3.5,4,4,4,11.25
+Arabic,199,M,B,23199&23129_B.txt,Crime Statistics,A,F09wk10,3,31,2:06,3.5,4,3.75,4,4,4,4,4,4,11.75
+Arabic,92,M,B,23575&23092_B.txt,Crime Statistics,A,F09wk10,3,32,2:06,4,4,4,3,3,3,3.5,3.5,3.5,10.5
+Chinese,575,M,A,23575&23092_B.txt,Crime Statistics,A,F09wk10,3,32,2:06,4,4,4,3,3,3,3.5,3.5,3.5,10.5
+Arabic,215,M,A,23218&23215_B.txt,Crime Statistics,A,F09wk10,3,33,2:10,4,3.5,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,218,M,B,23218&23215_B.txt,Crime Statistics,A,F09wk10,3,33,2:10,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,96,M,B,23153&23096_B.txt,Crime Statistics,A,F09wk10,3,34,2:34,2,2,2,2.5,3,2.75,2.5,2.5,2.5,7.25
+Arabic,153,M,A,23153&23096_B.txt,Crime Statistics,A,F09wk10,3,34,2:34,2,2,2,2.5,3,2.75,2.5,2.5,2.5,7.25
+Arabic,148,M,B,23148&23512_A.txt,Crime Statistics,A,F09wk10,3,35,3:04,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Chinese,512,F,A,23148&23512_A.txt,Crime Statistics,A,F09wk10,3,35,3:04,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,149,M,A,23470&23149_A.txt,Crime Statistics,A,F09wk10,3,36,3:07,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,470,M,B,23470&23149_A.txt,Crime Statistics,A,F09wk10,3,36,3:07,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,305,M,B,23349&23305_A.txt,Crime Statistics,A,F09wk10,3,37,3:00,4,4,4,4,3.5,3.75,3.5,4,3.75,11.5
+Chinese,349,F,A,23349&23305_A.txt,Crime Statistics,A,F09wk10,3,37,3:00,4,4,4,4,3.5,3.75,3.5,4,3.75,11.5
+Arabic,241,M,B,23587&23241_A.txt,Crime Statistics,A,F09wk10,3,38,2:53,3.5,4,3.75,3.5,3.5,3.5,4,4,4,11.25
+Chinese,587,F,A,23587&23241_A.txt,Crime Statistics,A,F09wk10,3,38,2:53,3.5,4,3.75,3.5,3.5,3.5,4,4,4,11.25
+Arabic,117,M,B,23565&23117_A.txt,Crime Statistics,A,F09wk10,3,39,2:47,3.5,4,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Chinese,565,M,A,23565&23117_A.txt,Crime Statistics,A,F09wk10,3,39,2:47,3.5,4,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Arabic,322,M,A,23322&23403_A.txt,Crime Statistics,A,F09wk10,3,40,3:01,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Chinese,403,M,B,23322&23403_A.txt,Crime Statistics,A,F09wk10,3,40,3:01,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,158,M,B,23158&23166_A.txt,Crime Statistics,A,F09wk10,3,41,3:12,4,4,4,4,4,4,4,4,4,12
+Arabic,166,M,A,23158&23166_A.txt,Crime Statistics,A,F09wk10,3,41,3:12,4,4,4,4,4,4,4,4,4,12
+Arabic,8,M,A,23144&23008_A.txt,Crime Statistics,A,F09wk10,3,42,3:04,4,4,4,3,3,3,3,2,2.5,9.5
+Arabic,144,M,B,23144&23008_A.txt,Crime Statistics,A,F09wk10,3,42,3:04,4,4,4,3,3,3,3,2,2.5,9.5
+Arabic,175,M,A,23258&23175_A.txt,Crime Statistics,A,F09wk10,3,43,1:49,1,1,1,2,2,2,2,2,2,5
+Arabic,258,M,B,23258&23175_A.txt,Crime Statistics,A,F09wk10,3,43,1:49,1,1,1,2,2,2,2,2,2,5
+Arabic,77,M,A,23385&23077_A.txt,Crime Statistics,B,Su10wk5,3,44,3:04,3,3,3,3,3,3,3,3,3,9
+Arabic,385,M,B,23385&23077_A.txt,Crime Statistics,B,Su10wk5,3,44,3:04,3,3,3,3,3,3,3,3,3,9
+Arabic,310,M,A,23436&23310_A.txt,Crime Statistics,B,Su10wk5,3,45,2:15,1,1,1,1,1,1,2,2,2,4
+Korean,436,F,B,23436&23310_A.txt,Crime Statistics,B,Su10wk5,3,45,2:15,1,1,1,1,1,1,2,2,2,4
+Arabic,205,M,B,23205&23490_A.txt,Crime Statistics,B,Su10wk5,3,46,2:29,2,2,2,3,3,3,3,3,3,8
+Arabic,490,F,A,23205&23490_A.txt,Crime Statistics,B,Su10wk5,3,46,2:29,2,2,2,3,3,3,3,3,3,8
+Arabic,55,M,A,23055&23212_A.txt,Crime Statistics,B,Su10wk5,3,47,3:06,2,2,2,2,2,2,3,3,3,7
+Arabic,212,M,B,23055&23212_A.txt,Crime Statistics,B,Su10wk5,3,47,3:06,2,2,2,2,2,2,3,3,3,7
+Arabic,161,M,A,13303&13161_S.txt,Election,A,F11wk5,2,1,1:16,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,303,M,B,13303&13161_S.txt,Election,A,F11wk5,2,1,1:16,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,185,M,B,13210&13185_S.txt,Election,A,F11wk5,2,2,1:55,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,210,M,A,13210&13185_S.txt,Election,A,F11wk5,2,2,1:55,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,312,M,B,13312&13320_S.txt,Election,A,F11wk5,2,3,1:25,3.5,3.5,3.5,3,3,3,3.5,3.5,3.5,10
+Arabic,320,M,A,13312&13320_S.txt,Election,A,F11wk5,2,3,1:25,3.5,3.5,3.5,3,3,3,3.5,3.5,3.5,10
+Arabic,84,M,A,13084&13229_S.txt,Election,A,F11wk5,2,4,1:36,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,229,M,B,13084&13229_S.txt,Election,A,F11wk5,2,4,1:36,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,172,M,B,13172&13174_S.txt,Election,A,F11wk5,2,5,2:03,3.5,3.5,3.5,2.5,3,2.75,3.5,3.5,3.5,9.75
+Arabic,174,M,A,13172&13174_S.txt,Election,A,F11wk5,2,5,2:03,3.5,3.5,3.5,2.5,3,2.75,3.5,3.5,3.5,9.75
+Arabic,129,M,A,13129&13263_S.txt,Election,A,F11wk5,2,6,1:40,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,263,M,B,13129&13263_S.txt,Election,A,F11wk5,2,6,1:40,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,168,F,B,13347&13168_S.txt,Election,A,F11wk5,2,7,1:47,3.5,3.5,3.5,3,3,3,3,3,3,9.5
+Pashto,347,F,A,13347&13168_S.txt,Election,A,F11wk5,2,7,1:47,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,6,M,B,13006&13551_S.txt,Election,A,F11wk5,2,8,1:03,2.5,2.5,2.5,2.5,2.5,2.5,3.5,3.5,3.5,8.5
+Arabic,551,M,A,13006&13551_S.txt,Election,A,F11wk5,2,8,1:03,2.5,2.5,2.5,2.5,2.5,2.5,3,3,3,8
+Arabic,9,F,A,13352&13009_S.txt,Election,A,F11wk5,2,9,2:12,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,352,F,B,13352&13009_S.txt,Election,A,F11wk5,2,9,2:12,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,127,M,A,13127&13235_S.txt,Election,A,F11wk5,2,10,1:44,3.5,3.5,3.5,4,4,4,4,4,4,11.5
+Arabic,235,M,B,13127&13235_S.txt,Election,A,F11wk5,2,10,1:44,3.5,3.5,3.5,4,4,4,4,4,4,11.5
+Arabic,44,F,B,13044&13178_S.txt,Election,A,F11wk5,2,11,1:47,3.5,3,3.25,3.5,3,3.25,3.5,3.5,3.5,10
+Arabic,178,M,A,13044&13178_S.txt,Election,A,F11wk5,2,11,1:47,3.5,3,3.25,3,3.5,3.25,3.5,3.5,3.5,10
+Arabic,68,M,B,13068&13309_S.txt,Election,A,F11wk5,2,12,1:58,4,4,4,3.5,3.5,3.5,4,3.5,3.75,11.25
+Arabic,309,M,A,13068&13309_S.txt,Election,A,F11wk5,2,12,1:58,4,4,4,3.5,3.5,3.5,3.5,4,3.75,11.25
+Arabic,314,M,B,13409&13314_S.txt,Election,A,F11wk5,2,13,2:07,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,409,F,A,13409&13314_S.txt,Election,A,F11wk5,2,13,2:07,4,4,4,3.5,3.5,3.5,4,3.5,3.75,11.25
+Arabic,62,M,B,13062&13483_S.txt,Election,A,F11wk5,2,14,1:07,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,483,M,A,13062&13483_S.txt,Election,A,F11wk5,2,14,1:07,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,74,M,B,13182&13074_S.txt,Election,A,F11wk5,2,15,1:44,3.5,3.5,3.5,4,4,4,4,4,4,11.5
+Arabic,182,M,A,13182&13074_S.txt,Election,A,F11wk5,2,15,1:44,3.5,3.5,3.5,4,4,4,4,4,4,11.5
+Arabic,340,M,A,13340&13481_S.txt,Election,A,F11wk5,2,16,2:32,4,4,4,4,3.5,3.75,4,4,4,11.75
+Arabic,481,M,B,13340&13481_S.txt,Election,A,F11wk5,2,16,2:32,4,4,4,4,3.5,3.75,4,4,4,11.75
+Arabic,89,M,B,12089&12365_B.txt,Election,A,F11wk5,2,34,3:15,2,2,2,2,2,2,2,2,2,6
+Chinese,365,F,A,12089&12365_B.txt,Election,A,F11wk5,2,34,3:15,2,2,2,2,2,2,2,2,2,6
+Chinese,177,M,A,12564&12177_B.txt,Election,A,F11wk5,2,35,3:07,2,2,2,3,3,3,2,3,2.5,7.5
+Chinese,564,M,B,12564&12177_B.txt,Election,A,F11wk5,2,35,3:07,2,2,2,3,3,3,3,2,2.5,7.5
+Arabic,94,M,A,12316&12094_B.txt,Election,A,F11wk5,2,36,2:49,2,2,2,3,3,3,3,2,2.5,7.5
+Arabic,316,M,B,12316&12094_B.txt,Election,A,F11wk5,2,36,2:49,2,2,2,3,3,3,3,2,2.5,7.5
+Arabic,150,M,B,12283&12150_B.txt,Election,A,F11wk5,2,37,3:05,2,2,2,2,2,2,1,1,1,5
+Arabic,283,M,A,12283&12150_B.txt,Election,A,F11wk5,2,37,3:05,2,2,2,2,2,2,1,1,1,5
+Chinese,545,F,A,14568&14545_S.txt,Election,B,Sum11wk5,2,1,0.12,3.5,3.5,3.5,4,3.5,3.75,3,3,3,10.25
+Chinese,568,M,B,14568&14545_S.txt,Election,B,Sum11wk5,2,1,0.12,4,3.5,3.75,3.5,3.5,3.5,3,3,3,10.25
+Arabic,38,M,A,15038&15270_S.txt,Election,B,Sum11wk5,2,1,3:02,4,4,4,3,2,2.5,3,3,3,9.5
+Arabic,270,M,B,15038&15270_S.txt,Election,B,Sum11wk5,2,1,3:02,4,4,4,3,3,3,3,2,2.5,9.5
+Japanese,484,F,B,14484&14494_S.txt,Election,B,Sum11wk5,2,2,0.13,3.5,3.5,3.5,2.5,2.5,2.5,3,3,3,9
+Chinese,494,M,A,14484&14494_S.txt,Election,B,Sum11wk5,2,2,0.13,3.5,3.5,3.5,2.5,2.5,2.5,3,3,3,9
+Arabic,159,M,A,15159&15189_S.txt,Election,B,Sum11wk5,2,2,3:31,3,4,3.5,4,4,4,3,4,3.5,11
+Arabic,189,M,B,15159&15189_S.txt,Election,B,Sum11wk5,2,2,3:31,3,4,3.5,4,4,4,3,4,3.5,11
+Chinese,386,M,A,14386&14536_S.txt,Election,B,Sum11wk5,2,3,0.12,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Chinese,536,M,B,14386&14536_S.txt,Election,B,Sum11wk5,2,3,0.12,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Chinese,405,F,B,14561&14405_S.txt,Election,B,Sum11wk5,2,4,0.13,3.5,3.5,3.5,4,4,4,3.5,3.5,3.5,11
+Chinese,561,M,A,14561&14405_S.txt,Election,B,Sum11wk5,2,4,0.13,3.5,3.5,3.5,4,4,4,3.5,3.5,3.5,11
+Chinese,467,M,B,14513&14467_S.txt,Election,B,Sum11wk5,2,5,0.13,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Chinese,513,F,A,14513&14467_S.txt,Election,B,Sum11wk5,2,5,0.13,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Chinese,418,F,A,14418&14458_S.txt,Election,B,Sum11wk5,2,6,0.12,3.5,3.5,3.5,3,3.5,3.25,3,3.5,3.25,10
+Chinese,458,F,B,14418&14458_S.txt,Election,B,Sum11wk5,2,6,0.12,3.5,3.5,3.5,3,3.5,3.25,3,3.5,3.25,10
+Arabic,160,F,B,14342&14160_S.txt,Election,B,Sum11wk5,2,7,0.13,3.5,4,3.75,4,4,4,3,3,3,10.75
+Arabic,342,M,A,14342&14160_S.txt,Election,B,Sum11wk5,2,7,0.13,3.5,4,3.75,3.5,4,3.75,3.5,3,3.25,10.75
+Chinese,383,F,A,14533&14383_S.txt,Election,B,Sum11wk5,2,8,0.13,3,3,3,2.5,2.5,2.5,3.5,3.5,3.5,9
+Chinese,533,M,B,14533&14383_S.txt,Election,B,Sum11wk5,2,8,0.13,3,3,3,2.5,2.5,2.5,3.5,3.5,3.5,9
+Chinese,384,F,A,14384&14576_S.txt,Election,B,Sum11wk5,2,9,0.13,4,4,4,4,4,4,4,4,4,12
+Chinese,576,F,B,14384&14576_S.txt,Election,B,Sum11wk5,2,9,0.13,4,4,4,4,4,4,4,4,4,12
+Japanese,427,F,B,14469&14427_S.txt,Election,B,Sum11wk5,2,10,0.14,3.5,3.5,3.5,3,2.5,2.75,3.5,3.5,3.5,9.75
+Chinese,469,M,A,14469&14427_S.txt,Election,B,Sum11wk5,2,10,0.14,3.5,3.5,3.5,3,2.5,2.75,3.5,3.5,3.5,9.75
+Chinese,367,F,B,14526&14367_S.txt,Election,B,Sum11wk5,2,11,0.13,3.5,3,3.25,3,3,3,3,3,3,9.25
+Chinese,526,F,A,14526&14367_S.txt,Election,B,Sum11wk5,2,11,0.13,3.5,3,3.25,3,3,3,3,3,3,9.25
+Chinese,509,F,A,14509&14534_S.txt,Election,B,Sum11wk5,2,12,0.11,3.5,3.5,3.5,3,2.5,2.75,3,3.5,3.25,9.5
+Chinese,534,M,B,14509&14534_S.txt,Election,B,Sum11wk5,2,12,0.11,3.5,3.5,3.5,3,2.5,2.75,3,3.5,3.25,9.5
+Chinese,432,F,A,14432&14568_S.txt,Election,B,Sum11wk5,2,13,0.12,4,3.5,3.75,3.5,3.5,3.5,3,3,3,10.25
+Chinese,568,M,B,14432&14568_S.txt,Election,B,Sum11wk5,2,13,0.12,4,3.5,3.75,3.5,3.5,3.5,3,3,3,10.25
+Arabic,229,M,B,13345&13229_S.txt,Election,B,Sum11wk5,2,17,1:09,4,4,4,4,4,4,4,4,4,12
+Arabic,345,F,A,13345&13229_S.txt,Election,B,Sum11wk5,2,17,1:09,4,4,4,4,4,4,4,4,4,12
+Arabic,78,M,A,13362&13078_S.txt,Election,B,Sum11wk5,2,18,1:19,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,362,M,B,13362&13078_S.txt,Election,B,Sum11wk5,2,18,1:19,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,201,M,B,04238&04201_C.txt,Extreme Sports,S,F09wk5,1,43,2:41,4,4,4,3,3,3,4,4,4,11
+Arabic,238,M,A,04238&04201_C.txt,Extreme Sports,S,F09wk5,1,43,2:41,4,4,4,3,3,3,4,4,4,11
+Arabic,157,M,B,04202&04157_C.txt,Extreme Sports,S,F09wk5,1,44,2:41,3,3,3,3,3,3,3,3,3,9
+Arabic,202,F,A,04202&04157_C.txt,Extreme Sports,S,F09wk5,1,44,2:41,3,3,3,3,3,3,3,3,3,9
+Arabic,252,M,A,04252&04308_C.txt,Extreme Sports,S,F09wk5,1,45,2:41,2,2,2,2,3,2.5,2,2,2,6.5
+Arabic,308,M,B,04252&04308_C.txt,Extreme Sports,S,F09wk5,1,45,2:41,2,2,2,3,2,2.5,2,2,2,6.5
+Arabic,34,M,A,04034&04307_C.txt,Extreme Sports,S,F09wk5,1,46,2:25,2,2,2,3,4,3.5,3,3,3,8.5
+Arabic,307,M,B,04034&04307_C.txt,Extreme Sports,S,F09wk5,1,46,2:25,2,2,2,4,3,3.5,3,3,3,8.5
+Arabic,66,M,B,04255&04066_C.txt,Extreme Sports,S,F09wk5,1,47,1:56,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,255,M,A,04255&04066_C.txt,Extreme Sports,S,F09wk5,1,47,1:56,4,4,4,4,3,3.5,3,3,3,10.5
+Arabic,153,M,B,04208&04153_C.txt,Extreme Sports,S,F09wk5,1,48,2:24,1,2,1.5,2,2,2,2,3,2.5,6
+Arabic,208,M,A,04208&04153_C.txt,Extreme Sports,S,F09wk5,1,48,2:24,1,2,1.5,2,2,2,2,1,1.5,5
+Arabic,288,M,A,04288&04291_A.txt,Extreme Sports,S,F09wk5,1,49,1:13,4,4,4,4,4,4,4,4,4,12
+Arabic,291,M,B,04288&04291_A.txt,Extreme Sports,S,F09wk5,1,49,1:13,3,2.5,2.75,3,3.5,3.25,2.5,2.5,2.5,8.5
+Arabic,228,M,B,04594&04228_A.txt,Extreme Sports,S,F09wk5,1,50,1:14,4,3.5,3.75,4,3.5,3.75,3.5,3.5,3.5,11
+Arabic,594,F,A,04594&04228_A.txt,Extreme Sports,S,F09wk5,1,50,1:14,4,3.5,3.75,4,4,4,4,3.5,3.75,11.5
+Arabic,98,M,B,04318&04098_A.txt,Extreme Sports,S,F09wk5,1,51,2:04,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,318,M,A,04318&04098_A.txt,Extreme Sports,S,F09wk5,1,51,2:04,4,4,4,4,4,4,4,4,4,12
+Arabic,283,M,B,05313&05283_A.txt,Extreme Sports,S,Sp10wk5,1,1,3:25,3,3,3,2,2,2,2,2,2,7
+Arabic,313,M,A,05313&05283_A.txt,Extreme Sports,S,Sp10wk5,1,1,3:25,3,3,3,2,2,2,3,3,3,8
+Arabic,203,M,A,05203&05273_A.txt,Extreme Sports,S,Sp10wk5,1,2,3:00,1,1,1,3,3,2.5,3,3,3,6.5
+Arabic,50,M,A,04050&04505_A.txt,Extreme Sports,S,Sp10wk5,1,52,1:58,3.5,4,3.75,4,3.5,3.75,4,4,4,11.5
+Arabic,505,M,B,04050&04505_A.txt,Extreme Sports,S,Sp10wk5,1,52,1:58,3.5,4,3.75,3.5,4,3.75,4,3.5,3.75,11.25
+Arabic,247,M,B,04247&04331_A.txt,Extreme Sports,S,Sp10wk5,1,53,1:05,4,3.5,3.75,3,3,3,2.5,2.5,2.5,9.25
+Arabic,331,M,A,04247&04331_A.txt,Extreme Sports,S,Sp10wk5,1,53,1:05,4,3.5,3.75,3.5,3.5,3.5,3,2.5,2.75,10
+Arabic,150,M,B,04150&04298_A.txt,Extreme Sports,S,Sp10wk5,1,54,1:34,3.5,3,3.25,2.5,3,2.75,2.5,2.5,2.5,8.5
+Arabic,298,M,A,04150&04298_A.txt,Extreme Sports,S,Sp10wk5,1,54,1:34,3.5,3,3.25,2.5,3,2.75,2.5,2.5,2.5,8.5
+Arabic,113,M,B,04179&04113_A.txt,Extreme Sports,S,Sp10wk5,1,55,1:37,3.5,3.5,3.5,3,3.5,3.25,2.5,3,2.75,9.5
+Arabic,179,M,A,04179&04113_A.txt,Extreme Sports,S,Sp10wk5,1,55,1:37,4,3.5,3.75,3.5,3,3.25,3,3,3,10
+Arabic,67,M,A,04067&04095_A.txt,Extreme Sports,S,Sp10wk5,1,56,1:02,3.5,3,3.25,3.5,3.5,3.5,2.5,2.5,2.5,9.25
+Arabic,95,M,B,04067&04095_A.txt,Extreme Sports,S,Sp10wk5,1,56,1:02,3,2.5,2.75,2.5,2.5,2.5,2.5,2.5,2.5,7.75
+Arabic,219,M,A,15487&15219_S.txt,Hiring,S,F09wk10,2,3,2:15,3,3,3,3,3,3,4,4,4,10
+Arabic,487,?,B,15487&15219_S.txt,Hiring,S,F09wk10,2,3,2:15,3,3,3,3,3,3,4,4,4,10
+Arabic,322,M,B,15349&15322_S.txt,Hiring,S,F09wk10,2,4,2:11,3,3,3,2,2,2,3,2,2.5,7.5
+Chinese,349,F,A,15349&15322_S.txt,Hiring,S,F09wk10,2,4,2:11,3,3,3,2,2,2,3,2,2.5,7.5
+Chinese,358,F,A,15358&15447_S.txt,Hiring,S,F09wk10,2,5,3:24,3,3,3,4,4,4,3,3,3,10
+Chinese,447,M,B,15358&15447_S.txt,Hiring,S,F09wk10,2,5,3:24,3,3,3,4,4,4,3,3,3,10
+Chinese,578,M,A,15578&15579_S.txt,Hiring,S,F09wk10,2,6,3:22,3,3,3,3,2,2.5,3,3,3,8.5
+Chinese,579,M,B,15578&15579_S.txt,Hiring,S,F09wk10,2,6,3:22,3,3,3,3,2,2.5,3,3,3,8.5
+Korean,394,M,B,15556&15394_S.txt,Hiring,S,F09wk10,2,7,2:23,4,4,4,4,4,4,3,4,3.5,11.5
+Chinese,556,M,A,15556&15394_S.txt,Hiring,S,F09wk10,2,7,2:23,4,4,4,4,4,4,3,4,3.5,11.5
+Arabic,153,M,A,15508&15153_S.txt,Hiring,S,F09wk10,2,8,3:12,3,4,3.5,4,4,4,3,4,3.5,11
+Chinese,508,M,B,15508&15153_S.txt,Hiring,S,F09wk10,2,8,3:12,3,4,3.5,4,4,4,3,4,3.5,11
+Arabic,117,M,A,15117&15369_S.txt,Hiring,S,F09wk10,2,9,3:06,3,3,3,2,2,2,3,3,3,8
+Chinese,369,M,B,15117&15369_S.txt,Hiring,S,F09wk10,2,9,3:06,3,3,3,2,2,2,3,3,3,8
+Arabic,34,M,A,15448&15034_S.txt,Hiring,S,F09wk10,2,10,3:40,4,3,3.5,3,3,3,3,3,3,9.5
+Chinese,448,F,B,15448&15034_S.txt,Hiring,S,F09wk10,2,10,3:40,3,4,3.5,3,3,3,3,3,3,9.5
+Japanese,504,F,B,15504&15597_S.txt,Hiring,S,F09wk10,2,11,3:43,3,4,3.5,4,4,4,3,4,3.5,11
+Chinese,597,F,A,15504&15597_S.txt,Hiring,S,F09wk10,2,11,3:43,3,4,3.5,4,4,4,3,4,3.5,11
+Arabic,245,F,A,15305&15245_S.txt,Hiring,S,Sp10wk9,2,12,3:38,4,4,4,4,4,4,3,3,3,11
+Arabic,305,M,B,15305&15245_S.txt,Hiring,S,Sp10wk9,2,12,3:38,4,4,4,4,4,4,3,3,3,11
+Chinese,548,M,B,15583&15548_S.txt,Hiring,S,Sp10wk9,2,13,3:06,3,4,3.5,3,3,3,3,3,3,9.5
+Chinese,583,F,A,15583&15548_S.txt,Hiring,S,Sp10wk9,2,13,3:06,3,4,3.5,3,3,3,3,3,3,9.5
+Chinese,366,F,A,15425&15366_S.txt,Hiring,S,Sp10wk9,2,14,2:53,3,3,3,3,4,3.5,3,4,3.5,10
+Arabic,425,F,B,15425&15366_S.txt,Hiring,S,Sp10wk9,2,14,2:53,3,3,3,3,4,3.5,3,4,3.5,10
+Chinese,454,F,A,15454&15514_S.txt,Hiring,S,Sp10wk9,2,15,3:23,3,4,3.5,2,1,1.5,3,4,3.5,8.5
+Chinese,514,F,B,15454&15514_S.txt,Hiring,S,Sp10wk9,2,15,3:23,3,4,3.5,2,1,1.5,3,4,3.5,8.5
+Chinese,588,M,A,15588&15589_S.txt,Hiring,S,Sp10wk9,2,16,2:29,2,1,1.5,3,3,3,3,2,2.5,7
+Chinese,589,M,B,15588&15589_S.txt,Hiring,S,Sp10wk9,2,16,2:29,2,1,1.5,4,3,3.5,3,3,3,8
+Arabic,598,F,A,15598&15599_S.txt,Hiring,S,Sp10wk9,2,17,2:17,4,4,4,1,1,1,3,2,2.5,7.5
+Arabic,599,F,B,15598&15599_S.txt,Hiring,S,Sp10wk9,2,17,2:17,4,4,4,1,1,1,3,2,2.5,7.5
+Chinese,550,F,A,15550&15558_S.txt,Hiring,S,Sp10wk9,2,18,2:34,3,3,3,4,4,4,3,4,3.5,10.5
+Chinese,558,F,B,15550&15558_S.txt,Hiring,S,Sp10wk9,2,18,2:34,3,3,3,4,4,4,3,4,3.5,10.5
+Arabic,87,M,B,16095&16087_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,1,2:03,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,95,M,A,16095&16087_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,1,2:03,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,174,M,A,16174&16333_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,2,2:47,4,4,4,4,4,4,4,4,4,12
+Arabic,333,M,B,16174&16333_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,2,2:47,4,4,4,4,4,4,4,4,4,12
+Arabic,522,M,A,16522&16551_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,3,2:31,4,4,4,4,4,4,4,4,4,12
+Arabic,551,M,B,16522&16551_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,3,2:31,4,4,4,4,4,4,4,4,4,12
+Arabic,150,M,B,16546&16150_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,4,2:29,3,3,3,3,3,3,2.5,2.5,2.5,8.5
+Chinese,546,M,A,16546&16150_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,4,2:29,3,3,3,3,3,3,2.5,3,2.75,8.75
+Arabic,47,M,B,16298&16047_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,5,2:11,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,298,M,A,16298&16047_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,5,2:11,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,50,M,B,16347&16050_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,6,3:13,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Pashto,347,F,A,16347&16050_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,6,3:13,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,98,M,B,16213&16098_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,7,1:40,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,213,M,A,16213&16098_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,7,1:40,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,311,M,B,16311&16500_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,8,2:14,4,4,4,3.5,4,3.75,3.5,4,3.75,11.5
+Arabic,500,M,A,16311&16500_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,8,2:14,4,4,4,3.5,4,3.75,3.5,4,3.75,11.5
+Arabic,64,M,A,16064&16113_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,9,2:38,4,4,4,3.5,3.5,3.5,3.5,4,3.75,11.25
+Arabic,113,M,B,16064&16113_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,9,2:38,4,4,4,3.5,3.5,3.5,3.5,4,3.75,11.25
+Arabic,68,M,A,16068&16389_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,10,2:31,3.5,4,3.75,4,4,4,4,4,4,11.75
+Chinese,389,F,B,16068&16389_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,10,2:31,3.5,4,3.75,4,4,4,4,4,4,11.75
+Arabic,130,M,B,16130&16476_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,11,3:13,4,4,4,4,4,4,4,4,4,12
+Arabic,476,M,A,16130&16476_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,11,3:13,4,4,4,4,4,4,4,4,4,12
+Arabic,45,M,A,16179&16045_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,12,2:55,3,3,3,3.5,3.5,3.5,4,4,4,10.5
+Arabic,179,M,B,16179&16045_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,12,2:55,3,3,3,3.5,3.5,3.5,4,3.5,3.75,10.25
+Arabic,168,F,B,16168&16176_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,13,2:30,4,4,4,3.5,4,3.75,4,4,4,11.75
+Chinese,176,F,A,16168&16176_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,13,2:30,4,4,4,3.5,4,3.75,4,4,4,11.75
+Chinese,397,F,B,16459&16397_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,14,2:34,4,4,4,3,3,3,3.5,3.5,3.5,10.5
+Chinese,459,F,A,16459&16397_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,14,2:34,4,4,4,3,3,3,3.5,3.5,3.5,10.5
+Arabic,18,M,A,16071&16018_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,15,2:34,3.5,3.5,3.5,4,3.5,3.75,3.5,4,3.75,11
+Arabic,71,M,B,16071&16018_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,15,2:34,3.5,3.5,3.5,4,3.5,3.75,3.5,4,3.75,11
+Arabic,150,M,B,16303&16150_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,16,2:28,3,3,3,4,4,4,1,1,1,8
+Arabic,303,M,A,16303&16150_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,16,2:28,3,3,3,4,4,4,4,4,4,11
+Arabic,35,M,B,16084&16035_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,17,2:36,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,84,M,A,16084&16035_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,17,2:36,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,200,M,B,16326&16200_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,18,2:34,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,326,M,A,16326&16200_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,18,2:34,3.5,3.5,3.5,3.5,3.5,3.5,2.5,2.5,2.5,9.5
+Arabic,40,F,B,16040&16352_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,19,2:20,4,4,4,4,4,4,4,4,4,12
+Arabic,352,F,A,16040&16352_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,19,2:20,4,4,4,4,4,4,4,4,4,12
+Arabic,185,M,A,16185&16466_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,20,2:33,3.5,3.5,3.5,4,4,4,4,4,4,11.5
+Chinese,466,M,B,16185&16466_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,20,2:33,3.5,3.5,3.5,4,4,4,4,3.5,3.75,11.25
+Arabic,161,M,B,16161&16340_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,21,2:31,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,340,M,A,16161&16340_S.txt,Investing-Famous Entrepreneur,S,F11wk15,2,21,2:31,4,4,4,4,4,4,4,4,4,12
+Arabic,148,M,A,17148&17159_S.txt,Investing-Science Funding,A,F10wk15,2,1,2:32,2,3,2.5,1,1,1,4,3,3.5,7
+Arabic,159,M,B,17148&17159_S.txt,Investing-Science Funding,A,F10wk15,2,1,2:32,3,2,2.5,1,1,1,3,4,3.5,7
+Arabic,151,M,A,17191&17151_S.txt,Investing-Science Funding,A,F10wk15,2,2,2:11,4,4,4,3,3,3,4,4,4,11
+Arabic,191,M,B,17191&17151_S.txt,Investing-Science Funding,A,F10wk15,2,2,2:11,4,4,4,3,3,3,4,4,4,11
+Chinese,177,M,B,17177&17560_S.txt,Investing-Science Funding,A,F10wk15,2,3,2:14,2,2,2,1,2,1.5,3,3,3,6.5
+Chinese,560,M,A,17177&17560_S.txt,Investing-Science Funding,A,F10wk15,2,3,2:14,2,2,2,2,1,1.5,3,3,3,6.5
+Chinese,419,M,A,17419&17543_S.txt,Investing-Science Funding,A,F10wk15,2,4,2:54,2,3,2.5,1,1,1,3,3,3,6.5
+Chinese,543,M,B,17419&17543_S.txt,Investing-Science Funding,A,F10wk15,2,4,2:54,3,2,2.5,1,1,1,3,3,3,6.5
+Chinese,379,M,A,17379&17566_S.txt,Investing-Science Funding,A,F10wk15,2,5,1:59,4,3,3.5,2,3,2.5,3,3,3,9
+Chinese,566,F,B,17379&17566_S.txt,Investing-Science Funding,A,F10wk15,2,5,1:59,3,4,3.5,3,2,2.5,3,3,3,9
+Chinese,354,M,A,17354&17573_S.txt,Investing-Science Funding,A,F10wk15,2,6,1:13,3,3,3,1,1,1,3,3,3,7
+Chinese,573,F,B,17354&17573_S.txt,Investing-Science Funding,A,F10wk15,2,6,1:13,3,3,3,1,1,1,3,3,3,7
+Chinese,439,F,B,17528&17439_S.txt,Investing-Science Funding,A,F10wk15,2,7,2:54,3,3,3,3,3,3,3,4,3.5,9.5
+Chinese,528,F,A,17528&17439_S.txt,Investing-Science Funding,A,F10wk15,2,7,2:54,3,3,3,3,3,3,4,3,3.5,9.5
+Chinese,399,M,A,17399&17433_S.txt,Investing-Science Funding,A,F10wk15,2,8,3:04,3,3,3,2,1,1.5,2,3,2.5,7
+Japanese,433,F,B,17399&17433_S.txt,Investing-Science Funding,A,F10wk15,2,8,3:04,3,3,3,1,2,1.5,3,2,2.5,7
+Chinese,355,M,A,17355&17535_S.txt,Investing-Science Funding,A,F10wk15,2,9,5:56,3,2,2.5,2,2,2,3,3,3,7.5
+Chinese,535,F,B,17355&17535_S.txt,Investing-Science Funding,A,F10wk15,2,9,5:56,3,2,2.5,2,2,2,3,3,3,7.5
+Chinese,368,M,B,17577&17368_S.txt,Investing-Science Funding,A,F10wk15,2,10,2:31,3,4,3.5,1,2,1.5,3,3,3,8
+Chinese,577,F,A,17577&17368_S.txt,Investing-Science Funding,A,F10wk15,2,10,2:31,3,4,3.5,1,2,1.5,3,3,3,8
+Korean,424,F,B,17424&17452_S.txt,Investing-Science Funding,A,F10wk15,2,11,1:47,3,3,3,1,1,1,2,3,2.5,6.5
+Chinese,452,F,A,17424&17452_S.txt,Investing-Science Funding,A,F10wk15,2,11,1:47,3,3,3,1,1,1,2,3,2.5,6.5
+Arabic,153,M,A,17163&17153_S.txt,Investing-Science Funding,A,F10wk15,2,12,2:23,3,4,3.5,2,2,2,3,3,3,8.5
+Arabic,163,M,B,17163&17153_S.txt,Investing-Science Funding,A,F10wk15,2,12,2:23,4,3,3.5,2,2,2,3,3,3,8.5
+Arabic,257,M,A,17257&17471_S.txt,Investing-Science Funding,A,F10wk15,2,13,2:55,4,4,4,3,3,3,4,3,3.5,10.5
+Arabic,471,M,B,17257&17471_S.txt,Investing-Science Funding,A,F10wk15,2,13,2:55,4,4,4,3,3,3,4,3,3.5,10.5
+Chinese,555,M,A,17555&17585_S.txt,Investing-Science Funding,A,F10wk15,2,14,3:02,2,2,2,2,2,2,2,2,2,6
+Chinese,585,M,B,17555&17585_S.txt,Investing-Science Funding,A,F10wk15,2,14,3:02,2,2,2,2,2,2,2,2,2,6
+Arabic,229,M,B,16230&16229_S.txt,Investing-Science Funding,A,F10wk15,2,22,2:36,3.5,3.5,3.5,3.5,4,3.75,2.5,2,2.25,9.5
+Arabic,230,F,A,16230&16229_S.txt,Investing-Science Funding,A,F10wk15,2,22,2:36,3.5,3.5,3.5,3.5,4,3.75,4,4,4,11.25
+Arabic,103,M,A,16103&16137_S.txt,Investing-Science Funding,A,F10wk15,2,23,2:31,3,3,3,3,3,3,1.5,1.5,1.5,7.5
+Arabic,137,F,B,16103&16137_S.txt,Investing-Science Funding,A,F10wk15,2,23,2:31,3,3,3,3,3,3,3,3.5,3.25,9.25
+Arabic,235,M,A,16320&16235_S.txt,Investing-Science Funding,A,F10wk15,2,24,2:29,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,320,M,B,16320&16235_S.txt,Investing-Science Funding,A,F10wk15,2,24,2:29,4,4,4,4,4,4,4,4,4,12
+Arabic,68,M,A,16068&16171_S.txt,Investing-Science Funding,A,F10wk15,2,25,2:33,4,4,4,3,3.5,3.25,2.5,2.5,2.5,9.75
+Arabic,171,M,B,16068&16171_S.txt,Investing-Science Funding,A,F10wk15,2,25,2:33,4,4,4,3,3.5,3.25,3,3.5,3.25,10.5
+Arabic,314,M,B,16314&16483_S.txt,Investing-Science Funding,A,F10wk15,2,26,2:26,4,3.5,3.75,4,4,4,3,3.5,3.25,11
+Arabic,483,M,A,16314&16483_S.txt,Investing-Science Funding,A,F10wk15,2,26,2:26,4,3.5,3.75,4,4,4,3.5,4,3.75,11.5
+Arabic,84,M,B,16182&16084_S.txt,Investing-Science Funding,A,F10wk15,2,27,2:15,4,3.5,3.75,4,4,4,3.5,4,3.75,11.5
+Arabic,182,M,A,16182&16084_S.txt,Investing-Science Funding,A,F10wk15,2,27,2:15,3,3,3,4,3.5,3.75,4,4,4,10.75
+Arabic,435,F,B,18573&18435_S.txt,Investing-Science Funding,B,Sp11wk15,2,1,3:17,4,4,4,4,4,4,4,4,4,12
+Chinese,573,F,A,18573&18435_S.txt,Investing-Science Funding,B,Sp11wk15,2,1,3:17,4,4,4,4,4,4,4,4,4,12
+Arabic,284,M,A,18284&18304_S.txt,Investing-Science Funding,B,Sp11wk15,2,2,3:06,3,2,2.5,3,3,3,3,2,2.5,8
+Arabic,304,M,B,18284&18304_S.txt,Investing-Science Funding,B,Sp11wk15,2,2,3:06,3,3,3,3,3,3,2,2,2,8
+Arabic,148,M,A,18344&18148_S.txt,Investing-Science Funding,B,Sp11wk15,2,3,3:08,3,3,3,3,3,3,3,3,3,9
+Arabic,344,M,B,18344&18148_S.txt,Investing-Science Funding,B,Sp11wk15,2,3,3:08,3,3,3,3,3,3,3,3,3,9
+Arabic,296,F,A,18381&18296_S.txt,Investing-Science Funding,B,Sp11wk15,2,4,2:59,4,4,4,3,4,3.5,4,4,4,11.5
+Portuguese,381,F,B,18381&18296_S.txt,Investing-Science Funding,B,Sp11wk15,2,4,2:59,4,4,4,4,3,3.5,4,4,4,11.5
+Arabic,273,M,B,18313&18273_S.txt,Investing-Science Funding,B,Sp11wk15,2,5,3:03,2,3,2.5,1,1,1,1,2,1.5,5
+Arabic,313,M,A,18313&18273_S.txt,Investing-Science Funding,B,Sp11wk15,2,5,3:03,2,3,2.5,1,1,1,1,2,1.5,5
+Arabic,114,M,B,18115&18114_S.txt,Investing-Science Funding,B,Sp11wk15,2,6,3:17,4,4,4,2,2,2,2,2,2,8
+Arabic,115,F,A,18115&18114_S.txt,Investing-Science Funding,B,Sp11wk15,2,6,3:17,4,4,4,4,4,4,3,4,3.5,11.5
+Arabic,421,M,A,18421&18495_S.txt,Investing-Science Funding,B,Sp11wk15,2,7,2:54,4,4,4,4,4,4,3,4,3.5,11.5
+Chinese,495,F,B,18421&18495_S.txt,Investing-Science Funding,B,Sp11wk15,2,7,2:54,4,4,4,4,4,4,4,4,4,12
+Arabic,203,M,A,18203&18283_S.txt,Investing-Science Funding,B,Sp11wk15,2,8,3:02,2,2,2,1,1,1,2,2,2,5
+Arabic,283,M,B,18203&18283_S.txt,Investing-Science Funding,B,Sp11wk15,2,8,3:02,2,2,2,1,1,1,2,2,2,5
+Chinese,177,M,B,18222&18177_S.txt,Investing-Science Funding,B,Sp11wk15,2,9,2:55,4,4,4,3,3,3,3,3,3,10
+Arabic,222,M,A,18222&18177_S.txt,Investing-Science Funding,B,Sp11wk15,2,9,2:55,3,3,3,4,4,4,3,3,3,10
+Arabic,391,F,B,18503&18391_S.txt,Investing-Science Funding,B,Sp11wk15,2,10,3:09,3,2,2.5,3,3,3,3,4,3.5,9
+Arabic,503,F,A,18503&18391_S.txt,Investing-Science Funding,B,Sp11wk15,2,10,3:09,2,2,2,2,2,2,3,2,2.5,6.5
+Chinese,530,M,A,18530&18563_S.txt,Investing-Science Funding,B,Sp11wk15,2,11,3:07,4,4,4,2,3,2.5,2,2,2,8.5
+Chinese,563,F,B,18530&18563_S.txt,Investing-Science Funding,B,Sp11wk15,2,11,3:07,4,4,4,3,3,3,3,3,3,10
+Arabic,470,M,A,18470&18572_S.txt,Investing-Science Funding,B,Sp11wk15,2,12,3:02,3,4,3.5,2,3,2.5,2,2,2,8
+Chinese,572,F,B,18470&18572_S.txt,Investing-Science Funding,B,Sp11wk15,2,12,3:02,3,2,2.5,4,4,4,3,3,3,9.5
+Arabic,241,M,B,18406&18241_S.txt,Investing-Science Funding,B,Sp11wk15,2,13,3:59,3,3,3,3,3,3,4,3,3.5,9.5
+Arabic,406,M,A,18406&18241_S.txt,Investing-Science Funding,B,Sp11wk15,2,13,3:59,2,2,2,2,2,2,2,2,2,6
+Chinese,377,M,A,18525&18377_S.txt,Investing-Science Funding,B,Sp11wk15,2,14,2:51,3,3,3,4,4,4,3,4,3.5,10.5
+Chinese,525,M,B,18525&18377_S.txt,Investing-Science Funding,B,Sp11wk15,2,14,2:51,3,3,3,4,4,4,3,4,3.5,10.5
+Arabic,194,M,A,17524&17194_S.txt,Investing-Science Funding,B,Sp11wk15,2,15,2:58,3,2,2.5,2,2,2,2,2,2,6.5
+Japanese,524,M,B,17524&17194_S.txt,Investing-Science Funding,B,Sp11wk15,2,15,2:58,3,2,2.5,2,2,2,2,2,2,6.5
+Arabic,126,M,A,18464&18126_S.txt,Investing-Science Funding,B,Sp11wk15,2,15,3:17,4,4,4,3,3,3,3,3,3,10
+Chinese,464,M,B,18464&18126_S.txt,Investing-Science Funding,B,Sp11wk15,2,15,3:17,4,4,4,3,3,3,3,3,3,10
+Chinese,441,F,A,17441&17588_S.txt,Investing-Science Funding,B,Sp11wk15,2,16,3:07,3,2,2.5,3,3,3,2,2,2,7.5
+Chinese,588,M,B,17441&17588_S.txt,Investing-Science Funding,B,Sp11wk15,2,16,3:07,3,2,2.5,3,3,3,2,2,2,7.5
+Arabic,132,M,B,05132&05377_A.txt,Matt Test Score,S,Sp12wk7,1,20,2:53,3,3,3,4,4,3,4,4,4,10
+Chinese,377,M,A,05132&05377_A.txt,Matt Test Score,S,Sp12wk7,1,20,2:53,3,3,3,4,4,3,4,4,4,10
+Arabic,241,M,B,05512&05241_A.txt,Matt Test Score,S,Sp12wk7,1,21,3:50,1,1,1,2,2,2,3,4,3.5,6.5
+Chinese,512,F,A,05512&05241_A.txt,Matt Test Score,S,Sp12wk7,1,21,3:50,1,1,1,2,2,2,3,3,3,6
+Arabic,284,M,B,05441&04284_A.txt,Matt Test Score,S,Sp12wk7,1,22,2:38,4,4,4,3,3,2.5,3,4,3.5,10
+Chinese,441,F,A,05441&04284_A.txt,Matt Test Score,S,Sp12wk7,1,22,2:38,4,4,4,3,3,2.5,3,4,3.5,10
+Chinese,177,M,A,05380&05177_A.txt,Matt Test Score,S,Sp12wk7,1,23,3:33,2,2,2,3,3,2.5,2,2,2,6.5
+Chinese,380,M,B,05380&05177_A.txt,Matt Test Score,S,Sp12wk7,1,23,3:33,2,2,2,3,3,2.5,2,2,2,6.5
+Chinese,531,M,A,05531&05562_A.txt,Matt Test Score,S,Sp12wk7,1,24,1:51,0,0,0,2,1,2,2,2,2,4
+Chinese,562,M,B,05531&05562_A.txt,Matt Test Score,S,Sp12wk7,1,24,1:51,0,0,0,1,1,1.5,0,0,0,1.5
+Portuguese,381,F,B,05567&05381_A.txt,Matt Test Score,S,Sp12wk7,1,25,7:35,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,567,F,A,05567&05381_A.txt,Matt Test Score,S,Sp12wk7,1,25,7:35,3,3,3,3,3,2.5,2,3,2.5,8
+Chinese,401,F,B,05574&05401_A.txt,Matt Test Score,S,Sp12wk7,1,26,3:03,4,4,4,3,3,2.5,3,3,3,9.5
+Chinese,574,F,A,05574&05401_A.txt,Matt Test Score,S,Sp12wk7,1,26,3:03,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,271,F,B,05271&05451_A.txt,Matt Test Score,S,Sp12wk7,1,27,3:04,4,4,4,4,4,3,4,4,4,11
+Chinese,451,F,A,05271&05451_A.txt,Matt Test Score,S,Sp12wk7,1,27,3:04,4,4,4,3,4,2.5,3,3,3,9.5
+Chinese,356,M,A,05356&05468_A.txt,Matt Test Score,S,Sp12wk7,1,28,2:46,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,468,M,B,05356&05468_A.txt,Matt Test Score,S,Sp12wk7,1,28,2:46,3,3,3,3,3,2.5,4,4,4,9.5
+Chinese,382,M,B,05382&05510_A.txt,Matt Test Score,S,Sp12wk7,1,29,3:12,2,2,2,3,3,2.5,3,3,3,7.5
+Chinese,510,M,A,05382&05510_A.txt,Matt Test Score,S,Sp12wk7,1,29,3:12,2,2,2,3,3,2.5,3,3,3,7.5
+Arabic,56,M,A,05056&05201_B.txt,Matt Test Score,S,Sp12wk7,1,30,2:06,4,4,4,3.5,3.5,2.75,3,3.5,3.25,10
+Arabic,201,M,B,05056&05201_B.txt,Matt Test Score,S,Sp12wk7,1,30,2:06,4,4,4,3.5,3.5,2.75,3,3.5,3.25,10
+Arabic,65,M,B,05520&05065_B.txt,Matt Test Score,S,Sp12wk7,1,31,2:03,4,4,4,4,4,3,4,4,4,11
+Arabic,520,F,A,05520&05065_B.txt,Matt Test Score,S,Sp12wk7,1,31,2:03,4,4,4,4,4,3,4,4,4,11
+Arabic,308,M,A,05308&05429_B.txt,Matt Test Score,S,Sp12wk7,1,32,2:34,4,4,4,4,4,3,3.5,4,3.75,10.75
+Arabic,429,M,B,05308&05429_B.txt,Matt Test Score,S,Sp12wk7,1,32,2:34,4,4,4,4,4,3,3.5,4,3.75,10.75
+Arabic,34,M,A,05079&05034_B.txt,Matt Test Score,S,Sp12wk7,1,33,2:39,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,79,M,B,05079&05034_B.txt,Matt Test Score,S,Sp12wk7,1,33,2:39,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,153,M,B,05224&05153_B.txt,Matt Test Score,S,Sp12wk7,1,34,2:11,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Arabic,224,M,A,05224&05153_B.txt,Matt Test Score,S,Sp12wk7,1,34,2:11,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Chinese,489,M,B,05489&05554_B.txt,Matt Test Score,S,Sp12wk7,1,35,2:30,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Chinese,554,M,A,05489&05554_B.txt,Matt Test Score,S,Sp12wk7,1,35,2:30,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Arabic,63,M,B,05319&05063_B.txt,Matt Test Score,S,Sp12wk7,1,36,2:44,3,3,3,3.5,3.5,2.75,3,3,3,8.75
+Arabic,319,M,A,05319&05063_B.txt,Matt Test Score,S,Sp12wk7,1,36,2:44,3.5,3,3.25,3,3.5,2.5,3,3,3,8.75
+Arabic,276,M,B,05411&05276_B.txt,Matt Test Score,S,Sp12wk7,1,37,2:31,4,4,4,4,4,3,4,4,4,11
+Japanese,411,F,A,05411&05276_B.txt,Matt Test Score,S,Sp12wk7,1,37,2:31,4,4,4,4,4,3,4,4,4,11
+Arabic,48,M,B,23161&23048_A.txt,Music & Vocabulary,S,F09wk15,3,48,2:48,4,4,4,3,3,3,4,3,3.5,10.5
+Arabic,161,M,A,23161&23048_A.txt,Music & Vocabulary,S,F09wk15,3,48,2:48,4,4,4,3,3,3,4,3,3.5,10.5
+Arabic,79,M,A,23079&23348_A.txt,Music & Vocabulary,S,F09wk15,3,49,3:16,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,348,M,B,23079&23348_A.txt,Music & Vocabulary,S,F09wk15,3,49,3:16,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,152,M,B,23152&23209_A.txt,Music & Vocabulary,S,F09wk15,3,50,2:02,2,2,2,2,2,2,2,2,2,6
+Arabic,209,M,A,23152&23209_A.txt,Music & Vocabulary,S,F09wk15,3,50,2:02,2,2,2,2,2,2,2,2,2,6
+Arabic,294,F,A,23294&23339_A.txt,Music & Vocabulary,S,F09wk15,3,51,2:06,4,4,4,4,4,4,3,3,3,11
+Arabic,339,F,B,23294&23339_A.txt,Music & Vocabulary,S,F09wk15,3,51,2:06,4,4,4,4,4,4,3,3,3,11
+Arabic,243,M,B,23321&23243_A.txt,Music & Vocabulary,S,F09wk15,3,52,3:00,4,4,4,4,4,4,4,4,4,12
+Arabic,321,M,A,23321&23243_A.txt,Music & Vocabulary,S,F09wk15,3,52,3:00,4,4,4,4,4,4,4,4,4,12
+Arabic,274,M,A,23274&23547_A.txt,Music & Vocabulary,S,F09wk15,3,53,2:42,3,3,3,4,4,4,3,3,3,10
+Chinese,547,M,B,23274&23547_A.txt,Music & Vocabulary,S,F09wk15,3,53,2:42,3,3,3,4,4,4,3,3,3,10
+Arabic,248,M,A,23248&23259_A.txt,Music & Vocabulary,S,F09wk15,3,54,2:04,2,2,2,3,2,2.5,2,3,2.5,7
+Arabic,259,M,B,23248&23259_A.txt,Music & Vocabulary,S,F09wk15,3,54,2:04,2,2,2,3,2,2.5,2,3,2.5,7
+Arabic,131,M,A,23328&23131_A.txt,Music & Vocabulary,S,F09wk15,3,55,2:14,3,3,3,3,3,3,4,4,4,10
+Arabic,328,M,B,23328&23131_A.txt,Music & Vocabulary,S,F09wk15,3,55,2:14,3,3,3,3,3,3,2,2,2,8
+Arabic,188,M,A,23188&23351_A.txt,Music & Vocabulary,S,F09wk15,3,56,3:03,1,1,1,1,1,1,2,2,2,4
+Arabic,351,M,B,23188&23351_A.txt,Music & Vocabulary,S,F09wk15,3,56,3:03,1,1,1,1,1,1,2,2,2,4
+Arabic,198,M,A,23198&23392_A.txt,Music & Vocabulary,S,F09wk15,3,57,2:45,2,2,2,2,2,2,2,2,2,6
+Arabic,392,M,B,23198&23392_A.txt,Music & Vocabulary,S,F09wk15,3,57,2:45,2,2,2,2,2,2,2,2,2,6
+Arabic,42,M,B,23042&23482_A.txt,Music & Vocabulary,S,F09wk15,3,58,1:31,2,2,2,3,2,2.5,3,3,3,7.5
+Arabic,482,M,A,23042&23482_A.txt,Music & Vocabulary,S,F09wk15,3,58,1:31,3,2,2.5,2,2,2,3,3,3,7.5
+Arabic,429,M,A,23429&23595_A.txt,Music & Vocabulary,S,F09wk15,3,59,3:32,3,3,3,3,3,3,3,3,3,9
+Arabic,595,M,B,23429&23595_A.txt,Music & Vocabulary,S,F09wk15,3,59,3:32,3,3,3,3,3,3,3,3,3,9
+Chinese,390,F,B,23592&23390_A.txt,Music & Vocabulary,S,F09wk15,3,60,2:58,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,592,M,A,23592&23390_A.txt,Music & Vocabulary,S,F09wk15,3,60,2:58,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,206,M,B,23206&23255_A.txt,Nonverbal Communication,S,F10wk15,3,61,2:50,4,4,4,4,4,4,3,3,3,11
+Arabic,255,M,A,23206&23255_A.txt,Nonverbal Communication,S,F10wk15,3,61,2:50,4,4,4,4,4,4,3,3,3,11
+Arabic,114,M,A,23114&23148_C.txt,Nonverbal Communication,S,F10wk15,3,62,3:56,4,5,4.5,5,4,4.5,5,5,5,14
+Arabic,148,M,B,23114&23148_C.txt,Nonverbal Communication,S,F10wk15,3,62,3:56,4,5,4.5,4,4,4,4,4,4,12.5
+Arabic,244,M,B,23426&23244_C.txt,Nonverbal Communication,S,F10wk15,3,63,3:42,4,4,4,4,5,4.5,5,5,5,13.5
+Korean,426,F,A,23426&23244_C.txt,Nonverbal Communication,S,F10wk15,3,63,3:42,4,4,4,3,2,2.5,5,5,5,11.5
+Arabic,149,M,A,23149&23300_C.txt,Nonverbal Communication,S,F10wk15,3,64,3:49,5,5,5,5,5,5,5,5,5,15
+Arabic,300,M,B,23149&23300_C.txt,Nonverbal Communication,S,F10wk15,3,64,3:49,5,5,5,4,5,4.5,5,5,5,14.5
+Arabic,93,M,B,23150&23093_C.txt,Nonverbal Communication,S,F10wk15,3,65,3:40,5,5,5,5,5,5,5,5,5,15
+Arabic,150,M,A,23150&23093_C.txt,Nonverbal Communication,S,F10wk15,3,65,3:40,5,5,5,4,4,4,5,5,5,14
+Arabic,304,M,B,23374&23304_B.txt,Nonverbal Communication,S,F10wk15,3,66,3:06,5,5,5,4,5,4.5,5,4,4.5,14
+Arabic,374,M,A,23374&23304_B.txt,Nonverbal Communication,S,F10wk15,3,66,3:06,5,5,5,4,5,4.5,5,4,4.5,14
+Arabic,157,M,B,23157&23202_B.txt,Nonverbal Communication,S,F10wk15,3,67,2:12,4,4,4,3,3,3,4,4,4,11
+Arabic,202,F,A,23157&23202_B.txt,Nonverbal Communication,S,F10wk15,3,67,2:12,4,4,4,3,3,3,4,4,4,11
+Arabic,253,M,A,23292&23253_B.txt,Nonverbal Communication,S,F10wk15,3,68,2:10,4,4,4,4,4,4,4,4,4,12
+Arabic,292,M,B,23292&23253_B.txt,Nonverbal Communication,S,F10wk15,3,68,2:10,4,4,4,4,4,4,4,4,4,12
+Arabic,277,M,B,23330&23277_B.txt,Nonverbal Communication,S,F10wk15,3,69,2:22,4,4,4,3,3,3,3,3,3,10
+Arabic,330,M,A,23330&23277_B.txt,Nonverbal Communication,S,F10wk15,3,69,2:22,4,4,4,3,3,3,3,3,3,10
+Arabic,63,M,A,23224&23063_B.txt,Nonverbal Communication,S,F10wk15,3,70,2:05,4,4,4,4,4,4,4,4,4,12
+Arabic,224,M,B,23224&23063_B.txt,Nonverbal Communication,S,F10wk15,3,70,2:05,3,3,3,3,3,3,3,3,3,9
+Arabic,260,M,A,23293&23260_B.txt,Nonverbal Communication,S,F10wk15,3,71,1:50,4,4,4,3,3,3,3,3,3,10
+Arabic,293,M,B,23293&23260_B.txt,Nonverbal Communication,S,F10wk15,3,71,1:50,4,4,4,3,3,3,3,3,3,10
+Arabic,152,M,B,23319&23152_B.txt,Nonverbal Communication,S,F10wk15,3,72,2:52,4,4,4,4,4,4,4,4,4,12
+Arabic,319,M,A,23319&23152_B.txt,Nonverbal Communication,S,F10wk15,3,72,2:52,4,4,4,4,4,4,4,4,4,12
+Arabic,72,M,A,23072&23312_B.txt,Nonverbal Communication,S,F10wk15,3,73,2:46,4,4,4,4,4,4,4,4,4,12
+Arabic,312,M,B,23072&23312_B.txt,Nonverbal Communication,S,F10wk15,3,73,2:46,4,4,4,4,4,4,4,4,4,12
+Arabic,143,M,A,23143&23286_B.txt,Nonverbal Communication,S,F10wk15,3,74,2:20,4,4,4,4,4,4,3,3,3,11
+Arabic,286,M,B,23143&23286_B.txt,Nonverbal Communication,S,F10wk15,3,74,2:20,4,4,4,4,4,4,3,3,3,11
+Arabic,7,M,A,23201&23007_B.txt,Nonverbal Communication,S,F10wk15,3,75,2:05,4,4,4,4,4,4,4,4,4,12
+Arabic,201,M,B,23201&23007_B.txt,Nonverbal Communication,S,F10wk15,3,75,2:05,4,4,4,4,4,4,4,4,4,12
+Arabic,278,M,B,23278&23308_B.txt,Nonverbal Communication,S,F10wk15,3,76,1:58,4,4,4,4,4,4,4,4,4,12
+Arabic,308,M,A,23278&23308_B.txt,Nonverbal Communication,S,F10wk15,3,76,1:58,4,4,4,4,4,4,4,4,4,12
+Arabic,66,M,A,23255&23066_B.txt,Nonverbal Communication,S,F10wk15,3,77,1:16,3,3,3,3,3,3,3,3,3,9
+Arabic,255,M,B,23255&23066_B.txt,Nonverbal Communication,S,F10wk15,3,77,1:16,3,3,3,3,3,3,3,3,3,9
+Arabic,208,M,B,23208&23307_B.txt,Nonverbal Communication,S,F10wk15,3,78,2:13,4,4,4,4,4,4,3,3,3,11
+Arabic,307,M,A,23208&23307_B.txt,Nonverbal Communication,S,F10wk15,3,78,2:13,4,4,4,4,4,4,3,3,3,11
+Arabic,149,M,B,18421&18149_S.txt,Presentation-Healthy Food,S,F12wk7,2,16,2:39,4,4,4,4,4,4,3,3,3,11
+Arabic,421,M,A,18421&18149_S.txt,Presentation-Healthy Food,S,F12wk7,2,16,2:39,4,4,4,4,4,4,3,3,3,11
+Chinese,401,F,A,18401&18451_S.txt,Presentation-Healthy Food,S,F12wk7,2,17,3:05,4,3,3.5,3,3,3,3,3,3,9.5
+Chinese,451,F,B,18401&18451_S.txt,Presentation-Healthy Food,S,F12wk7,2,17,3:05,4,3,3.5,3,3,3,3,3,3,9.5
+Chinese,376,F,A,18376&18380_S.txt,Presentation-Healthy Food,S,F12wk7,2,18,2:29,2,1,1.5,1,1,1,2,3,2.5,5
+Chinese,380,M,B,18376&18380_S.txt,Presentation-Healthy Food,S,F12wk7,2,18,2:29,2,2,2,2,2,2,2,2,2,6
+Chinese,356,M,A,18356&18468_S.txt,Presentation-Healthy Food,S,F12wk7,2,19,3:00,3,3,3,3,3,3,3,3,3,9
+Chinese,468,M,B,18356&18468_S.txt,Presentation-Healthy Food,S,F12wk7,2,19,3:00,3,3,3,3,3,3,3,3,3,9
+Japanese,488,F,B,18529&18488_S.txt,Presentation-Healthy Food,S,F12wk7,2,20,2:56,4,4,4,3,3,3,3,3,3,10
+Chinese,529,F,A,18529&18488_S.txt,Presentation-Healthy Food,S,F12wk7,2,20,2:56,4,4,4,3,3,3,3,3,3,10
+Chinese,456,M,B,18531&18456_S.txt,Presentation-Healthy Food,S,F12wk7,2,21,3:09,2,2,2,2,1,1.5,2,2,2,5.5
+Chinese,531,M,A,18531&18456_S.txt,Presentation-Healthy Food,S,F12wk7,2,21,3:09,2,2,2,3,3,3,2,3,2.5,7.5
+Chinese,33,?,B,18510&18033_S.txt,Presentation-Healthy Food,S,F12wk7,2,22,2:35,2,2,2,3,3,3,2,2,2,7
+Chinese,510,M,A,18510&18033_S.txt,Presentation-Healthy Food,S,F12wk7,2,22,2:35,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,440,F,B,18441&18440_S.txt,Presentation-Healthy Food,S,F12wk7,2,23,2:40,4,4,4,4,4,4,3,4,3.5,11.5
+Chinese,441,F,A,18441&18440_S.txt,Presentation-Healthy Food,S,F12wk7,2,23,2:40,4,4,4,4,4,4,4,4,4,12
+Arabic,501,M,B,18512&18501_S.txt,Presentation-Healthy Food,S,F12wk7,2,24,2:49,2,2,2,2,2,2,1,2,1.5,5.5
+Chinese,512,F,A,18512&18501_S.txt,Presentation-Healthy Food,S,F12wk7,2,24,2:49,2,2,2,2,2,2,1,2,1.5,5.5
+Arabic,25,M,A,18025&18170_S.txt,Presentation-Healthy Food,S,F12wk7,2,25,3:06,3,4,3.5,3,3,3,4,4,4,10.5
+Arabic,170,M,B,18025&18170_S.txt,Presentation-Healthy Food,S,F12wk7,2,25,3:06,3,4,3.5,3,3,3,4,4,4,10.5
+Chinese,544,M,A,18572&18544_S.txt,Presentation-Healthy Food,S,F12wk7,2,26,2:40,2,2,2,2,2,2,2,1,1.5,5.5
+Chinese,572,F,B,18572&18544_S.txt,Presentation-Healthy Food,S,F12wk7,2,26,2:40,2,2,2,2,2,2,2,1,1.5,5.5
+Arabic,132,M,A,18132&18400_S.txt,Presentation-Healthy Food,S,F12wk7,2,27,2:58,4,4,4,4,3,3.5,3,3,3,10.5
+Chinese,400,M,B,18132&18400_S.txt,Presentation-Healthy Food,S,F12wk7,2,27,2:58,4,4,4,4,3,3.5,3,3,3,10.5
+Arabic,150,M,B,18150&18374_S.txt,Presentation-Healthy Food,S,F12wk7,2,28,3:24,4,4,4,3,3,3,3,3,3,10
+Arabic,374,M,A,18150&18374_S.txt,Presentation-Healthy Food,S,F12wk7,2,28,3:24,4,4,4,3,3,3,3,3,3,10
+Chinese,177,M,A,18177&18538_S.txt,Presentation-Healthy Food,S,F12wk7,2,29,3:06,1,1,1,1,1,1,2,2,2,4
+Chinese,538,M,B,18177&18538_S.txt,Presentation-Healthy Food,S,F12wk7,2,29,3:06,1,1,1,1,1,1,2,2,2,4
+Arabic,492,M,B,18506&18492_S.txt,Presentation-Healthy Food,S,F12wk7,2,30,3:04,4,4,4,1,1,1,4,3,3.5,8.5
+Arabic,506,M,A,18506&18492_S.txt,Presentation-Healthy Food,S,F12wk7,2,30,3:04,4,4,4,1,1,1,3,3,3,8
+Arabic,141,M,A,18313&18141_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,31,3:01,2,2,2,2,2,2,2,2,2,6
+Arabic,313,M,B,18313&18141_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,31,3:01,2,2,2,2,2,2,2,2,2,6
+Arabic,116,M,B,18371&18116_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,32,2:53,4,4,4,3,3,3,4,3,3.5,10.5
+Arabic,371,M,A,18371&18116_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,32,2:53,4,4,4,3,3,3,3,4,3.5,10.5
+Arabic,126,M,A,18126&18434_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,33,3:06,3,4,3.5,3,3,3,3,3,3,9.5
+Arabic,434,M,B,18126&18434_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,33,3:06,3,4,3.5,3,3,3,3,3,3,9.5
+Arabic,116,M,B,18195&18116_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,34,3:05,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,195,M,A,18195&18116_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,34,3:05,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,49,M,B,18049&18162_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,35,3:00,4,4,4,2,3,2.5,3,3,3,9.5
+Arabic,162,M,A,18049&18162_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,35,3:00,4,4,4,2,3,2.5,3,3,3,9.5
+Arabic,335,F,B,18335&18430_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,36,2:32,3,3,3,3,2,2.5,3,3,3,8.5
+Arabic,430,M,A,18335&18430_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,36,2:32,3,3,3,3,2,2.5,3,3,3,8.5
+Arabic,102,M,B,18474&18102_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,37,3:13,3,3,3,2,2,2,2,2,2,7
+Arabic,474,M,A,18474&18102_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,37,3:13,3,3,3,2,2,2,2,2,2,7
+Arabic,134,F,B,18134&18372_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,38,3:08,2,2,2,1,1,1,2,2,2,5
+Arabic,372,F,A,18134&18372_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,38,3:08,2,2,2,1,1,1,2,2,2,5
+Arabic,251,F,B,18251&18465_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,39,3:05,3,3,3,2,2,2,3,2,2.5,7.5
+Chinese,465,F,A,18251&18465_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,39,3:05,3,3,3,2,2,2,3,2,2.5,7.5
+Arabic,46,M,B,18246&18046_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,40,3:08,3,3,3,1,1,1,2,2,2,6
+Arabic,246,M,A,18246&18046_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,40,3:08,3,3,3,2,1,1.5,1,2,1.5,6
+Arabic,94,M,A,18214&18094_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,41,2:30,3,3,3,3,3,3,2,2,2,8
+Arabic,214,M,B,18214&18094_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,41,2:30,3,3,3,3,3,3,2,2,2,8
+Arabic,283,M,B,18373&18283_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,42,3:01,2,2,2,2,2,2,2,2,2,6
+Arabic,373,M,A,18373&18283_S.txt,Presentation-Healthy Food,S,Sum12wk5,2,42,3:01,2,2,2,2,2,2,2,2,2,6
+Chinese,353,M,B,19353&19417_A.txt,Presentation-Immigration,S,F09wk15,2,1,4:03,4,3.5,3,4,3.5,2,3,2.5,2.75,7.75
+Chinese,417,F,A,19353&19417_A.txt,Presentation-Immigration,S,F09wk15,2,1,4:03,4,3.5,3,4,3.5,2,3,2.5,2.75,7.75
+Japanese,410,F,B,19424&19410_A.txt,Presentation-Immigration,S,F09wk15,2,2,3:19,1,1,1,1,1,1,1,1,1,3
+Korean,424,F,A,19424&19410_A.txt,Presentation-Immigration,S,F09wk15,2,2,3:19,1,1,1,1,1,1,1,1,1,3
+Chinese,388,F,A,19388&19586_A.txt,Presentation-Immigration,S,F09wk15,2,3,5:27,3,3,2,2,2,2,1,1.5,1.25,5.25
+Chinese,586,M,B,19388&19586_A.txt,Presentation-Immigration,S,F09wk15,2,3,5:27,3,3,2,2,2,2,1,1.5,1.25,5.25
+Chinese,437,M,A,19437&19450_A.txt,Presentation-Immigration,S,F09wk15,2,4,3:49,2,2,2,1,1.5,2,1,1.5,1.25,5.25
+Chinese,450,M,B,19437&19450_A.txt,Presentation-Immigration,S,F09wk15,2,4,3:49,2,1.5,1,2,1.5,2,2,2,2,5
+Korean,407,M,B,19462&19407_A.txt,Presentation-Immigration,S,F09wk15,2,5,3:37,2,2,3,2,2.5,1,1,1,1,5
+Chinese,462,M,A,19462&19407_A.txt,Presentation-Immigration,S,F09wk15,2,5,3:37,2,2,2,2,2,2,1,1.5,1.25,5.25
+Arabic,89,M,B,18089&18365_S.txt,Presentation-Immigration,S,F09wk15,2,43,3:00,3,3,3,1,1,1,3,3,3,7
+Chinese,365,F,A,18089&18365_S.txt,Presentation-Immigration,S,F09wk15,2,43,3:00,3,3,3,1,1,1,3,3,3,7
+Arabic,150,M,A,18150&18203_S.txt,Presentation-Immigration,S,F09wk15,2,44,3:08,2,2,2,2,2,2,2,3,2.5,6.5
+Arabic,203,M,B,18150&18203_S.txt,Presentation-Immigration,S,F09wk15,2,44,3:08,2,2,2,2,2,2,2,3,2.5,6.5
+Arabic,196,M,B,18196&18521_S.txt,Presentation-Immigration,S,F09wk15,2,45,2:54,4,4,4,2,2,2,3,2,2.5,8.5
+Arabic,521,M,A,18196&18521_S.txt,Presentation-Immigration,S,F09wk15,2,45,2:54,4,4,4,2,2,2,3,2,2.5,8.5
+Arabic,186,M,A,18187&18186_S.txt,Presentation-Immigration,S,F09wk15,2,46,2:59,4,4,4,3,3,3,1,1,1,8
+Arabic,187,M,B,18187&18186_S.txt,Presentation-Immigration,S,F09wk15,2,46,2:59,4,4,4,3,3,3,1,1,1,8
+Chinese,376,F,A,19380&19376_S.txt,Presentation-Immigration,S,F09wk15,2,47,2:19,1,1,1,1,1,1,2,2,2,4
+Chinese,380,M,B,19380&19376_S.txt,Presentation-Immigration,S,F09wk15,2,47,2:19,1,1,1,1,1,1,2,2,2,4
+Arabic,163,M,A,19163&19524_A.txt,Presentation-Immigration,S,Sp10wk15,2,6,5:01,1,1,0,0,0,1,1,1,1,2
+Japanese,524,M,B,19163&19524_A.txt,Presentation-Immigration,S,Sp10wk15,2,6,5:01,1,0.5,0,0,0,0,1,0.5,0.75,0.75
+Chinese,416,M,B,19555&19416_A.txt,Presentation-Immigration,S,Sp10wk15,2,7,4:03,2,2,3,2,2.5,4,4,4,4,11
+Chinese,555,M,A,19555&19416_A.txt,Presentation-Immigration,S,Sp10wk15,2,7,4:03,2,2,3,2,2.5,4,4,4,4,11
+Chinese,360,M,B,19360&19588_A.txt,Presentation-Immigration,S,Sp10wk15,2,8,1:58,2,2.5,2,2,2,2,2,2,2,6
+Chinese,588,M,A,19360&19588_A.txt,Presentation-Immigration,S,Sp10wk15,2,8,1:58,3,3,1,1,1,3,2,2.5,2.25,6.25
+Chinese,404,F,B,19404&19445_A.txt,Presentation-Immigration,S,Sp10wk15,2,9,3:08,2,2.5,2,2,2,2,2,2,2,6
+Chinese,445,F,A,19404&19445_A.txt,Presentation-Immigration,S,Sp10wk15,2,9,3:08,2,2.5,2,2,2,2,2,2,2,6
+Arabic,117,M,A,19166&19117_B.txt,Presentation-Immigration,S,Sp10wk15,2,10,3:35,2,1.07,2,3,2.5,3,3,3,3,8
+Arabic,166,M,B,19166&19117_B.txt,Presentation-Immigration,S,Sp10wk15,2,10,3:35,2,1.07,2,3,2.5,3,3,3,3,8
+Arabic,5,M,A,19005&19587_B.txt,Presentation-Immigration,S,Sp10wk15,2,11,3:11,4,2.07,3,3,3,4,4,4,4,11
+Chinese,587,F,B,19005&19587_B.txt,Presentation-Immigration,S,Sp10wk15,2,11,3:11,4,2.07,3,3,3,4,4,4,4,11
+Arabic,159,M,A,20159&20444_A.txt,PSWOT-Barbershop,S,F10wk10,2,1,6:03,2,3,2.5,2,2,2,2,2,2,6.5
+Chinese,444,M,B,20159&20444_A.txt,PSWOT-Barbershop,S,F10wk10,2,1,6:03,2,3,2.5,2,2,2,2,2,2,6.5
+Korean,424,F,A,21424&21438_S.txt,PSWOT-Barbershop,S,F10wk10,2,1,3:03,3,3,3,3,3.5,3.25,3,3,3,9.25
+Chinese,438,M,B,21424&21438_S.txt,PSWOT-Barbershop,S,F10wk10,2,1,3:03,3,3,3,3,3.5,3.25,3,3,3,9.25
+Arabic,148,M,B,20191&20148_A.txt,PSWOT-Barbershop,S,F10wk10,2,2,4:21,3,3,3,2,3,2.5,2,2,2,7.5
+Arabic,191,M,A,20191&20148_A.txt,PSWOT-Barbershop,S,F10wk10,2,2,4:21,3,3,3,2,3,2.5,2,2,2,7.5
+Chinese,417,F,B,21486&21417_S.txt,PSWOT-Barbershop,S,F10wk10,2,2,4:13,3,3,3,3.5,3.5,3.5,3,3.5,3.25,9.75
+Korean,486,M,A,21486&21417_S.txt,PSWOT-Barbershop,S,F10wk10,2,2,4:13,3,3,3,3.5,3.5,3.5,3,3.5,3.25,9.75
+Chinese,177,M,A,20177&20354_A.txt,PSWOT-Barbershop,S,F10wk10,2,3,3:25,2,2,2,3,3,3,3,3,3,8
+Chinese,354,M,B,20177&20354_A.txt,PSWOT-Barbershop,S,F10wk10,2,3,3:25,2,2,2,3,3,3,3,3,3,8
+Arabic,151,M,B,20543&20151_A.txt,PSWOT-Barbershop,S,F10wk10,2,4,4:55,4,4,4,3,3,3,4,4,4,11
+Chinese,543,M,A,20543&20151_A.txt,PSWOT-Barbershop,S,F10wk10,2,4,4:55,4,4,4,3,3,3,4,4,4,11
+Chinese,399,M,B,20573&20399_A.txt,PSWOT-Barbershop,S,F10wk10,2,5,2:55,3,3,3,3,3,3,2,2,2,8
+Chinese,573,F,A,20573&20399_A.txt,PSWOT-Barbershop,S,F10wk10,2,5,2:55,3,3,3,3,3,3,2,2,2,8
+Chinese,368,M,B,20433&20368_A.txt,PSWOT-Barbershop,S,F10wk10,2,6,5:17,3,3,3,3,2,2.5,2,2,2,7.5
+Japanese,433,F,A,20433&20368_A.txt,PSWOT-Barbershop,S,F10wk10,2,6,5:17,3,3,3,3,2,2.5,2,2,2,7.5
+Chinese,379,M,B,20566&20379_A.txt,PSWOT-Barbershop,S,F10wk10,2,7,2:36,3,3,3,3,3,3,3,3,3,9
+Chinese,566,F,A,20566&20379_A.txt,PSWOT-Barbershop,S,F10wk10,2,7,2:36,3,3,3,3,3,3,3,3,3,9
+Chinese,439,F,B,20528&20439_A.txt,PSWOT-Barbershop,S,F10wk10,2,8,3:44,3,3,3,3,3,3,3,3,3,9
+Chinese,528,F,A,20528&20439_A.txt,PSWOT-Barbershop,S,F10wk10,2,8,3:44,3,3,3,3,3,3,3,3,3,9
+Chinese,355,M,A,20355&30560_A.txt,PSWOT-Barbershop,S,F10wk10,2,9,3:25,3,3,3,2,2,2,2,2,2,7
+Chinese,560,M,B,20355&30560_A.txt,PSWOT-Barbershop,S,F10wk10,2,9,3:25,3,3,3,2,2,2,2,2,2,7
+Chinese,177,M,B,20177&20471_B.txt,PSWOT-Barbershop,S,F10wk10,2,10,1:59,3,3,3,3,3,3,3,3,3,9
+Arabic,471,M,A,20177&20471_B.txt,PSWOT-Barbershop,S,F10wk10,2,10,1:59,3,3,3,3,3,3,3,3,3,9
+Arabic,153,M,A,20153&20163_B.txt,PSWOT-Barbershop,S,F10wk10,2,11,2:09,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,163,M,B,20153&20163_B.txt,PSWOT-Barbershop,S,F10wk10,2,11,2:09,3,3,3,3,2,2.5,2,2,2,7.5
+Arabic,470,M,A,19565&19470_B.txt,PSWOT-Barbershop,S,F10wk10,2,12,2:57,3,1.56,3,3,3,3,3,3,3,9
+Chinese,565,M,B,19565&19470_B.txt,PSWOT-Barbershop,S,F10wk10,2,12,2:57,3,1.56,3,3,3,3,3,3,3,9
+Chinese,388,F,A,20388&20555_B.txt,PSWOT-Barbershop,S,F10wk10,2,12,2:00,4,3,3.5,3,3,3,3,2,2.5,9
+Chinese,555,M,B,20388&20555_B.txt,PSWOT-Barbershop,S,F10wk10,2,12,2:00,3,3,3,3,3,3,3,2,2.5,8.5
+Arabic,322,M,B,19556&19322_B.txt,PSWOT-Barbershop,S,F10wk10,2,13,2:19,4,2.05,3,3,3,3,3,3,3,9
+Chinese,556,M,A,19556&19322_B.txt,PSWOT-Barbershop,S,F10wk10,2,13,2:19,4,2.05,3,3,3,3,3,3,3,9
+Chinese,452,F,B,20452&20585_B.txt,PSWOT-Barbershop,S,F10wk10,2,13,2:02,3,4,3.5,3,3,3,2,3,2.5,9
+Chinese,585,M,A,20452&20585_B.txt,PSWOT-Barbershop,S,F10wk10,2,13,2:02,3,4,3.5,3,3,3,2,3,2.5,9
+Arabic,149,M,B,19149&19158_B.txt,PSWOT-Barbershop,S,F10wk10,2,14,3:17,3,1.57,2,2,2,2,2,2,2,6
+Arabic,158,M,A,19149&19158_B.txt,PSWOT-Barbershop,S,F10wk10,2,14,3:17,3,1.57,2,2,2,2,2,2,2,6
+Arabic,194,M,B,20194&20257_B.txt,PSWOT-Barbershop,S,F10wk10,2,14,2:05,4,4,4,4,3,3.5,3,3,3,10.5
+Arabic,257,M,A,20194&20257_B.txt,PSWOT-Barbershop,S,F10wk10,2,14,2:05,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,305,M,B,19305&19349_B.txt,PSWOT-Barbershop,S,F10wk10,2,15,2:47,4,2.06,4,3,3.5,3,4,3.5,3.75,10.75
+Chinese,349,F,A,19305&19349_B.txt,PSWOT-Barbershop,S,F10wk10,2,15,2:47,4,2.06,4,3,3.5,3,4,3.5,3.75,10.75
+Japanese,524,M,B,20524&20590_B.txt,PSWOT-Barbershop,S,F10wk10,2,15,2:12,3,4,3.5,3,3,3,3,2,2.5,9
+Arabic,590,M,A,20524&20590_B.txt,PSWOT-Barbershop,S,F10wk10,2,15,2:12,3,4,3.5,3,3,3,2,3,2.5,9
+Arabic,148,M,B,19512&19148_B.txt,PSWOT-Barbershop,S,F10wk10,2,16,2:02,2,1.04,2,2,2,1,1,1,1,4
+Chinese,512,F,A,19512&19148_B.txt,PSWOT-Barbershop,S,F10wk10,2,16,2:02,2,1.04,1,1,1,1,1,1,1,3
+Chinese,444,M,A,20588&20444_B.txt,PSWOT-Barbershop,S,F10wk10,2,16,2:14,3,3,3,3,3,3,2,3,2.5,8.5
+Chinese,588,M,B,20588&20444_B.txt,PSWOT-Barbershop,S,F10wk10,2,16,2:14,3,3,3,3,3,3,2,3,2.5,8.5
+Arabic,105,M,A,20280&20105_C.txt,PSWOT-Barbershop,S,F10wk10,2,17,3:45,4,4,4,4,4,4,3,4,3.5,11.5
+Arabic,280,M,B,20280&20105_C.txt,PSWOT-Barbershop,S,F10wk10,2,17,3:45,4,4,4,4,4,4,4,3,3.5,11.5
+Arabic,167,F,A,20167&20281_C.txt,PSWOT-Barbershop,S,F10wk10,2,18,2:01,2,2,2,1,1,1,2,2,2,5
+Arabic,281,F,B,20167&20281_C.txt,PSWOT-Barbershop,S,F10wk10,2,18,2:01,2,2,2,1,1,1,2,2,2,5
+Arabic,378,F,B,20391&20378_C.txt,PSWOT-Barbershop,S,F10wk10,2,19,2:20,2,2,2,1,2,1.5,2,2,2,5.5
+Arabic,391,F,A,20391&20378_C.txt,PSWOT-Barbershop,S,F10wk10,2,19,2:20,3,4,3.5,3,3,3,3,3,3,9.5
+Arabic,101,M,B,20101&20266_C.txt,PSWOT-Barbershop,S,F10wk10,2,20,5:04,4,4,4,3,3,3,3,3,3,10
+Arabic,266,M,A,20101&20266_C.txt,PSWOT-Barbershop,S,F10wk10,2,20,5:04,4,4,4,3,3,3,4,4,4,11
+Arabic,161,M,A,20283&20161_C.txt,PSWOT-Barbershop,S,F10wk10,2,21,3:41,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,283,M,B,20283&20161_C.txt,PSWOT-Barbershop,S,F10wk10,2,21,3:41,4,4,4,3,3,3,3,3,3,10
+Arabic,163,M,A,21163&21516_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,3,3:08,0,2.5,1.25,2.5,3,2.75,3,3,3,7
+Japanese,516,M,B,21163&21516_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,3,3:08,0,2.5,1.25,2.5,3,2.75,3,3,3,7
+Chinese,388,F,B,21410&21388_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,4,2:11,2.5,2.5,2.5,3,3.5,3.25,3,3,3,8.75
+Japanese,410,F,A,21410&21388_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,4,2:11,2.5,2.5,2.5,3,3.5,3.25,3,3,3,8.75
+Chinese,416,M,A,21416&21445_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,5,3:06,3.5,4,3.75,3.5,4,3.75,3.5,3.5,3.5,11
+Chinese,445,F,B,21416&21445_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,5,3:06,3.5,4,3.75,3.5,4,3.75,3.5,3.5,3.5,11
+Chinese,450,M,B,21555&21450_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,6,2:39,0,3,1.5,2.5,3,2.75,3.5,3,3.25,7.5
+Chinese,555,M,A,21555&21450_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,6,2:39,0,3,1.5,2.5,3,2.75,3.5,3,3.25,7.5
+Korean,407,M,A,21407&21586_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,7,2:17,0,2.5,1.25,2.5,3,2.75,3.5,3,3.25,7.25
+Chinese,586,M,B,21407&21586_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,7,2:17,0,2.5,1.25,2.5,3,2.75,3.5,3,3.25,7.25
+Chinese,360,M,A,21360&21437_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,8,2:39,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Chinese,437,M,B,21360&21437_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,8,2:39,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Chinese,353,M,B,21404&21353_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,9,3:01,4,3.5,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Chinese,404,F,A,21404&21353_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,9,3:01,4,3.5,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Arabic,186,M,A,21187&21187_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,10,3:21,3,2,2.5,2,2,2,2,3,2.5,7
+Arabic,187,M,B,21187&21187_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,10,3:21,2,2,2,2,2,2,3,3,3,7
+Arabic,102,M,A,21102&21116_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,11,1:49,4,3,3.5,3,3,3,3,3,3,9.5
+Arabic,116,M,B,21102&21116_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,11,1:49,4,3,3.5,3,3,3,3,3,3,9.5
+Arabic,58,M,B,21162&21058_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,12,3:15,3,3,3,3,3,3,3,3,3,9
+Arabic,162,M,A,21162&21058_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,12,3:15,3,3,3,3,3,3,3,3,3,9
+Arabic,94,M,B,21371&21094_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,13,2:16,2,2,2,2,2,2,2,2,2,6
+Arabic,371,M,A,21371&21094_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,13,2:16,2,2,2,2,2,2,2,2,2,6
+Chinese,460,F,B,21537&21460_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,14,2:41,2,2,2,2,2,2,2,2,2,6
+Chinese,537,F,A,21537&21460_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,14,2:41,2,2,2,2,2,2,2,2,2,6
+Arabic,16,M,A,21016&21156_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,15,3:00,3,3,3,2,2,2,3,3,3,8
+Arabic,156,M,B,21016&21156_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,15,3:00,3,3,3,2,2,2,3,3,3,8
+Arabic,373,M,A,21373&21434_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,16,2:59,3,3,3,2,2,2,1,2,1.5,6.5
+Arabic,434,M,B,21373&21434_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,16,2:59,3,3,3,2,2,2,1,1,1,6
+Arabic,134,F,B,21372&21134_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,17,2:10,2,2,2,1,1,1,2,3,2.5,5.5
+Arabic,372,F,A,21372&21134_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,17,2:10,2,2,2,1,1,1,2,3,2.5,5.5
+Arabic,477,M,B,21477&21502_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,18,2:30,3,3,3,2,2,2,2,3,2.5,7.5
+Arabic,502,M,A,21477&21502_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,18,2:30,3,3,3,2,2,2,2,3,2.5,7.5
+Chinese,365,F,A,21365&21553_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,19,2:43,3,3,3,2,2,2,3,3,3,8
+Chinese,553,F,B,21365&21553_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,19,2:43,3,3,3,2,2,2,3,3,3,8
+Arabic,214,M,A,21214&21325_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,20,3:09,2,2,2,1,1,1,2,2,2,5
+Arabic,325,M,B,21214&21325_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,20,3:09,2,2,2,1,1,1,2,2,2,5
+Chinese,507,F,A,21538&21507_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,21,2:59,2,2,2,2,2,2,3,3,3,7
+Chinese,538,M,B,21538&21507_S.txt,PSWOT-Barbershop,S,Sp11wk10,2,21,2:59,2,2,2,2,2,2,1,1,1,5
+Arabic,140,M,B,05140&05152_B.txt,Scholarship,A,F09wk10,1,38,2:47,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Arabic,152,M,A,05140&05152_B.txt,Scholarship,A,F09wk10,1,38,2:47,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Arabic,208,M,B,05238&05208_B.txt,Scholarship,A,F09wk10,1,39,2:37,3,3,3,4,4,3,3.5,3.5,3.5,9.5
+Arabic,238,M,A,05238&05208_B.txt,Scholarship,A,F09wk10,1,39,2:37,4,4,4,3.5,3.5,2.75,3,3,3,9.75
+Arabic,328,M,A,05328&05532_B.txt,Scholarship,A,F09wk10,1,40,2:30,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Chinese,532,M,B,05328&05532_B.txt,Scholarship,A,F09wk10,1,40,2:30,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,72,M,A,05072&05169_B.txt,Scholarship,A,F09wk10,1,41,2:19,3,3.5,3.25,4,4,3,3.5,3.5,3.5,9.75
+Arabic,169,F,B,05072&05169_B.txt,Scholarship,A,F09wk10,1,41,2:19,3,3.5,3.25,4,4,3,3.5,3.5,3.5,9.75
+Arabic,77,M,B,05077&05307_B.txt,Scholarship,A,F09wk10,1,42,2:20,3.5,3.5,3.5,3,3,2.5,3,3,3,9
+Arabic,307,M,A,05077&05307_B.txt,Scholarship,A,F09wk10,1,42,2:20,3.5,3.5,3.5,3,3,2.5,3,3,3,9
+Arabic,202,F,B,05202&05255_B.txt,Scholarship,A,F09wk10,1,43,2:30,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Arabic,255,M,A,05202&05255_B.txt,Scholarship,A,F09wk10,1,43,2:30,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Arabic,106,M,B,05106&05157_B.txt,Scholarship,A,F09wk10,1,44,2:20,4,4,4,4,4,3,4,4,4,11
+Arabic,157,M,A,05106&05157_B.txt,Scholarship,A,F09wk10,1,44,2:20,4,4,4,4,4,3,4,4,4,11
+Arabic,12,M,A,05012&05310_B.txt,Scholarship,A,F09wk10,1,45,2:48,2.5,3,2.75,3,3,2.5,2.5,2.5,2.5,7.75
+Arabic,310,M,B,05012&05310_B.txt,Scholarship,A,F09wk10,1,45,2:48,2.5,3,2.75,3,3,2.5,2.5,2.5,2.5,7.75
+Arabic,277,M,A,05278&05277_B.txt,Scholarship,A,F09wk10,1,46,2:32,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,278,M,B,05278&05277_B.txt,Scholarship,A,F09wk10,1,46,2:32,3,3,3,3,3,2.5,3,3,3,8.5
+Chinese,442,M,B,05442&05457_B.txt,Scholarship,B,Sp10wk9,1,47,2:37,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Chinese,457,M,A,05442&05457_B.txt,Scholarship,B,Sp10wk9,1,47,2:37,4,4,4,3.5,3.5,2.75,3.5,3.5,3.5,10.25
+Arabic,292,M,A,05584&05292_B.txt,Scholarship,B,Sp10wk9,1,48,2:51,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Chinese,584,M,B,05584&05292_B.txt,Scholarship,B,Sp10wk9,1,48,2:51,3.5,3.5,3.5,3.5,3.5,2.75,3,3,3,9.25
+Chinese,443,M,B,05443&05515_B.txt,Scholarship,B,Sp10wk9,1,49,2:38,3.5,4,3.75,3.5,3.5,2.75,3.5,3.5,3.5,10
+Arabic,515,M,A,05443&05515_B.txt,Scholarship,B,Sp10wk9,1,49,2:38,3.5,4,3.75,3.5,3.5,2.75,3.5,3.5,3.5,10
+Arabic,277,M,A,05313&05277_A.txt,Scholarship,B,Sp10wk9,1,50,3:10,2,3,2.5,1,1,1.5,3,3,3,7
+Arabic,313,M,B,05313&05277_A.txt,Scholarship,B,Sp10wk9,1,50,3:10,2,3,2.5,1,1,1.5,3,3,3,7
+Arabic,141,M,A,05141&05434_A.txt,Scholarship,B,Sp10wk9,1,51,1:56,1,1,1,0,0,1,1,1,1,3
+Arabic,434,M,B,05141&05434_A.txt,Scholarship,B,Sp10wk9,1,51,1:56,1,1,1,0,0,1,1,1,1,3
+Arabic,102,M,A,05102&05474_A.txt,Scholarship,B,Sp10wk9,1,52,2:31,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,474,M,B,05102&05474_A.txt,Scholarship,B,Sp10wk9,1,52,2:31,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,57,M,B,05109&05057_A.txt,Scholarship,B,Sp10wk9,1,53,2:57,4,4,4,3,4,2.5,3,3,3,9.5
+Arabic,109,M,A,05109&05057_A.txt,Scholarship,B,Sp10wk9,1,53,2:57,4,4,4,4,4,3,3,4,3.5,10.5
+Arabic,77,M,B,21144&21077_S.txt,Sleep Clinic,A,F09wk5,2,22,3:09,2,2,2,3,2,2.5,3,3,3,7.5
+Arabic,144,M,A,21144&21077_S.txt,Sleep Clinic,A,F09wk5,2,22,3:09,3,3,3,2,1,1.5,3,3,3,7.5
+Arabic,237,M,B,21243&21237_S.txt,Sleep Clinic,A,F09wk5,2,23,2:41,2,2,2,2,2,2,3,3,3,7
+Arabic,243,M,A,21243&21237_S.txt,Sleep Clinic,A,F09wk5,2,23,2:41,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,152,M,B,21361&21152_S.txt,Sleep Clinic,A,F09wk5,2,24,2:53,3,3,3,3,3,3,3,4,3.5,9.5
+Arabic,361,M,A,21361&21152_S.txt,Sleep Clinic,A,F09wk5,2,24,2:53,3,3,3,3,3,3,3,4,3.5,9.5
+Arabic,188,M,B,21363&21188_S.txt,Sleep Clinic,A,F09wk5,2,25,3:01,2,3,2.5,3,3,3,2,2,2,7.5
+Arabic,363,M,A,21363&21188_S.txt,Sleep Clinic,A,F09wk5,2,25,3:01,2,3,2.5,3,3,3,2,2,2,7.5
+Arabic,346,M,A,21346&21519_S.txt,Sleep Clinic,A,F09wk5,2,26,3:09,3,3,3,3,3,3,3,4,3.5,9.5
+Arabic,519,M,B,21346&21519_S.txt,Sleep Clinic,A,F09wk5,2,26,3:09,3,3,3,3,3,3,3,4,3.5,9.5
+Arabic,2,M,B,21138&21002_S.txt,Sleep Clinic,A,F09wk5,2,27,2:51,2,2,2,3,2,2.5,2,2,2,6.5
+Arabic,138,M,A,21138&21002_S.txt,Sleep Clinic,A,F09wk5,2,27,2:51,2,2,2,2,3,2.5,2,2,2,6.5
+Arabic,205,M,A,21205&21490_S.txt,Sleep Clinic,A,F09wk5,2,28,2:51,3,2,2.5,4,4,4,4,4,4,10.5
+Arabic,490,F,B,21205&21490_S.txt,Sleep Clinic,A,F09wk5,2,28,2:51,3,2,2.5,2,2,2,2,2,2,6.5
+Arabic,55,M,A,21055&21385_S.txt,Sleep Clinic,A,F09wk5,2,29,3:08,2,2,2,4,4,4,4,4,4,10
+Arabic,385,M,B,21055&21385_S.txt,Sleep Clinic,A,F09wk5,2,29,3:08,2,3,2.5,3,3,3,2,2,2,7.5
+Arabic,17,M,B,21161&21017_S.txt,Sleep Clinic,A,F09wk5,2,30,3:14,2,3,2.5,3,3,3,3,3,3,8.5
+Arabic,161,M,A,21161&21017_S.txt,Sleep Clinic,A,F09wk5,2,30,3:14,2,3,2.5,3,3,3,3,3,3,8.5
+Arabic,79,M,A,21079&21209_S.txt,Sleep Clinic,B,Sp10wk5,2,31,1:35,3,3,3,2,1,1.5,2,2,2,6.5
+Arabic,209,M,B,21079&21209_S.txt,Sleep Clinic,B,Sp10wk5,2,31,1:35,3,3,3,2,1,1.5,2,2,2,6.5
+Arabic,294,F,A,21294&21339_S.txt,Sleep Clinic,B,Sp10wk5,2,32,1:35,3,4,3.5,4,4,4,4,4,4,11.5
+Arabic,339,F,B,21294&21339_S.txt,Sleep Clinic,B,Sp10wk5,2,32,1:35,3,3,3,4,4,4,4,4,4,11
+Arabic,319,M,A,21319&21392_S.txt,Sleep Clinic,B,Sp10wk5,2,33,3:15,4,3,3.5,3,3,3,3,4,3.5,10
+Chinese,392,M,B,21319&21392_S.txt,Sleep Clinic,B,Sp10wk5,2,33,3:15,3,3,3,3,3,3,3,3,3,9
+Arabic,248,M,A,21248&21328_S.txt,Sleep Clinic,B,Sp10wk5,2,34,2:57,3,3,3,2,2,2,3,3,3,8
+Arabic,328,M,B,21248&21328_S.txt,Sleep Clinic,B,Sp10wk5,2,34,2:57,3,3,3,2,2,2,3,3,3,8
+Arabic,351,M,B,21482&21351_S.txt,Sleep Clinic,B,Sp10wk5,2,35,2:45,3,3,3,2,2,2,3,3,3,8
+Arabic,482,M,A,21482&21351_S.txt,Sleep Clinic,B,Sp10wk5,2,35,2:45,2,2,2,3,3,3,2,3,2.5,7.5
+Arabic,198,M,A,21198&21299_S.txt,Sleep Clinic,B,Sp10wk5,2,36,1:03,2,1,1.5,1,1,1,3,3,3,5.5
+Arabic,299,M,B,21198&21299_S.txt,Sleep Clinic,B,Sp10wk5,2,36,1:03,2,1,1.5,2,1,1.5,2,3,2.5,5.5
+Arabic,274,M,B,21429&21274_S.txt,Sleep Clinic,B,Sp10wk5,2,37,2:48,3,3,3,3,3,3,4,4,4,10
+Arabic,429,M,A,21429&21274_S.txt,Sleep Clinic,B,Sp10wk5,2,37,2:48,3,3,3,3,3,3,4,4,4,10
+Arabic,95,M,A,22095&22511_S.txt,Sleep Clinic,C,Sum10wk5,2,1,2:38,3.5,3,3.25,3,3,3,3.5,3,3.25,9.5
+Chinese,511,F,B,22095&22511_S.txt,Sleep Clinic,C,Sum10wk5,2,1,2:38,3.5,3,3.25,3,3,3,3.5,3,3.25,9.5
+Arabic,43,M,B,22174&22043_S.txt,Sleep Clinic,C,Sum10wk5,2,2,3:04,3.5,3.5,3.5,3.5,3.5,3.5,2.5,2.5,2.5,9.5
+Arabic,174,M,A,22174&22043_S.txt,Sleep Clinic,C,Sum10wk5,2,2,3:04,3.5,3.5,3.5,3.5,3.5,3.5,2.5,2.5,2.5,9.5
+Arabic,315,M,A,22315&22331_S.txt,Sleep Clinic,C,Sum10wk5,2,3,2:46,4,3.5,3.75,3.5,3.5,3.5,3,3.5,3.25,10.5
+Arabic,331,M,B,22315&22331_S.txt,Sleep Clinic,C,Sum10wk5,2,3,2:46,4,4,4,3.5,3.5,3.5,3,3,3,10.5
+Arabic,259,M,A,21259&21436_S.txt,Sleep Clinic,C,Sum10wk5,2,38,2:11,2,2,2,3,3,3,2,3,2.5,7.5
+Korean,436,F,B,21259&21436_S.txt,Sleep Clinic,C,Sum10wk5,2,38,2:11,3,3,3,3,3,3,4,4,4,10
+Arabic,390,F,A,21390&21592_S.txt,Sleep Clinic,C,Sum10wk5,2,39,3:13,2,3,2.5,4,3,3.5,4,4,4,10
+Arabic,592,M,B,21390&21592_S.txt,Sleep Clinic,C,Sum10wk5,2,39,3:13,2,3,2.5,4,3,3.5,4,4,4,10
+Arabic,37,M,A,05037&05246_A.txt,Spanking,S,F09wk15,1,54,2:56,4,4,4,4,4,3,3,3,3,10
+Arabic,246,M,B,05037&05246_A.txt,Spanking,S,F09wk15,1,54,2:56,4,4,4,4,4,3,3,3,3,10
+Arabic,264,F,A,05264&05465_A.txt,Spanking,S,F09wk15,1,55,3:03,4,4,4,4,4,3,3,3,3,10
+Chinese,465,F,B,05264&05465_A.txt,Spanking,S,F09wk15,1,55,3:03,4,4,4,4,4,3,3,3,3,10
+Chinese,376,F,A,05376&05380_A.txt,Spanking,S,F09wk15,1,56,3:05,2,2,2,2,1,2,3,3,3,7
+Chinese,380,M,B,05376&05380_A.txt,Spanking,S,F09wk15,1,56,3:05,2,2,2,2,1,2,3,3,3,7
+Arabic,126,M,B,05375&05126_A.txt,Spanking,S,F09wk15,1,57,3:08,4,4,4,4,4,3,4,4,4,11
+Arabic,375,M,A,05375&05126_A.txt,Spanking,S,F09wk15,1,57,3:08,4,4,4,4,4,3,4,4,4,11
+Arabic,134,F,A,05134&05372_A.txt,Spanking,S,F09wk15,1,58,2:39,3,3,3,3,3,2.5,4,4,4,9.5
+Arabic,372,F,B,05134&05372_A.txt,Spanking,S,F09wk15,1,58,2:39,3,3,3,3,3,2.5,4,4,4,9.5
+Arabic,89,M,B,05094&05089_A.txt,Spanking,S,F09wk15,1,59,3:03,2,2,2,2,2,2,2,2,2,6
+Arabic,94,M,A,05094&05089_A.txt,Spanking,S,F09wk15,1,59,3:03,2,2,2,2,2,2,2,2,2,6
+Arabic,150,M,B,05195&05150_A.txt,Spanking,S,F09wk15,1,60,3:09,3,3,3,4,4,3,3,4,3.5,9.5
+Arabic,195,M,A,05195&05150_A.txt,Spanking,S,F09wk15,1,60,3:09,3,3,3,4,4,3,3,4,3.5,9.5
+Arabic,283,M,B,05373&05283_A.txt,Spanking,S,F09wk15,1,61,3:12,2,3,2.5,2,2,2,4,4,4,8.5
+Arabic,373,M,A,05373&05283_A.txt,Spanking,S,F09wk15,1,61,3:12,2,3,2.5,2,2,2,4,4,4,8.5
+Arabic,335,F,A,05430&05335_A.txt,Spanking,S,F09wk15,1,62,3:08,3,2,2.5,2,2,2,2,3,2.5,7
+Arabic,430,M,B,05430&05335_A.txt,Spanking,S,F09wk15,1,62,3:08,3,2,2.5,2,2,2,2,3,2.5,7
+Arabic,181,M,A,05181&05186_A.txt,Spanking,S,F10wk15,1,63,2:42,4,4,4,4,4,3,4,4,4,11
+Arabic,186,M,B,05181&05186_A.txt,Spanking,S,F10wk15,1,63,2:42,4,4,4,4,4,3,4,4,4,11
+Arabic,492,M,A,05492&05506_A.txt,Spanking,S,F10wk15,1,64,2:57,4,4,4,4,4,3,4,3,3.5,10.5
+Arabic,506,M,B,05492&05506_A.txt,Spanking,S,F10wk15,1,64,2:57,4,4,4,4,4,3,4,3,3.5,10.5
+Arabic,116,M,B,05521&05116_A.txt,Spanking,S,F10wk15,1,65,2:59,3,3,3,4,4,3,4,4,4,10
+Arabic,521,M,A,05521&05116_A.txt,Spanking,S,F10wk15,1,65,2:59,3,3,3,3,4,2.5,4,4,4,9.5
+Arabic,196,M,A,05196&05371_A.txt,Spanking,S,F10wk15,1,66,3:02,4,4,4,4,4,3,4,4,4,11
+Arabic,371,M,B,05196&05371_A.txt,Spanking,S,F10wk15,1,66,3:02,4,4,4,4,4,3,4,4,4,11
+Chinese,365,F,B,05365&05510_A.txt,Spanking,S,F10wk15,1,67,2:57,2,2,2,1,1,1.5,1,0,0.5,4
+Chinese,510,M,A,05365&05510_A.txt,Spanking,S,F10wk15,1,67,2:57,2,2,2,1,1,1.5,0,1,0.5,4
+Chinese,177,M,A,05564&05177_A.txt,Spanking,S,F10wk15,1,68,3:11,4,4,4,3,3,2.5,4,4,4,10.5
+Chinese,564,M,B,05564&05177_A.txt,Spanking,S,F10wk15,1,68,3:11,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,36,M,A,05036&05125_D.txt,Spanking,S,F10wk15,1,69,2:52,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,125,M,B,05036&05125_D.txt,Spanking,S,F10wk15,1,69,2:52,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,136,M,B,05136&05570_D.txt,Spanking,S,F10wk15,1,70,2:50,3.5,3.5,3.5,3.5,3.5,2.75,4,3.5,3.75,10
+Arabic,570,M,A,05136&05570_D.txt,Spanking,S,F10wk15,1,70,2:50,3.5,3.5,3.5,3.5,3.5,2.75,4,3.5,3.75,10
+Arabic,200,M,A,05323&05200_D.txt,Spanking,S,F10wk15,1,71,2:45,4,4,4,4,4,3,3.5,4,3.75,10.75
+Arabic,323,M,B,05323&05200_D.txt,Spanking,S,F10wk15,1,71,2:45,4,4,4,4,4,3,3.5,4,3.75,10.75
+Arabic,41,M,A,05041&05096_D.txt,Spanking,S,F10wk15,1,72,3:00,3,3.5,3.25,3.5,4,2.75,4,4,4,10
+Arabic,96,M,B,05041&05096_D.txt,Spanking,S,F10wk15,1,72,3:00,3,3.5,3.25,3.5,4,2.75,4,4,4,10
+Arabic,250,F,A,05493&05250_D.txt,Spanking,S,F10wk15,1,73,2:40,3,3,3,2.5,3,2.25,3,3,3,8.25
+Arabic,493,M,B,05493&05250_D.txt,Spanking,S,F10wk15,1,73,2:40,3,3,3,2.5,3,2.25,3,3,3,8.25
+Arabic,4,M,A,05004&05292_D.txt,Spanking,S,F10wk15,1,74,3:02,3,3,3,3.5,3.5,2.75,3.5,3.5,3.5,9.25
+Arabic,292,M,B,05004&05292_D.txt,Spanking,S,F10wk15,1,74,3:02,3,3,3,3.5,3.5,2.75,3.5,3.5,3.5,9.25
+Arabic,207,M,B,05207&05415_D.txt,Spanking,S,Sp11wk15,1,75,2:24,2.5,2.5,2.5,2.5,3,2.25,2.5,2.5,2.5,7.25
+Chinese,415,F,A,05207&05415_D.txt,Spanking,S,Sp11wk15,1,75,2:24,2.5,2.5,2.5,2.5,2.5,2.25,2.5,3,2.75,7.5
+Arabic,326,M,A,05326&05575_D.txt,Spanking,S,Sp11wk15,1,76,2:11,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Chinese,575,M,B,05326&05575_D.txt,Spanking,S,Sp11wk15,1,76,2:11,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,431,M,A,05466&05431_D.txt,Spanking,S,Sp11wk15,1,77,2:30,3,3,3,3,3,2.5,2.5,2.5,2.5,8
+Chinese,466,M,B,05466&05431_D.txt,Spanking,S,Sp11wk15,1,77,2:30,3,3,3,3,3,2.5,2.5,2.5,2.5,8
+Arabic,69,M,A,05069&05147_D.txt,Spanking,S,Sp11wk15,1,78,2:49,3,3,3,3.5,3.5,2.75,3,3,3,8.75
+Arabic,147,M,B,05069&05147_D.txt,Spanking,S,Sp11wk15,1,78,2:49,3,3,3,3.5,3.5,2.75,3,3,3,8.75
+Arabic,80,M,A,05080&05268_D.txt,Spanking,S,Sp11wk15,1,79,2:04,3.5,3.5,3.5,3,2.5,2.5,3,3,3,9
+Arabic,268,M,B,05080&05268_D.txt,Spanking,S,Sp11wk15,1,79,2:04,3.5,3,3.25,3,3,2.5,3,3,3,8.75
+Arabic,135,M,A,05153&05135_D.txt,Spanking,S,Sp11wk15,1,80,2:34,2.5,2.5,2.5,3,3,2.5,3,3,3,8
+Arabic,153,M,B,05153&05135_D.txt,Spanking,S,Sp11wk15,1,80,2:34,2.5,2.5,2.5,3,3,2.5,3,3,3,8
+Arabic,338,M,B,05475&05338_D.txt,Spanking,S,Sp11wk15,1,81,2:58,3,3,3,3,3,2.5,3,2.5,2.75,8.25
+Arabic,475,M,A,05475&05338_D.txt,Spanking,S,Sp11wk15,1,81,2:58,3,3,3,3,3,2.5,3,2.5,2.75,8.25
+Arabic,329,M,B,05329&05336_D.txt,Spanking,S,Sp11wk15,1,82,3:15,3,3.5,3.25,3,3,2.5,3,3,3,8.75
+Arabic,336,M,A,05329&05336_D.txt,Spanking,S,Sp11wk15,1,82,3:15,3.5,3,3.25,3,3,2.5,3,3,3,8.75
+Arabic,242,M,B,05242&05593_D.txt,Spanking,S,Sp11wk15,1,83,1:52,3.5,3.5,3.5,2.5,2.5,2.25,3.5,3,3.25,9
+Arabic,197,M,B,05201&05197_D.txt,Spanking,S,Sp11wk15,1,83,2:51,4,4,4,3.5,3.5,2.75,3.5,4,3.75,10.5
+Arabic,201,M,A,05201&05197_D.txt,Spanking,S,Sp11wk15,1,84,2:51,4,4,4,3.5,3.5,2.75,3.5,4,3.75,10.5
+Arabic,92,M,A,05092&05211_D.txt,Spanking,S,Sp11wk15,1,84,2:48,3,3,3,3,2.5,2.5,3,3,3,8.5
+Arabic,211,M,B,05092&05211_D.txt,Spanking,S,Sp11wk15,1,85,2:48,3,3,3,2.5,2.5,2.25,3,3,3,8.25
+Arabic,73,M,A,05073&05111_D.txt,Spanking,S,Sp11wk15,1,85,2:52,2.5,2.5,2.5,2.5,2.5,2.25,2.5,2.5,2.5,7.25
+Arabic,111,M,B,05073&05111_D.txt,Spanking,S,Sp11wk15,1,86,2:52,2.5,2.5,2.5,2.5,2.5,2.25,2.5,2.5,2.5,7.25
+Arabic,233,M,B,05269&05233_D.txt,Spanking,S,Sp11wk15,1,86,2:54,3,3,3,2.5,2.5,2.25,2.5,2.5,2.5,7.75
+Arabic,269,M,A,05269&05233_D.txt,Spanking,S,Sp11wk15,1,87,2:54,3,3,3,2.5,2.5,2.25,2.5,2.5,2.5,7.75
+Arabic,97,M,B,05279&05097_D.txt,Spanking,S,Sp11wk15,1,87,2:23,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,279,M,A,05279&05097_D.txt,Spanking,S,Sp11wk15,1,88,2:23,3.5,3.5,3.5,3.5,3.5,2.75,3.5,3.5,3.5,9.75
+Arabic,100,M,A,05225&05100_D.txt,Spanking,S,Sp11wk15,1,88,2:38,3.5,3,3.25,3.5,3.5,2.75,3.5,3.5,3.5,9.5
+Arabic,225,M,B,05225&05100_D.txt,Spanking,S,Sp11wk15,1,89,2:38,3.5,3,3.25,3.5,3.5,2.75,3.5,3.5,3.5,9.5
+Arabic,39,M,B,05199&05039_D.txt,Spanking,S,Sp11wk15,1,89,3:12,3,3,3,3.5,3.5,2.75,4,4,4,9.75
+Arabic,199,M,A,05199&05039_D.txt,Spanking,S,Sp11wk15,1,90,3:12,3,3,3,3.5,3.5,2.75,4,4,4,9.75
+Arabic,593,M,A,05242&05593_D.txt,Spanking,S,Sp11wk15,1,90,1:52,3.5,3.5,3.5,2.5,2.5,2.25,3.5,3,3.25,9
+Arabic,144,M,B,05324&05144_C.txt,Spanking,S,Sp11wk15,1,91,2:57,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,324,M,A,05324&05144_C.txt,Spanking,S,Sp11wk15,1,91,2:57,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,48,M,A,05048&05258_C.txt,Spanking,S,Sp11wk15,1,92,1:58,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,258,M,B,05048&05258_C.txt,Spanking,S,Sp11wk15,1,92,1:58,4,4,4,3,3,2.5,3,3,3,9.5
+Arabic,52,M,A,22052&22546_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,4,3:04,3.5,3.5,3.5,3,3.5,3.25,3.5,4,3.75,10.5
+Chinese,546,M,B,22052&22546_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,4,3:04,3,3,3,3.5,3.5,3.5,2.5,2.5,2.5,9
+Arabic,71,M,A,22298&22071_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,5,2:58,3.5,3,3.25,3,2.5,2.75,3,2.5,2.75,8.75
+Arabic,298,M,B,22298&22071_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,5,2:58,3.5,3,3.25,3,2.5,2.75,3,2.5,2.75,8.75
+Arabic,98,M,B,22213&22098_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,6,3:14,3,3,3,3.5,3.5,3.5,4,4,4,10.5
+Arabic,213,M,A,22213&22098_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,6,3:14,3,3.5,3.25,3.5,3,3.25,4,4,4,10.5
+Arabic,50,M,A,22050&22347_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,7,2:59,4,3.5,3.75,2.5,2.5,2.5,3,2.5,2.75,9
+Pashto,347,F,B,22050&22347_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,7,2:59,3.5,3.5,3.5,3,3.5,3.25,3.5,4,3.75,10.5
+Arabic,47,M,B,22320&22047_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,8,3:03,3.5,3.5,3.5,3.5,3.5,3.5,2.5,2.5,2.5,9.5
+Arabic,320,M,A,22320&22047_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,8,3:03,3.5,3.5,3.5,3.5,3.5,3.5,2.5,2.5,2.5,9.5
+Arabic,1,M,A,22001&22113_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,9,2:52,3.5,3,3.25,3,3.5,3.25,3.5,3.5,3.5,10
+Arabic,113,M,B,22001&22113_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,9,2:52,3.5,3,3.25,3,3.5,3.25,3.5,3.5,3.5,10
+Arabic,247,M,B,22247&22551_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,10,3:18,3,2.5,2.75,2.5,2.5,2.5,3,3,3,8.25
+Arabic,551,M,A,22247&22551_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,10,3:18,3,2.5,2.75,2.5,2.5,2.5,3,3,3,8.25
+Arabic,110,M,B,22110&22476_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,11,3:19,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Arabic,476,M,A,22110&22476_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,11,3:19,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Arabic,150,M,B,22179&22150_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,12,3:19,3.5,3.5,3.5,3,2.5,2.75,2.5,2.5,2.5,8.75
+Arabic,179,M,A,22179&22150_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,12,3:19,3.5,3.5,3.5,3,2.5,2.75,2.5,2.5,2.5,8.75
+Chinese,397,F,A,22397&22459_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,13,3:03,3.5,3.5,3.5,3,3,3,2,2.5,2.25,8.75
+Chinese,459,F,B,22397&22459_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,13,3:03,3.5,3.5,3.5,3,3,3,2,2.5,2.25,8.75
+Arabic,228,M,B,22389&22228_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,14,2:18,3.5,3,3.25,3,3,3,3.5,3.5,3.5,9.75
+Chinese,389,F,A,22389&22228_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,14,2:18,3.5,3,3.25,3,3,3,3.5,3.5,3.5,9.75
+Arabic,51,M,B,22139&22051_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,15,3:26,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,139,M,A,22139&22051_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,15,3:26,4,4,4,4,4,4,4,4,4,12
+Arabic,268,M,B,22431&22268_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,16,2:48,3.5,3.5,3.5,3.5,3.5,3.5,2,2,2,9
+Arabic,431,M,A,22431&22268_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,16,2:48,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,96,M,B,22096&22364_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,17,3:08,4,4,4,3.5,3.5,3.5,2,2,2,9.5
+Arabic,364,M,A,22096&22364_S.txt,SWOT-Selecting a Store to Open,S,F12wk14,2,17,3:08,4,4,4,3.5,3.5,3.5,3,3,3,10.5
+Arabic,136,M,A,22292&22136_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,18,2:29,2.5,2.5,2.5,3.5,3.5,3.5,3.5,3.5,3.5,9.5
+Arabic,292,M,B,22292&22136_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,18,2:29,2.5,2.5,2.5,3.5,3.5,3.5,2.5,2,2.25,8.25
+Arabic,69,M,A,22069&22147_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,19,4:01,3.5,3,3.25,3,3,3,2.5,2.5,2.5,8.75
+Arabic,147,M,B,22069&22147_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,19,4:01,3.5,3,3.25,3,3,3,3,3,3,9.25
+Arabic,80,M,A,22080&22207_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,20,2:01,4,4,4,4,4,4,2.5,2.5,2.5,10.5
+Arabic,207,M,B,22080&22207_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,20,2:01,4,4,4,4,4,4,3,3,3,11
+Arabic,317,M,B,22319&22317_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,21,3:12,3.5,3.5,3.5,4,4,4,2,2,2,9.5
+Arabic,319,M,A,22319&22317_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,21,3:12,3.5,3.5,3.5,4,4,4,4,3.5,3.75,11.25
+Chinese,415,F,A,22415&22466_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,22,4:50,3,3,3,3.5,3.5,3.5,2,2,2,8.5
+Chinese,466,M,B,22415&22466_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,22,4:50,3,3,3,3.5,3.5,3.5,2,2,2,8.5
+Arabic,250,F,A,22250&22493_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,23,0:03,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,493,M,B,22250&22493_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,23,0:03,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,135,M,A,22135&22326_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,24,3:23,2.5,3,2.75,3,2.5,2.75,2.5,2.5,2.5,8
+Arabic,326,M,B,22135&22326_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,24,3:23,2.5,3,2.75,3,2.5,2.75,3,2,2.5,8
+Arabic,153,M,B,22527&22153_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,25,3:44,3.5,3.5,3.5,3.5,3.5,3.5,2.5,3,2.75,9.75
+Arabic,527,M,A,22527&22153_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,25,3:44,3.5,3.5,3.5,3.5,3.5,3.5,2.5,3,2.75,9.75
+Arabic,90,M,B,22092&22090_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,26,3:01,4,3.5,3.75,4,3.5,3.75,3.5,3,3.25,10.75
+Arabic,92,M,A,22092&22090_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,26,3:01,3.5,4,3.75,3.5,4,3.75,4,3.5,3.75,11.25
+Arabic,111,M,B,22111&22155_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,27,2:56,3.5,3.5,3.5,3,3.5,3.25,2.5,2,2.25,9
+Arabic,155,M,A,22111&22155_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,27,2:56,3.5,3.5,3.5,3.5,3,3.25,2.5,3,2.75,9.5
+Arabic,269,M,A,22269&22329_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,28,3:21,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,329,M,B,22269&22329_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,28,3:21,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,97,M,A,22279&22097_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,29,3:04,3.5,3.5,3.5,3.5,3.5,3.5,3,3,3,10
+Arabic,279,M,B,22279&22097_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,29,3:04,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,338,M,A,22338&22423_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,30,3:03,3.5,3.5,3.5,3.5,3.5,3.5,4,4,4,11
+Arabic,423,M,B,22338&22423_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,30,3:03,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,100,M,B,22225&22100_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,31,3:04,4,4,4,4,4,4,4,4,4,12
+Arabic,225,M,A,22225&22100_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,31,3:04,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,39,M,A,22199&22039_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,32,2:57,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,199,M,B,22199&22039_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,32,2:57,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,200,M,B,22200&22323_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,33,3:02,3,3,3,4,4,4,3,3.5,3.25,10.25
+Arabic,323,M,A,22200&22323_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,33,3:02,3,3,3,4,4,4,2.5,3,2.75,9.75
+Arabic,73,M,A,22575&22073_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,34,3:10,4,4,4,4,4,4,4,4,4,12
+Chinese,575,M,B,22575&22073_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,34,3:10,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,36,M,B,22036&22125_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,35,3:09,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,125,M,A,22036&22125_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,35,3:09,4,4,4,4,4,4,3.5,3.5,3.5,11.5
+Arabic,84,M,A,22084&22320_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,36,3:16,4,3.5,3.75,4,3.5,3.75,4,3.5,3.75,11.25
+Arabic,320,M,B,22084&22320_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,36,3:16,4,4,4,4,4,4,4,3.5,3.75,11.75
+Arabic,40,F,A,22040&22352_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,37,2:31,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,352,F,B,22040&22352_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,37,2:31,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,422,F,A,22466&22422_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,38,2:37,3,3,3,3.5,3.5,3.5,3,3.5,3.25,9.75
+Chinese,466,M,B,22466&22422_S.txt,SWOT-Selecting a Store to Open,S,Sp12wk14,2,38,2:37,3,3,3,3.5,3.5,3.5,3,3.5,3.25,9.75
+Arabic,186,M,A,23186&23187_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,1,2:45,4,4,4,3,4,3.5,4,4,4,11.5
+Arabic,187,M,B,23186&23187_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,1,2:45,4,4,4,3,4,3.5,3,3,3,10.5
+Arabic,334,M,B,23334&23539_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,2,3:02,4,4,4,3,3,3,3,3,3,10
+Chinese,539,F,A,23334&23539_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,2,3:02,3,3,3,3,3,3,3,3,3,9
+Arabic,254,M,A,23325&23254_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,3,2:58,3,3,3,3,3,3,3,4,3.5,9.5
+Arabic,325,M,B,23325&23254_A.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,3,2:58,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,231,M,A,22232&22231_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,39,3:13,4,4,4,4,4,4,4,3.5,3.75,11.75
+Arabic,232,M,B,22232&22231_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,39,3:13,4,3.5,3.75,4,3.5,3.75,4,4,4,11.5
+Arabic,229,M,A,22230&22229_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,40,2:44,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,230,F,B,22230&22229_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,40,2:44,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,127,M,B,22127&22303_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,41,2:44,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Arabic,303,M,A,22127&22303_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,41,2:44,3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.25,10.25
+Arabic,19,F,B,22019&22180_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,42,3:01,4,3.5,3.75,4,4,4,4,4,4,11.75
+Arabic,180,M,A,22019&22180_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,42,3:01,4,3.5,3.75,4,4,4,4,4,4,11.75
+Arabic,235,M,B,22235&22326_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,43,2:44,3.5,3.5,3.5,4,3.5,3.75,3,3.5,3.25,10.5
+Arabic,326,M,A,22235&22326_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,43,2:44,3.5,3.5,3.5,4,3.5,3.75,3,3.5,3.25,10.5
+Arabic,314,M,B,22314&22393_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,44,2:44,3,3.5,3.25,3.5,3.5,3.5,4,4,4,10.75
+Arabic,393,F,A,22314&22393_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,44,2:44,3,3.5,3.25,3.5,3.5,3.5,4,4,4,10.75
+Arabic,182,M,A,22182&22340_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,45,3:17,4,4,4,3.5,3.5,3.5,3.5,3,3.25,10.75
+Arabic,340,M,B,22182&22340_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,45,3:17,4,4,4,3.5,3.5,3.5,3.5,3,3.25,10.75
+Arabic,52,M,B,22200&22052_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,46,3:08,4,3.5,3.75,4,3.5,3.75,4,4,4,11.5
+Arabic,200,M,A,22200&22052_S.txt,SWOT-Selecting a Store to Open,S,Sum12wk10,2,46,3:08,4,3.5,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,124,M,A,05124&05412_C.txt,Voluntary simplicity,A,F10wk10,1,93,3:17,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,412,M,B,05124&05412_C.txt,Voluntary simplicity,A,F10wk10,1,93,3:17,3,3,3,2,2,2,3,3,3,8
+Arabic,276,M,B,05310&05276_C.txt,Voluntary simplicity,A,F10wk10,1,94,3:06,2,2,2,2,3,2,3,3,3,7
+Arabic,310,M,A,05310&05276_C.txt,Voluntary simplicity,A,F10wk10,1,94,3:06,2,3,2.5,2,3,2,3,3,3,7.5
+Arabic,131,M,A,05131&05161_C.txt,Voluntary simplicity,A,F10wk10,1,95,3:11,3,2,2.5,3,3,2.5,2,2,2,7
+Arabic,161,M,B,05131&05161_C.txt,Voluntary simplicity,A,F10wk10,1,95,3:11,2,3,2.5,3,3,2.5,2,2,2,7
+Arabic,259,M,B,05385&05259_C.txt,Voluntary simplicity,A,F10wk10,1,96,3:14,3,3,3,2,2,2,3,3,3,8
+Arabic,385,M,A,05385&05259_C.txt,Voluntary simplicity,A,F10wk10,1,96,3:14,3,3,3,2,2,2,3,3,3,8
+Arabic,86,F,A,05086&05443_C.txt,Voluntary simplicity,A,F10wk10,1,97,4:36,1,1,1,2,2,2,2,2,2,5
+Chinese,443,M,B,05086&05443_C.txt,Voluntary simplicity,A,F10wk10,1,97,4:36,1,1,1,2,2,2,2,2,2,5
+Arabic,294,F,A,05294&05520_C.txt,Voluntary simplicity,A,F10wk10,1,98,2:40,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,520,F,B,05294&05520_C.txt,Voluntary simplicity,A,F10wk10,1,98,2:40,4,4,4,3,3,2.5,4,4,4,10.5
+Arabic,206,M,B,07212&07206_C.txt,Voluntary simplicity,A,F10wk10,1,99,2:38,3,3,3,2,2,2,3,3,3,8
+Arabic,212,M,A,07212&07206_C.txt,Voluntary simplicity,A,F10wk10,1,99,2:38,3,3,3,2,2,2,3,3,3,8
+Arabic,85,M,A,05085&05196_C.txt,Voluntary simplicity,A,F10wk10,1,100,4:12,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,196,M,B,05085&05196_C.txt,Voluntary simplicity,A,F10wk10,1,100,4:12,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,188,M,A,05188&05361_C.txt,Voluntary simplicity,A,F10wk10,1,101,2:20,3,3,3,3,3,2.5,2,2,2,7.5
+Arabic,361,M,B,05188&05361_C.txt,Voluntary simplicity,A,F10wk10,1,101,2:20,3,3,3,3,3,2.5,2,2,2,7.5
+Arabic,169,F,A,05169&05196_C.txt,Voluntary simplicity,A,F10wk10,1,102,2:47,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,196,M,B,05169&05196_C.txt,Voluntary simplicity,A,F10wk10,1,102,2:47,3,3,3,3,3,2.5,3,3,3,8.5
+Arabic,429,M,B,05521&05429_C.txt,Voluntary simplicity,A,F10wk10,1,103,2:40,3,3,3,2,2,2,3,3,3,8
+Arabic,521,M,A,05521&05429_C.txt,Voluntary simplicity,A,F10wk10,1,103,2:40,3,3,3,2,2,2,3,3,3,8
+Arabic,79,M,B,05499&05079_C.txt,Voluntary simplicity,A,F10wk10,1,104,3:14,3,3,3,2,2,2,3,3,3,8
+Arabic,499,M,A,05499&05079_C.txt,Voluntary simplicity,A,F10wk10,1,104,3:14,3,3,3,2,2,2,3,3,3,8
+Arabic,165,M,A,25165&25191_S.txt,Voluntary simplicity,B,F11wk15,1,1,2:43,4,4,4,2,2,2,3,4,3.5,9.5
+Arabic,191,M,B,25165&25191_S.txt,Voluntary simplicity,B,F11wk15,1,1,2:43,4,4,4,2,2,2,3,4,3.5,9.5
+Chinese,383,F,B,06484&06383_A.txt,Voluntary simplicity,B,F11wk15,1,1,2:28,3,3,3,3,3,3,3,3,3,9
+Japanese,484,F,A,06484&06383_A.txt,Voluntary simplicity,B,F11wk15,1,1,2:28,3,3,3,3,3,3,3,3,3,9
+Arabic,148,M,B,25148&25343_S.txt,Voluntary simplicity,B,F11wk15,1,2,3:03,4,4,4,3,2,2.5,3,3,3,9.5
+Arabic,343,M,A,25148&25343_S.txt,Voluntary simplicity,B,F11wk15,1,2,3:03,3,2,2.5,3,2,2.5,3,2,2.5,7.5
+Chinese,497,M,B,06497&06526_A.txt,Voluntary simplicity,B,F11wk15,1,2,2:06,3,3,3,3,3,3,3,3,3,9
+Chinese,526,F,A,06497&06526_A.txt,Voluntary simplicity,B,F11wk15,1,2,2:06,3,3,3,3,3,3,3,3,3,9
+Arabic,148,M,B,25148&25394_S.txt,Voluntary simplicity,B,F11wk15,1,3,3:03,3,2,2.5,3,2,2.5,3,2,2.5,7.5
+Korean,394,M,A,25148&25394_S.txt,Voluntary simplicity,B,F11wk15,1,3,3:03,4,4,4,3,2,2.5,3,3,3,9.5
+Chinese,405,F,B,06494&06405_A.txt,Voluntary simplicity,B,F11wk15,1,3,2:38,3,3,3,3,3,3,3,3,3,9
+Chinese,494,M,A,06494&06405_A.txt,Voluntary simplicity,B,F11wk15,1,3,2:38,3,3,3,3,3,3,3,3,3,9
+Arabic,234,M,B,25297&25234_S.txt,Voluntary simplicity,B,F11wk15,1,4,3:08,3,3,3,3,3,3,3,3,3,9
+Arabic,297,M,A,25297&25234_S.txt,Voluntary simplicity,B,F11wk15,1,4,3:08,3,3,3,3,3,3,3,3,3,9
+Chinese,533,M,A,06533&06576_A.txt,Voluntary simplicity,B,F11wk15,1,4,2:31,4,4,4,4,4,4,4,4,4,12
+Chinese,576,F,B,06533&06576_A.txt,Voluntary simplicity,B,F11wk15,1,4,2:31,4,4,4,4,4,4,4,4,4,12
+Arabic,27,M,B,25028&25027_S.txt,Voluntary simplicity,B,F11wk15,1,5,3:06,4,4,4,3,2,2.5,3,3,3,9.5
+Arabic,28,M,A,25028&25027_S.txt,Voluntary simplicity,B,F11wk15,1,5,3:06,4,4,4,3,2,2.5,3,3,3,9.5
+Chinese,467,M,B,06513&06467_A.txt,Voluntary simplicity,B,F11wk15,1,5,2:31,3,3,3,2,2,2,2,2,2,7
+Chinese,513,F,A,06513&06467_A.txt,Voluntary simplicity,B,F11wk15,1,5,2:31,3,3,3,2,2,2,2,2,2,7
+Chinese,577,F,A,25580&25577_S.txt,Voluntary simplicity,B,F11wk15,1,6,3:35,3,3,3,2,2,2,2,3,2.5,7.5
+Chinese,580,M,B,25580&25577_S.txt,Voluntary simplicity,B,F11wk15,1,6,3:35,3,3,3,2,2,2,2,3,2.5,7.5
+Japanese,427,F,A,06427&06469_A.txt,Voluntary simplicity,B,F11wk15,1,6,2:31,3,3,3,3,3,3,3,3,3,9
+Chinese,469,M,B,06427&06469_A.txt,Voluntary simplicity,B,F11wk15,1,6,2:31,3,3,3,3,3,3,3,3,3,9
+Chinese,355,M,B,25417&25355_S.txt,Voluntary simplicity,B,F11wk15,1,7,3:15,3,2,2.5,3,3,3,3,2,2.5,8
+Chinese,417,F,A,25417&25355_S.txt,Voluntary simplicity,B,F11wk15,1,7,3:15,3,2,2.5,3,3,3,3,2,2.5,8
+Chinese,418,F,A,06418&06458_A.txt,Voluntary simplicity,B,F11wk15,1,7,2:12,3,3,3,3,2,2.5,2,2,2,7
+Chinese,458,F,B,06418&06458_A.txt,Voluntary simplicity,B,F11wk15,1,7,2:12,3,3,3,3,2,2.5,2,2,2,7
+Chinese,543,M,A,25543&25560_S.txt,Voluntary simplicity,B,F11wk15,1,8,3:27,2,3,2.5,3,2,2.5,2,2,2,7
+Chinese,560,M,B,25543&25560_S.txt,Voluntary simplicity,B,F11wk15,1,8,3:27,2,3,2.5,3,2,2.5,2,2,2,7
+Arabic,342,M,B,06534&06342_A.txt,Voluntary simplicity,B,F11wk15,1,8,2:13,4,3,3.5,3,2,2.5,4,3,3.5,11
+Chinese,534,M,A,06534&06342_A.txt,Voluntary simplicity,B,F11wk15,1,8,2:13,4,3,3.5,3,2,2.5,4,3,3.5,11
+Chinese,416,M,A,25450&25416_S.txt,Voluntary simplicity,B,F11wk15,1,9,3:20,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,450,M,B,25450&25416_S.txt,Voluntary simplicity,B,F11wk15,1,9,3:20,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,367,F,B,06545&06367_A.txt,Voluntary simplicity,B,F11wk15,1,9,2:13,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,545,F,A,06545&06367_A.txt,Voluntary simplicity,B,F11wk15,1,9,2:13,3,2,2.5,2,2,2,2,2,2,6.5
+Chinese,438,M,A,25438&25542_S.txt,Voluntary simplicity,B,F11wk15,1,10,3:15,2,3,2.5,2,3,2.5,2,2,2,7
+Chinese,542,M,B,25438&25542_S.txt,Voluntary simplicity,B,F11wk15,1,10,3:15,2,3,2.5,2,3,2.5,2,2,2,7
+Japanese,410,F,B,25410&25433_S.txt,Voluntary simplicity,B,F11wk15,1,11,3:04,3,2,2.5,3,3,3,3,3,3,8.5
+Japanese,433,F,A,25410&25433_S.txt,Voluntary simplicity,B,F11wk15,1,11,3:04,3,2,2.5,3,3,3,3,3,3,8.5
+Arabic,54,M,B,25413&25054_S.txt,Voluntary simplicity,B,F11wk15,1,12,3:13,2,2,2,2,2,2,2,3,2.5,6.5
+Korean,413,M,A,25413&25054_S.txt,Voluntary simplicity,B,F11wk15,1,12,3:13,2,2,2,2,2,2,2,3,2.5,6.5
+Chinese,399,M,B,25399&25534_S.txt,Voluntary simplicity,B,F11wk15,1,13,3:26,3,3,3,2,2,2,3,3,3,8
+Chinese,534,M,A,25399&25534_S.txt,Voluntary simplicity,B,F11wk15,1,13,3:26,3,3,3,2,2,2,3,3,3,8
+Arabic,54,M,A,06383&06054_A.txt,Voluntary simplicity,A,Sp10wk15,1,10,2:39,3,3,3,3,3,3,3,3,3,9
+Chinese,383,F,B,06383&06054_A.txt,Voluntary simplicity,A,Sp10wk15,1,10,2:39,3,3,3,3,3,3,3,3,3,9
+Chinese,384,F,A,06384&06561_A.txt,Voluntary simplicity,A,Sp10wk15,1,11,2:04,4,4,4,4,4,4,4,4,4,12
+Chinese,561,M,B,06384&06561_A.txt,Voluntary simplicity,A,Sp10wk15,1,11,2:04,4,4,4,4,4,4,4,4,4,12
+Arabic,160,F,B,06509&06160_A.txt,Voluntary simplicity,A,Sp10wk15,1,12,2:08,2,2,2,2,1,1.5,3,2,2.5,7.5
+Chinese,509,F,A,06509&06160_A.txt,Voluntary simplicity,A,Sp10wk15,1,12,2:08,2,2,2,2,1,1.5,3,2,2.5,7.5
+Chinese,568,M,B,06569&06568_A.txt,Voluntary simplicity,A,Sp10wk15,1,13,2:07,3,3,3,1,1,1,1,1,1,5
+Chinese,569,M,A,06569&06568_A.txt,Voluntary simplicity,A,Sp10wk15,1,13,2:07,3,3,3,1,1,1,1,1,1,5
+Arabic,30,M,A,06034&06030_B.txt,Voluntary simplicity,A,Sp10wk15,1,14,2:57,2,2,2,2,2,2,2,2,2,6
+Arabic,34,M,B,06034&06030_B.txt,Voluntary simplicity,A,Sp10wk15,1,14,2:57,3,3,3,1,1,1,2,1,1.5,6.5
+Arabic,163,M,A,06163&06587_B.txt,Voluntary simplicity,A,Sp10wk15,1,15,2:49,4,4,4,2,2,2,2,2,2,8
+Chinese,587,F,B,06163&06587_B.txt,Voluntary simplicity,A,Sp10wk15,1,15,2:49,4,4,4,2,2,2,2,2,2,8
+Chinese,424,F,B,06471&06424_B.txt,Voluntary simplicity,A,Sp10wk15,1,16,3:03,4,4,4,3,3,3,4,4,4,12
+Chinese,471,M,A,06471&06424_B.txt,Voluntary simplicity,A,Sp10wk15,1,16,3:03,4,4,4,4,4,4,4,4,4,12
+Arabic,65,M,B,07348&07065_A.txt,Voluntary simplicity,A,Sp11wk10,1,1,2:38,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,348,M,A,07348&07065_A.txt,Voluntary simplicity,A,Sp11wk10,1,1,2:38,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Arabic,77,M,B,07157&07077_A.txt,Voluntary simplicity,A,Sp11wk10,1,2,2:57,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,157,M,A,07157&07077_A.txt,Voluntary simplicity,A,Sp11wk10,1,2,2:57,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Arabic,308,M,B,07520&07308_A.txt,Voluntary simplicity,A,Sp11wk10,1,3,2:12,3,3,3,3,3.5,3.25,3.5,3.5,3.5,9.75
+Arabic,520,F,A,07520&07308_A.txt,Voluntary simplicity,A,Sp11wk10,1,3,2:12,3,3,3,3.5,3,3.25,3.5,,3.5,9.75
+Arabic,79,M,A,07079&07429_A.txt,Voluntary simplicity,A,Sp11wk10,1,4,2:47,3.5,3.5,3.5,3.5,3,3.25,3,3,3,9.75
+Arabic,429,M,B,07079&07429_A.txt,Voluntary simplicity,A,Sp11wk10,1,4,2:47,3.5,3.5,3.5,3.5,3,3.25,3,3,3,9.75
+Arabic,224,M,A,07224&07328_A.txt,Voluntary simplicity,A,Sp11wk10,1,5,2:04,3,3,3,2.5,2.5,2.5,3.5,3.5,3.5,9
+Arabic,328,M,B,07224&07328_A.txt,Voluntary simplicity,A,Sp11wk10,1,5,2:04,3,3,3,2.5,2.5,2.5,3.5,3.5,3.5,9
+Chinese,489,M,B,07554&07489_A.txt,Voluntary simplicity,A,Sp11wk10,1,6,2:37,3,3,3,2.5,2.5,2.5,3,3,3,8.5
+Chinese,554,M,A,07554&07489_A.txt,Voluntary simplicity,A,Sp11wk10,1,6,2:37,3,3,3,2.5,2.5,2.5,3,3,3,8.5
+Arabic,56,M,B,07153&07056_A.txt,Voluntary simplicity,A,Sp11wk10,1,7,2:30,3.5,3.5,3.5,3.5,3.5,3.5,3.5,4,3.75,10.75
+Arabic,153,M,A,07153&07056_A.txt,Voluntary simplicity,A,Sp11wk10,1,7,2:30,3.5,3.5,3.5,3.5,3.5,3.5,3.5,4,3.75,10.75
+Arabic,152,M,A,07319&07152_A.txt,Voluntary simplicity,A,Sp11wk10,1,8,2:44,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,319,M,B,07319&07152_A.txt,Voluntary simplicity,A,Sp11wk10,1,8,2:44,3,3,3,3.5,3.5,3.5,3.5,3,3.25,9.75
+Arabic,276,M,A,07411&07276_A.txt,Voluntary simplicity,A,Sp11wk10,1,9,2:50,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Japanese,411,F,B,07411&07276_A.txt,Voluntary simplicity,A,Sp11wk10,1,9,2:50,3,3,3,3.5,3.5,3.5,3,3,3,9.5
+Arabic,72,M,A,07072&07277_A.txt,Voluntary simplicity,A,Sp11wk10,1,10,2:51,3.5,3,3.25,2.5,2.5,2.5,3,3,3,8.75
+Arabic,277,M,B,07072&07277_A.txt,Voluntary simplicity,A,Sp11wk10,1,10,2:51,3.5,3,3.25,2.5,2.5,2.5,3,3,3,8.75
+Arabic,63,M,B,07143&07063_A.txt,Voluntary simplicity,A,Sp11wk10,1,11,2:55,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,143,M,A,07143&07063_A.txt,Voluntary simplicity,A,Sp11wk10,1,11,2:55,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,10.5
+Arabic,238,M,B,07238&07239_A.txt,Voluntary simplicity,A,Sp11wk10,1,12,2:49,4,4,4,4,4,4,4,4,4,12
+Arabic,239,M,A,07238&07239_A.txt,Voluntary simplicity,A,Sp11wk10,1,12,2:49,4,4,4,4,4,4,4,4,4,12
+Arabic,202,F,A,07202&07327_A.txt,Voluntary simplicity,A,Sp11wk10,1,13,2:40,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,327,M,B,07202&07327_A.txt,Voluntary simplicity,A,Sp11wk10,1,13,2:40,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Arabic,106,M,B,07106&07307_A.txt,Voluntary simplicity,A,Sp11wk10,1,14,2:40,3.5,3.5,3.5,3.5,3,3.25,3.5,3.5,3.5,10.25
+Arabic,307,M,A,07106&07307_A.txt,Voluntary simplicity,A,Sp11wk10,1,14,2:40,3.5,3.5,3.5,3.5,3,3.25,3.5,3.5,3.5,10.25
+Arabic,34,M,B,07278&07034_A.txt,Voluntary simplicity,A,Sp11wk10,1,15,2:16,3.5,3,3.25,3.5,3.5,3.5,3,3,3,9.75
+Arabic,278,M,A,07278&07034_A.txt,Voluntary simplicity,A,Sp11wk10,1,15,2:16,3.5,3,3.25,3.5,3.5,3.5,3,3,3,9.75
+Arabic,12,M,A,07208&07012_A.txt,Voluntary simplicity,A,Sp11wk10,1,16,2:31,3.5,3.5,3.5,3,3,3,3,3.5,3.25,9.75
+Arabic,208,M,B,07208&07012_A.txt,Voluntary simplicity,A,Sp11wk10,1,16,2:31,3.5,3.5,3.5,3,3,3,3,3.5,3.25,9.75
+Arabic,343,M,A,06343&06399_B.txt,Voluntary simplicity,A,Sp11wk10,1,17,3:17,4,3,3.5,2,2,2,3,3,3,9.5
+Chinese,399,M,B,06343&06399_B.txt,Voluntary simplicity,A,Sp11wk10,1,17,3:17,4,4,4,2,2,2,3,4,3.5,10.5
+Chinese,442,M,A,07442&07457_A.txt,Voluntary simplicity,A,Sp11wk10,1,17,2:53,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Chinese,457,M,B,07442&07457_A.txt,Voluntary simplicity,A,Sp11wk10,1,17,2:53,4,4,4,3.5,3.5,3.5,4,4,4,11.5
+Chinese,547,M,A,07584&07547_A.txt,Voluntary simplicity,A,Sp11wk10,1,18,2:11,3,3,3,3,3,3,3,3,3,9
+Chinese,584,M,B,07584&07547_A.txt,Voluntary simplicity,A,Sp11wk10,1,18,2:11,3,3,3,3,3,3,3,3,3,9
+Arabic,201,M,B,07532&07201_A.txt,Voluntary simplicity,A,Sp11wk10,1,19,4:28,2.5,2.5,2.5,2.5,2.5,2.5,2.5,3,2.75,7.75
+Chinese,532,M,A,07532&07201_A.txt,Voluntary simplicity,A,Sp11wk10,1,19,4:28,2.5,2.5,2.5,2.5,2.5,2.5,3,2.5,2.75,7.75
+Chinese,443,M,B,07443&07515_A.txt,Voluntary simplicity,C,Su10wk10,1,20,2:14,3.5,3.5,3.5,3.5,3.5,3.5,3.5,4,3.75,10.75
+Arabic,515,M,A,07443&07515_A.txt,Voluntary simplicity,C,Su10wk10,1,20,2:14,3.5,3.5,3.5,3.5,3.5,3.5,3.5,4,3.75,10.75
+Arabic,144,M,B,07324&07144_B.txt,Voluntary simplicity,C,Su10wk10,1,21,3:02,4,4,4,3,2,2.5,3,2,2.5,9
+Arabic,324,M,A,07324&07144_B.txt,Voluntary simplicity,C,Su10wk10,1,21,3:02,4,4,4,3,2,2.5,3,2,2.5,9
+Arabic,346,M,A,07346&07592_B.txt,Voluntary simplicity,C,Su10wk10,1,22,3:21,3,3,3,2,2,2,2,2,2,7
+Arabic,592,M,B,07346&07592_B.txt,Voluntary simplicity,C,Su10wk10,1,22,3:21,3,3,3,2,2,2,2,2,2,7
+Arabic,56,M,A,07056&07328_B.txt,Voluntary simplicity,C,Su10wk10,1,23,3:10,2,2,2,2,2,2,1,1,1,5
+Arabic,328,M,B,07056&07328_B.txt,Voluntary simplicity,C,Su10wk10,1,23,3:10,2,2,2,1,1,1,1,1,1,4
+Arabic,53,M,A,07053&07515_B.txt,Voluntary simplicity,C,Su10wk10,1,24,3:08,2,2,2,1,1,1,1,1,1,4
+Arabic,515,M,B,07053&07515_B.txt,Voluntary simplicity,B,Su11wk10,1,24,3:08,2,2,2,1,1,1,1,1,1,4
+Arabic,20,M,B,07258&07020_B.txt,Voluntary simplicity,B,Su11wk8,1,25,3:02,4,4,4,4,4,4,3,3,3,11
+Arabic,258,M,A,07258&07020_B.txt,Voluntary simplicity,B,Su11wk8,1,25,3:02,4,4,4,4,4,4,3,3,3,11
+Arabic,161,M,B,07161&07396_B.txt,Voluntary simplicity,B,Su11wk8,1,26,3:11,4,4,4,3,3,3,4,4,4,11
+Arabic,396,M,A,07161&07396_B.txt,Voluntary simplicity,B,Su11wk8,1,26,3:11,4,4,4,3,3,3,4,4,4,11
+Arabic,31,M,A,07079&07031_B.txt,Voluntary simplicity,B,Su11wk8,1,27,3:06,2,2,2,3,3,3,4,4,4,9
+Arabic,79,M,B,07079&07031_B.txt,Voluntary simplicity,B,Su11wk8,1,27,3:06,2,2,2,2,2,2,1,1,1,5
+Arabic,294,F,A,07339&07294_B.txt,Voluntary simplicity,B,Su11wk8,1,28,3:04,3,4,3.5,3,4,3.5,4,3,3.5,10.5
+Arabic,339,F,B,07339&07294_B.txt,Voluntary simplicity,B,Su11wk8,1,28,3:04,3,4,3.5,3,4,3.5,4,3,3.5,10.5
+Arabic,169,F,B,07328&07169_B.txt,Voluntary simplicity,B,Su11wk8,1,29,2:37,2,2,2,1,1,1,1,1,1,4
+Arabic,328,M,A,07328&07169_B.txt,Voluntary simplicity,B,Su11wk8,1,29,2:37,2,2,2,1,1,1,1,1,1,4
+Arabic,83,M,B,07083&07183_B.txt,Voluntary simplicity,B,Su11wk8,1,30,2:35,2,2,2,1,2,1.5,1,1,1,4.5
+Arabic,183,M,A,07083&07183_B.txt,Voluntary simplicity,B,Su11wk8,1,30,2:35,2,2,2,1,2,1.5,1,1,1,4.5
+Arabic,188,M,A,07188&07276_B.txt,Voluntary simplicity,B,Su11wk8,1,31,3:25,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,276,M,B,07188&07276_B.txt,Voluntary simplicity,B,Su11wk8,1,31,3:25,2,2,2,2,2,2,3,2,2.5,6.5
+Arabic,77,M,B,07248&07077_B.txt,Voluntary simplicity,B,Su11wk8,1,32,3:16,3,3,3,3,2,2.5,2,3,2.5,8
+Arabic,248,M,A,07248&07077_B.txt,Voluntary simplicity,B,Su11wk8,1,32,3:16,3,3,3,3,2,2.5,2,3,2.5,8
+Arabic,520,F,B,07521&07520_B.txt,Voluntary simplicity,B,Su11wk8,1,33,3:13,2,3,2.5,3,2,2.5,3,3,3,8
+Arabic,521,M,A,07521&07520_B.txt,Voluntary simplicity,B,Su11wk8,1,33,3:13,2,3,2.5,3,2,2.5,3,3,3,8
+Arabic,429,M,B,07429&07596_B.txt,Voluntary simplicity,B,Su11wk8,1,34,3:13,1,2,1.5,1,1,1,2,1,1.5,4
+Arabic,596,M,A,07429&07596_B.txt,Voluntary simplicity,B,Su11wk8,1,34,3:13,1,2,1.5,1,1,1,2,1,1.5,4
+Arabic,259,M,A,07259&07385_B.txt,Voluntary simplicity,B,Su11wk8,1,35,3:17,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,385,M,B,07259&07385_B.txt,Voluntary simplicity,B,Su11wk8,1,35,3:17,2,3,2.5,2,2,2,2,2,2,6.5
+Arabic,206,M,A,07206&07202_B.txt,Voluntary simplicity,B,Su11wk8,1,36,3:10,2,2,2,2,2,2,2,2,2,6
+Arabic,212,M,B,07206&07202_B.txt,Voluntary simplicity,B,Su11wk8,1,36,3:10,2,2,2,2,2,2,2,2,2,6
+Arabic,165,M,B,24165&24191_S.txt,Workplace Monitoring,S,SP10wk15,3,1,3:03,4,4,4,3.5,4,3.75,2.5,3,2.75,10.5
+Arabic,191,M,A,24165&24191_S.txt,Workplace Monitoring,S,SP10wk15,3,1,3:03,4,4,4,3.5,4,3.75,2.5,3,2.75,10.5
+Arabic,192,M,B,24192&24343_S.txt,Workplace Monitoring,S,SP10wk15,3,2,3:06,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Arabic,343,M,A,24192&24343_S.txt,Workplace Monitoring,S,SP10wk15,3,2,3:06,3,3,3,3.5,3.5,3.5,3.5,3.5,3.5,10
+Chinese,577,F,A,24580&24577_S.txt,Workplace Monitoring,S,SP10wk15,3,3,3:09,4,4,4,4,3.5,3.75,3.5,3,3.25,11
+Chinese,580,M,B,24580&24577_S.txt,Workplace Monitoring,S,SP10wk15,3,3,3:09,4,4,4,4,3.5,3.75,3.5,3,3.25,11
+Chinese,417,F,A,24417&24543_S.txt,Workplace Monitoring,S,SP10wk15,3,4,3:13,3,3,3,3.5,3,3.25,3,3,3,9.25
+Chinese,543,M,B,24417&24543_S.txt,Workplace Monitoring,S,SP10wk15,3,4,3:13,3,3,3,3.5,3,3.25,3,3,3,9.25
+Chinese,355,M,A,24560&24355_S.txt,Workplace Monitoring,S,SP10wk15,3,5,2:59,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Chinese,560,M,B,24560&24355_S.txt,Workplace Monitoring,S,SP10wk15,3,5,2:59,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Arabic,91,M,B,24091&24148_S.txt,Workplace Monitoring,S,SP10wk15,3,6,3:11,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Arabic,148,M,A,24091&24148_S.txt,Workplace Monitoring,S,SP10wk15,3,6,3:11,4,4,4,3.5,4,3.75,3.5,3.5,3.5,11.25
+Arabic,54,M,A,24054&24534_S.txt,Workplace Monitoring,S,SP10wk15,3,7,3:02,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Chinese,534,M,B,24054&24534_S.txt,Workplace Monitoring,S,SP10wk15,3,7,3:02,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3,3.25,10.25
+Japanese,410,F,B,24410&24433_S.txt,Workplace Monitoring,S,SP10wk15,3,8,2:55,3.5,3,3.25,3.5,3.5,3.5,3,3,3,9.75
+Japanese,433,F,A,24410&24433_S.txt,Workplace Monitoring,S,SP10wk15,3,8,2:55,3.5,3,3.25,3.5,3.5,3.5,3,3,3,9.75
+Arabic,234,M,B,24234&24297_S.txt,Workplace Monitoring,S,SP10wk15,3,9,2:57,4,3.5,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Arabic,297,M,A,24234&24297_S.txt,Workplace Monitoring,S,SP10wk15,3,9,2:57,4,3.5,3.75,3.5,3.5,3.5,3.5,3.5,3.5,10.75
+Chinese,360,M,B,24360&24438_S.txt,Workplace Monitoring,S,SP10wk15,3,10,2:49,4,4,4,3.5,4,3.75,4,3.5,3.75,11.5
+Chinese,438,M,A,24360&24438_S.txt,Workplace Monitoring,S,SP10wk15,3,10,2:49,4,4,4,3.5,4,3.75,4,3.5,3.75,11.5
+Chinese,404,F,A,24404&24586_S.txt,Workplace Monitoring,S,SP10wk15,3,11,2:32,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Chinese,586,M,B,24404&24586_S.txt,Workplace Monitoring,S,SP10wk15,3,11,2:32,4,4,4,3.5,3.5,3.5,3.5,3.5,3.5,11
+Chinese,416,M,A,24450&24416_S.txt,Workplace Monitoring,S,SP10wk15,3,12,3:17,3.5,3,3.25,3.5,3.5,3.5,3,3.5,3.25,10
+Chinese,450,M,B,24450&24416_S.txt,Workplace Monitoring,S,SP10wk15,3,12,3:17,3.5,3,3.25,3.5,3.5,3.5,3,3.5,3.25,10
+Japanese,485,F,A,24485&24585_S.txt,Workplace Monitoring,S,SU10wk10,3,13,3:13,4,4,4,3,3,3,3,3,3,10
+Chinese,555,M,B,24585&24555_S.txt,Workplace Monitoring,S,SU10wk11,3,13,3:13,4,4,4,3,3,3,3,3,3,10
+Arabic,148,M,B,24565&24148_S.txt,Workplace Monitoring,S,SU10wk12,3,14,2:59,4,4,4,4,3,3.5,4,4,4,11.5
+Chinese,565,M,A,24565&24148_S.txt,Workplace Monitoring,S,SU10wk13,3,14,2:59,5,5,5,4,3,3.5,4,4,4,12.5
+Chinese,399,M,B,24600&24399_S.txt,Workplace Monitoring,S,SU10wk14,3,15,3:01,5,4,4.5,4,3,3.5,4,4,4,12
+Arabic,600,M,A,24600&24399_S.txt,Workplace Monitoring,S,SU10wk15,3,15,3:01,4,5,4.5,4,3,3.5,4,4,4,12

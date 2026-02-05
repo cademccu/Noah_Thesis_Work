@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+if (( $# == 2 )); then
+    cat CCOT_files_and_scores.csv | grep $1 | grep $2
+else
+    cat CCOT_files_and_scores.csv | grep $1 
+fi
+
+
+
+

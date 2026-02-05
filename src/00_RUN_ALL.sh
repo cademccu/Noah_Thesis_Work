@@ -33,6 +33,14 @@ echo "Running: 01_CLEAN_FILES/03_special_cases.py"
 python3 03_special_cases.py
 echo "Done!"
 
+echo "Running: 01_CLEAN_FILES/04_fix_csv_file.py"
+python3 04_fix_csv_file.py
+echo "Done!"
+
+echo "Running: 01_CLEAN_FILES/05_remove_undocumented_files.py"
+python3 05_remove_undocumented_files.py
+echo "Done!"
+
 cd ..
 
 cd 02_RUN_SPACY

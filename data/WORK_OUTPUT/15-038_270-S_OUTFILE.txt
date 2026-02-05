@@ -244,3 +244,6 @@ A270:  Thank you, bye bye.
 ===== FRAG COUNT B038 [ISFRAG_MissingFiniteVerb_or_MissingSubject] | 4
 ===== FRAG COUNT B038 [ISFRAG_MissingFiniteVerb]                   | 2
 ===== FRAG COUNT B038 [ISFRAG_MissingSubject]                      | 4
+##### FRAGMENTS_ALL | Ohh my god$Don't don't-uh tell him don't do that$Yeah a lot of drunk people$Uh hi B$Yeah okay, okay$Thank you, bye bye$Okay thank you, A
+##### FRAGMENTS_ALL A270 | Thank you, bye bye$Uh hi B$Yeah okay, okay
+##### FRAGMENTS_ALL B038 | Ohh my god$Yeah a lot of drunk people$Don't don't-uh tell him don't do that$Okay thank you, A

@@ -47,7 +47,10 @@ with open(path_to_excel_csv, "rt") as f:
             "id": id_,
             "convo_type" : type_id,
             "level": line[8],
-            "col_average": str(ceil(float(line[13])))
+            "col_average": str(ceil(float(line[13]))),
+            "PT_col_R1": line[11],
+            "PT_col_R2": line[12],
+            "id_original_file": line[4]
         })
 
         line = f.readline()

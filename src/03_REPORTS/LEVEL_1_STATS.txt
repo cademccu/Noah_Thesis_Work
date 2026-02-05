@@ -1,13 +1,13 @@
-LINE COUNT                                               4844
-CHUNK/SENTENCE                                           9872
-FORMULAIC COUNT                                          1527
-FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  816
-FRAG COUNT [ISFRAG_MissingFiniteVerb]                    594
-FRAG COUNT [ISFRAG_MissingSubject]                       732
+LINE COUNT                                               4834
+CHUNK/SENTENCE                                           9836
+FORMULAIC COUNT                                          1524
+FRAG COUNT [ISFRAG_MissingFiniteVerb_or_MissingSubject]  813
+FRAG COUNT [ISFRAG_MissingFiniteVerb]                    591
+FRAG COUNT [ISFRAG_MissingSubject]                       729
 
 
 MATCHING FILES & MATCHING ID:
-num files: 717
+num files: 715
 -----------------------------
 02-010_172-C_OUTFILE.txt | 010
 02-010_172-C_OUTFILE.txt | 172
@@ -413,8 +413,6 @@ num files: 717
 05-203_273-A_OUTFILE.txt | 203
 05-207_415-D_OUTFILE.txt | 207
 05-207_415-D_OUTFILE.txt | 415
-05-212_206-C_OUTFILE.txt | 206
-05-212_206-C_OUTFILE.txt | 212
 05-222_105-A_OUTFILE.txt | 105
 05-222_105-A_OUTFILE.txt | 222
 05-224_153-B_OUTFILE.txt | 153
@@ -729,7 +727,7 @@ num files: 717
 
 
 ALL FRAGMENTS AND FORMULAICS:
-total count: 2253
+total count: 2247
 -----------------------------
 Oh, teenager?
 Thank you
@@ -786,14 +784,14 @@ Oh cool
 Yeah cool
 I uh I if you-we uh I always every weekend uh uh run uh at least one hour
 Oh cool
-Oh thank you brother
 The
+Oh thank you brother
 Sorry?
 Oh oh
 Good
 Ah so you also huh so you so you also using uh Gillette uh razors
-Yeah so uh make you good we-uh uh look good, sorry
 So uh uh
+Yeah so uh make you good we-uh uh look good, sorry
 Yeah
 Machine
 Yes
@@ -813,8 +811,8 @@ Nice to meet you
 Mm-hmm, why?
 Uh-huh
 Cause
-That's good
 Uh okay
+That's good
 And uh spend uh the money
 And uh make a bad smell
 Why?
@@ -828,8 +826,8 @@ This the best sport drink in the world
 You know?
 You know?
 Yeah
-Yeah
 And any sport uh any supermarket
+Yeah
 Let's go
 Oh ok
 Yeah
@@ -968,9 +966,9 @@ Uh
 Huh?
 Let's start story about NTA
 Yeah
-Uh… so… the smoking just bring a lot of disease
 Now your choice to leave the smoking
 just uh let's leave the smoking
+Uh… so… the smoking just bring a lot of disease
 say let's leave the smoking
 Yeah
 Okay
@@ -986,8 +984,8 @@ Hello dad
 Thirty years?
 Please
 and
-Thank you dad
 Bad for health, yeah
+Thank you dad
 Uh the memory uh 8
 Uh thank you
 Thank you
@@ -995,8 +993,8 @@ What about B NTA?
 Okay, thank you
 Hi A
 And a small memory card for uh two mega
-You s
 Yeah uh, hi B
+You s
 Yeah
 Okay, thank you
 Just come with me
@@ -1071,15 +1069,15 @@ Okay how about the photography?
 Yeah
 Yeah
 Okay
-Thank you B
 Okay
+Thank you B
 Yes of course
 Yes
 In all the pharmacies in the United States
 Thank you
 Take care
-Thank you so much uh for uh help me
 Uh okay
+Thank you so much uh for uh help me
 Call now and buy it
 Thank you very much
 Call now, 999999
@@ -1132,22 +1130,22 @@ And they and the they one time two time
 Yeah one packet in one day
 Ugh
 No
-This tablet for
 Champix
+This tablet for
 Quit smoking
 Thank you
 Uh hi A
 Uh hi B
-Thank you very much
 Okay
+Thank you very much
 Take some picture about nature and
 It's milk
 Uh how about picture four?
 Camera
 Yes the picture of a camera, maybe uh camera advertisement
 Yeah me too agree with you
-Uh okay
 Let's go to buy that
+Uh okay
 Don't
 It's good
 Let's buy this drink
@@ -1169,8 +1167,8 @@ Oh
 Okay, the be-uh print the paper?
 You too
 Yeah
-Thanks
 Uh okay
+Thanks
 Uh… uh how much uh did uh about this camera?
 Two hundred dollars?
 Uh and uh
@@ -1193,8 +1191,8 @@ NTA
 Oh really?
 Okay
 Oh really?
-Goodbye
 Okay
+Goodbye
 Hi
 Hmm six zoom
 More than uh six zoom and and out
@@ -1310,8 +1308,8 @@ Yeah
 Thank you very much
 Thank you
 Thank you
-3
 Listening and speaking level 3 section A task three point-or 2
+3
 Ok thank you
 Suggest
 Yeah
@@ -1319,8 +1317,8 @@ Yeah
 Suggest
 And uh and uh the second uh go the uh in in her group
 Good
-Thank you
 Ok
+Thank you
 Yeah but the time everything every
 Yeah
 Yeah, absolutely
@@ -1370,8 +1368,8 @@ Uh
 Yeah
 Welcome
 Thank you so much
-Uh he can't sp-uh he can't speak very fast uh maybe his uh teacher in uh in university uh his can't uh understart-understand him
 What about you?
+Uh he can't sp-uh he can't speak very fast uh maybe his uh teacher in uh in university uh his can't uh understart-understand him
 Thank you
 Yeah okay
 Thank you so much my friend
@@ -1388,8 +1386,8 @@ And uh… uh read a lot and
 Practice
 Yeah exactly
 You're welcome
-Uh yeah
 S
+Uh yeah
 See you
 Good luck Chen
 Yeah
@@ -1416,8 +1414,8 @@ Bye
 Uh
 Yes
 Uh
-Uh and uh how about you?
 Uh yes
+Uh and uh how about you?
 Bye
 Uh ys
 Uh today we talking about uh Chen problem
@@ -1429,9 +1427,9 @@ Why?
 Uh uh what about his accent?
 Maybe is about accent in the street or but in the tone
 Yeah
+Ok
 Thanks
 Ah
-Ok
 Uh today we talking about uh Chen problem
 Because his accent
 Yeah
@@ -1458,11 +1456,11 @@ Thanks
 Yeah thank you so much
 Ok
 Ok
-Ok cool
 Ok let's go uh Chen and tell him my uh…opinion
+Ok cool
 Ok, thank you
-Ok cool
 Ok let's go uh Chen and tell him my uh…opinion
+Ok cool
 Ok, thank you
 Oh, cool
 Ok
@@ -1471,8 +1469,8 @@ Uh B
 He can't go in the university
 Yeah
 Yeah, the student board
-Thank you uh Mr
 B
+Thank you uh Mr
 Yeah
 Yes
 Yeah
@@ -1572,8 +1570,8 @@ Why?
 Think about what?
 Oh
 Uh and
-Thank you
 Bye
+Thank you
 Hello B
 Good
 Yeah
@@ -1592,16 +1590,16 @@ Why?
 Think about what?
 Oh
 Uh and
-Thank you
 Bye
+Thank you
 Hi A
 Why?
 Yeah
 Okay thank you
 See you later
 Don't be use slang with me
-See you
 Thank you
+See you
 Hi A
 Why?
 Yeah
@@ -1620,25 +1618,25 @@ Yeah
 Ok
 Fine
 How about you?
-Have a good day
 Okay A thank you
+Have a good day
 I'm good
 Uh okay
 What about you?
-I'm agree
 Thank you so much
+I'm agree
 Just that
 Hi A
-What about you?
 I'm fine
+What about you?
 Uh what?
 Yeah
 Yes
 Yeah
 I
 Hi A
-What about you?
 I'm fine
+What about you?
 Uh what?
 Yeah
 Yes
@@ -1649,8 +1647,8 @@ maybe
 uh huh
 Yeah yeah is right
 Hi A
-What about you?
 I'm fine
+What about you?
 Uh what?
 Yeah
 Yes
@@ -1664,9 +1662,9 @@ Level 3 uh test 2
 3
 See you
 Yeah
-Don't worry about it
-Plan to speak
 Yeah and watch uh watching mo – English movie and listening English song
+Plan to speak
+Don't worry about it
 Right
 Sounds great
 Help him change the incorrect
@@ -1676,15 +1674,15 @@ Thank you very much
 Uh, Ok
 Thank you very much
 Thank you
-m
 until five p
 m
 until five p
+m
 Ok
 Mm, hmm
 Our patient
-You're welcome
 Bye-bye
+You're welcome
 So because that
 Thank you man
 Thanks doctor
@@ -1693,10 +1691,10 @@ He's graduate student
 What about your patient?
 Thank you
 What about your uh patient?
-What about your uh patient
 Okay my patient NTA fat
-m
+What about your uh patient
 and uh seven a
+m
 until seven a
 m
 Okay thank you
@@ -1720,25 +1718,25 @@ What's up?
 Oh
 Oh, oh yeah
 Ah, ok
-A
 Ok
 Thank you Dr
+A
 Yeah
 That bad for him
-Umm
 That's horrible
+Umm
 Yeah
 Yeah
-B
 Thank you Dr
+B
 She
 Thank you
-m
 until five p
+m
 Uh-huh okay cool
 Okay thank you
-m
 until five p
+m
 Uh-huh okay cool
 Okay thank you
 Uh hi A
@@ -1767,21 +1765,19 @@ Uh, ok uh can go the exercise on gym
 Uh…
 Very good
 Thank you very much
+m
 until five a
 Uh huh
-m
 Thank a lot-thanks a lot
-m
 until five p
+m
 Thank you
-m
 until five p
+m
 Thank you
 Thank you
 Ok
 Ok no problem
-Thank you
-And also easy to meet, to make uh fast food and … cheap so like McDonalds and … KFC … cheaper fast food in America
 Ok
 Thank you
 And also easy to meet, to make uh fast food and … cheap so like McDonalds and … KFC … cheaper fast food in America
@@ -1789,15 +1785,17 @@ Ok
 Thank you
 And also easy to meet, to make uh fast food and … cheap so like McDonalds and … KFC … cheaper fast food in America
 Ok
-Talk about yours
+Thank you
+And also easy to meet, to make uh fast food and … cheap so like McDonalds and … KFC … cheaper fast food in America
 Yes
+Talk about yours
 Cardiovascular
 Let's talk first about the Geoff
 Uh, ok
 And uh … sleep only 4 hours
 Yes
-Talk about yours
 Yes
+Talk about yours
 Cardiovascular
 Let's talk first about the Geoff
 Uh, ok
@@ -1809,8 +1807,8 @@ Uh today B and NTA we uh we going to talk about our patient our problem for our 
 Uh-huh
 Uh-huh
 Ok, thank you
-m
 until seven p
+m
 Okay thank you
 Yeah
 Maybe
@@ -1818,14 +1816,14 @@ Actually his own diet but just doesn't lose his weight
 Okay thank you
 m
 Thank you
-m
 until five p
+m
 How about you?
 Uh yeah okay thank you
 I disagree
 Really?
-m
 and until seven p
+m
 I know
 Okay thank you for your opinion
 What about your patient?
@@ -1844,8 +1842,8 @@ Yeah because …
 Hi
 And his obesity running in his, her family
 Ok
-Heart disease?
 Wow
+Heart disease?
 Ok
 Yeah
 - uh ok
@@ -1856,8 +1854,8 @@ Geoff
 Ok
 - Oh, ok
 Ok
-Uh pas – speaker… uh task 1
 My name's A
+Uh pas – speaker… uh task 1
 Ok
 Yeah
 Ok
@@ -1867,12 +1865,12 @@ Yes, yes yes
 Eat healthy food and take care of her
 Thank you
 m
-Thank you
 Goodbye
+Thank you
 I'm good
 Jack
-Right
 Ok uh
+Right
 Uh why?
 What about you?
 But that
@@ -1892,13 +1890,13 @@ Yeah, right but…otherwise at hi-in his family uh NTA help him
 Also sits at desk all day
 Ok
 Thank you
-m
 until five p
 m
 until five p
+m
 Uh thank you so much, B
-Very good
 What about you?
+Very good
 Yeah
 Thank you, A
 Uh obesity uh obesity runs uh in his family
@@ -1911,15 +1909,15 @@ Let's go with the Jack
 Ok, thanks
 Let's go with the Jack
 I agree
-What about you?
 Obs – obesity run in her family
+What about you?
 Uh… she uh … she can't stop eat uh from vending machine
-What about you?
 Obs – obesity run in her family
+What about you?
 Uh… she uh … she can't stop eat uh from vending machine
 I agree
-What about you?
 Obs – obesity run in her family
+What about you?
 Uh… she uh … she can't stop eat uh from vending machine
 Thank you
 Thank you
@@ -1932,34 +1930,34 @@ Okay
 Uh-huh
 Thank you A, thank you
 One of my patient
-m
 to until seven p
+m
 Thank you very much
 Uh
 Ok
 Oh, ok
 Ok?
-Hi
 Uh
+Hi
 There is uh Ju – Jucqueline – Jacqueline
 So
 So … so yeah
 Yeah, for sure
 Yeah
-Yeah
 That's all
 Thank you guys
-m
+Yeah
 until seven p
+m
 Thank you
-m
 until seven p
+m
 Thank you
 Okay
 Okay thanks
 Thank you so much
-m
 until seven p
+m
 Thank you so much
 Thank you so much
 And uh
@@ -1982,9 +1980,9 @@ Ok
 He just four hours sleep
 With Jack
 Okay
-How about you?
 m
 until five p
+How about you?
 Uh she obesity runs in her family
 Why?
 Uh
@@ -1994,12 +1992,6 @@ He
 Go to the healthy centre?
 m
 m
-Uh … 3
-Uh-
-1
-Uh actually, gain 20 pound
-Yeah, also Jacqueline
-Oh, cool
 What about you uh patient?
 ‘til five p
 m
@@ -2039,8 +2031,8 @@ Yeah
 Obvious –uh obviously obesity runs in his family
 And and…eat more fruits and vegetables and more uh… between…a-and office and not sit at the desk all the time
 Uh also uh she blu-obesity uh runs in the uh her family
-m
 until uh uh five p
+m
 Yeah
 What about you?
 Oh
@@ -2074,8 +2066,8 @@ There are uh many member on his, in his family has obesity
 - center
 Yeah
 Maybe
-m
 From seven o'clock am until 12:00a
+m
 Yeah
 Yeah uh my patient her name uh Cindy
 Uh yeah? How about your patient?
@@ -2139,8 +2131,8 @@ Geoff also
 What about Jacqueline?
 Ah ha
 Ok
-Bye
 Thank you A
+Bye
 Uh hi
 Cindy
 Is not good
@@ -2159,8 +2151,8 @@ I'm B
 m
 That's all
 Thank you
-m
 until five p
+m
 That's it
 Yeah, yeah yeah
 Yes
@@ -2168,19 +2160,19 @@ What uh excuse me what his problem?
 Oh, my God
 Thank
 My patient her named Joe
-m
-on weekends
 until 7:00a
+on weekends
+m
 until six p
 m
 Uh
-m
 until seven p
+m
 It's okay
 Thank you, B
 Uh
-m
 until seven p
+m
 It's okay
 Thank you, B
 Okay thank you, A
@@ -2222,16 +2214,16 @@ Yeah
 And not just that
 And three times a day
 Uh what about you?
-Thir-thirdly uh do more do more exercise as much as uh he can
 The second to not sit at his desk for long hours every day
--uh seven p
+Thir-thirdly uh do more do more exercise as much as uh he can
 until seven a
+-uh seven p
 m
 Uh what about you?
-Thir-thirdly uh do more do more exercise as much as uh he can
 The second to not sit at his desk for long hours every day
--uh seven p
+Thir-thirdly uh do more do more exercise as much as uh he can
 until seven a
+-uh seven p
 m
 That's all
 And
@@ -2257,8 +2249,8 @@ Uh uh
 Mm hmm
 Alright
 m
-to 7:00p
 m
+to 7:00p
 m
 Mm hmm
 Mm hmm
@@ -2273,8 +2265,8 @@ Uh uh
 Mm hmm
 Alright
 m
-to 7:00p
 m
+to 7:00p
 And
 Yeah
 Uh, everyday more than… maybe more than one hour or two hours
@@ -2295,13 +2287,13 @@ Alright
 So… your patient
 Ah hah
 Yeah
-Uh huh
 So -
+Uh huh
 Yeah
 - Jacqueline, so… Geoff uh must uh hospital uh, uh take care for them
 Task 1
-- His name's Geoff
 How about your patient, A?
+- His name's Geoff
 Oh, really?
 Oh same
 Yeah
@@ -2309,39 +2301,39 @@ Yes
 Yeah
 Yeah
 Um, thank you
-Okay…do you…what do… stop?
 until 7a –p
 m
+Okay…do you…what do… stop?
 I'm sorry
+m
 to 7:00p
-m
 He always been at least 25 pounds overweight
-until five a
 m
+until five a
 So
 m
 Okay
 His name Lou
 Thank you so much
 Bye
-until five a
 m
+until five a
 So
 m
 Okay
 How about your opinion?
 That's it
-until uh –from 8:00 a
 and after that go to library to study until 12:00 am –p
+until uh –from 8:00 a
 m
 until 7:00 p
 Ok, thanks
 Thank you
 Melia?
-8:00a
 , 8:00a
-m
 to?
+m
+8:00a
 m
 7:00p
 until 7:00p
@@ -2354,28 +2346,28 @@ Yeah!
 Yeah
 Yes
 Or his weight
-m
 until seven p
+m
 Uh hi uh
 What about yours?
 Oh!
 Yeah
+everyday
 until 7:00p
 m
-everyday
 Yeah
 Hello
 Oh yeah
-Yeah? What about uh history of your uh patient?
 Ok, and this ob –obesity obesity runs in his family in their history
+Yeah? What about uh history of your uh patient?
 Ah
 Oh
 Mm
 Uh huh
 Okay
+She obesity-hm she obesity runs in her family
 until five p
 m
-She obesity-hm she obesity runs in her family
 Uh to make her lose weight
 I agree
 m
@@ -2403,9 +2395,9 @@ How about your patient?
 Jackie
 Uh uh, why?
 All right thank you
-until 7:00 p
-m
 That good things
+m
+until 7:00 p
 Thank you very much
 What about Melia?
 Thank you
@@ -2445,8 +2437,8 @@ Mm, hmm, fine
 Fifteen? Fifteen pounds?
 Yeah
 Yeah
-Mm, hmm
 Do you
+Mm, hmm
 Mm hmm?
 Mm, hmm
 Mm, hmm
@@ -2488,47 +2480,47 @@ Mmhmm
 Yeah
 B
 Hi Dr
-m
 until seven p
+m
 Thank you
 A
 Hi Dr
 Oh
-A
 Okay thank you Mr
 ADr
+A
 A
 Hi Dr
 Oh
-A
 Okay thank you Mr
 ADr
 A
 Uh, student A
-Task 1
-What about you?
-Uh, ok
-What about … you?
-B
-Uh, student B
-What about you?
-Ok
-What uh what about uh /Jennifer/?
-Ok, what about uh Jacqueline?
-Ok
 A
-Uh, student A
 Task 1
 What about you?
 Uh, ok
 What about … you?
-B
 Uh, student B
+B
+Ok
 What about you?
-Ok
 What uh what about uh /Jennifer/?
-Ok, what about uh Jacqueline?
 Ok
+Ok, what about uh Jacqueline?
+Uh, student A
+A
+Task 1
+What about you?
+Uh, ok
+What about … you?
+Uh, student B
+B
+Ok
+What about you?
+What uh what about uh /Jennifer/?
+Ok
+Ok, what about uh Jacqueline?
 m
 uh
 m
@@ -2554,8 +2546,8 @@ At at his desk for every day
 Yeah
 Uh
 Really?
-m
 to seven p
+m
 To stop this problem or
 Alright
 Vegetables
@@ -2571,14 +2563,14 @@ m
 Yes
 Own?
 Yes
-m
 She studying hard from 8:00a
 until seven p
 m
+m
 Uh, okay
 So
-m
 uh until five p
+m
 So
 So
 Okay hello B
@@ -2598,8 +2590,8 @@ Yeah
 Yeah
 Graffiti
 Graffiti
-Should make law
 Yeah
+Should make law
 United States
 Uh huh
 Yeah
@@ -2619,12 +2611,12 @@ Yeah
 Thank you
 Yeah
 Ok
-Thanks
-Ok
 That's it
+Ok
+Thanks
 Yeah
-Hi B
 There are several reasons for the criminal
+Hi B
 Yeah
 Yeah
 Thank you
@@ -2657,8 +2649,8 @@ Okay, thank you
 Oh, the government president
 Yeah
 Felah
-Yeah yeah
 On the on Level 4 on the Level 4, 5
+Yeah yeah
 And has a lot friends from other NAU departments
 Okay, let's-
 Uh, the Task 1
@@ -2701,8 +2693,8 @@ Really?
 Twenty-five hours
 Yeah, okay
 Okay, thank you
-Hi B
 Uh today uh about the cana-candidates uh me and my uh partner B
+Hi B
 What about you B?
 Okay thank you B
 Uh-huh
@@ -2722,8 +2714,8 @@ Okay, thank you
 Oh really? That interesting thing
 Also free courses books
 Okay, thank you
-Thank you so much
 Okay then so we'll go with Felah then
+Thank you so much
 uh uh about the relationship with another student from another university so…
 good…
 Okay thank you
@@ -2736,8 +2728,8 @@ Okay, thank you
 What about the, uh his uh promises?
 What about the his plan?
 Yeah Maria uh uh say about a new chairs in PIE, and student… break room
-Yeah, but uh Maria, uh her plan in the future, open an international restaurant at NAU
 Problem
+Yeah, but uh Maria, uh her plan in the future, open an international restaurant at NAU
 Okay, thank you
 Uh-huh, but uh there is no fun
 Both
@@ -2819,8 +2811,8 @@ Okay
 Thank you
 Fine, how about you?
 Uh let's talking about candidates in PIE
-Uh let me explain what Felah doing in classes
 Okay, cool
+Uh let me explain what Felah doing in classes
 Yeah
 Okay, so talk about your
 I'm fine
@@ -2862,25 +2854,25 @@ B
 Thank you
 Okay
 Okay
-Okay, B
 Okay
-Intelligent, uh and uh organized
+Okay, B
 What about Bill?
+Intelligent, uh and uh organized
 Yeah
 Woo hoo! Thank you
 Huh?
 Intelligent
-Okay, B
 Okay
-Intelligent, uh and uh organized
+Okay, B
 What about Bill?
+Intelligent, uh and uh organized
 Yeah
 Woo hoo! Thank you
-1 Speaking, my name A
 4
+1 Speaking, my name A
 Hi B
-1 Speaking, my name A
 4
+1 Speaking, my name A
 Hi B
 And uh, hi A
 Okay and uh Felah uh promise to get the PIE involved in uh different university organizer

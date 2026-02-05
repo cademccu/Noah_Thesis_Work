@@ -1,0 +1,32 @@
+First: 013, second: 431, type: 02, filename: 02-013_431-B_OUTFILE.txt, id_match: null   
+First: 291, second: 466, type: 02, filename: 02-291_466-B_OUTFILE.txt, id_match: null   
+First: 282, second: 275, type: 04, filename: 04-282_275-B_OUTFILE.txt, id_match: null   
+First: 594, second: 228, type: 04, filename: 04-594_228-A_OUTFILE.txt, id_match: null   
+First: 499, second: 079, type: 05, filename: 05-499_079-C_OUTFILE.txt, id_match: null   
+First: 206, second: 212, type: 07, filename: 07-206_212-B_OUTFILE.txt, id_match: null   
+First: 556, second: 322, type: 08, filename: 08-556_322-S_OUTFILE.txt, id_match: null   
+First: 030, second: 471, type: 09, filename: 09-030_471-S_OUTFILE.txt, id_match: null   
+First: 354, second: 453, type: 09, filename: 09-354_453-S_OUTFILE.txt, id_match: null   
+First: 068, second: 171, type: 16, filename: 16-068_171-S_OUTFILE.txt, id_match: null   
+First: 103, second: 137, type: 16, filename: 16-103_137-S_OUTFILE.txt, id_match: null   
+First: 161, second: 340, type: 16, filename: 16-161_340-S_OUTFILE.txt, id_match: null   
+First: 182, second: 084, type: 16, filename: 16-182_084-S_OUTFILE.txt, id_match: null   
+First: 185, second: 466, type: 16, filename: 16-185_466-S_OUTFILE.txt, id_match: null   
+First: 314, second: 483, type: 16, filename: 16-314_483-S_OUTFILE.txt, id_match: null   
+First: 320, second: 235, type: 16, filename: 16-320_235-S_OUTFILE.txt, id_match: null   
+First: 376, second: 380, type: 18, filename: 18-376_380-S_OUTFILE.txt, id_match: 18376&18380_S.txt   MULTIPLE_MATCHES_FOUND
+First: 380, second: 376, type: 18, filename: 18-380_376-S_OUTFILE.txt, id_match: 18376&18380_S.txt   MULTIPLE_MATCHES_FOUND
+First: 573, second: 399, type: 20, filename: 20-573_399-A_OUTFILE.txt, id_match: null   
+First: 230, second: 229, type: 22, filename: 22-230_229-S_OUTFILE.txt, id_match: null   
+First: 298, second: 071, type: 22, filename: 22-298_071-S_OUTFILE.txt, id_match: null   
+First: 042, second: 482, type: 23, filename: 23-042_482-A_OUTFILE.txt, id_match: null   
+First: 319, second: 152, type: 23, filename: 23-319_152-B_OUTFILE.txt, id_match: null   
+First: 485, second: 555, type: 24, filename: 24-485_555-S_OUTFILE.txt, id_match: null   
+
+
+
+
+First: 162, second: 058, type: 02, filename: 02-162_058-A_OUTFILE.txt, id_match: null
+First: 282, second: 275, type: 02, filename: 02-282_275-B_OUTFILE.txt, id_match: null
+First: 212, second: 206, type: 05, filename: 05-212_206-C_OUTFILE.txt, id_match: null
+First: 485, second: 555, type: 24, filename: 24-485_555-S_OUTFILE.txt, id_match: null
