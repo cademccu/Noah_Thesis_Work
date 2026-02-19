@@ -196,18 +196,16 @@ def stats_file(outfile_name):
                 if line[0].strip().startswith("CHUNK/SENTENCE COUNT B"):
                     sentence_count_B += int(line[1].strip())
                     num_B = line[0].strip().split(" ")[2]
-            """
             # no clue why this only gets one of them? 
-            if re.match(r"CHUNK\/SENTENCE\sCOUNT\s[AB]{1}" + criteria["id"], line[0].strip()):
-                if re.match(r"CHUNK\/SENTENCE\sCOUNT\s[A]{1}" + criteria["id"], line[0].strip()):
-                    sentence_count_A += int(line[1].strip())
-                    num_A = line[0].strip().split(" ")[2]
-                    print("A",sentence_count_A)
-                elif re.match(r"CHUNK\/SENTENCE\sCOUNT\s[B]{1}" + criteria["id"], line[0].strip()):
-                    sentence_count_B += int(line[1].strip())
-                    num_B = line[0].strip().split(" ")[2]
-                    print("B",sentence_count_B)
-            """
+            #if re.match(r"CHUNK\/SENTENCE\sCOUNT\s[AB]{1}" + criteria["id"], line[0].strip()):
+            #    if re.match(r"CHUNK\/SENTENCE\sCOUNT\s[A]{1}" + criteria["id"], line[0].strip()):
+            #        sentence_count_A += int(line[1].strip())
+            #        num_A = line[0].strip().split(" ")[2]
+            #        print("A",sentence_count_A)
+            #    elif re.match(r"CHUNK\/SENTENCE\sCOUNT\s[B]{1}" + criteria["id"], line[0].strip()):
+            #        sentence_count_B += int(line[1].strip())
+            #        num_B = line[0].strip().split(" ")[2]
+            #        print("B",sentence_count_B)
 
             line = f.readline()
 
@@ -275,7 +273,7 @@ def stats_file(outfile_name):
         third_line = ("," * 13) + "{}" + ",\n"
         fourth_line = ("," * 14) + "{}" + "\n"
 
-        print("count: ", sentence_count_A, sentence_count_B)
+        #print("count: ", sentence_count_A, sentence_count_B)
 
         outfile_stats.write(first_line.format(
             id_,

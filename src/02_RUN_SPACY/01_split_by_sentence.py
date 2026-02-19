@@ -129,10 +129,13 @@ def _parse_file(infile, outfile, chunker, criteria_list, formulaic_chunks_dict):
             # if the chunk is 'formulaic', we don't even want to check.
             if is_formulaic(chunk):
                 formulaic_chunks.append(chunk)
+                fragment_list_all.append(chunk) # keep list of all fragments for metadata
                 if line[0] == "A":
                     formulaic_chunks_A.append(chunk)
+                    fragment_list_all_A.append(chunk) # keep list of all fragments for metadata
                 else: # B
                     formulaic_chunks_B.append(chunk)
+                    fragment_list_all_B.append(chunk) # keep list of all fragments for metadata
                 continue
 
             doc = nlp(chunk)
